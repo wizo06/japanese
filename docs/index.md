@@ -19,10 +19,14 @@ Hiragana, Katakana, Kanji. Refer to [TheMoeWay](https://learnjapanese.moe/guide/
 
 ### 2. Learning pitch accent
 
-High and low pitches. Refer to [Dogen's video](https://youtu.be/O6AoilGEers).
+High and low pitches. Learn about them here: [Dogen's video](https://youtu.be/O6AoilGEers).
+
+On a side note, [here](https://youtu.be/XE5M-MP5ngg) is a fun video where a native speaker (Kaz) nitpicks Dogen's pitch-accent.
 
 When I say "learn pitch accent", I don't necessarily mean that you have to memorize all the pitch accent patterns and rules. All you need to do for now during your beginning stage, is to be **aware** that pitch accent exists. Once you're aware that it exists, it will be a lot easier to notice them moving forward. You can use the [OJAD website](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index) to look up a particular pitch-accent pattern of any word or sentence (it doesn't give you the correct pitch-accent pattern all the time, but it works well 99.9% of the time), or use the [FORVO website](https://forvo.com/) to listen to native speakers pronounce a particular word.
 
 ### 3. Learning grammar
 
-This is where this guide comes in. I've compiled most of the knowledge I've learned from various sources into this guide. I will include as many example sentences as I can for each grammar point, but I would only use sentences that a native speaker would say, so that you can get an idea of **how** native speakers use those grammars. I will start using Kanji right from the beginning of this guide, but I will also include how to pronounce it in parenthesis.
+This is where this guide comes in. I've compiled most of the knowledge I've learned from various sources into this guide. I will include as many example sentences as I can for each grammar point, but I will try to only use sentences that a native speaker would say, so that you can get an idea of **how** native speakers actually use those grammars. That being said, just like in any other language, even native speakers can say things wrongly (grammatically). Of course, this can be intentional, simply because they want to say it in a funnier way, or say it shorter, or making an emphasis, etc. However, I still believe that learning how things are said properly and correctly is important. 
+
+**“Learn the rules like a pro, so you can break them like an artist.”** - Pablo Picasso
