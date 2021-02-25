@@ -1,3 +1,5 @@
 site_name: Japanese Grammar
 theme:
   name: material
+  font:
+    text: Noto Sans JP
