@@ -28,7 +28,6 @@ Now that we know what grammar is, let's answer the question **why should you lea
 However, grammar will not necessarily improve your output. In fact, more likely than not, it will harm your output in ways you don't expect (especially during early stages of acquiring a language), such as building bad habits of saying things in an unnatural way (even if it's grammatically correct). For more details about output, refer to [TheMoeWay](https://learnjapanese.moe/speaking/#heres-why-it-may-be-a-good-idea-talking-to-natives) and/or [Refold](https://refold.la/roadmap).
 
 **Ok, I'm ready to start *learning*. Where do I start from?**  
-Let's look at the 4 steps below.
 
 ### 1. Learning the writing system
 
