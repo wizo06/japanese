@@ -6,3 +6,6 @@ theme:
 markdown_extensions:
   - admonition
   - attr_list
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
