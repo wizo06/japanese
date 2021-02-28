@@ -3,3 +3,6 @@ theme:
   name: material
   font:
     text: Noto Sans JP
+markdown_extensions:
+  - admonition
+  - attr_list
