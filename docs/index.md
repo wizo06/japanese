@@ -52,7 +52,11 @@ Third, learn the Japanese pitch-accent. [Dogen](https://youtu.be/O6AoilGEers) ha
 
 On a side note, [here](https://youtu.be/XE5M-MP5ngg) is a fun video where a native speaker (Kaz) nitpicks Dogen's pitch-accent from one of his videos.
 
-When I say "learn pitch accent", I don't necessarily mean that you have to memorize all the pitch accent patterns and rules. All you need to do for now during your beginning stage, is to be **aware** that pitch accent exists. Once you're aware that it exists, it will be a lot easier to notice them moving forward. You can use the [OJAD website](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index) to look up a particular pitch-accent pattern of any word or sentence (it doesn't give you the correct pitch-accent pattern all the time, but it works well 99.9% of the time), or use the [FORVO website](https://forvo.com/) to listen to native speakers pronounce a particular word.
+When I say "learn pitch accent", I don't necessarily mean that you have to memorize all the pitch accent patterns and rules. All you need to do for now during your beginning stage, is to be **aware** that pitch accent exists. Once you're aware that it exists, it will be a lot easier to notice them moving forward. You can use these websites to help identify a word's pitch-accent:
+
+- [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/phrasing/index) to look up a particular pitch-accent pattern of any word or sentence (it's correct 99.9% of the time).
+- [FORVO](https://forvo.com/) to listen to native speakers pronounce a particular word (each sound sample is user-submitted).
+- [Youglish](https://youglish.com/japanese) to listen to native speakers pronounce a particular word by searching through YouTube videos.
 
 ### 4. Grammar
 
@@ -71,9 +75,10 @@ With that out of the way, let's talk about this guide specifically. I will try m
 - Adjective
 - Adverb
 
-For each grammar point, I will try to give some examples of how native speakers actually use them. That being said, just like in any other language, even native speakers can say things wrongly (grammatically). Of course, this is done intentionally, simply because people tend to say things shorter in everyday conversation, or perhaps they want to make an emphasis of some sort, etc. However, I still believe that learning how things are said properly and correctly is important. 
+For each grammar point, I will try to give some examples of how native speakers actually use them. That being said, just like in any other language, native speakers tend to say things colloquially. *Colloquial language* simply refers to a style of communication that is used in casual conversations. Phrases and sentences that are said colloquially tend to have a very *loose grammar*. In other words, they don't strictly follow grammar rules to say things properly. However, I still believe that learning how things are said properly and correctly is important. 
 
 !!! quote
     “Learn the rules like a pro, so you can break them like an artist.” - Pablo Picasso
 
-Note: This guide only teaches grammar. It doesn't teach vocabulary. My best advice for learning vocabulary is to learn them through *immersion*. For more details, refer to [TheMoeWay](https://learnjapanese.moe/guide/#vocabulary) and/or [Refold](https://refold.la/roadmap). 
+!!! note
+    This guide only teaches grammar. It doesn't teach vocabulary. My best advice for learning vocabulary is to learn them through *immersion*. For more details, refer to [TheMoeWay](https://learnjapanese.moe/guide/#vocabulary) and/or [Refold](https://refold.la/roadmap). 
