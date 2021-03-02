@@ -78,3 +78,98 @@ are essential to
 Well, the main difference is that a *declarative* statement -such as explicitly saying 「だ」 in an "A is B" sentence- makes the sentence sound more emphatic and forceful in order to make it more... well *declarative*. Therefore, it is more common to hear men use 「だ」 at the end of sentences. Dropping the 「だ」 at the end of sentences makes it sound more "soft" and therefore it is more common to hear women dropping the 「だ」.
 
 **Let me re-emphasize that this is in the context of *casual, everyday conversation*. A *complete and proper sentence* still requires the copula 「だ」in an "A is B" sentence.**
+
+---
+
+
+**How do native speakers use 「は」?**  
+It is very common for native speakers to drop almost all the words in a sentence or question, to keep it as short as possible. The unspoken part of the sentence is expected to be inferred by the listener based on context.
+
+For example, a person might ask a roommate in English:
+
+**"What should we eat for dinner?"**
+
+But for a Japanese speaker, they can ask the same question by saying:
+
+Note: 「夕飯」 means "dinner"
+
+- **「夕飯は？」**
+
+The literal translation is *"As for dinner?"*. Of course, the actual complete sentence (though not said out loud) can be something like:
+
+- **「夕飯は何にする？」**
+
+Which can be roughly translated as *"As for dinner, what should we eat?"*.
+
+Let's look at another dialogue:  
+
+Note: 「今夜」（こんや）means "tonight"  
+「空いてる」（あいてる）means "free" (as in "available" or "have time")  
+「残念」（ざんねん）means "unfortunate"  
+「俺」means "I" (masculine tone)
+
+*Suppose that two friends want to go try out a new restaurant that just opened up*  
+**アリス：「私は今夜空いてるよ。ボブさんは？」**  
+**ボブ：「残念。俺は今夜忙しいんだ」**
+
+*Literal translation (not quite literal, but I tried my best)*  
+**Alice: As for me, (I) am free tonight. As for Bob?**  
+**Bob: Unfortunate. As for me, (I) am busy tonight.**
+
+*Natural English*  
+**Alice: I am free tonight. What about you?**  
+**Bob: That's unfortunate. I'm busy tonight.**
+
+Notice how Alice says 「ボブさんは？」 which literally means *"As for Bob?"*. When Alice first started her sentence, she said 「私は。。。」 which means *"As for me..."*. This means that the current topic is "Alice". By using the 「は」 particle again when she asked 「ボブさんは？」, she has now changed the topic. Changing the topic in this paritcular way in this particular context implies *"What about you (Bob)?"*.
+
+The complete question would be 「ボブさんは今夜空いてる？」 which means *"As for Bob, are (you) free tonight?"*. You can see that even in English, asking "What about you?" was enough to convey the meaning of the whole question without actually saying it out loud.
+
+Let's look at another dialogue as example:
+
+Note: 「明日」（あした）means "tomorrow"
+
+**アリス：リエさんは明日？**  
+**ボブ：ううん、明日じゃない。**
+
+*Literal translation*  
+**Alice: As for Rie, tomorrow?**  
+**Bob: No, not tomorrow.**
+
+Since we don't have enough context, we don't have enough information to make sense of this conversation. Given a context, as long as the sentence has something to do with "Rie" and "tomorrow", it can mean anything. For instance, they could be talking about when Rie is taking an exam.
+
+Let's look at another example:
+
+Note: 「試験」（しけん）means "exam"
+
+**アリス： 今⽇は試験だ。**  
+**ボブ： ジョンは？**  
+**アリス： ジョンは明⽇。**
+
+*Literal translation*  
+**Alice: In relation to today, (it) is exam.**  
+**Bob: As for John?**  
+**Alice: As for John, (it is) tomorrow.**
+
+*Natural English*  
+**Alice: Today is the exam.**  
+**Bob: What about John?**  
+**Alice: John will take it tomorrow.**
+
+This example shows how generic the topic of a sentence can be. A topic can be referring to any action or object from anywhere even including other sentences. For example, in the last sentence 「ジョンは明⽇」, even though the sentence is about when the exam is for John, the word "exam" doesn't appear anywhere in the sentence!
+
+Let's look at another example:
+
+**ボブ： アリスは学⽣？**  
+**アリス： うん、学⽣。**
+
+*Literal translation*  
+**Bob: As for Alice, are (you) a student?**  
+**Alice: Yes, (I) am a student.**
+
+*Natural English*  
+**Bob: Are you a student?**  
+**Alice: Yeas, I am.**
+
+Here, Bob is marking "Alice" as the topic when he asked 「アリスは学⽣？」. Notice that once the topic is established, Alice does not have to repeat the topic to answer the question about herself. We know that the zero pronoun is "Alice" based on context. The full sentence from Alice is 「うん、私はØが学生だ。」. 
+
+The 「は」 particle has other properties and nuances, but we will look at them in a later section when we compare 「は」 with 「が」.
