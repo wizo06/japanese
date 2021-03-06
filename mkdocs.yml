@@ -1,8 +1,10 @@
-site_name: Japanese Grammar
+site_name: Japanese Grammar Guide
 theme:
   name: material
   font:
     text: Noto Sans JP
+  features:
+    - navigation.sections
 markdown_extensions:
   - admonition
   - attr_list
@@ -10,3 +12,16 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.critic
+  - footnotes
+nav:
+  - 'index.md'
+  - Basic Grammar:
+    - 'Basic Grammar/sentence-structures.md'
+    - 'Basic Grammar/a-and-b.md'
+    - 'Basic Grammar/basic-grammar.md'
+  - Essential Grammar:
+    - 'Essential Grammar/3. Essential Grammar.md'
+  - Special Expressions:
+    - 'Special Expressions/4. Special Expressions.md'
+  - Advanced Grammar:
+    - 'Advanced Grammar/5. Advanced Topics.md'

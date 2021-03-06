@@ -1,6 +1,7 @@
 # Sentence Structures
 
 ## Subject-Object Structure
+
 Every Japanese sentence at its core is composed of two elements:
 
 <table>
@@ -14,24 +15,14 @@ Main wagon "A" | Engine "B"
 :---: | :---:
 - | -
 
-The engine "B" tells us **what the sentence is doing**. The main wagon "A" tells us **who is doing it**. We can add more wagons to the train to: 
+The engine "B" tells us **what the main wagon "A" is doing**. The main wagon "A" tells us **WHO or WHAT is doing engine "B"**. We can add more wagons to the train to: 
 
 - say more about "A"
 - say more about "B" 
 - combine sentences (clauses) together to make complex sentences
 - etc. 
 
-but the **core** of the train will always be "A" and "B". 
-
-Next, let's remind ourselves that, in any language, there are only two types of sentences:
-
-- A does B
-- A is B
-
-Sentence type | Example sentence
-:---: | :---:
-A does B | "Sakura walks"
-A is B | "Sakura is Japanese"
+but the **core** of the train will always be "A" and "B". This train is what we call "**Subject-Object Structure**".
 
 ## Topic-Comment Structure
 
@@ -45,31 +36,33 @@ There's another type of structure: the Topic-Comment Structure, which also consi
 
 Topic | Comment
 :---: | :---:
-X | Y
+- | -
 
 The important point here is that the "Comment" part is actually the *Subject-Object Structure* we just learned. In other words:
 
 <table style="border: 1px solid black">
   <tr>
-    <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid black">Topic</td>
+    <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid black">Topic 🚩</td>
     <th colspan="2" style="text-align: center; border: 1px solid black">Comment</td>
   </tr>
   <tr>
-    <th style="text-align: center; border: 1px solid black">Main wagon</th>
-    <th style="text-align: center; border: 1px solid black">Engine</th>
+    <th style="text-align: center; border: 1px solid black">Main wagon "A"</th>
+    <th style="text-align: center; border: 1px solid black">Engine "B"</th>
   </tr>
   <tr>
-    <td style="text-align: center; border: 1px solid black">X</td>
-    <td style="text-align: center; border: 1px solid black">A</td>
-    <td style="text-align: center; border: 1px solid black">B</td>
+    <td style="text-align: center; border: 1px solid black">-</td>
+    <td style="text-align: center; border: 1px solid black">-</td>
+    <td style="text-align: center; border: 1px solid black">-</td>
   </tr>
 </table>
 
-or a simpler visualization:
+Notice that I've depicted the topic as a flag 🚩. If the "Comment" is the "train" (main wagon "A" + engine "B"), then the "Topic" is like a flag in this analogy. The flag is not part of the train. The flag simply tells us the topic of the sentence/train.
+
+A simpler visualization can be represented as following table:
 
 <table>
   <tr>
-    <th colspan="2" style="text-align: center; border: 1px solid black">Topic</th>
+    <th colspan="2" style="text-align: center; border: 1px solid black">Topic 🚩</th>
   </tr>
   <tr>
     <th style="text-align: center; border: 1px solid black">Main wagon "A"</th>
@@ -82,4 +75,4 @@ or a simpler visualization:
 </table>
 
 !!! question "Why is it important to make the distinction between the two structures?"
-    Understanding the relationship and distinction between these two structures is the key to understanding the difference between the particle 「は」 and the particle 「が」, which a lot of Japanese learners struggle with. We will have a more in-depth look at particles in a later section.
+    English is a subject-prominent language, but Japanese is a topic-prominent language. This difference in prominence is one of the reasons why a lot of people who learn Japanese whose native language is English, struggle to understand the difference between the particle 「は」 and the particle 「が」. We will learn more about particles in a later section.

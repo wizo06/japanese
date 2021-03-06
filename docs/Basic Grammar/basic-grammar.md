@@ -1,445 +1,26 @@
 # Basic Grammar
 
-## Definition
+## Describing noun
 
-Allow me to give a simple and brief definition of four basic terms to make sure we are on the same page: noun, adjective, verbs, subject.
+So far, we learned how to express simple sentences like these:
 
-### Noun
+Japanese | English | Sentence type | Engine name
+:--- | :--- | :--- | :---
+さくらが泣く | Sakura cries | A does B (Verbs) | う-engine
+さくらが優しい | Sakura is kind | A is B (Adjectives) | い-engine
+さくらが親切だ | Sakura is friendly | A is B (Adjectives) | だ-engine
+さくらが学生だ | Sakura is a student | A is B (Nouns) | だ-engine
 
-A noun is a word used to identify a class of people, places, or things.
+Let's step back a little bit. Instead of making sentences, let's try simply describing a noun, like so:
 
-Examples:
+- Crying Sakura / Sakura who is crying
+- Kind Sakura / Sakura who is kind
+- Friendly Sakura / Sakura who is friendly
+- Sakura who is a student
 
-- pencil
-- number
-- food
-- friend
-- eye
-- Sakura
-- Tom
-- victory
-- pleasure
-- communication
-- dream
-- goal
-- curiosity
+We can describe a noun using: a verb, an adjective (i-adjective and na-adjective), or another noun. To do this in Japanese, we simply place the word **before** the noun. Let's look at how this is done.
 
-### Adjective
-
-An adjective is a word that **describes a noun**.
-
-Examples:
-
-- ==Sad== Sakura
-- ==Happy== Sakura
-- ==Tall== Sakura
-- ==Expensive== car
-- ==Quiet== room
-- ==Extreme== poverty
-- ==Pure== love
-
-### Verb
-
-A verb is a word used to describe an action.
-
-Examples:
-
-- walk
-- talk
-- learn
-- think
-- eat
-- be
-
-### Subject
-
-The subject is the doer of the sentence. Let's look at these two sentences:
-
-- Sakura walks.
-- Sakura is Japanese.
-
-The subject is "Sakura" and the verbs are "walks" and "is". The "thing" that is doing those actions (verbs) is "Sakura". In other words, "Sakura" is the thing that is doing the "walks" and doing the "is".
-
-## Main wagon "A"
-
-We learned in the "Sentence Structure" section about the core of a Japanese sentence:
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-- | -
-
-Now, let's learn a little bit more about the main wagon "A". Suppose we have these two sentences as examples:
-
-- Sakura walks.
-- Sakura is Japanese.
-
-If we put those sentences into the train analogy, they will look like this:
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Sakura | walks
-Sakura | Japanese
-
-However, in Japanese we need to mark "Sakura" as the main wagon "A". We need to mark "Sakura" as the subject. **This is where we use the particle 「が」**. We attach 「が」 at the end of "Sakura" to mark "Sakura" as the main wagon "A", like so:
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Sakura が | walks
-Sakura が | Japanese
-
-!!! note
-    We will learn more about **particles** in a later section.
-
-### Invisible main wagon "A"
-
-We know that the core of a Japanese sentence is composed of:
-
-Main wagon "A"  | Engine "B"
-:---: | :---:
-- | -
-
-However, you can't always see both of them. **You can always see the engine "B", but sometimes you can't see the main wagon "A"**. Why not? Because the main wagon became an invisible wagon. Even though you can't see it, it's still there. What is the invisible wagon? In English, the closest equivalent word is the word "*it*". Let's begin by examining what "*it*" does in English. Let's look at the following sentence:
-
-- The ball rolled down the hill. When the ball go to the bottom, the ball hit a sharp stone. The ball was punctured and all the air came out of the ball.
-
-Would any native English speaker say it like that? Most likely not, because once we have established what we are talking about, we replace it with "*it*". So, a more natural way of saying the sentence would be:
-
-- The ball rolled down the hill. When **it** got to the bottom, **it** hit a sharp stone. **It** was punctured and all the air came out of **it**.
-
-Now, let's suppose a small child tries to say the same sentence but ends up saying:
-
-- Ball rolled down hill, got to bottom, hit sharp stone, got punctured, all the air came out.
-
-Is that difficult to understand? No, it's not. Because, in fact, we don't need to use the "*it*" marker everytime, over and over again. Technically speaking, English grammar demands it but there's no actual communicative need to do it. In Japanese grammar, "*it*" is not demanded at all. 
-
-"*It*" by itself means nothing because it can mean anything. You will know what "*it*" is from context. If a small child came to the kitchen and said:
-
-- Got really hungry. Came down to eat something.
-
-there's nothing confusing or difficult about this. The child meant 
-
-- **I** got really hungry. **I** came down to eat something.
-
-In English, skipping the "I" is not a proper sentence, but in Japanese it is. All those English pronouns like "it", "she", "he", "I", "they", can be replaced by the invisible wagon "**the zero-pronoun (Ø)**" in Japanese. The important thing to remember is that the main wagon "A" is still there, it's just invisible. 
-
-Alright, let's look at how this is done in Japanese. Suppose we want to say:
-
-- I am Japanese.
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-I | am Japanese
-
-To say that sentence in Japanese, it would be:
-
-- 私が日本人だ。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-私が | 日本人だ
-
-However, it is perfectly valid to simply say:
-
-- 日本人だ。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Øが | 日本人だ
-
-The literal translation of 「日本人だ」 would be "is Japanese". The *full* sentence of 「日本人だ」 would be:
-
-- Øが日本人だ。
-
-and the zero-pronoun can be assumed to be "I" in this context. The zero-pronoun, just like the English word "it", will always have a different meaning based on context. For example, if we hear a rustling in the woods and and then we look over in the direction of the rustles, and say:
-
-- うさぎだ!
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Øが | うさぎだ!
-
-*Literal translation*: "is rabbit!"
-
-In normal English, we would say "it is a rabbit!". What is "*it*"? Well, "*it*" in this context means "*that thing we just saw towards the rustling in the trees*". *That* is a rabbit. Another example is, let's say:
-
-- 土曜日だ。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Ø が | 土曜日だ
-
-*Literal translation*: "is Saturday"
-
-Or in normal English, we would say "it is Saturday". What is "*it*"? "*It*" could mean "today". Or it could mean "tomorrow", or any other word, depending on the context.
-
-All these sentences are complete Japanese sentences, with two parts: 1. the main wagon "A", and 2. the engine "B". In each of these cases, the main wagon is invisible - but it's still there.
-
-This might sound like unecessary emphasis on the fact that the main wagon is still there even though it's invisible. However, the importance of this emphasis will become more apparent as sentences become more complex. Without a good understanding of this concept, complex sentences are going to start sounding extremely vague and hard to understand.
-
-## Complete and proper sentence
-
-Japanese grammar allows the omission of the subject (main wagon "A"), and it also allows the omission of the topic (we will learn more about "topic" in a later section). Therefore, a complete and proper sentence in Japanese can simply be:
-
-Engine "B" |
-:---: |
-- |
-
-*(As we learned in the previous section, it is important to remember that the main wagon "A" is still there. It's just invisible. )*
-
-Because Japanese grammar allows such omissions, this means that, if we want to say a sentence in a "neutral" way, we can simply say:
-
-- Engine "B"
-
-But if we choose to make emphasis on the topic, or the main wagon "A", or both, then we can say it in these ways:
-
-- Topic + Engine "B"
-- Main wagon "A" + Engine "B"
-- Topic + Main wagon "A" + Engine "B"
-
-The nuance between them will become clearer as we learn more about particles, and as we get more input (immersion).
-
-## Engine "B"
-
-Let's remind ourselves of our train analogy:
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-- | -
-
-and the fact that there are two types of sentences:
-
-Sentence type | Example sentence
-:---: | :---:
-A does B | "Sakura walks"
-A is B | "Sakura is Japanese"
-
-The "Engine B" can be divided into three types:
-
-Engine name | Used for
-:---: | :---:
-う-engine | A does B
-だ-engine | A is B
-い-engine | A is B
-
-### 1. A does B
-
-#### 1.1. う-engine
-
-This engine is used for expressing sentences like "A does B", where "B" is an action -a verb-. Verbs in Japanese can be divided into two categories: __*ru-verbs*__ and __*u-verbs*__. All *ru-verbs* end in 「る」, while *u-verbs* can end in any kana with the *u-vowel* 「う」, including 「る」. Therefore, if a verb does **not** end in 「る」then it must be an *u-verb*.
-
-!!! note
-    Notice that all verbs end with an 「う」 u-vowel sound. Hence the name of this engine: the う-engine.
-
-!!! tip
-    **How to tell if a verb is *ru-verb* or *u-verb* if it ends in 「る」?**
-
-    For verbs ending in 「る」, if the vowel sound preceding the 「る」 is an /a/, /u/ or /o/ vowel sound, it will **always** be an *u-verb*. Otherwise, if it is /i/ or /e/, it will be a *ru-verb* **in most cases**. If you're unsure which category a verb falls into, you can verify with most dictionaries.
-
-    - Example of *u-verb*: 「分かる」（わかる）. The preceding kana of「る」is「か」, which has an /a/ vowel sound. Therefore it is an *u-verb*.
-    - Example of *ru-verb*: 「食べる」（たべる）. The preceding kana of「る」is「べ」, which has an /e/ vowel sound. Therefore it is likely to be a *ru-verb*. It is, in fact, a *ru-verb*.
-    - Example of *u-verb*: 「知る」（しる）. The preceding kana of「る」is「し」, which has an /i/ vowel sound. Therefore it is likely to be a *ru-verb*. However, it's actually an *u-verb*.
-
-Examples:
-
-Example of ru-verbs | Example of u-verbs | Irregular verbs
-:---: | :---: | :---:
-⾷べる | 分かる | する
-⾒る | 話す | 来る
-寝る | 聞く
-起きる | 泳ぐ
-考える | 遊ぶ
-教える | 待つ
-出る | 買う
-いる | ある
-着る | 死ぬ
-
-It is important to make the distinction of *ru-verbs* vs *u-verbs* because they conjugate differently.
-
-!!! warning "There are two irregular verbs"
-    The verb: 「する」 and 「来る」 are considered as irregular. The reason is that these two verbs do not conjugate in quite the same way as the other two categories do. We will learn about conjugations in a later section.
-
-An example sentence using this う-engine is:
-
-- Sakura walks.
-
-In this sentence, "A" is "Sakura" (the main wagon) and "B" is "walks" (the thing Sakura does; the engine of the sentence). In Japanese, "Sakura" is 「さくら」, and "walk" is「歩く」(あるく). To say **"Sakura walks"** in Japanese is:
-
-- さくらが歩く。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-さくらが | 歩く
-
-Some example sentences using the う-engine:
-
-Japanese | English
-:---: | :---:
-さくらが勉強する | Sakura studies
-アリスが泳ぐ | Alice swims
-ボブが読む | Bob reads
-私たちが食べる | We eat
-
-### 2. A is B
-
-In "A is B" sentences, we are essentially saying "A belongs to the set of B". This "B" is telling us *what* "A" is.
-
-Example:
-
-1. Sakura is a Japanese person.
-2. Sakura is beautiful.
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Sakura | Japanese person
-Sakura | beautiful
-
-Notice that "Japanese person" is a noun, and "beautiful" is an adjective. "A is B" sentences allows us to describe "Sakura" by using either a noun or an adjective.
-
-In Japanese, adjectives are divided into two groups:
-
-- na-adjectives
-- i-adjectives
-
-To express "A is B" in Japanese, there are two engines that we can use:
-
-Engine name | Used for
-:---: | :---:
-だ-engine | Nouns and na-adjectives
-い-engine | i-adjectives
-
-#### Copula
-
-Let's say we want to express this "A is B" sentence in Japanese:
-
-- ==Sakura== is {++Japanese person++}.
-
-We already know that "==A==" is "==Sakura==", and "{++B++}" is "{++Japanese person++}". But how do we express the word "**is**"? To do that, we need the **copula**. In English, the word "be" (and its conjugation "am/is/are") is used as the copula. **In Japanese, the hiragana 「だ」 is used as the copula**. So, to say "A is B" in Japanese, we attach 「だ」 at the end of "B". In Japanese, "Japanese person" is 「日本人」(にほんじん). To say "Sakura is a Japanese person":
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-さくらが | 日本人だ
-
-!!! info "Copula"
-    A copula is a word that expresses a **one-way equality sign**.  
-    
-In the previous example "Sakura is a Japanese person", it is essentially saying:
-
-- Sakura belongs to the set of Japanese people.
-- Sakura is part of the set of Japanese people. 
-
-To illustrate this one-way equality sign, it is helpful to think of 「だ」 as a person placing "A" into the set "B", like so:
-
-![](copula.png){: width=300 }
-
-In the previous example, the copula 「だ」 is placing "Sakura" into the set of "Japanese people".
-
-#### 2.1. だ-engine
-
-We learned earlier that there are two types of engines for "A is B" sentences.
-
-Engine name | Used for
-:---: | :---:
-だ-engine | Nouns and na-adjectives
-い-engine | i-adjectives
-
-Let's look at some examples sentences.
-
-Examples of "A is B" sentences, where "B" is a noun:
-
-Main wagon "A" | Engine "B" | English
-:---: | :---: | :---:
-さくらが | 日本人だ。 | Sakura is a Japanese person.
-ボブが | 声優だ。 | Bob is a voice actor.
-私が | アリスだ。 | I am Alice.
-その人が | アリスだ。 | That person is Alice.
-私たちが | 学生だ。 | We are students.
-先生が | 女の人だ。 | Teacher is a woman.
-２が | 数字だ。 | 2 is a number.
-トムが | 医者だ。 | Tom is a doctor.
-日本人が | アジア人だ。 | Japanese are Asians.
-
-Examples of "A is B" sentences, where "B" is a na-adjective:
-
-Main wagon "A" | Engine "B" | English
-:---: | :---: | :---:
-さくらが | 有名だ。 | Sakura is famous.
-街が | 静かだ。 | Street is quiet.
-辞書 | 便利だ。 | Dictionary is convenient.
-友達が | 大切だ。 | Friends are precious.
-書類が | 必要だ。 | Document is necessary.
-アリスが | 親切だ。 | Alice is friendly.
-私が | 真面目だ。 | I am honest.
-
-As you can see, every sentence ends with the copula 「だ」, which is why we call this engine the だ-engine.
-
-!!! tip
-    In Japanese, na-adjectives are actually a subcategory of nouns. The actual name for na-adjectives is "nominal adjectives". This is why we see that "regular nouns" and na-adjectives behave very similarly.
-
-#### 2.2. い-engine
-
-This engine is also used for expressing sentences like "A is B", but "B" is an **adjective**. We call this engine the い-engine because all adjectives in Japanese end with the kana 「い」. 
-
-Here's a few examples of Japanese adjectives:
-
-- 悲しい
-- 安い
-- 高い
-- 温かい
-- 冷たい
-- 大きい
-
-An example sentence using this い-engine is:
-
-- Sakura is kind.
-
-In this sentence, "A" is "Sakura", and "B" is "is kind". In Japanese, "kind" is 「優しい」(やさしい). To say **"Sakura is kind"** in Japanese is:
-
-- さくらが優しい。
-
-Main wagon "A" | い-engine
-:---: | :---:
-さくらが | 優しい
-
-!!! warning "Be careful"
-    Noticed that we don't have the copula 「だ」 on this sentence. 
-
-!!! question "Why is 「だ」 missing?"
-    Because 「優しい」 doesn't mean "kind", it means "is kind". **The copula is built into the adjective, which is the 「い」 part of the adjective.** 
-
-!!! failure "Incorrect"
-    If we say: 「さくらが優しいだ。」 then it would mean "Sakura is kind is", which is incorrect and makes no sense.
-
-Some example sentences using the い-engine are:
-
-Japanese | English
-:---: | :---:
-ペンが赤い。 | Pen is red.
-ビルが高い。 | Building is tall.
-天気が暑い。| Weather is hot.
-脳が大きい。 | Brain is big.
-学費が安い。 | Tuition is cheap.
-
-## Use engine to describe noun
-
-So far, we've learned how to express "A does B" and "A is B".
-
-Example sentences are:
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Sakura | cries.
-Sakura | is friendly.
-Sakura | is cute.
-
-However, we can use the engine to describe a noun, like so:
-
-- Crying Sakura
-- Friendly Sakura
-- Cute Sakura
-
-**Every engine can be used to describe a noun**. To do this in Japanese, we simply place the engine **before** the noun. Let's look at how this is done for each engine.
-
-### 1. う-engine | Verbs
+### Using a verb
 
 We know how to say:
 
@@ -506,25 +87,14 @@ In this sentence, 「教科書」 means "textbook", 「食べた」 means "ate",
 
 Notice how we are using the verb "eat" to describe the noun "dog".
 
-### 2. だ-engine | "na-adjectives"
+### Using an adjective
 
-!!! info "na-adjectives"
-    We learned that the だ-engine is only used for nouns. In Japanese, there's something called "**adjectival nouns**" (also called "nominal adjectives") which are a subcategory of nouns. The "nouns" that we're going to talk about in this section are from the subcategory "adjectival nouns". Some textbooks call these "adjectival nouns" as "**na-adjectives**". These "adjectival noun" behave exactly the same way "regular noun" would.
+#### na-adjective
 
-One example of "adjectival noun" is:
+We know how to say:
 
-- 親切（しんせつ）  
-*Friendly*
-
-The word 「親切」 means "friendly". Notice that the word "friendly" in English is considered as an adjective. However, 「親切」 is considered as a noun in Japanese; more precisely, an adjectival noun. It behaves exactly like a "regular noun". If we want to say "A is B", where "B" is 「親切」, we attach the copula 「だ」 to it, just like we would to a "regular noun". So, saying "Sakura is friendly" would be:
-
-- さくらが親切だ。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-さくらが | 親切だ
-
-*Sakura is friendly.*
+- さくらが親切だ。  
+*Sakura is friendly*
 
 But if we want to describe Sakura by saying:
 
@@ -535,26 +105,11 @@ then we place 「親切」 before 「さくら」, like so:
 - 親切**な**さくら
 
 !!! warning "Pay attention to the kana 「な」"
-    If we go back to the first sentence:
+    When a na-adjective is describing a noun, the copula 「だ」 is dropped and we use the kana 「な」 to connect the two words (hence the name na-adjectives).
 
-    - さくらが親切 ==だ==。  
-    *Sakura is friendly.*
+    Again, this explanation isn't entirely correct if we follow how grammar is taught in Japan. However, for the sake of simplicity and to make things easy to understand, we will stick with this explanation.
 
-    to the word 「親切」 is placed *after* 「さくら」 to say "A is B": "Sakura is friendly".
-    
-    However, when we place 「親切」 *before* 「さくら」, like this:
-    
-    - 親切 ==な== さくら  
-    *Friendly Sakura*
-    
-    the copula 「だ」 transforms into 「な」. **「な」 is the attributive form of the copula 「だ」.** We are able to describe 「さくら」(Sakura) with 「親切」(friendly) by linking these two words with the **attributive form** of 「だ」.
-
-We can describe a noun by using another noun (more precisely, **adjectival noun**), and connect them with the attributive form of the copula, which is 「な」.
-
-!!! note 
-    We can also describe a noun by using another "regular noun" (instead of an adjectival noun). We will learn this in a later section.
-
-Examples of adjectival nouns (highlighted) describing a noun:
+Examples of na-adjectives (highlighted) describing a noun:
 
 Japanese | English
 :---: | :---:
@@ -598,26 +153,22 @@ Main wagon "A" | Engine "B"
 
 In this sentence, 「真面目」 means "serious / honest", 「医者」 means "doctor". So, the full sentence reads:
 
-- ==Honest== Tom is doctor.
+- ==Honest== Tom is a doctor.
 
-### 3. い-engine | "i-adjectives"
-
-!!! info
-    Because some textbooks teach "adjectival nouns" as "na-adjectives", they end up calling the *actual* adjectives "i-adjectives".
+#### i-adjective
 
 We know how to say:
 
-- ペンが赤い。  
-*Pen is red*
+- さくらが優しい。  
+*Sakura is kind*
 
-But if we want to describe "pen" by saying:
+But if we want to describe Sakura by saying:
 
-- Red pen / pen that is red
+- Kind Sakura / Sakura who is kind
 
-we simply place 「赤い」 before of 「ペン」, like so:
+then we place 「優しい」 before of 「さくら」, like so:
 
-- 赤いペン  
-*Red pen*
+- 優しいさくら
 
 Examples of "i-adjectives" (highlighted) describing a noun:
 
@@ -632,7 +183,6 @@ Let's look at some examples in sentences:
 **Example 1**:
 
 - ==激しい== 運動が危ない。
-
 
 Main wagon "A" | Engine "B"
 :---: | :---:
@@ -659,6 +209,45 @@ Main wagon "A" | Engine "B"
 ==白い== 馬が | 走る
 
 *==White== horse runs.*
+
+### Using a noun
+
+We can also describe a noun with another noun, like so:
+
+1. ==学校== の{++友達++}  
+*==School== {++friends++}*
+
+2. ==川== の{++流れ++}  
+*{++Flow++} of ==river==*
+
+3. ==ゼルダ== の{++伝説++}  
+==Zelda== 's {++legend++} / *The {++legend++} of ==Zelda==*
+
+4. ==３月== の{++ライオン++}  
+*{++Lion++} of ==March==*
+
+5. ==さくら== の{++本++}  
+*==Sakura== 's {++book++}* / *{++Book++} of ==Sakura==*
+
+6. ==大学== の{++学生++}  
+*==University== {++student++}*
+
+The noun highlighted in {++green++} is what we are talking about, and the noun highlighted in ==yellow== is describing it.
+
+1. We're talking about 「友達」"friends", and the noun 「学校」"school" is describing/labeling "what type of friends?" / "where are those friends from?"
+
+2. We're talking about 「流れ」"flow", and the noun 「川」"river" is describing/labeling "what type of flow?" / "flow of what?"
+
+3. We're talking about 「伝説」"legend", and the noun 「ゼルダ」"Zelda" is describing/labeling "whose legend?"
+
+4. We're talking about 「ライオン」"lion", and the noun 「３月」"March" is describing/labeling "lion from which month?"
+
+5. Same as #3.
+
+6. Same as #1.
+
+!!! tip "Trivia"
+    The example sentence #4 is the name of a Manga and Anime series. The English name of the series is "March comes in like a lion".
 
 ## Particles
 

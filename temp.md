@@ -173,3 +173,28 @@ Let's look at another example:
 Here, Bob is marking "Alice" as the topic when he asked 「アリスは学⽣？」. Notice that once the topic is established, Alice does not have to repeat the topic to answer the question about herself. We know that the zero pronoun is "Alice" based on context. The full sentence from Alice is 「うん、私はØが学生だ。」. 
 
 The 「は」 particle has other properties and nuances, but we will look at them in a later section when we compare 「は」 with 「が」.
+
+---
+
+
+## Complete and proper sentence
+
+Japanese grammar allows the omission of the subject (main wagon "A"), and it also allows the omission of the topic (we will learn more about "topic" in a later section). Therefore, a complete and proper sentence in Japanese can simply be:
+
+Engine "B" |
+:---: |
+- |
+
+*(As we learned in the previous section, it is important to remember that the main wagon "A" is still there. It's just invisible. )*
+
+Because Japanese grammar allows such omissions, this means that, if we want to say a sentence in a "neutral" way, we can simply say:
+
+- Engine "B"
+
+But if we choose to make emphasis on the topic, or the main wagon "A", or both, then we can say it in these ways:
+
+- Topic + Engine "B"
+- Main wagon "A" + Engine "B"
+- Topic + Main wagon "A" + Engine "B"
+
+The nuance between them will become clearer as we learn more about particles, and as we get more input (immersion).
