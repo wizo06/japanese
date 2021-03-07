@@ -15,10 +15,10 @@ markdown_extensions:
   - footnotes
 nav:
   - 'index.md'
-  - Basic Grammar:
-    - 'Basic Grammar/sentence-structures.md'
-    - 'Basic Grammar/a-and-b.md'
-    - 'Basic Grammar/basic-grammar.md'
+  - Fundamentals:
+    - 'Fundamentals/sentence-structures.md'
+    - 'Fundamentals/a-and-b.md'
+    - 'Fundamentals/basic-grammar.md'
   - Essential Grammar:
     - 'Essential Grammar/3. Essential Grammar.md'
   - Special Expressions:

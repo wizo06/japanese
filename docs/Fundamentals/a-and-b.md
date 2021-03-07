@@ -1,4 +1,4 @@
-# "A" and "B"
+# Main wagon "A" and Engine "B"
 
 ## Main wagon "A"
 
@@ -171,7 +171,7 @@ Other examples of verbs are:
 
     In these two sentences, "is" is actually telling us "what Sakura is". 
     
-    We can now clearly see that the word "is" in English actually has two functions. One to express "exists" and one to express "what something is". In Japanese, we have one word for expressing "exists" and another word for expressing "what something is". The word that expresses "what something is" is called a **copula**.
+    We can now clearly see that the word "is" in English actually has two functions. One to express "exists" and one to express "what something is". In Japanese, we have one word for expressing "exists" and another word for expressing "what something is". The word that expresses "what something is" is called a **copula**. We will learn more about the copula when we learn about the だ-engine.
 
 ### A is B (Adjectives)
 
@@ -249,8 +249,8 @@ Now, let's learn about the "Engine B". The engine can be divided into three type
 Engine name | Used for sentences of type:
 :---: | :---:
 う-engine | Verb-sentence
-だ-engine | Noun-sentence + Adjective-sentence
-い-engine | Adjective-sentence
+だ-engine | Noun-sentence + Adjective-sentence (na-adjectives)
+い-engine | Adjective-sentence (i-adjectives)
 
 !!! tip "Trivia"
     According to how grammar is taught in schools in Japan (to Japanese people), dividing the engine into these three types isn't exactly correct. But, for the sake of simplicity and to make things easier to understand for us, we will stick to this model.
@@ -372,7 +372,7 @@ Main wagon "A" | Engine "B" | English
 ２が | 数字だ。 | 2 is a number.
 トムが | 医者だ。 | Tom is a doctor.
 
-#### Adjective-sentence
+#### Adjective-sentence (na-adjective)
 
 While "noun-sentence" is used for declaring what something is, "adjective-sentence" is used for expressing the property or state of "A". This engine can also be used for "adjective-sentence". Specifically, it is used for "**na-adjectives**". 
 
@@ -396,9 +396,25 @@ Main wagon "A" | Engine "B" | English
 
 ### い-engine
 
-#### Adjective-sentence
+#### Adjective-sentence (i-adjective)
 
 This engine is also used for "adjective-sentence". Specifically, it is used for "**i-adjectives**". i-adjectives always end with the kana 「い」, hence the name of this engine: い-engine
+
+!!! warning "Some na-adjectives look like an i-adjective"
+    There are some na-adjectives that look like an i-adjective because they also "end with the kana 「い」". The two most common examples are:
+
+    - きれい  
+    *pretty*
+
+    - きらい  
+    *hated*
+
+    However, if we write them in Kanji, we quickly realize that they aren't i-adjectives.
+
+    - 綺麗（きれい）
+    - 嫌い（きらい）
+
+    Notice that 「嫌い」 still ends with the kana 「い」 even if we write it in Kanji. But that's because 「嫌い」(hated) actually comes from the verb 「嫌う」(to hate). Interestingly, 「好き」(liked) comes from the verb 「好く」(to like).
 
 Some example sentences using i-adjectives:
 
