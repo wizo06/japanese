@@ -28,6 +28,10 @@ If you have the time and are interested in watching a video about language acqui
 !!! tip "Comprehensible input for beginners of Japanese"
     If you want to get started with comprehensible input in Japanese, [this YouTube channel](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA) has lots of videos that are made specifically for beginners to get them started on comprehensible input in Japanese. 
 
+An excerpt from the [Refold website](https://refold.la/roadmap/stage-0/b/enjoyment) about enjoying the language:
+
+> A word of advice: The Refold method is just a guide. It is far more important to follow your interests than to adhere to our plan. If you are compelled to read a book before you’ve reached "Stage 2C: Reading", then, by all means, go for it. No need to wait. **Your intrinsic motivation to consume that content will drive your language acquisition more than any learning method, including this one**.
+
 ## Learning a language
 
 Before we start talking about *learning* a language, there are three points I would like to make. All three points are accompanied with a video to further learn more about it, if you so desire.
