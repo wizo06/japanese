@@ -1,12 +1,12 @@
+# Particles
 
-## Particles
-
-What are particles? Let's use the following sentence to illustrate what a particle is:
+## What are particles?
+Let's use the following sentence to illustrate what a particle is:
 
 Note: 「魚」 means "fish"  
 「食べる」 means "eat"
 
-- 魚 _ 食べる。
+- 魚 ==_== 食べる。
 
 What is that sentence saying in English?
 
@@ -15,11 +15,11 @@ What is that sentence saying in English?
 
 The answer is: it can be either one. So how do we know if "fish" is doing the "eating", or if "fish" is "being eaten"? This is where particles come into play. Particles are one or more hiragana characters that attach to the end of a word to define the grammatical function of that word in the sentence. In other words, a particle defines the "role" of a word in a sentence. Using the correct particle is very important because the meaning of a sentence can completely change just by changing the particle. 
 
-As a reminder, this is how we visualize our train analogy:
+We can finally put the knowledge from "Sentence Structures" into use. As a reminder, this is how we visualize our train analogy:
 
 <table>
   <tr>
-    <th colspan="2" style="text-align: center; border: 1px solid black">Topic</th>
+    <th colspan="2" style="text-align: center; border: 1px solid black">Topic 🏳️</th>
   </tr>
   <tr>
     <th style="text-align: center; border: 1px solid black">Main wagon "A"</th>
@@ -31,17 +31,27 @@ As a reminder, this is how we visualize our train analogy:
   </tr>
 </table>
 
-With this in mind, let's learn some basic particles.
+Let's begin learning some basic particles. Each particle has more than one usage/function. We will only learn a few basic usage for each particle for now.
+
+## Topic particles
+
+If we follow the analogy of the train, then topic particles are the particles that go into the "Topic 🏳️" part of the train. We will learn what this actually means when we learn about the particles themselves. There are two topics particles in Japanese: 「は」 and 「も」.
 
 ### 「は」
 
-**「は」 is the topic particle**. To follow the analogy of our hypothetical train, **「は」is like a flag**. Why do we depict it as a flag? Because that's what it does. **It flags something as the topic of the sentence**. While the kana 「は」 is normally pronounced as /ha/, it is pronounced /wa/ only when it is being used as the topic particle.
+**「は」 is the topic particle**. To follow the analogy of our hypothetical train, **「は」is like a flag**. Why do we depict it as a flag? Because that's what it does. **It flags something as the topic of the sentence**. While the kana 「は」 is normally pronounced as 「は」, it is pronounced as 「わ」 when it is being used as the topic particle.
 
 Let's look at an example sentence:
 
 - 私は日本人だ
 
-literally means "As for me, (I) am Japanese" or "Speaking of me, (I) am Japanese" or "In relation to me, (I) am Japanese". To visualize this, here's how it looks by using our train analogy:
+literally means:
+
+- "As for me, (I) am Japanese" 
+- "Speaking of me, (I) am Japanese"
+- "In relation to me, (I) am Japanese" 
+
+To visualize this, here's how it looks by using our train analogy:
 
 <table>
   <tr>
@@ -75,13 +85,13 @@ The full sentence in Japanese is 「私はØが日本人だ」. The zero pronoun
 
 Now, you might ask yourself, "Isn't this overcomplicated? Can't we just pretend that 「私は」 is the main wagon "A" and translate the sentence as simply "I am Japanese?". The answer is **NO**. Although it works in this example sentence, it doesn't work in every case and that's why you shouldn't do it. When you run into sentences where "pretending that 「は」 is the main wagon" doesn't work, now you suddenly can't understand the sentence and you get lost.
 
-To illustrate this, let's take a look at the following sentence:  
+To illustrate why you shouldn't pretend that the topic is the main wagon, let's take a look at the following sentence:  
 
 *A group of friends are dining at a restaurant, and one person tells the waiter:*
 
 - 私は魚だ
 
-The joke is that the person has literally said "I am a fish". After all, if 「私は日本人だ」 means "I am Japanese", then 「私は魚だ」 must mean "I am a fish", right? That makes perfect sense, except that 「私は日本人だ」 doesn't actually mean "I am Japanese"; it means "As for me, (I) am Japanese". This is why it is important to not assume that the "topic" is the main wagon "A". If we look at the train for 「私は日本人だ」:
+The joke is that the person has literally said "I am a fish". After all, if 「私は日本人だ」 means "I am Japanese", then 「私は魚だ」 must mean "I am a fish", right? That makes perfect sense, except that 「私は日本人だ」 doesn't actually mean "I am Japanese"; it means "As for me, (I) am Japanese". This is why it is important to not pretend that the "topic" is the main wagon "A". If we look at the train for 「私は日本人だ」:
 
 <table>
   <tr>
@@ -132,7 +142,7 @@ Main wagon "A" | Wagon 「を」 | Wagon 「に」 | Engine "B"
 
 This sentence means "I throw a ball at Sakura" or "I throw a ball to Sakura". All three particles in this sentence -「が」,「を」and 「に」 tell us the "role" of each word that it's attached to. 「が」 tells us *who* threw the ball, 「を」 tells us *what* was thrown, 「に」 tells us *to whom* the ball was thrown.
 
-!!! note
+???+ note
     We will learn more about 「が」,「を」and 「に」 in a later section.
 
 Now that we've seen how those particles can affect the "role" of a word, let's introduce the 「は」 particle into the sentence to see what a topic particle does.
@@ -159,14 +169,6 @@ Now that we've seen how those particles can affect the "role" of a word, let's i
 
 This means "As for me, (I) throw the ball at Sakura".
 
-!!! note
-    Notice that the wagon 「に」 and 「を」 have switched their position in this sentence, compared to the previous sentence. 
-
-    - 私は ==さくらに== {++ボールを++} 投げる
-    - 私が {++ボールを++} ==さくらに== 投げる
-
-    As long as the engine "B" is at the end, we can change the position of any wagon (including the main wagon "A") without changing the meaning of the sentence. We will learn more about **word order** in a later section.
-
 We can give the flag to the "ball" instead:
 
 - ボールは私がさくらに投げる
@@ -191,7 +193,7 @@ We can give the flag to the "ball" instead:
 
 This means "As for the ball, I throw (it) at Sakura". 
 
-Notice how the logical meaning of the sentence doesn't change at all. That is because the **「は」 particle is a topic particle**. Let us remind ourselves of the relationship between Topic-Comment and Structure-Object.
+Notice how the logical meaning of the sentence doesn't change at all. Let us remind ourselves of the relationship between Topic-Comment and Structure-Object.
 
 <table style="border: 1px solid black">
   <tr>
@@ -284,9 +286,13 @@ Alice: No, as for Tom **also**, (he) is not a student.
 Bob: Are you a student?  
 Alice: No, Tom is **also** not student.
 
+## Case marking particles
+
+Case marking particles (「格助詞」 in Japanese) are particles that mark the role of a word in a sentence.
+
 ### 「が」
 
-**「が」 is the identifier particle**. What do I mean by that? Let's say we don't know what the topic is. Let's say I want to ask "Who is the student?". If I use the topic particle 「は」, the question would become 
+**「が」 is the identifier particle**. What do I mean by that? Let's say I want to ask "Who is the student?". If I use the topic particle 「は」, the question would become 
 
 Note: 「誰」（だれ） means "who"
 
@@ -294,19 +300,21 @@ Note: 「誰」（だれ） means "who"
 
 *"As for who, is (it) a student?"*
 
-and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play.
+and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the "*Main wagon "A"*" section that 「が」 attaches to a word to mark it as the main wagon "A". 
 
-A reminder of our train analogy:
+Suppose the student is "Alice". Then, we can say "Alice is student" like so:
 
-Main wagon | Engine
-:---: | :---:
-A | B
-
-What we need in this case is an **"identifier"** because I don't know who the student is. We want to *identify* who is the student. So if I ask "Who is the student?", it means that the main wagon "A" is **unknown**, and the engine "B" is "student". To illustrate:
+- アリスが学生だ
 
 Main wagon "A" | Engine "B"
 :---: | :---:
-? が | 学生
+アリスが | 学生だ
+
+But if we are asking the question "Who is the student?", that means we don't know what is inside the main carriage "A". It means that the main wagon "A" is unknown. To illustrate:
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+❓ が | 学生
 
 So, all we need to do is put 「誰」 in the main wagon. The question now becomes:
 
@@ -314,7 +322,7 @@ So, all we need to do is put 「誰」 in the main wagon. The question now becom
 
 *Who is student?*
 
-Makes sense right? The 「が」 particle -as explained in previous sections- marks the main wagon "A". It marks the subject. It marks the doer. It tells us *who*/*what* is doing/being "B". But earlier we said that we needed an *identifier*. Does that mean that the 「が」 particle is an identifier? Absolutely. The 「が」 particle marks the main wagon "A", therefore it tells us *who*/*what* is doing/being "B". It **identifies** "A" for us.
+Makes sense right? The 「が」 particle marks the main wagon "A". It marks the subject. It marks the doer. It tells us *who*/*what* is doing/being "B". But didn't we say earlier that the particle 「が」 is the **identifier particle**?. That's right. The particle 「が」 marks the main wagon "A", therefore it tells us *who*/*what* is doing/being "B". It **identifies** "A" for us.
 
 Let's look at an example:
 
@@ -324,7 +332,7 @@ Let's look at an example:
 - アリス：ジョンが学⽣。  
 *Alice: John is the one that is student*
 
-Bob wants to identify *who* -among all the possible candidates- is a student. Alice responds that *John* is the one. Notice, Alice could also have answered with the topic particle to indicate that, "Speaking of John", she knows that he is **a** student (maybe not **the** student). Let's illustrate this difference again. If Bob asks:
+Bob wants to identify *who* -among all the possible candidates- is a student. Alice responds that *John* is the one. Notice that Alice could also have answered with the topic particle to indicate that, "Speaking of John", she knows that he is **a** student (maybe not **the** student that Bob is looking for). Let's illustrate this difference again. If Bob asks:
 
 - ボブ：誰が学⽣？  
 *Bob: Who is the one that is student?* 
@@ -337,7 +345,7 @@ Then Alice can answer in two ways:
 - アリス：ジョンは学⽣。  
 *Alice: As for John, (he) is student. (As for other people, they could be students too.*
 
-I often translate the 「は」 particle as "as for; about; speaking of; in relation to" and the 「が」 particle as "the one; the thing" to illustrate the difference.
+It is helpful to translate 「は」 as "as for...; about...; speaking of...; in relation to..." and 「が」 as "the one; the thing" to illustrate the difference.
 
 Let's look at one more example:
 
@@ -347,11 +355,28 @@ Let's look at one more example:
 2. 私が学⽣。  
 *I (am) the one (that is) student.*
 
-The 「は」 and 「が」 particles are actually quite different if you think of it the right way. The 「が」 particle identifies a specific entity as *the* thing while the 「は」 particle is used only to bring up a new topic of conversation. This is why, in longer sentences, it is common to separate the topic with commas to remove ambiguity about which part of the sentence the topic applies to.
+The 「は」 and 「が」 particles are actually quite different if we use the train analogy to illustrate the sentence. 
+
+<table>
+  <tr>
+    <th colspan="2" style="text-align: center">私は 🏳️</th>
+  </tr>
+  <tr>
+    <th style="text-align: center">Main wagon "A"</th>
+    <th style="text-align: center">Engine "B"</th>
+  </tr>
+  <tr>
+    <td style="text-align: center">Ø が</td>
+    <td style="text-align: center">学生だ</td>
+  </tr>
+</table>
+
+
+The 「が」 particle identifies a specific entity as *the* thing while the 「は」 particle is used only to bring up a new topic of conversation. This is why, in longer sentences, it is common to separate the topic with commas to remove ambiguity about which part of the sentence the topic applies to.
 
 ### 「を」
 
-**「を」 is the direct object particle**. Essentially, it marks *what* the verb is *"verb"'ing* to. The kana 「を」 is essentially never used anywhere else. The kana 「を」 , while technically pronounced as /wo/ essentially sounds like /o/ in real speech. Here are some examples setences:
+**「を」 is the direct object particle**. Essentially, it marks *what* the verb is *"verb"'ing* to. The kana 「を」 is essentially never used anywhere else. The kana 「を」 , while technically pronounced as 「を」 essentially sounds like 「お」 in real speech. Here are some examples setences:
 
 Note: 「魚」（さかな） means "fish" 
 「食べる」（たべる）＝ eat  
@@ -500,7 +525,7 @@ Can be used for "duration of time"
 - 母に似てる。  
 *Resembles mother*
 
-!!! warning
+???+ warning
     While we can use 「に」 for specific points in time, such as:
     
     - 1 o'clock
@@ -560,7 +585,6 @@ We can express "**from**" and "**until**" with the particles 「**から**」 an
 
 - 日本へようこそ！
 *Welcome to Japan*
-
 
 - ❌ 医者へなる。  
 (Grammatically incorrect version of 「医者になる」.)
@@ -665,18 +689,22 @@ _Did you try the cakes?_
 2. うん。イチゴ**の**は美味しかったけど、チョコ**の**はあんまり。  
 _Yeah. The strawberry **one** was delicious but the chocolate **one** not so much._
 
-## Contrast between particles
+### 「と」
+
+### 「や」「とか」
+
+## Contrasts
 
 ### 「は」 vs 「も」
 
 We learned in the previoius section that:
 
-!!! quote
+???+ quote
     The inclusion of 「も」 must be consistent with the answer.
 
 Let's revisit that statement and see what it actually means.
 
-!!! info "The main difference between 「は」 and 「も」"
+???+ info "The main difference between 「は」 and 「も」"
     - 「は」 changes the topic, and implies that the comment of the new topic is **different** from the comment of the old topic.
 
     - 「も」 also changes the topoic, but it implies that the comment of the new topic is the **same** as the comment of the old topic.
@@ -698,7 +726,7 @@ Then, we **can** use 「も」 in the second topic, because the *comment* of bot
 - アリスは学生だ。
 - トム**も**学生だ。
 
-!!! warning "Be careful how you use 「は」 and 「も」 in certain phrases"
+???+ warning "Be careful how you use 「は」 and 「も」 in certain phrases"
 
     For example, the following phrase is often said when greeting someone during New Year:
 
@@ -725,7 +753,7 @@ Now that we learned about the grammatical usage of 「は」 and 「が」, it m
 
 Let's explain the difference between 「は」 and 「が」 again, but not from the perspective of grammar, but from the perspective of communication/conversation. *How do native speakers use those particles?*
 
-!!! info "The main difference bewtween 「は」 and 「が」"
+???+ info "The main difference bewtween 「は」 and 「が」"
 
     - 「は」 talks about **something in general**.
     - 「が」 **singles something out**  to say "that is *the thing*".
@@ -854,7 +882,7 @@ Another example that might not seem as straightforward to understand is this sen
 
 This sentence roughly translates to "I liked playing soccer when I was in highschool". This sentence might look too complicated for someone who just started learning Japanese. But the point I want to make is that 「が」 was used in the sentence, instead of 「は」. Earlier, we learned that 「が」 is only used for comparison. So who are we comparing 「私」 to? We are comparing "myself" to "myself". More accurately, we are comparing the "present me" to the "past me" or "the highschool me".
 
-!!! info "Another way to look at the difference between 「は」 and 「が」"
+???+ info "Another way to look at the difference between 「は」 and 「が」"
     - 「は」 puts the emphasis on the sentence **after** it
     - 「が」 puts the emphasis on the sentence **before** it.
     
@@ -884,7 +912,7 @@ Now, if we say the **third sentence**, we've now changed the emphasis. Under wha
 
 While the second sentence is implicitly answering the question "What did I do?", the third sentence is implicitly answering the question "**Who bought the book?**" The answer is "*I am the one* who bought the book".
 
-!!! note
+???+ note
     The last three examples sentences that we just looked at:
 
     1. 本を買った。
@@ -899,7 +927,7 @@ While the second sentence is implicitly answering the question "What did I do?",
 
     Japanese grammar allows you to omit the topic and the subject (main wagon "A"). In fact the only component needed to make a complete and proper sentence is the engine "B". This means that, when we choose to explicitly say the topic or the subject out loud, we do so because we want to say it with a certain nuance, or with a certain emphasis.
 
-!!! info "The English equivalent of 「が」"
+???+ info "The English equivalent of 「が」"
     Japanese is a topic-prominent language, which is why there is one particle for topic (「は」) and one for subject (「が」) . This allows Japanese speakers to emphasize either the topic or the subject, by simply using the corresponding particle.
 
     English, on the other hand, is subject-prominent language. On top of that, English doesn't use particles. In English, when we want to express "emphasis on the subject" the same way 「が」 does in Japanese, we would usually do it in these two ways:
@@ -924,7 +952,7 @@ While the second sentence is implicitly answering the question "What did I do?",
 
     Because normal English sentences is already subject-prominent, when we want to emphasize on the subject the same way 「が」 does in Japanese, we end up resorting to phrases like "the one" or "the thing".
 
-!!! tip
+???+ tip
     The difference between these two particles will become more apparent and easier to tell apart as you do more *immersion* (if you don't know what I mean by immersion, refer back to the Getting Started section).
 
 ### 「に」 vs 「へ」
@@ -937,9 +965,29 @@ we choose to replace 「に」 with 「へ」 in the examples from the section a
 公園で集まる
 公園に集まる
 
+後にする
+後でする
+
 ### 「の」 vs 「な」
 
 ### 「に」 vs 「と」
 
-会う
-なる
+に会う
+と会う
+
+になる
+となる
+
+## Sentence ending particles
+
+### 「か」
+### 「かしら」
+### 「の」
+### 「な」
+### 「ね」
+### 「よ」
+### 「よね」
+### 「や」
+### 「わ」
+### 「ぞ」
+### 「とも」

@@ -32,55 +32,6 @@ As we learned in a previous section, this is another case of the invisible "A" w
 
 ---
 
-**How do native speakers use the copula 「だ」?**  
-In casual, everyday conversation, you will most likely hear native speakers say "A is B" *without* saying the copula 「だ」. For example, a dialogue between two friends can look like:
-
-Note: 「元気」 means "in good health"
-
-Person A: 元気？  
-Person B: うん、元気。
-
-*Nautral Englsh*  
-Person A: Are you OK? / Are you fine? / How are you doing? / How are you?  
-Person B: Yeah, I'm OK. / Yeah, I'm fine. 
-
-To fit this dialogue into our train analogy, it will look like this:
-
-**Person A**
-
-main wagon "A" + が | engine "B" + ? 
-:---: | :---:
-Ø が | 元気?
-
-**Person B**
-
-A simple "yes" | main wagon "A" + が | engine "B" + だ
-:---: | :---: | :---:
-うん、 | Ø が | 元気
-
-Notice the "zero pronoun" (Ø) in both lines. We will see what's going on there in a later section called "Invisible "A" wagon in sentences".
-
-In person A's line, when *asking* a question, you can't use the copula. Remember that the copula *defines*/*states*/*declares* that "A is B". If you're asking a question, that means you *don't know* if "A is B". Therefore, you ommit the copula and simply say "B?" when you want to ask a question. We will learn more about how to ask questions in a later section.
-
-The important point I want to bring up right now is person B's line. Person B said "Yes, I **am** OK" 「うん、元気。」 in Japanese without actually saying the copula 「だ」. This is very common in casual conversations, but that does not mean that the copula is not necessary to make a complete "A is B" sentence.
-
-Just like in any other language, casual, everyday conversations don't always follow grammar rules perfectly. However,
-
-1. knowing the rules and the correct way of saying things, and 
-2. knowing how native speakers break those rules 
-
-are essential to 
-
-1. understanding what you're listening and/or reading (input), and
-2. speaking and/or writing naturally -sounding like a native speaker- (output).
-
-**So when do native speakers actually say 「だ」?**  
-Well, the main difference is that a *declarative* statement -such as explicitly saying 「だ」 in an "A is B" sentence- makes the sentence sound more emphatic and forceful in order to make it more... well *declarative*. Therefore, it is more common to hear men use 「だ」 at the end of sentences. Dropping the 「だ」 at the end of sentences makes it sound more "soft" and therefore it is more common to hear women dropping the 「だ」.
-
-**Let me re-emphasize that this is in the context of *casual, everyday conversation*. A *complete and proper sentence* still requires the copula 「だ」in an "A is B" sentence.**
-
----
-
 
 **How do native speakers use 「は」?**  
 It is very common for native speakers to drop almost all the words in a sentence or question, to keep it as short as possible. The unspoken part of the sentence is expected to be inferred by the listener based on context.
@@ -367,7 +318,7 @@ Let's see some more examples of **だ-engines** clauses:
 
 ### Word order
 
-!!! warning
+???+ warning
 
     **The order of the wagons doesn't really matter as long as the engine "B" is at the end. What matters is that the particles are attached to the correct word**. It is perfectly valid to say:
 

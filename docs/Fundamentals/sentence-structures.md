@@ -74,5 +74,5 @@ A simpler visualization can be represented as following table:
   </tr>
 </table>
 
-!!! question "Why is it important to make the distinction between the two structures?"
+???+ question "Why is it important to make the distinction between the two structures?"
     English is a subject-prominent language, but Japanese is a topic-prominent language. This difference in prominence is one of the reasons why a lot of people who learn Japanese whose native language is English, struggle to understand the difference between the particle 「は」 and the particle 「が」. We will learn more about particles in a later section.

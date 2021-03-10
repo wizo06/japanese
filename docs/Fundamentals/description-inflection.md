@@ -1,4 +1,4 @@
-# Basic Grammar
+# Description and Inflection
 
 ## Describing noun
 
@@ -104,10 +104,10 @@ then we place 「親切」 before 「さくら」, like so:
 
 - 親切**な**さくら
 
-!!! warning "Pay attention to the kana 「な」"
+???+ warning "Pay attention to the kana 「な」"
     When a na-adjective is describing a noun, the copula 「だ」 is dropped and we use the kana 「な」 to connect the two words (hence the name na-adjectives).
 
-    Again, this explanation isn't entirely correct if we follow how grammar is taught in Japan. However, for the sake of simplicity and to make things easy to understand, we will stick with this explanation.
+    Again, this explanation isn't entirely correct according to how grammar is actually taught in Japan. However, for the sake of simplicity and to make things easy to understand, we will stick with this explanation. There's no need to fuss over the technical side of things.
 
 Examples of na-adjectives (highlighted) describing a noun:
 
@@ -258,91 +258,10 @@ The noun highlighted in {++green++} is what we are talking about, and the noun h
 
 We will learn more about the particle 「の」 in a later section.
 
-!!! tip "Trivia"
+???+ tip "Trivia"
     The example sentence #4 is the name of a Manga and Anime series. The English name of the series is "March comes in like a lion".
 
-## Copula vs Exist
-
-In English, the verb "**be**" (and its conjugation am/is/are/was/were/being/been) has **two functions**:
-
-Example | "is" is functioning as:
-:--- | :---
-Sakura **is** a Japanese person. | Copula
-Sakura **is** at the stadium. | Exist
-
-The "is" from the first sentence is expressing "Sakura belongs to the set of Japanese people". The copula allows us to express declarations about what something is. We already learned this when we learned about the だ-engine. 
-
-The "is" from the second sentence, however, is not expressing "Sakura belongs to the set of stadium". It's not expressing that Sakura is literally a stadium. Instead, it is expressing "Sakura *exists* in a stadium".
-
-In English, the word "be" is used as the copula and to also express "exist". However, in Japanese:
-
-- To express the copula, the hiragana 「だ」 is used (again, we already learned this in the section about だ-engine).
-- To express "exist", there are two verbs: 「いる」 and 「ある」.
-
-We say **「いる」** for animate objects, and **「ある」** for inanimate objects.
-
-**BIG DISCLAIMER HERE**: separating 「いる」 and 「ある」 into animate and inanimate objects, respectively, is not always true. But we can use this as a general rule of thumb.
-
-Animate objects are things that have life: humans, animals, etc.  
-Inanimate objects are things that don't.
-
-For example:
-
-- 教室に椅子が**ある**  
-*The chairs __are__ in the classroom* / *There __are__ chairs in the classroom*
-- 机の上に鉛筆が**ある**  
-*The pencil __is__ on the desk* / *There __is__ a pencil on the desk*
-- 教室にジョンさんが**いる**  
-*John __is__ in the classroom*
-- 庭に犬が**いる**  
-*The dog __is__ in the garden* / *There __is__ a dog in the garden*
-- 猫は部屋に**いる。**  
-*The cat __is__ in the room.* / *There __is__ a cat in the room*
-
-Now let's look at one example where the aforementioned rule (anime vs inanimte) doesn't apply.
-
-- ❌ チューリップがいる
-- ⭕ チューリップがある  
-*There is a Tulip*
-
-So, plants can't be used with 「いる」? Then it just seems like the rule should be "things that move" vs "things that don't move", right? Not true either. Let's look at the following sentences:
-
-- ❌ 人形がある
-- ⭕ 人形がいる  
-*There is a doll*
-- ⭕ 電車がある 
-- ⭕ 電車がいる  
-*There is a train*
-- ⭕ タクシーがある
-- ⭕ タクシーがいる  
-*There is a taxi*
-- ⭕ バスがある
-- ⭕ バスがいる  
-*There is a bus*
-- ⭕ トラックがある
-- ⭕ トラックがいる  
-*There is a truck*
-- ⭕ フィギュアがある
-- ❌ フィギュアがいる  
-*There is a figurine*
-- ⭕ 扇風機がある
-- ❌ 扇風機がいる  
-*There is an electric fan*
-- ⭕ シーリングファンがある
-- ❌ シーリングファンがいる  
-*There is a ceiling fan*
-
-Vehicles (in the broadest sense of the word) such as trains, cars, boats, etc, are generally used with 「いる」 because there are *people* inside those vehicles. Of course, vehicles can be used with 「ある」 as well, but the nuance changes slightly. If we use 「いる」 to refer to a vehicle, it's implied that we're talking about the people inside the vehicle. If we use 「ある」 to refer to a vehicle, then: 1. we're talking about the vehicle itself or 2. we're implying that the vehicle has no one in it. There was a news article by the NHK with the title:
-
-- 「不審な ==船== が{++いる++}」
-
-Here, ==「船」== means "ship", and it's being used with {++「いる」++} which is for animate objects according to our rule of thumb. By using 「いる」 here, it is implied that the title is referring to the people inside the ship.[^1]
-
-[^1]: [NHKニュース　「不審な船がいる」の「いる」について](https://lang-8.com/293700/journals/1257964)
-
-Generally speaking, it is OK to simply use 「いる」 for humans and animals, and 「ある」 for the rest. If an exception comes up, like the ones you see above, then you just have to memorize and get used to those few exceptions.
-
-## Inflection
+## Basic Inflection
 
 So far, we learned how to make simple sentences using the main wagon "A" and the engine "B", and we also learned how to describe a noun by using the engine "B". We're now ready to learn how to express those sentences in negative, past-tense, and negative past-tense. Let's remind ourselves of the three types of engines:
 
@@ -352,21 +271,21 @@ Engine name | Used for sentences of type:
 だ-engine | Noun-sentence + Adjective-sentence (na-adjectives)
 い-engine | Adjective-sentence (i-adjectives)
 
-In Japanese, if we want to express negative, past-tense, negative past-tense, conditional, causative, etc, **we just have to inflect the engine**. Inflection means changing part of a word (usually the ending) to express a grammatical function or attribute.
+In Japanese, if we want to express negative, past-tense, negative past-tense, conditional, causative, etc, **we just have to inflect the engine**. Inflection means changing part of a word (usually the ending) to express a grammatical function or attribute. For example, in English, the verb "see" can inflect into "saw", "sees", "seen" to express present/past and singular/plural, etc. In Japanese, verbs (and words in general) don't express singular/plural, but they can express a lot more than English verbs can.
 
-We will learn how to inflect into negative, past-tense, and negative past-tense for now.
+For now, we will only learn how to inflect the engine to express negative, past-tense, and negative past-tense.
 
 ### Negative
 
-To express negative, we attach the **helper verb 「ない」** to the engine.
+To inflect into negative, we attach the **helper verb 「ない」** to the engine.
 
-!!! info "う-engine"
-    **For ru-verbs**, drop the 「る」 and attach the helper verb 「ない」. Examples:
+???+ info "う-engine"
+    **For one-row verbs**, drop the 「る」 and attach the helper verb 「ない」. Examples:
     
     - 食べ{--る--} → 食べ{++ない++}
     - 起き{--る--} → 起き{++ない++}
 
-    **For u-verbs**, change the last kana into its corresponding /a/ equivalent and attach the helper verb 「ない」. Examples:
+    **For five-rows verbs**, change the last kana into its corresponding 「あ」 row variant and attach the helper verb 「ない」. Examples:
 
     - 書 ==く== → 書 ==か== {++ない++}
     - 話 ==す== → 話 ==さ== {++ない++}
@@ -377,7 +296,7 @@ To express negative, we attach the **helper verb 「ない」** to the engine.
     - 泳 ==ぐ== → 泳 ==が== {++ない++}
     - 遊 ==ぶ== → 遊 ==ば== {++ない++}
 
-    **For u-verbs that specifically end in 「う」**, change the 「う」 to 「わ」 and attach the helper verb 「ない」. Examples:
+    **For five-rows verbs that specifically end in 「う」**, change the 「う」 to 「わ」 and attach the helper verb 「ない」. Examples:
 
     - 言 ==う== → 言 ==わ== {++ない++}
     - 思 ==う== → 思 ==わ== {++ない++}
@@ -388,7 +307,7 @@ To express negative, we attach the **helper verb 「ない」** to the engine.
     - 来る → 来{++ない++} (pronounced as くる → こ{++ない++})
     - ある → {++ない++}
 
-    !!! example 
+    ???+ example 
         Let's look at one example sentence:
 
         - さくらが食べない  
@@ -399,7 +318,7 @@ To express negative, we attach the **helper verb 「ない」** to the engine.
         - ==知らない== 人と話す  
         *Talk to a person ==that (I) don't know==* / *Talk to a stranger*
 
-!!! info "だ-engine"
+???+ info "だ-engine"
     Change 「だ」 to 「では」 and attach the helper verb 「ない」. Examples:
 
     - 学生 ==だ== → 学生 ==では== {++ない++}
@@ -410,7 +329,7 @@ To express negative, we attach the **helper verb 「ない」** to the engine.
     - 学生 ==だ== → 学生 ==じゃ== {++ない++}
     - 静か ==だ== → 静か ==じゃ== {++ない++}
 
-    !!! example
+    ???+ example
         Let's look at one example sentence:
 
         - さくらが学生じゃない  
@@ -421,7 +340,7 @@ To express negative, we attach the **helper verb 「ない」** to the engine.
         - ==学生じゃない== さくらが勉強する  
         *Sakura ==who is not a student== studies*
 
-!!! info "い-engine"
+???+ info "い-engine"
     Change 「い」 to 「く」 and attach the helper verb 「ない」. Examples:
 
     - 優し ==い== → 優し ==く== {++ない++}
@@ -432,7 +351,7 @@ To express negative, we attach the **helper verb 「ない」** to the engine.
 
     - 良 ==い== → 良 ==く== {++ない++} (pronounced as いい → よくない)
 
-    !!! example
+    ???+ example
         Let's look at one example sentence:
 
         - ラーメンが美味しくない  
@@ -443,20 +362,20 @@ To express negative, we attach the **helper verb 「ない」** to the engine.
         - ==優しくない== 人が怖い  
         *People ==who are not kind== are scary*
 
-    !!! tip Trivia
+    ???+ tip Trivia
         The word 「良い」(usually written in kana only 「いい」) was originally pronounced as 「よい」. It eventually became 「いい」 but its inflection still retains the original form. Nowadays, the word 「良い」 can still be pronounced as 「よい」 but it's not common.
 
 ### Past-Tense
 
-To express past-tense, we attach the helper verb 「た」 to the engine.
+To inflect into past-tense, we attach the helper verb 「た」 to the engine.
 
-!!! info "う-engine"
-    **For ru-verbs**, drop the 「る」 and attach the helper verb 「た」. Examples:
+???+ info "う-engine"
+    **For one-row verbs**, drop the 「る」 and attach the helper verb 「た」. Examples:
 
     - 食べ{--る--} → 食べ{++た++}
     - 起き{--る--} → 起き{++た++}
 
-    **For u-verbs**, the inflection will vary depending on the last kana, and then attach the helper verb 「た」.
+    **For five-rows verbs**, the inflection will vary depending on the last kana, and then attach the helper verb 「た」.
     
     **〜す**
 
@@ -486,7 +405,7 @@ To express past-tense, we attach the helper verb 「た」 to the engine.
     - 行く → 行っ{++た++}
     - 問う → 問う{++た++}
     
-    !!! example
+    ???+ example
         Let's look at one example sentence:
 
         - ラーメンが美味しくない  
@@ -497,13 +416,13 @@ To express past-tense, we attach the helper verb 「た」 to the engine.
         - ==優しくない== 人が怖い  
         *People ==who are not kind== are scary*
 
-!!! info "だ-engine"
+???+ info "だ-engine"
     Change 「だ」 to 「だっ」 and attach the helper verb 「た」. Examples:
 
     - 学生 ==だ== → 学生 ==だっ== {++た++}
     - 静か ==だ== → 静か ==だっ== {++た++}
 
-    !!! example
+    ???+ example
         Let's look at one example:
 
         - さくらが学生だった  
@@ -514,40 +433,53 @@ To express past-tense, we attach the helper verb 「た」 to the engine.
         - ==子供だった== さくらが立派な大人になった  
         *Sakura ==who was a child== became a splendid adult*
 
-!!! info "い-engine"
+???+ info "い-engine"
     Change 「い」 to 「かっ」 and attach the helper verb 「た」
     
-    - 優しい → 優しかった
-    - 美味しい → 美味しかった
-    - 温かい → 温かかった
+    - 優し ==い== → 優し ==かっ== {++た++}
+    - 美味し ==い== → 美味し ==かっ== {++た++}
+    - 温か ==い== → 温か ==かっ== {++た++}
 
     **Exceptions**:
 
     - 良 ==い== → 良 ==かっ== {++た++} (pronounced as いい → よかった)
 
+    ???+ example
+        Let's look at one example sentence:
+
+        -　ゲームが楽しかった  
+        *Game was fun*
+
+        We can also describe a noun:
+
+        - ==楽しかった== 時間が戻らない
+        *Time ==that was fun== won't come back*
+
 ### Negative Past-Tense
 
-### てーform
+We already know how to inflect into negative with the helper verb 「ない」. Notice that 「ない」 ends with the kana 「い」. To inflect into the negative past-tense, we can treat 「ない」 as an い-engine and inflect into past-tense. In other words:
 
-### 
+To inflect into **negative past-tense for all 3 engines**, we first inflect into negative with 「ない」, and then inflect 「ない」 into past-tense with 「た」.
 
-## Transitive and Intransitive verbs
+???+ info
+    **う-engine**
 
-## More particles
+    Non-past → | Negative → | Negative past-tense
+    :---: | :---: | :---:
+    言 ==う== → | 言 ==わ== {++ない++} → | 言 ==わなかっ== {++た++}
+    Say | Do not say | Did not say  
 
-### 「と」
+    **だ-engine**
 
-### 「や」and「とか」
+    Non-past → | Negative → | Negative past-tense
+    :---: | :---: | :---:
+    ==だ== → | ==では== {++ない++} → | ==ではなかっ== {++た++}  
+    ==だ== → | ==じゃ== {++ない++} → | ==じゃなかっ== {++た++}  
+    Is | Is not | Was not
 
-### Possesive 「の」
+    **い-engine**
 
-### Explanatory 「の」
-
-## Sentence ending particles
-終助詞
-
-### 「ね」
-
-### 「よ」
-
-### 「よね」
+    Non-past → | Negative → | Negative past-tense
+    :---: | :---: | :---:
+    楽し ==い== → | 楽し ==く== {++ない++} → | 楽し ==くなかっ== {++た++}
+    Is fun | Is not fun | Was not fun
