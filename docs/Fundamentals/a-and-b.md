@@ -423,7 +423,7 @@ Main wagon "A" | Engine "B" | English
 
 #### How native speakers actually use だ-engine 
 
-Colloquially, you will most likely hear native speakers talk **without ending their sentences with 「だ」**. For example, a dialogue between two friends can look like:
+Colloquially, you will most likely hear native speakers have a **dialogue/conversation** without ending their sentences with 「だ」. For example, a dialogue between two close friends can look like:
 
 Note: 「元気」 means "in good health"
 
@@ -448,14 +448,14 @@ A simple "yes" | Main wagon "A" | Engine "B"
 :---: | :---: | :---:
 うん、 | Ø が | 元気
 
-The point I want to make here is that *person B* said "Yes, I **am** OK" 「うん、元気。」 in Japanese without actually saying the "**am**" part (without actually saying the copula 「だ」). This is very common in casual conversations. In fact, it's so common to the point where if you actually say 「だ」 *at the end of your sentences*, you might sound like an anime character (specifically shounen anime).
+The point I want to make here is that *person B* said "Yes, I **am** OK" 「うん、元気。」 in Japanese without actually saying the "**am**" part (without actually saying the copula 「だ」). This is very common in casual **dialogues/conversations**. In fact, it's so common to the point where if you end your sentences in 「だ」 in casual **dialogues/conversations**, you might sound like an anime character (specifically shounen anime).
 
-Here's a few lines from an anime character:
+Here's a two lines from an anime character:
 
 - 俺はガキではないの ==だ==。
 - 俺の店 ==だ==。
 
-If this was said by someone in real life, it would probably be like this instead:
+If this was a real life conversation, it would probably be like this instead:
 
 - 俺はガキじゃない / 俺はガキじゃない ==よ== / 俺はガキじゃない ==んだよ==
 - 俺の店 / 俺の店 ==だよ==
@@ -478,13 +478,24 @@ As you can see, they don't end their sentences with 「だ」. This can be rephr
 
 Hopefully, you can see that it sounds very anime-ish.
 
-**So when do native speakers actually say 「だ」?**  
-Like we saw earlier, it's not that they don't say 「だ」, it's that they dont *end their sentences* in 「だ」. In a casual conversation, it is a lot more natural to end your sentences with 「よ」、「ね」、「な」、「よね」、「かな」、etc. These are called "sentence ending particles", and we will learn about them in a later section. Regardless of which engine the sentence is using, native speakers like to end it with a "sentence ending particles". And if the sentence happens to be using a だ-engine, then it will be 「だ」＋「。。。」, such as 「だよ」、「だね」、「だよね」、etc. It is also very common for women to omit 「だ」 even if they are ending their sentences with "sentence ending particles". Example:
+**So when do native speakers say 「だ」?**  
+Like we saw earlier, it's not that they don't say 「だ」, it's that they dont end their sentences in 「だ」 in a casual **dialogue/conversation**. In a casual conversation, it is a lot more natural to end your sentences with 「よ」、「ね」、「な」、「よね」、「かな」、etc. These are called "sentence ending particles", and we will learn about them in a later section. Regardless of which engine the sentence is using, native speakers like to end it with a "sentence ending particles". And if the sentence happens to be using a だ-engine, then it will be 「だ」＋「。。。」, such as 「だよ」、「だね」、「だよね」、etc. It is also very common for women to omit 「だ」 even if they are ending their sentences with "sentence ending particles". Example:
 
 - ヤキモチ妬き ==だよね==　←　Both men and women speak like that
 - ヤキモチ妬き ==よね==　←　Only women speak like that
 
-**Let me re-emphasize that this is in the context of *casual, everyday conversation*. A *complete and proper sentence* still requires the copula 「だ」in an "A is B" sentence that uses the だ-engine.**
+**However**, there are times when native speakers end their sentences in 「だ」. This typically only occur when it's **NOT** a dialogue/conversation. There are a variety of reasons for them to end their sentences in 「だ」. One of them is to make the sentence sound more emphatic. For example, if a guy is confessing his love to a girl, he might shout:
+
+- 好きだ！
+
+Other reasons to end a sentence in 「だ」 are:
+
+- Emphatic self-expression (like the 「好きだ！」 we saw earlier)
+- Sounding the alarm
+- Invading personal space
+- Casual conversation (this is often accompained with sentence ending particles, like we discussed earlier)
+
+Explaining each reason is beyond the scope of this grammar guide. If you wish to read more about it, you can start [here](https://www.tofugu.com/japanese/da-vs-desu-in-real-life/).
 
 ### い-engine
 

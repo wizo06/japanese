@@ -288,7 +288,7 @@ Alice: No, Tom is **also** not student.
 
 ## Case marking particles
 
-Case marking particles (「格助詞」 in Japanese) are particles that mark the role of a word in a sentence.
+Case marking particles (「格助詞」 in Japanese) are particles that mark the role of a word in a sentence. We will take a look at a few of them here.
 
 ### 「が」
 
@@ -370,7 +370,6 @@ The 「は」 and 「が」 particles are actually quite different if we use the
     <td style="text-align: center">学生だ</td>
   </tr>
 </table>
-
 
 The 「が」 particle identifies a specific entity as *the* thing while the 「は」 particle is used only to bring up a new topic of conversation. This is why, in longer sentences, it is common to separate the topic with commas to remove ambiguity about which part of the sentence the topic applies to.
 
@@ -700,16 +699,16 @@ _Yeah. The strawberry **one** was delicious but the chocolate **one** not so muc
 We learned in the previoius section that:
 
 ???+ quote
-    The inclusion of 「も」 must be consistent with the answer.
+    The inclusion of 「も」 must be consistent.
 
-Let's revisit that statement and see what it actually means.
+Let's see what we mean by "consistent" by comparing 「も」 to 「は」.
 
 ???+ info "The main difference between 「は」 and 「も」"
     - 「は」 changes the topic, and implies that the comment of the new topic is **different** from the comment of the old topic.
 
     - 「も」 also changes the topoic, but it implies that the comment of the new topic is the **same** as the comment of the old topic.
 
-*That* is what I meant by "consistent".
+This is why 「も」 can only be used when the comment is "consistent" with the previous comment. Furthermore, the other function of the particle 「は」 is to be the **contrastive topic particle** ーas opposed to the particle 「も」 which is the inclusive topic particleー precisely because the comment on the new topic is different from the comment of the previous topic.
 
 Suppose we have a first topic "Alice", and the comment about her is "is student":
 
@@ -749,9 +748,9 @@ Then, we **can** use 「も」 in the second topic, because the *comment* of bot
 
 ### 「は」 vs 「が」
 
-Now that we learned about the grammatical usage of 「は」 and 「が」, it might still be a little bit confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B".
+We learned about the grammatical usage of 「は」 and 「が」: one is a flag, the other is the main wagon. However, it might still be confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B".
 
-Let's explain the difference between 「は」 and 「が」 again, but not from the perspective of grammar, but from the perspective of communication/conversation. *How do native speakers use those particles?*
+Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar, but from the perspective of communication/conversation. *How do native speakers use those particles?*
 
 ???+ info "The main difference bewtween 「は」 and 「が」"
 

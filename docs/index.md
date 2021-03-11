@@ -119,31 +119,19 @@ However, grammar will not necessarily improve your output. In fact, more likely 
 
 There are tons of Japanese grammar guides out there. You should find the easiest one to understand for you. This guide is simply yet another one. If you find this one easy to undersand, then by all means use it.
 
-With that out of the way, let's talk about this guide specifically. I will try my best to avoid using linguistic terms in this guide for those of you who are not familiar with them. I wrote this grammar guide hoping that other people can learn Japanese grammar in a more structured way that makes sense.
+With that out of the way, let's talk about this guide specifically. I will try my best to avoid using linguistic terms in this guide for those of you who are not familiar with them. However, it will help you a lot if you at least know some basic linguistic terms like nouns, adjectives, verbs, etc. I wrote this grammar guide hoping that other people can learn Japanese grammar in a more structured way that makes sense. When I say "structured way", I mean "building blocks". We start from zero, and every new grammar that we learn is built upon previous grammars.
 
 **How to use this guide**  
-This guide is meant to be used in tandem with immersion. Unlike traditional textbooks where it's separated into lessons and you're expected to comprehend one lesson before moving onto the next one, this is simply a guide. Think of it like a reference sheet. I only expect you to read through the guide and **be aware** that such grammar exists. You don't have to bother too much with the small details. The general approach with grammar is to read about the basics and see what sticks, but don't stress over it. Anything that you don't get the first time will come naturally through immersion. On top of that, you can always go back and revisit the grammar guide throughout your immersion "journey".
+I only expect you to read through the guide and **be aware** that such grammar exists. You don't have to bother too much with the small details. The general approach with grammar is to read about the basics and see what sticks, but don't stress over it. Anything that you don't get the first time will come naturally through immersion. On top of that, you can always go back and revisit the grammar guide.
 
 Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) about learning grammar:
 
 ???+ quote
     When approaching grammar, it is important to know that the purpose of a grammar guide is not to make you a master at the language, but to give you only a basic understanding of how things work in the language, and then a true understanding of grammar can only be achieved through immersion. Therefore, I recommend you choose a grammar guide, read/watch it and do immersion.
 
-???+ info  "Ambiguity in grammar rules"
-    Like I said earlier, grammar simply **attempts to describe** how a language works. Therefore, depending on which grammar model you're learning from, the explanation will also differ. It's also possible that one grammar rule might look very identical to another one within the same model/guide. If there's a grammar rule that you can't understand no matter how many times you read the explanation, it's OK to put it aside and move on. This is especially true for grammar rules that have very small nuances. You are more likely to pick up on those nuances through immersion anyways.
-
-    After all, grammar is simply there to help you accelerate your listening and reading comprehension (i.e. immersion). If there's a grammar rule you don't understand, then put it aside and revisit it later. By the time you decide to revisit it, you might very well have picked up on how the grammar rule actually works through immersion.
-
-    One last point I would like to bring up is: this is a grammar **guide**, not a grammar **bible**. This guide is simply here to help you "steer" during your immersion "journey". **The heavy lifting is still done through immersion**.
-
-**This grammar guide is largely a consolidation from three sources:** 
-
-- [Tae Kim](http://www.guidetojapanese.org/learn/grammar)
-- [Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
-- [国語の文法](https://www.kokugobunpou.com/)
-
 **Knowledge about language acquisition is largely from:**
 
 - [TheMoeWay](https://learnjapanese.moe/)
 - [Refold](https://refold.la/)
 - [Matt vs Japan](https://www.youtube.com/user/MATTvsJapan)
+- [Stephen Krashen](https://www.youtube.com/watch?v=NiTsduRreug)
