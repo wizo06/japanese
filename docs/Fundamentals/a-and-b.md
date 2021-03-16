@@ -205,7 +205,7 @@ Example | Expressing:
 That person is Sakura. | What something is
 Sakura is a student. | What something is
 
-In the first sentence, it expresses what "that person" is: "Sakura". In the second sentence, it expresses what Sakura is: "a student". A **noun** is a word that is used to identify a class of people, places, things, etc.
+In the first sentence, it expresses what "that person" is: "Sakura". In the second sentence, it expresses what Sakura is: "a student". A **noun** is a word that is used to identify a class of people, places, things, etc. "Sakura" from the first example, and "student" from the second example, are both nouns. When we say "noun-A is noun-B", we are saying "noun-A belongs to the set of noun-B". For example, in the second sentence, we are saying "Sakura belongs to the set of student".
 
 Other examples of nouns are:
 
@@ -294,9 +294,9 @@ This engine is used for expressing sentences like "A does B", where "B" is a ver
     - 書 ==か== {++ない++}  
     *Not write*
 
-    Notice that in 「書 ==く== 」→「書 ==か== {++ない++}」, we changed 「く」 to 「か」, and then attached 「ない」. If we were to attach a different helper verb, then the 「く」 might have to change to 「き」、「け」、or 「こ」. If we look at the hiragana chart above, that's all 5 variants for the /k/ consonant: 「か」、「き」、「く」、「け」、「こ」. Each variant corresponds to one row, therefore this type of verbs is called **"five-rows" 「五段」**. Some textbooks call this "ru-verb".
+    Notice that in 「書 ==く== 」→「書 ==か== {++ない++}」, we changed 「く」 to 「か」, and then attached 「ない」. If we were to attach a different helper verb, then the 「く」 might have to change to 「き」、「け」、or 「こ」. If we look at the hiragana chart above, that's all 5 variants for the /k/ consonant: 「か」、「き」、「く」、「け」、「こ」. Each variant corresponds to one row, therefore this type of verbs is called **"five-rows" 「五段」**. Some textbooks call this "u-verb".
 
-    Now, notice that in 「食べ{--る--}」→「食べ{++ない++}」, we simply dropped 「る」 and attached 「ない」. If we were to attach a different helper verb, the 「食べ」 part will still stay the same -it will always be fixed-. The 「食べ」 part ends with the kana 「べ」, and this kana never changes no matter what inflection we do to the verb. If we look at the hiragana chart above, the 「べ」 "stays" on the same row regardless of inflection, therefore this type of verbs is called **"one-row" 「一段」**. Some textbooks call this "u-verb".
+    Now, notice that in 「食べ{--る--}」→「食べ{++ない++}」, we simply dropped 「る」 and attached 「ない」. If we were to attach a different helper verb, the 「食べ」 part will still stay the same -it will always be fixed-. The 「食べ」 part ends with the kana 「べ」, and this kana never changes no matter what inflection we do to the verb. If we look at the hiragana chart above, the 「べ」 "stays" on the same row regardless of inflection, therefore this type of verbs is called **"one-row" 「一段」**. Some textbooks call this "ru-verb".
 
 Examples:
 
@@ -531,13 +531,9 @@ Main wagon "A" | Engine "B" | English
 さくらが | 優しい。 | Sakura is kind.
 
 ???+ warning "Do not use 「だ」 with i-adjectives"
-    Notice that we don't use the copula 「だ」 with i-adjectives, even though this is an "A is B" type sentence.
+    Notice that we don't use the copula 「だ」 with i-adjectives, even though this is an "A is B" type sentence. There are many ways to explain why this is, but we'll use this following explanation because it's the easiest to understand:
 
-???+ question "Why not use 「だ」?"
-    Because **the copula is built into the i-adjective, which is the last kana 「い」 of the adjective.** This applies to all i-adjectives.
-
-???+ failure "Using 「だ」 with i-adjectives"
-    If we say: 「さくらが優しいだ。」 then we would be saying "Sakura is kind is", which is incorrect and makes no sense.
+    Unlike nouns and na-adjectives where we have to use the copula 「だ」, i-adjectives already have the copula built into them. For example, 「優しい」 does NOT mean "kind", it means "is kind".
 
 ## Copula vs Exist
 

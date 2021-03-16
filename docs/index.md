@@ -42,10 +42,10 @@ Before we start talking about *learning* a language, there are three points I wo
 
 **Point #1**
 
-???+ quote
+???+ quote "Quote from a [video](https://youtu.be/QYlVJlmjLEc) by Tom Scott"
     "Most monolingual speakers think that other languages are basically just *their* language, with different words, in a slightly different order, and maybe a different way of writing."
 
-The point that I want to make here is that, languages are *not* all the same. Do NOT try to learn Japanese with the impression that there is always a 1:1 relation between Japanese and English (or any other language). That quote is from the first 10 seconds of [this video](https://youtu.be/QYlVJlmjLEc) by Tom Scott. (3m59s)
+The point that I want to make here is that, languages are *not* all the same. Do NOT try to learn Japanese with the impression that there is always a 1:1 relation between Japanese and English (or any other language). The fact that machine translation is never perfect should be enough proof that the difference between any two languages is not simply a matter of "word order" and "written differently". More about [machine translation here](https://youtu.be/GAgp7nXdkLU). (5m04s)
 
 **Point #2**
 
@@ -108,7 +108,7 @@ In other words, grammar is a set of rules that attemps to model how a language w
 
 So **why should you learn grammar?** You can speed up your listening and reading *comprehension* (i.e. acquisition) skills by learning grammar. Of course, you can improve those skills without learning grammar as well, but the improvement will be slower. 
 
-However, if you only memorize grammar and vocabulary but don't get input (immersion), it doesn't matter how much grammar and vocabulary you memorize, it will be **meaningless**. Period. No one ever got good at swimming by only watching videos about swimming and studying the physics and science behind swimming. You have to ACTUALLY swim to get good at swimming. Now, I know this analogy is not perfect for language acquisition. Some people might mistakenly think that "Oh, so I need to speak a lot in my target language to get good at my target language?" from reading this analogy. However, "you have to actually swim" actually refers to INPUT, not output. The whole point is to get experience on "how those grammars and vocabularies are actually used by native speakers". And output will not help you in that regard.
+However, if you only memorize grammar and vocabulary but don't get input (immersion), it doesn't matter how much grammar and vocabulary you memorize, it will be **meaningless**. Period. No one ever got good at swimming by only watching videos about swimming and studying the physics and science behind swimming. You have to ACTUALLY swim to get good at swimming. Now, I know this analogy is not perfect for language acquisition. Some people might mistakenly think that "Oh, so I need to speak a lot in my target language to get good at my target language?" from reading this analogy. However, "you have to actually swim" actually refers to INPUT, not output. The whole point is to get experience on "how those grammars and vocabularies are actually used by native speakers". And output will not help you in that regard. [Here's a complimentary video for what I just talked about](https://youtu.be/_LIz-Wbt4us). (29m07s)
 
 Grammar -like we said earlier- is just something that attempts to describe how a language works. In other words, grammar is a model of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. By learning grammar, you are essentially giving your brain a model to start from. (To learn more about modeling, I suggest [this video by Matt](https://youtu.be/UHAa0mFOsYM))
 

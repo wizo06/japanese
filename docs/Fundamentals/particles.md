@@ -375,12 +375,12 @@ The 「が」 particle identifies a specific entity as *the* thing while the 「
 
 ### 「を」
 
-**「を」 is the direct object particle**. Essentially, it marks *what* the verb is *"verb"'ing* to. The kana 「を」 is essentially never used anywhere else. The kana 「を」 , while technically pronounced as 「を」 essentially sounds like 「お」 in real speech. Here are some examples setences:
+**The particle 「を」 has three functions, and can be summarized as "the direct object particle"**. Essentially, it marks *what* the verb is *"verb"'ing* to. The kana 「を」 , while technically pronounced as 「を」 essentially sounds like 「お」 in real speech. 
+
+**Function 1**:
 
 Note: 「魚」（さかな） means "fish" 
-「食べる」（たべる）＝ eat  
 「ジュース」 means "juice"  
-「飲む」（のむ）＝ drink
 
 - ⿂を⾷べる。
 
