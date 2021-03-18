@@ -45,7 +45,7 @@ Before we start talking about *learning* a language, there are three points I wo
 ???+ quote "Quote from a [video](https://youtu.be/QYlVJlmjLEc) by Tom Scott"
     "Most monolingual speakers think that other languages are basically just *their* language, with different words, in a slightly different order, and maybe a different way of writing."
 
-The point that I want to make here is that, languages are *not* all the same. Do NOT try to learn Japanese with the impression that there is always a 1:1 relation between Japanese and English (or any other language). The fact that machine translation is never perfect should be enough proof that the difference between any two languages is not simply a matter of "word order" and "written differently". More about [machine translation here](https://youtu.be/GAgp7nXdkLU). (5m04s)
+The point that I want to make here is that, languages are *not* all the same. Do NOT try to learn Japanese with the impression that there is always a 1:1 relation between Japanese and English (or any other language). The fact that machine translation is never perfect should be enough proof that the difference between any two languages is not simply a matter of "word order" and "written differently". In fact, even if the translation was done by a human who is very fluent in both languages, nuances will still be lost. More about [machine translation here](https://youtu.be/GAgp7nXdkLU). (5m04s)
 
 **Point #2**
 
@@ -54,6 +54,15 @@ I would also like to emphasize that languages are just one way to express though
 > Do NOT learn learn Japanese (or any other language) with the approach of "how do I say this English phrase in Japanese?", but instead try to learn it with the approach of "how do I express this thought (*mentalese*) in Japanese?". 
 
 There's a *very big* distinction between those two approaches. To learn more about *mentalese* and the point I'm trying to make here, [I recommend this video](https://youtu.be/CRmxNFv04ao) by Matt. (15m07s)
+
+Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/output-troubleshooting#NL-Conflicts):
+
+???+ quote
+    One of the most common output errors is when you express something as a translation from your NL rather than the natural way it should be expressed in your TL.
+
+    ..., each language has a different way of viewing the world. To speak naturally in your TL, you need to adopt the worldview of your TL.
+
+    Most of the time, you have already acquired the necessary language, but just need to change your mindset. The key to getting around this is asking yourself the right question. Instead of asking, “How do I say this?”, ask yourself “What would a native speaker say in this situation?”. This subtle reframing of the question will often produce completely different results from your subconscious.
 
 **Point #3**
 
@@ -99,12 +108,12 @@ This guide only teaches grammar. It doesn't teach vocabulary. For more details o
 
 ### 5. Grammar
 
-Let's define what grammar is.  
+First, let's define what grammar is.  
 
 ???+ quote
     "In linguistics, the grammar of a natural language is its set of structural constraints on speakers' or writers' composition of clauses, phrases, and words." - [Wikipedia](https://en.wikipedia.org/wiki/Grammar)
 
-In other words, grammar is a set of rules that attemps to model how a language works. It is important to emphasize that grammar **does not define** how a language works, but it simply **attempts to describe** how it works. Grammar rules are made after-the-fact. On top of that, languages are always evolving. An incorrect grammar today, could very well be a correct one tomorrow.
+In other words, grammar is a set of rules that attemps to model how a language works. It is important to emphasize that grammar **does not define** how a language works, but it simply **attempts to describe** how it works. Grammar rules are made after-the-fact. On top of that, languages are always evolving. An incorrect grammar today, could very well be a correct one tomorrow. As an example, around 30 years ago, saying 「全然大丈夫」 would have been incorrect. Nowadays, everyone says it (even in the news).
 
 So **why should you learn grammar?** You can speed up your listening and reading *comprehension* (i.e. acquisition) skills by learning grammar. Of course, you can improve those skills without learning grammar as well, but the improvement will be slower. 
 
@@ -129,9 +138,20 @@ Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) abo
 ???+ quote
     When approaching grammar, it is important to know that the purpose of a grammar guide is not to make you a master at the language, but to give you only a basic understanding of how things work in the language, and then a true understanding of grammar can only be achieved through immersion. Therefore, I recommend you choose a grammar guide, read/watch it and do immersion.
 
-**Knowledge about language acquisition is largely from:**
+**LEARN TO TOLERATE AMBIGUITY**  
+It is OK if something feels ambiguous in your target language (in this case it's Japanese). If something feels ambiguous, it means that the model in your brain is not refined enough to tell apart the little details and nuances of it. The more input you get, the more refined your model will become. To read more about tolerating ambiguity, refer to [this page from Refold](https://refold.la/roadmap/stage-0/b/tolerate-ambiguity).
+
+## References
+
+Language acquisition
 
 - [TheMoeWay](https://learnjapanese.moe/)
 - [Refold](https://refold.la/)
 - [Matt vs Japan](https://www.youtube.com/user/MATTvsJapan)
 - [Stephen Krashen](https://www.youtube.com/watch?v=NiTsduRreug)
+
+This grammar guide is largely a consolidation of
+
+- [Tae Kim](http://www.guidetojapanese.org/learn/grammar)
+- [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+- [国語の文法](https://www.kokugobunpou.com/)

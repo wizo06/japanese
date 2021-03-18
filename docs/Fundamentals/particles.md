@@ -375,34 +375,50 @@ The 「が」 particle identifies a specific entity as *the* thing while the 「
 
 ### 「を」
 
-**The particle 「を」 has three functions, and can be summarized as "the direct object particle"**. Essentially, it marks *what* the verb is *"verb"'ing* to. The kana 「を」 , while technically pronounced as 「を」 essentially sounds like 「お」 in real speech. 
+The particle 「を」 has many functions. We'll look at a few functions below. The kana 「を」 , while technically pronounced as 「を」, essentially sounds like 「お」 in real speech. 
 
-**Function 1**:
+**Function 1: Marks the Direct Object of a verb**
 
-Note: 「魚」（さかな） means "fish" 
-「ジュース」 means "juice"  
+This is probably the easiest function to understand by simply looking at a few example sentences.
 
-- ⿂を⾷べる。
+- ⿂を⾷べる。  
+*Eat fish*
 
 Main wagon "A" | Wagon 「を」 | Engine "B"
 :---: | :---: | :---:
 Ø | ⿂を | ⾷べる
 
-*Eat fish*
-
-The verb is 「食べる」 which means "eat". *What* is being eaten? The 「魚」.  
-
-- ジュースを飲む。
-
-Main wagon "A" | Wagon 「を」 | Engine "B"
-:---: | :---: | :---:
-Ø | ジュースを | 飲む
-
-*Drink juice*
-
-The verb is 「飲む」 which means "drink". *What* is being drunk? The 「ジュース」.
-
 Some more examples:
+
+- 石を投げる。  
+*Throw rocks*
+
+- 鍵を探す。  
+*Find keys*
+
+- リンゴの皮を剥く。  
+*Peel apple's skin*
+
+- 庭を掃く。  
+*Sweep garden.* / *Sweep yard.*
+
+- 黒板を消す。  
+*Erase blackboard*
+
+- 黒板の字を消す。  
+*Erase blackboard's words.* (Erase what's written on the blackboard)
+
+- 字を書く。  
+*Write words.*
+
+- パンを焼く。  
+*Bake bread*
+
+- 勝利を目指す。  
+*Aim victory*
+
+- お金を費やす。  
+*Spend money*
 
 - 本を読む。  
 *Read book*
@@ -419,25 +435,58 @@ Some more examples:
 - パソコンを使う。  
 *Use computer*
 
-Unlike the direct object in English, places can also be the direct object of certain motion verbs. However, as you can see by the next examples, it often translates to something different in English due to the slight difference of the concept of direct object.
+- 友達を殴る。  
+*Punch friend*
 
-- 街を歩く。  
+- 顔を撫でる。  
+*Caress face*
+
+- 家を建てる。  
+*Build house*
+
+- 穴を掘る。  
+*Dig hole*
+
+A *direct object* of a verb, is a word that the verb is acting on. It indicates the object of the action. If I say "I eat fish", you can ask "what are you eating?", and my answer would be "fish". The verb "eat" is acting on the word "fish".
+
+**Function 2: Marks the path/place of motion verbs**
+
+Unlike the direct object in English, places can also be the direct object of certain motion verbs in Japanese. However, as you can see by the next examples, it often translates to something different in English due to the slight difference of the concept of direct object.
+
+- 街を歩く。(Lit: Walk street)  
 *Walk through street.* 
 
-- ⾼速道路を⾛る。  
+- ⾼速道路を⾛る。(Lit: Run expressway)  
 *Run through expressway.* 
 
-- 自宅を出る。
-*Leave the house.* 
-
-- 空を飛ぶ。  
+- 空を飛ぶ。(Lit: Fly sky)  
 *Fly through the sky.*
+
+- 横断歩道を渡る。(Lit: Cross pedestrian walk)  
+*Cross over crosswalk.* / *Cross over pedestrian crossing.* / *Cross over pedestrian walk.*
+
+- 山道を登る。(Lit: Climb mountain path)  
+*Climb up mountain path.*
+
+- 階段を降りる。(Lit: Descend stairs)  
+*Go down the stairs.*
+
+- 我が道を行く。(Lit: Go my path)  
+*Go my own way.* / *Follow my own path.*
+
+**Function 3: Marks the starting point of a motion verb**
 
 - 電車を降りる。  
 *Get off the train.*
 
-- 横断歩道を渡る。  
-*Cross over crosswalk.* / *Cross over pedestrian crossing.*
+- 家を出る。  
+*Leave the house.* 
+
+- 故国を離れる。  
+*Separate from homeland.* / *Go away from homeland.*
+
+- 脇道を入る。  
+*Enter side road*
 
 ### 「に」
 
