@@ -1,5 +1,8 @@
 # Particles
 
+!!! tip "Author's note"
+    Particles can be very confusing if you're not used to them. If there's any grammar that I don't expect you to fully understand it before moving onto the next one, this will be it. You should expect to come back and revisit this page often if you encounter a particle in your input (reading and listening) that you don't understand. That being said, this page does not have all the particles, nor does it have all the different functions of each particle. If you're at intermediat level, I suggest you to look up the particle on a monolingual dictionary.
+
 ## What are particles?
 Let's use the following sentence to illustrate what a particle is:
 
@@ -223,7 +226,7 @@ The "Topic" simply brings something up as... well, the topic of the conversation
 
 **「も」 is the inclusive topic particle**. It is essentially the topic particle with the additional meaning of "also". Basically, it can introduce another topic in addition to the current topic. Its usage is best explained by an example.
 
-- 私**も**学生だ。
+- 私 ==も== 学生だ。
 
 <table>
   <tr>
@@ -246,7 +249,7 @@ Let's look at 「も」 in dialogues:
 **Example 1**
 
 ボブ： アリスは学⽣？  
-アリス： うん、トム**も**学⽣。
+アリス： うん、トム =も== 学⽣。
 
 *Literal translation*  
 Bob: As for Alice, are (you) a student?  
@@ -276,7 +279,7 @@ If the inclusion *is* consistent with the answer, then we can use 「も」.
 **Example 3**
 
 ボブ：アリスは学⽣？  
-アリス：ううん、トム**も**学⽣じゃない。
+アリス：ううん、トム ==も==学⽣じゃない。
 
 *Literal trasnlation*  
 Bob: As for Alice, are (you) a student?  
@@ -285,6 +288,38 @@ Alice: No, as for Tom **also**, (he) is not a student.
 *Normal English*  
 Bob: Are you a student?  
 Alice: No, Tom is **also** not student.
+
+---
+
+Sometimes the "comment" of the new topic doesn't have to be "consistent" with the comment of the old topic, as long as the comments are not contradicting each other.
+
+**Example 1**
+
+Person A: （私は）==君のことが好きだ==  
+Person B: 私も ==（君のことが）好きだ==
+
+*Literal translation*  
+Person A: (As for me), ==you are liked.==  
+Person B: As for me also, ==(you) are liked.==
+
+*Normal English*  
+Person A: I like ==you==.  
+Person B: I like ==you== too.
+
+Notice that when person A says "you", it's referring to person B. But when person B says "you", it's referring to person A. Even though these two comments are not referring to the same person ーtherefore they're not "consistent"ー, they don't contradict each other.
+
+**Example 2**
+
+Suppose you were working on something on a Sunday night. There's someone who is staying up with you to help you finish your task. Then you realize that it's already midnight and you want to let the other person know that it's OK to go to sleep now. You could say to the other person:
+
+- もう寝ていいよ。疲れたでしょう？明日は月曜日だから{++仕事 ==も== あるし。++}  
+Literally: *Sleep is OK. Tired, right? Monday is tomorrow so {++there is ==also== work.++}*  
+
+Or in normal English:
+
+*You can go to sleep now. You must be tired, right? It's Monday tomorrow so you also have to work.*
+
+The comment at the end "there is also work" isn't necessarily "consistent" with what you said previously, in the sense that "There is X, there is Y, there is also work". However, saying 「も」 here is simply "adding one more reason why you should go to sleep now". The previous reason was "you must be tired, right?".
 
 ## Case marking particles
 
@@ -488,26 +523,42 @@ Unlike the direct object in English, places can also be the direct object of cer
 - 脇道を入る。  
 *Enter side road*
 
+**Function 4: Marks the time of time-passing verbs**
+
+- ６時を過ぎる。  
+*Pass 6 o'clock*
+
+- 時代を生き抜く。  
+*Live through an era*
+
+- 不惑の年を越える。  
+*Go past one's prime time*
+
+- 不遇の一生を送る。  
+*Spend a lifetime of misfortune*
+
 ### 「に」
 
-**「に」 is the target particle**. "Target" can mean any of the following:
+The particle 「に」 also has many functions. I like to think of the particle 「に」 as an **arrow**. The reason why I think of it as an arrow will become more apparent when we look at the contrast between 「に」 and other particles in a later section.
 
-1. spatial location for *stative* verbs such as "to be" or "to live, to inhabit".
-2. temporal location for numerical times
-3. direction for motion verbs
-4. indirect object (recipient of an action)
-5. result
-6. purpose or intention
+**Function 1: Marks location of existential verbs**
 
-**1. Spatial location for stative verbs**
-
-- 日本に住んでいる。  
+- 日本に住む。  
 *Live in Japan*
 
-- 家にいる。  
-*Be at home*
+- 私が家にいる。  
+*I am at home*
 
-**2. Temporal locations for numerical times**
+- 私の中に君がいる。  
+*You are inside me* / *You exist within me*
+
+- 机の上に本がある。(Lit: Book exist above desk)  
+*There is a book on the desk*
+
+- 枝先に芽が出る。  
+*Sprout appears in branch*
+
+**Funcion 2: Marks temporal locations**
 
 Can be used for "specific point in time"
 
@@ -517,15 +568,39 @@ Can be used for "specific point in time"
 - 3年生の3月にある就活のイベント。  
 *Job hunting event in March of junior year*
 
+- 休み時間に本を読む。  
+*Read a book during recess*
+
 Can be used for "duration of time"
 
-- 1週間に1回シャワーする。  
-*Shower once a week*
+- 1週間に2回シャワーする。  
+*Shower twice a week*
 
-- 1年間に２回引っ越しする。  
-*Move houses twice a year*
+- 2年間に1回引っ越しする。  
+*Move houses every two year*
 
-**3. Direction for motion verbs**
+???+ warning
+    While we can use 「に」 for specific points in time, such as:
+    
+    - 1 o'clock
+    - March
+    - 15th (day of month)
+    
+    and also for duration of time, such as:
+
+    - 1 week
+    - 3 year
+    - 2 months
+
+    we **can NOT use 「に」 for relative time**, such as:
+
+    - tomorrow
+    - yesterday
+    - today
+    - last week
+    - next month
+
+**Function 3: Marks the destination of a verb**
 
 - 学校に行く。    
 *Go to school*
@@ -542,7 +617,13 @@ Can be used for "duration of time"
 - 駅に着く。  
 *Arrived at station*
 
-**4. Indirect object (recipient of action)**
+- 壁に地図を貼る。  
+*Stick a map on the wall*
+
+- 馬に傷をつける。(Lit: Attach wound to horse)  
+*Hurt a horse* / *Injure a horse* / *Wound a horse*
+
+**Function 4: Marks the Indirect Object (recipient of action)**
 
 - 友達に花をあげる。  
 *Give flowers to friend*
@@ -553,199 +634,448 @@ Can be used for "duration of time"
 - 友達に会う。  
 *Meet friend*
 
-**5. Result**
+- 神に誓う。  
+*Swear to God*
+
+- 友達に話す。  
+*Talk to friend*
+
+- 家に電話する。  
+*Make a phone call to home*
+
+- 弟に数学を教える。  
+*Teach math to little brother*
+
+- 母に甘える。  
+*To indulge mom* / *To spoil mom*
+
+**Function 5: Marks the result of a change**
 
 - 医者になる。  
 *Become doctor*
 
-**6. Purpose or intention**
+- 信号が赤に変わる。  
+*Signal turns red*
+
+- 新しい車に変える。  
+*Change to new char*
+
+- 王様に扮する。  
+*Disguise as a king* / *Play the role of a king*
+
+**Function 6: Marks the purpose or intention**
 
 - 映画を見に行く。  
 *Go see a movie*
 
-**7. Cause or origin or reason**
+- 本を買いに行く。  
+*Go buy a book*
 
-- 病気に苦しむ。  
-*Suffer from sickness*
+- 昼は食事に帰る。  
+*As for lunch, go back home to eat*
 
-**8. Comparison standard**
+- 君を迎えに行く。  
+*Go to pick you up* / *Go to welcome you*
 
-- 母に似てる。  
-*Resembles mother*
+**Function 7: Marks the object used for comparison**
 
-???+ warning
-    While we can use 「に」 for specific points in time, such as:
-    
-    - 1 o'clock
-    - March
-    - 15th (day of month)
-    
-    and also for duration of time, such as:
+- 私が母に似ている。  
+*I resemble mother*
 
-    - 1 week
-    - 3 year
-    - 2 months
+- アリスはボブに等しい。  
+*Alice is no different to Bob*
 
-    we **can't use 「に」 for relative time**, such as:
+- 海に近い。  
+*Close to sea* / *Close to beach*
 
-    - tomorrow
-    - yesterday
-    - today
-    - last week
-    - next month
+- このマンションは駅に近い。  
+*This apartment is close to the station*
 
-### 「から」 and 「まで」
-
-We can express "**from**" and "**until**" with the particles 「**から**」 and 「**まで**」, respectively.
-
-**Example of spatial location**:
-
-- アリスは、アメリカから来る。  
-*Alice comes from America.*
-
-- 学校から家まで歩く。  
-*Walk from school to home.*
-
-**Example of temporal location**:
-
-- 今⽇から明⽇まで宿題をする。  
-*Do homework from today until tomorrow.*
-
-- 1時から始まった。  
-*Started from 1 o'clock.*
+- 無関心は賛成したのに等しい。  
+*Indifference is the same as approval*  
+(Similar to the English phrase "to be silent is to be complicit") 
 
 ### 「へ」
 
-**「へ」 is the directional particle**. The particle 「へ」 is exactly like the particle 「に」 but only in its usage for marking direction of motion. 「へ」 is normally pronounced /he/, when it is being used as a particle, it is always pronounced /e/ (え). 
+The particle 「へ」 also has many functions that resembles a few functions from the particle 「に」. 「へ」 is normally pronounced as 「へ」, when it is being used as a particle, it is always pronounced as 「え」. 
 
+**Function 1: Marks the direction of a verb**
 
-- ボブは⽇本へ⾏く。  
-*Bob goes towards Japan.*
-
-- 家へ帰る。  
-*Go back toward house.*
-
-- 部屋へ来る。  
-*Come towards room*
+- 南へ向かう。  
+*Face towards south*
 
 - 勝ちへ向かう。  
 *Go towards victory*
 
-- 日本へようこそ！
+- 部屋へ来る。  
+*Come towards room*
+
+- ボブは⽇本へ⾏く。  
+*Bob goes to Japan.*
+
+- 北へ飛ぶ。  
+*Fly towards north*
+
+- 海の方へ飛んでいく。  
+*Fly towards the sea*
+
+- 家へ帰る。  
+*Go back toward house.*
+
+**Function 2: Marks the destination of a verb**
+
+- 日本へようこそ！  
 *Welcome to Japan*
 
-- ❌ 医者へなる。  
-(Grammatically incorrect version of 「医者になる」.)
+- ここへ荷物を置く。  
+*Place the luggage here*
+
+- 荷物をロッカーへ入れる。  
+*Put the luggage inside the locker*
+
+- 押入れへしまう。  
+*Put away in the closet*
+
+- こちらへ住んで５年になる。(Lit: Live here and become 5 years)  
+*It will be 5 years since I have (moved and) lived here*
+
+**Function 3: Marks the Indirect Object (recipient of action)**
+
+- 友達へ電話する。  
+*Make a phone call to friend*
+
+- 先生へ伝える。  
+*Tell the teacher* / *Repor to teacher* / *Convey to teacher*
+
+- 母への手紙。  
+*Letter to mother* / *Letter for mother*
+
+- 君への愛。  
+*Love towards you* / *Love for you*
+
+- 妻へ贈る。  
+*Give (a gift) to wife*
 
 ### 「で」
 
-**「で」 is the contextual/boundary particle**. It allows us to specify the context or boundary in which the action is performed. It can also be called the instrumental particle. It is used to indicate *what* is the "instrument" or "means by" or "with which" the subject achieves or accomplishes an action. For example, if a person ate a fish, where did he eat it? If a person went to school, by what means did she go? With what will you eat the soup? All of these questions can be answered with the 「で」 particle. Here are some examples.
+The particle 「で」 also has many functions, and can be summarized as the **contextual/boundary** particle.
 
-1. **映画館で⾒た。**  
-_Saw (a movie) **at** the movie theater._  
-(The action "see a movie" was done within the boundaries of a movie theather.)
+**Function 1: Marks the place where an action takes place**
 
-2. **バスで帰る。**  
-_Go home **by** bus._  
-(The action "go home" was done within the boundaries of a "bus".)
+- 映画館で映画を⾒た。  
+*Saw a movie at the movie theater* 
 
-3. **レストランで昼ご飯を⾷べた。**  
-_Ate lunch **at** restaurant._  
-(The action "eat lunch" was done within the boundaries of a "restaurant".)
+- レストランで昼ご飯を⾷べた。  
+*Ate lunch at restaurant*
 
-4. **愛でご飯を作る。**  
-_Make food **with** love._    
-(The action "make food" is done by the means of "love".)
+- 図書館で勉強する。  
+*Study at the library*
 
-5. **一人で泣いた。**  
-_(I/He/She) cried **by** myself/himself/herself._  
-(The action "cry" was done within the boundaries of "oneself". No one else was inside that boundary.)
+- 庭で遊ぶ。  
+*Play in the garden*
 
-6. **世界で一番高いビル。**  
-_Tallest building **in** the world._  
-(The "building" is within the boundaries of "world".)
+- 渋谷で時計を買った。  
+*Bought a clock in Shibuya*
 
-7. **全国で一番高いビル。**  
-_Tallest building **in** the nation/country._  
-(The "building" is within the boundaries of "nation/country". We're not talking about buildings that are ousdie of the country. We're only talking about bulidings within the country.)
+**Function 2: Marks the instrument/material/method of which an action is performed**
 
-8. **みんなで行く。**  
-_Go **with** everyone._  
-(The action "go" is done within the boundaries of "everyone".)
+- バスで帰る。  
+*Go home by bus*
 
-9. **お箸で食べる。**  
-_Eat **with** chopsticks._  
-(the action "eat" is done with the instrument "chopsticks".)
+- 車で行く。  
+*Go by car*
+
+- 投票で決める。  
+*Decide by poll* / *Decide through a poll*
+
+- 愛でご飯を作る。  
+*Make food with love*
+
+- お箸でお寿司を食べる。  
+*Eat sushi with chopsticks*  
+
+- 鉛筆で書く。  
+*Write with pencil*
+
+- 米で酒を作る。  
+*Make Sake with rice* / *Make Sake out of rice*
+
+- ラジオで聞いた話。  
+*Story heard from a radio*
+
+**Function 3: Marks the cause/reason**
+
+- 熱で学校を休む。  
+*Miss school due to fever*
+
+- 寒さで震える。  
+*Shiver with cold*
+
+- 病気で休む。  
+*Be absent due to illness*
+
+- 受験準備で忙しい。  
+*Busy due to preparations for entrance examination*
+
+- 心臓発作で入院する。  
+*Hospitalize due to heart attack*
+
+**Function 4: Marks the condition/state/circumstance of an action**
+
+- 急ぎ足で歩く。  
+*Walk with fast pace*
+
+- 笑顔で答える。  
+*Reply with a smiling face*
+
+- 裸足で出かける。  
+*Go out barefoot*
+
+- 土足で上がる。  
+*Come inside (the house) with shoes on*
+
+- 全力で問題に取り組む。  
+*Tackle a problem with all your might*
+
+- フルスピードで走った。  
+*Ran at full speed*
+
+- 千円で釣りをください。  
+*Please give me my change in bills of 1000 yen*
+
+**Function 5: Marks the boundary/limit of a range/scope/extent/quantity**
+
+- 申込みは明日で締め切る。  
+*The applications will close by tomorrow*  
+(The time limit is "tomorrow")
+
+- 三日で仕上げる。  
+*Finish in three days*  
+(The time limit is "three days")
+
+- みんなで行く。  
+*Go with everyone*    
+(The boundary of the number of people is "everyone")
+
+- 一人で泣いた。  
+*Cried alone* / *Cried by himself/herself*    
+(The boundary of the number of people is "alone")
+
+- 世界で一番高い山。  
+*Tallest mountain in the world*  
+(The boundary of which this "tallest mountain" is true, is the "world")
+
+- 全国で一番美味しいラーメン。  
+*Most delicious ramen in the nation/country*    
+(The boundary of which this "most delicious ramen" is true, is the "country")
+
+- 若い人の間で人気がある。  
+*Be popular among young people*  
+(The boundary of which "being popular" is true, is only "among young people")
+
+- 全部で百円だ。  
+*The total is 100 yen*  
+(The boundary of which the "100 yen" is referring to, is "all the items together" aka "the total")
+
+- 三つで百円。  
+*100 yen for 3 items*  
+(The boundary of which the "100 yen" is referring to, is "3 items")
 
 ### 「の」
 
-**「の」 is the noun modifier particle**. It marks a word (usually a noun) as modifying another word (also usually another noun), thus indicating an attributive relationship of one noun to the other noun. 
+The particle 「の」 has many functions/usages, one of which we already learned in the section "[Describing a noun using another noun](description-inflection.md#using-a-noun)". Let's learn about some more usages in this section.
 
-- ボブは、アメリカの⼤学の学⽣だ。  
-Lit: Bob is student of college of America.
+**Function 1: Replacement or omission of noun**
 
-In normal English, this would translate to, "Bob is a student of an American college." The order of modification is backwards so "Bob is a student of a college that is American". In this example, 「⼤学」 is modifying 「学⽣」, and 「アメリカ」 is modifying 「⼤学」.
+The noun that is being described can be omitted or replaced by 「の」 if the context clearly indicates what is being omitted.
 
-The particle 「の」 can also be used as a possessive particle. The equivalent of this specific usage in English is the apostrophe *'s*.
+Let's briefly refresh our memory of how to describe a noun:
 
-- ボブの本  
-Bob's book / Book of Bob
+Using a verb:
 
-- 私の本  
-My book / Book of mine
+- ==壊れた== {++パソコン++}  
+{++Computer++} ==that broke==
 
-- 私の友達
-My friend / Friend of mine
+Using an adjective:
 
-The noun that is being modified (i.e. the word after the 「の」) can be omitted if the context clearly indicates what is being omitted. The following words in bold can be omitted.
+- ==新しい== {++シャツ++}  
+==New== {++shirt++}
 
-1. そのシャツは誰の**シャツ**？  
-Whose shirt is that shirt?
+- ==簡単な== {++試験++}  
+==Easy== {++exam++}
 
-2. ボブの**シャツ**だ。  
-It is shirt of Bob. / It is Bob's shirt.
+Using another noun
 
-to become:
+- ==大学== の{++学生++}  
+==College== {++student++}
 
-1. そのシャツは誰**の**？  
-Whose shirt is that?
+The words highlighted in {++green++} are the nouns that are being described. These words can be omitted or replaced by 「の」 if the context clearly indicates what is being omitted.
 
-2. ボブ**の**だ。  
-It is of Bob. / It is Bob's.
+Let's look at a few examples.
 
-Another example of omission is to change this:
+???+ example "Examples of replacement"
 
-1. パソコン壊れた？  
-*Did your computer break?*
+    If the noun is being described by a verb or an adjective, we replace the noun with 「の」
 
-2. うん、でも新しい**パソコン**を買った。  
-_Yeah, but I bought a new **computer**._
+    **Example 1: verb**
 
-into this:
+    - 勝った{++人++}は君じゃなくて私だよ。  
+    *The {++person++} who won is not you, it's me*
 
-1. パソコン壊れた？  
-*Did your computer break?*
+    After replacing 「人」 with 「の」:
 
-2. うん、でも新しい**の**を買った。  
-_Yeah, but I bought a new **one**._
+    - 勝った{++の++}は君じゃなくて私だよ。  
+    *The {++one++} who won is not you, it's me*
 
-More examples of omission:
+    **Example 2: i-adjective**
 
-1. ケーキ食べてみた？  
-_Did you try the cakes?_
+    - Person A: パソコン壊れた？  
+    Did your computer break?
 
-2. うん。イチゴ**の**は美味しかったけど、チョコ**の**はあんまり。  
-_Yeah. The strawberry **one** was delicious but the chocolate **one** not so much._
+    - Person B: うん、でももう新しい{++パソコン++}を買った。  
+    Yeah, but I bought a new {++computer++} already.
 
-### 「と」
+    After replacing 「パソコン」 with 「の」:
 
-### 「や」「とか」
+    - Person A: パソコン壊れた？  
+    Did your computer break?
+
+    - Person B: うん、でももう新しい{++の++}を買った。  
+    Yeah, but I bought a new {++one++} already.
+
+    **Example 3: na-adjective**
+
+    - Person A: 大事なことは何を言ってるかじゃなくて、言い方だよ。  
+    The important thing is not what you say, but how you say it
+
+    - Person B: 私も大事な{++こと++}は言い方だと思う。  
+    I also think that the important {++thing++} is how you say it
+
+    After replacing 「こと」 with 「の」：
+
+    - Person A: 大事なことは何を言ってるかじゃなくて、言い方だよ。  
+    The important thing is not what you say, but how you say it
+
+    - Person B: 私も大事な{++の++}は言い方だと思う。  
+    I also think that the important {++thing++} is how you say it
+
+    ???+ warning "Pay attention to 「な」"
+        Notice that 「大事 ==な== こと」 changes to 「大事 ==な== の」. The 「な」 cannot be omitted. After all the thing we're omitting/replacing is only the noun itself. This applies for all na-adjectives.
+
+???+ example "Examples of omission"
+    If the noun is being described by another noun (which means there is already a 「の」 linking them), we simply omit the noun.
+
+    **Example 1:**
+
+    - Person A: そのシャツは誰の{++シャツ++}？  
+    As for that shirt, whose {++shirt++} is it?
+
+    - Person B: ボブの{++シャツ++}だ。  
+    It is Bob's {++shirt++}.
+
+    After omitting 「シャツ」:
+
+    - Person A: そのシャツは誰の？  
+    As for that shirt, whose is it?
+
+    - Person B: ボブのだ。  
+    It is Bob's.
+
+    **Example 2**
+
+    - Person A: ケーキ食べてみた？  
+    Did you try the cakes?
+
+    - Person B: うん。イチゴの{++ケーキ++}は美味しかったけど、チョコの{++ケーキ++}はあんまり。  
+    Yeah. The strawberry {++cake++} was delicious but the chocolate {++cake++} not so much.
+
+    After omitting 「ケーキ」:
+
+    - Person A: ケーキ食べてみた？  
+    Did you try the cakes?
+
+    - Person B: うん。イチゴのは美味しかったけど、チョコのはあんまり。  
+    Yeah. The strawberry {++one++} was delicious but the chocolate {++one++} not so much.
+
+**Function 2: Interchangeable with 「が」**
+
+When 「の」 connects two nouns, and the second noun is being described by a verb, then 「の」 is interchangeable with 「が」.
+
+Let's look at one example. I've highlighted {++the two nouns in green++}, and ==the verb in yellow==.
+
+- {++妹++}の ==描いた== {++絵++}  
+*{++Picture++} that my {++little sister++} ==drew==*
+
+First noun | の | Second noun
+:---: | :---: | :---: 
+{++妹++} | の | ==描いた== {++絵++}
+
+Here, 「妹」 is the first noun, 「絵」 is the second noun, and they are linked with the 「の」. The verb 「描いた」 is describing the second noun 「絵」. When we have this specific combination of 「noun + の + verb + noun」, this 「の」 is interchangeable with 「が」, like so:
+
+- {++妹++}が ==描いた== {++絵++}  
+*{++Picture++} that my {++little sister++} ==drew==*
+
+First noun | が | Second noun 
+:---: | :---: | :---: 
+{++妹++} | が | ==描いた== {++絵++}
+
+**More in-depth explanation**  
+If we recall what we learned in "[A does B](a-and-b.md#verb-sentence)" type of sentences, 「妹が描いた」 is just that.
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+妹が | 描いた
+
+*Little sister drew*
+
+And if we recall what we learned in "[Describing a noun using a verb](description-inflection.md#using-a-verb)", we simply place the description before the noun:
+
+- ==妹が描いた== {++絵++}  
+*{++Picture++} ==that little sister drew==*
+
+The entire sentence (highlighted in ==yellow==) is describing the noun (highlighted in {++green++}). In this specific way of describing a noun, the 「の」 inside the description itself can be interchanged to 「が」, and vice-versa.
+
+Let's look at some more examples:
+
+- 話の好きな{++人++}  
+- 話が好きな{++人++}  
+*{++People++} who like conversations*
+
+- 音のない{++世界++}  
+- 音がない{++世界++}  
+*{++World++} where there is no sound*
+
+- 夜のない{++世界++}  
+- 夜がない{++世界++}  
+*{++World++} where there is no night*
+
+- 私の言ってる{++こと++}  
+- 私が言ってる{++こと++}  
+*{++Things++} that I am saying*
+
+- 立場の違う{++二人++}
+- 立場が違う{++二人++}  
+*{++Two people++} who are in different situations*
+
+Using 「の」 is often favored when the entire phrase is marked by the 「が」 as the subject of a bigger sentence. Let's look at the following sentence:
+
+- 立場 ==の== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
+
+Main wagon "A" | 「で」 | 「を」 |  Engine "B"
+:--: | :---: | :---: | :---:
+立場 ==の== 違う二人{++が++} | 残酷な世界の中で | すごく美しく友情を | 育む
+
+The entire phrase 「立場の違う二人」 is theh subject of the sentence. In other words, the entire phrase 「立場の違う二人」 is marked by 「が」 as the main wagon "A". Although it is technically possible to change the sentence to:
+
+- 立場 ==が== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
+
+it is not encouraged to do so. By doing so, there will be two 「が」 in the bigger sentence, and it becomes harder to recognize *what* is the actual subject of the bigger sentence at hand.
 
 ## Contrasts
 
 ### 「は」 vs 「も」
 
-We learned in the previoius section that:
+We learned in the previously that:
 
 ???+ quote
     The inclusion of 「も」 must be consistent.
@@ -755,16 +1085,16 @@ Let's see what we mean by "consistent" by comparing 「も」 to 「は」.
 ???+ info "The main difference between 「は」 and 「も」"
     - 「は」 changes the topic, and implies that the comment of the new topic is **different** from the comment of the old topic.
 
-    - 「も」 also changes the topoic, but it implies that the comment of the new topic is the **same** as the comment of the old topic.
+    - 「も」 also changes the topic, but it implies that the comment of the new topic is the **same** as the comment of the old topic.
 
-This is why 「も」 can only be used when the comment is "consistent" with the previous comment. Furthermore, the other function of the particle 「は」 is to be the **contrastive topic particle** ーas opposed to the particle 「も」 which is the inclusive topic particleー precisely because the comment on the new topic is different from the comment of the previous topic.
+This is why 「も」 can only be used when the comment is "consistent" with the previous comment. Furthermore, the other function of the particle 「は」 is to be the **contrastive** topic particle ーas opposed to the particle 「も」 which is the **inclusive** topic particleー precisely because the comment on the new topic is different from the comment of the previous topic.
 
 Suppose we have a first topic "Alice", and the comment about her is "is student":
 
 - アリスは学生だ。  
 *As for Alice, is student.*
 
-We also have a second topic "Tom", and the comment about him is "is student":
+Then, we introduce a second topic "Tom", and the comment about him is "is student":
 
 - トムは学生だ。  
 *As for Tom, is student.*
@@ -772,7 +1102,7 @@ We also have a second topic "Tom", and the comment about him is "is student":
 Then, we **can** use 「も」 in the second topic, because the *comment* of both topics are the same.
 
 - アリスは学生だ。
-- トム**も**学生だ。
+- トム ==も== 学生だ。
 
 ???+ warning "Be careful how you use 「は」 and 「も」 in certain phrases"
 
@@ -795,18 +1125,37 @@ Then, we **can** use 「も」 in the second topic, because the *comment* of bot
 
     This is why the correct way of saying the phrase is 「今年**も**よろしくお願いします」 because you want to express "this year too".
 
+To expand a little bit more on the **contrastive** property of the the particle 「は」, let's look at some examples:
+
+**Example 1**
+
+- ==イチゴは== あるけど、==バナナは== ない。  
+Literally: *==As for strawberry==, there is, but ==as for banana==, there isn't*  
+Normal English: *There is strawberry, but there's no banana*
+
+**Example 2**
+
+- ==君は== 知らないけど ==僕は== 知ってる。  
+Literally: *==As for you==, (you) don't know, but ==as for me==, (I) know*  
+Normal English: *You don't know but I do*
+
 ### 「は」 vs 「が」
+
+!!! warning
+    **I have been using 「が」 in a lot of example sentences so far, but that's NOT how Japanese people normally say things.**
 
 We learned about the grammatical usage of 「は」 and 「が」: one is a flag, the other is the main wagon. However, it might still be confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B".
 
-Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar, but from the perspective of communication/conversation. *How do native speakers use those particles?*
+Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar, but from the perspective of communication/conversation. *How do native speakers use those particles?* 
 
-???+ info "The main difference bewtween 「は」 and 「が」"
+There are two ways you can look at the difference between these two particles.
+
+???+ info "First way to look at the difference bewtween 「は」 and 「が」"
 
     - 「は」 talks about **something in general**.
     - 「が」 **singles something out**  to say "that is *the thing*".
 
-There are more nuances between 「は」 and 「が」. Let's look at a few examples to understand these nuances.
+Let's look at a few examples to understand these nuances.
 
 **Example 1**:
 
@@ -815,26 +1164,27 @@ Grammatically speaking, the following two sentences are correct.
 Note: 「これ」＝ this  
 「携帯」（けいたい）＝ cellphone
 
-- これ**は**携帯だ。  
+- これ ==は== 携帯だ。  
 *As for this, (it) is cellphone.*
 
-- これ**が**携帯だ。  
+- これ ==が== 携帯だ。  
 *This is the thing that is cellphone.*
 
 Both sentences are generally translated the same way into normal English as: "This is a cellphone".
 
-But the one that is used more often is 「これは携帯だ」. When you want to say that **something is different compared to other things**, you use 「が」. If there is literally only one cellphone in the entire world, saying 「これが携帯だ」 would be incorrect, because there are no other cellphones to compare it with.
+But the one that is used more often is 「これは携帯だ」. You only use 「が」 when you one to single something/someone out. When you want to say that **something ーas opposed to other thingsー is/does X**, you use 「が」:
 
-**「が」 is really only used when you are making a "comparison"**. 
+- Something ==が== is X
+- Something ==が== does X
 
 **Example 2**:
 
-- ⭕ 誰**が**学⽣？
-- ❌ 誰**は**学⽣？
+- ⭕ 誰 ==が== 学⽣？
+- ❌ 誰 ==は== 学⽣？
 
 The question is asking "Who is a student?".
 
-The first question 「誰が学⽣？」 is grammatically correct, while the second question 「誰は学⽣？」 is not. In this example, there are many people who could be a student, and you want to know *who* is a student among them. You are comparing all those candidates to each other, and then choosing one person and saying "*that* is the student". Comparing in this manner is the only way 「が」 is used. This is why if you use 「が」 in a normal statement like "A is B", **it can sound very bossy**.
+The first question 「誰が学⽣？」 is grammatically correct, while the second question 「誰は学⽣？」 is not. In this example, there are many people who could be a student, and you want to know *who* is a student among them; you want to single out one person. You are comparing all those candidates to each other, and then choosing one person and saying "*that* is the student". Comparing in this manner is the only way 「が」 is used.
 
 **Example 3**:
 
@@ -842,24 +1192,24 @@ If you want to say "I am a medical student", normally you would say:
 
 Note: 「医学生」（いがくせい）＝ medical student
 
-- 私**は**医学生だ。
+- 私 ==は== 医学生だ。
 
 but if you say this instead:
 
-- 私**が**医学生だ。
+- 私 ==が== 医学生だ。
 
-you will end up implying *"He's not a medical student. She's also not a medical student. Then who is the medical student here? That's right. __I am__ the medical student. I am differrent from the other students"*. You are essentially comparing yourself to the other students and saying "**I am** the medical student". You will end up putting too much emphasis on 「私」 and you will sound very rude.
+you will end up implying *"He's not a medical student. She's also not a medical student. Then who is the medical student here? That's right. __I am__ the medical student. I am differrent from the other students"*. You are essentially comparing yourself to the other students and saying "**I am** the medical student". You will end up putting too much emphasis on 「私」 and you could sound rude depending on the situation you're in.
 
 **Example 4**:
 
 This is also why during self-introduction, you should say:
 
-- 私**は**さくらだ。  
+- 私 ==は== さくらだ。  
 (This still sounds unnatural and disrespectful, but for other reasons that we haven't looked at yet.)
 
 However, if you say this during self-introduction:
 
-- 私**が**さくらだ。
+- 私 ==が== さくらだ。
 
 you will end up sounding like "I am **the** Sakura. I am the Sakura that **everyone knows about**. That's **me**".
 
@@ -887,7 +1237,7 @@ Note: 「昔々」（むかしむかし）＝ once upon a time / long time ago
 「姫」（ひめ）＝ princess  
 「美しい」（うつくしい）＝ beautiful
 
-- 「昔々姫**が**いた。姫**は**美しかった。」  
+- 「昔々姫 ==が== いた。姫 ==は== 美しかった。」  
 *Once upon a time, there was __a__ princess. __The__ princess was beautiful.*
 
 Notice that in the first sentence 「が」 was used, and in the second sentence 「は」 was used. But didn't we just learn that 「が」 is used for comparison? So who are we comparing 「姫」 to? We are essentially saying: 
@@ -900,7 +1250,7 @@ Notice that in the first sentence 「が」 was used, and in the second sentence
 
 「が」 can also mark particularities as opposed to generalities. For example, if we say:
 
-- 花**は**きれいだ
+- 花 ==は== きれいだ
 
 it's likely that we're saying 
 
@@ -908,36 +1258,48 @@ it's likely that we're saying
 
 But if we say:
 
-- 花**が**きれいだ
+- 花 ==が== きれいだ
 
 we're stressing 「花」 as the subject. We're emphasizing 「花」 to mean:
 
-- The flower/these flowers (in particular) is/are pretty.
+- This flower/these flowers (in particular) is/are pretty.
 
 **Example 8**:
 
 Let's look at another example. Suppose you are with a friend who has never seen what a ramen looks like. There are three dishes in front of you two: sushi, curry rice, and ramen. When you point at the ramen to let your friend know that *that* is ramen, you can say:
 
-- あれ**が**ラーメン
+- あれ ==が== ラーメン
 
-Using 「が」 in this manner implies "*That* (sushi) is not ramen. *That* (curry rice) is also not ramen. *That* (ramen) is ramen".
+Using 「が」 in this manner implies "*That dish* (sushi) is not ramen. *That dish* (curry rice) is also not ramen. *That dish* (ramen) is ramen". You are comparing and singling out the one dish that **is** ramen.
 
 **Example 9**:
 
 Another example that might not seem as straightforward to understand is this sentence:
 
-- 私**が**高校生の時サッカーが好きだった
+- 私 ==が== 高校生の時サッカーが好きだった
 
 This sentence roughly translates to "I liked playing soccer when I was in highschool". This sentence might look too complicated for someone who just started learning Japanese. But the point I want to make is that 「が」 was used in the sentence, instead of 「は」. Earlier, we learned that 「が」 is only used for comparison. So who are we comparing 「私」 to? We are comparing "myself" to "myself". More accurately, we are comparing the "present me" to the "past me" or "the highschool me".
 
-???+ info "Another way to look at the difference between 「は」 and 「が」"
+**Example 10**:
+
+This is why saying "I like you" in Japanese is always said as 
+
+- 君 ==が== 好きだ
+
+which translates literally to "You are liked". We want to express that "YOU are the one" that is liked; not person A, nor person B, but YOU. If we instead use 「は」 like so:
+
+- 君 ==は== 好きだ
+
+it will sound like we are saying "As for you, (you) are liked. As for other people, they are hated" (remember the contrastive property of 「は」), which is not what we were trying to convey/express.
+
+???+ info "Second way to look at the difference bewtween 「は」 and 「が」"
     - 「は」 puts the emphasis on the sentence **after** it
     - 「が」 puts the emphasis on the sentence **before** it.
     
     This makes sense if we look at what we learned at the beginning of this section:
     > Japanese is a very Topic-Comment oriented language.
 
-    which is why a sentence like "A is B" usually use 「は」. 
+    which is why a sentences usually use 「は」. 
 
 To illustrate this change of emphasis, let's look at the following 3 sentences:
 
@@ -948,7 +1310,7 @@ Note: 「本」（ほん）＝ book
 2. 私は本を買った。
 3. 私が本を買った。
 
-In the **first sentence**, it doesn't put any particular emphasis on anything; it's just saying, neutrally, "I bought a book". 
+In the **first sentence**, it doesn't put any particular emphasis on anything; it's just saying, neutrally, "I bought a book". (Remember that in Japanese, omitting the main wagon "A" is allowed)
 
 If we choose to stress "I" as the topic and say the **second sentence**, we're changing the topic to "I" and saying that "I bought a book". The particle 「は」, aside from marking something as the topic, it also implies that the "*comment*" on said topic is different from the comment on "old topics" or on "other topics" (we learned this in the section about 「は」 vs 「も」). In other words, we are implying:
 
@@ -973,7 +1335,7 @@ While the second sentence is implicitly answering the question "What did I do?",
     2. 私はØが本を買った。
     3. Øは私が本を買った。
 
-    Japanese grammar allows you to omit the topic and the subject (main wagon "A"). In fact the only component needed to make a complete and proper sentence is the engine "B". This means that, when we choose to explicitly say the topic or the subject out loud, we do so because we want to say it with a certain nuance, or with a certain emphasis.
+    Japanese grammar allows you to omit the topic or the subject (main wagon "A") or both. In fact the only component needed to make a complete and proper sentence is the engine "B". This means that, when we choose to explicitly say the topic or the subject out loud, we do so because we want to say it with a certain nuance, or with a certain emphasis.
 
 ???+ info "The English equivalent of 「が」"
     Japanese is a topic-prominent language, which is why there is one particle for topic (「は」) and one for subject (「が」) . This allows Japanese speakers to emphasize either the topic or the subject, by simply using the corresponding particle.
@@ -1001,20 +1363,77 @@ While the second sentence is implicitly answering the question "What did I do?",
     Because normal English sentences is already subject-prominent, when we want to emphasize on the subject the same way 「が」 does in Japanese, we end up resorting to phrases like "the one" or "the thing".
 
 ???+ tip
-    The difference between these two particles will become more apparent and easier to tell apart as you do more *immersion* (if you don't know what I mean by immersion, refer back to the Getting Started section).
+    The difference between these two particles will become more apparent and easier to tell apart as you do more **immersion**.
+
+### 「に」 vs 「を」
+
+1. 山 ==に== 登る
+2. 山 ==を== 登る
+
+In the first sentence, 「に」 is being used to "mark the destination of a verb".  
+In the second sentence, 「を」 is being used to "mark the path/place of motion verbs".  
+
+The difference between these two sentences is:
+
+1. 山 ==に== 登る → The focus of this sentence is: the goal is the summit of the mountain.
+2. 山 ==を== 登る → The focus of this sentence is: we are climbing up the uphill of the mountain. The summit may or may not be or goal.
+
+The difference in focus makes sense if we look at the function of each particle. 「に」 is marking the destination of 「登る」, while 「を」 is marking the path of 「登る」. This is why I like to think of 「に」 as an arrow. In this case, 「に」 is an arrow that is pointing towards the summit. In Japanese, we often say 「～登る」 instead of 「～を登る」.
 
 ### 「に」 vs 「へ」
 
-The primary difference between the 「に」 and 「へ」 particle when used with motion verbs is that 「に」 goes to a target as the final, intended destination (both physical or abstract). The 「へ」 particle, on the other hand, is used to express the fact that one is setting out towards the direction of the target. As a result, it is only used with directional motion verbs. It also does not guarantee whether the target is the final intended destination, only that one is heading towards that direction. In other words, the 「に」 particle sticks to the destination while the 「へ」 particle is fuzzy about where one is ultimately headed. For example, if
-we choose to replace 「に」 with 「へ」 in the examples from the section about 「に」 particle, the nuance changes slightly.
+If we revisit the functions that 「へ」 has, we will realize that two of 「へ」's functions can also be done by 「に」:
+
+- Function 2: Marks the destination of a verb
+- Function 3: Marks the Indirect Object (recipient of action)
+
+However, there is one function that 「へ」 can do but 「に」 cannot:
+
+- Function 1: Marks the direction of a verb
+
+For this reason, 「へ」 is usually only used for this "function 1": to mark the direction of a verb. Let's look at an example:
+
+1. 日本 ==に== 行く
+2. 日本 ==へ== 行く
+
+In the first sentence, we're saying 「日本」 is the final destination of 「行く」. This implies that after we arrive at 「日本」, we could be staying in there for a while. In the second sentence, we're saying 「日本」 is the direction of 「行く」. This implies that 「日本」 is not necessarily our final destination, and we could be going somewhere else after we arrive at 「日本」.
+
+Let's look at another example:
+
+1. 台風は北 ==に== 向かっている
+2. 台風は北 ==へ== 向かっている
+
+In the first example, we're implying the destination of the 「台風」. In the second sentence, we're implying the general direction of the 「台風」. In the context of alarming citizens of where the 「台風」is headed towards, it is more natural to say the second sentence.
 
 ### 「に」 vs 「で」
 
-公園で集まる
-公園に集まる
+Note: 集まる means "gather", "collect", "meet up"
 
-後にする
-後でする
+1. 公園 ==で== 集まる
+2. 公園 ==に== 集まる
+
+In the first sentence, 「で」 is being used to "mark the place where an action takes place".  
+In the second sentence, 「に」 is being used to "mark the destination of a verb".
+
+The difference between these two sentences is:
+
+1. 公園 ==で== 集まる → The focus of this sentence is: the action 「集まる」 will take place in 「公園」.
+2. 公園 ==に== 集まる → The focus of this sentence is: the destination where they will "meet up" is 「公園」.
+
+This is another case where imagining 「に」 as an arrow is useful.
+
+![](ni-vs-de.png){: width=400 }
+
+The park (公園) is depicted with the green rectangle, and the people that are going to meet up are depicted with the little black circles. Those people will gather "towards" the destination: 「公園」. In Japanese, it is more natural to say 「～に集まる」.
+
+Let's look at another example where 「に」 and 「で」 is used for time-related word, such as 「後」:
+
+1. 晩ご飯を食べた{++後++} ==で== 宿題をやる
+2. 晩ご飯を食べた{++後++} ==に== 宿題をやる
+
+In normal English, both sentences could be translates as "to do homework after finishing dinner".
+
+http://www.ritsumei.ac.jp/acd/cg/lt/rb/633/633PDF/sano.pdf
 
 ### 「の」 vs 「な」
 
@@ -1025,6 +1444,32 @@ we choose to replace 「に」 with 「へ」 in the examples from the section a
 
 になる
 となる
+
+### 「を」 vs 「から」
+
+https://hinative.com/ja/questions/5665426
+
+## More particles
+
+### 「から」 and 「まで」
+
+We can express "**from**" and "**until**" with the particles 「**から**」 and 「**まで**」, respectively.
+
+**Example of spatial location**:
+
+- アリスは、アメリカから来る。  
+*Alice comes from America.*
+
+- 学校から家まで歩く。  
+*Walk from school to home.*
+
+**Example of temporal location**:
+
+- 今⽇から明⽇まで宿題をする。  
+*Do homework from today until tomorrow.*
+
+- 1時から始まった。  
+*Started from 1 o'clock.*
 
 ## Sentence ending particles
 
@@ -1037,5 +1482,3 @@ we choose to replace 「に」 with 「へ」 in the examples from the section a
 ### 「よね」
 ### 「や」
 ### 「わ」
-### 「ぞ」
-### 「とも」

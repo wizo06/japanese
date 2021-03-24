@@ -411,7 +411,7 @@ On the other hand, the second sentence, 「病気」 is describing 「人」. In
 
 If we choose to say 「病気な人」, then 「病気」 is acting as an adjective, therefore we're expressing a nature or quality of 「人」. We're saying that "being sick" is intrinsically a characteristic of those people (which is why it sounds negative and rude). However, if we say 「病気の人」, then we're not treating 「病気」 as a intrinsic nature of those people; we're simply labeling them with a neutral tone as "people who have disease" / "people who are sick". We're saying with a neutral tone "people who belong to the set of people who have disease".
 
-## Basic Inflection
+## Inflection
 
 So far, we learned how to make simple sentences using the main wagon "A" and the engine "B", and we also learned how to describe a noun by using the engine "B". We're now ready to learn how to express those sentences in negative, past-tense, and negative past-tense. Let's remind ourselves of the three types of engines:
 

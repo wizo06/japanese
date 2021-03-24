@@ -3,12 +3,12 @@
 !!! danger "STOP RIGHT THERE"
     Before you proceed to learn Japanese grammar from this guide, please do yourself a favor and read this page first. It's only a 10 minutes read. The following information in this page assumes that the reader wants to achieve high level of fluency.
 
-Let's first talk about learning (and acquiring) languages in general. .
+Let's first talk about learning (and acquiring) languages in general.
 
 ## Acquiring a language
 
-???+ info
-    For a more in-depth explanation of the **methodology** for acquiring a new language, refer to [TheMoeWay](https://learnjapanese.moe/) and/or [Refold](https://refold.la/). Those are just general guidelines, and you don't have to follow everything to the letter.
+???+ info "Author's note"
+    For a more in-depth explanation of the **methodology** for acquiring a new language, refer to [TheMoeWay](https://learnjapanese.moe/) and/or [Refold](https://refold.la/). Those are just general guidelines, and you don't have to follow everything to the letter. I don't personally follow everything to the letter in those guidelines. Not because I disagree with it, but because I don't find some aspect of the methodology particularly engaging and I get bored easily. At the end of the day, the more time you spend in your target language (the language you are trying to acquire) the better you will become at understanding it. This is why, it's important to spend your time doing things that keep you interested in the language, as opposed to following some guideline that you found online. However, objectively speaking, there **is** an efficient methodology for acquiring/learning a language. Whether you find that methodoloy engaging/fun or tiresome/boring is a different story.
 
 The short version of the methodology is the following: **get as much as input as you can, i.e. immersion**. 
 
@@ -152,6 +152,15 @@ Language acquisition
 
 This grammar guide is largely a consolidation of
 
-- [Tae Kim](http://www.guidetojapanese.org/learn/grammar)
-- [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+- 新明解国語辞典 第七版 ISBN: 978-4385131078
+- 明鏡国語辞典 第三版 ISBN: 978-4469021226
 - [国語の文法](https://www.kokugobunpou.com/)
+- [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+- [Tae Kim](http://www.guidetojapanese.org/learn/grammar)
+
+## Feedback
+
+If you have any feedback, please contact me in one of the following two ways:
+
+1. Open a new "issue" in [GitHub](https://github.com/wizo06/japanese/issues) (preferred). You can also access this by clicking on the "Feedback" button located in the top-right corner of the header of this website.
+2. Send an email to wizo.kuro@gmail.com

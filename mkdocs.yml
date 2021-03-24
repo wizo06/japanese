@@ -8,8 +8,13 @@ theme:
   palette:
     primary: pink
     accent: green
+  icon:
+    repo: fontawesome/brands/github
 extra_css:
   # - stylesheets/extra.css
+repo_url: https://github.com/wizo06/japanese/issues
+repo_name: FEEDBACK
+edit_uri: ""
 markdown_extensions:
   - admonition
   - attr_list
@@ -19,6 +24,8 @@ markdown_extensions:
   - pymdownx.critic
   - footnotes
   - pymdownx.details
+plugins:
+  - git-revision-date
 nav:
   - 'index.md'
   - Fundamentals:
@@ -26,11 +33,11 @@ nav:
     - 'Fundamentals/a-and-b.md'
     - 'Fundamentals/description-inflection.md'
     - 'Fundamentals/particles.md'
-    - 'Fundamentals/word-order.md'
-    - 'Fundamentals/transitive-intransitive.md'
-  - Essential Grammar:
-    - 'Essential Grammar/3. Essential Grammar.md'
-  - Special Expressions:
-    - 'Special Expressions/4. Special Expressions.md'
-  - Advanced Grammar:
-    - 'Advanced Grammar/5. Advanced Topics.md'
+    # - 'Fundamentals/word-order.md'
+    # - 'Fundamentals/transitive-intransitive.md'
+  # - Essential Grammar:
+    # - 'Essential Grammar/3. Essential Grammar.md'
+  # - Special Expressions:
+    # - 'Special Expressions/4. Special Expressions.md'
+  # - Advanced Grammar:
+    # - 'Advanced Grammar/5. Advanced Topics.md'

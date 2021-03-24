@@ -450,14 +450,14 @@ A simple "yes" | Main wagon "A" | Engine "B"
 
 The point I want to make here is that *person B* said "Yes, I **am** OK" 「うん、元気。」 in Japanese without actually saying the "**am**" part (without actually saying the copula 「だ」). This is very common in casual **dialogues/conversations**. In fact, it's so common to the point where if you end your sentences in 「だ」 in casual **dialogues/conversations**, you might sound like an anime character (specifically shounen anime).
 
-Here's a two lines from an anime character:
+Here are two lines from an anime character:
 
 - 俺はガキではないの ==だ==。
 - 俺の店 ==だ==。
 
 If this was a real life conversation, it would probably be like this instead:
 
-- 俺はガキじゃない / 俺はガキじゃない ==よ== / 俺はガキじゃない ==んだよ==
+- 俺はガキじゃない ==よ== / 俺はガキじゃない ==んだよ==
 - 俺の店 / 俺の店 ==だよ==
 
 Let's look at another example. This time we will look at a real life conversation between two guys from a reality TV show called "Terrace House":
@@ -479,12 +479,12 @@ As you can see, they don't end their sentences with 「だ」. This can be rephr
 Hopefully, you can see that it sounds very anime-ish.
 
 **So when do native speakers say 「だ」?**  
-Like we saw earlier, it's not that they don't say 「だ」, it's that they dont end their sentences in 「だ」 in a casual **dialogue/conversation**. In a casual conversation, it is a lot more natural to end your sentences with 「よ」、「ね」、「な」、「よね」、「かな」、etc. These are called "sentence ending particles", and we will learn about them in a later section. Regardless of which engine the sentence is using, native speakers like to end it with a "sentence ending particles". And if the sentence happens to be using a だ-engine, then it will be 「だ」＋「。。。」, such as 「だよ」、「だね」、「だよね」、etc. It is also very common for women to omit 「だ」 even if they are ending their sentences with "sentence ending particles". Example:
+Like we saw earlier, it's not that they don't say 「だ」, it's just that they dont end their sentences in 「だ」 in a casual **dialogue/conversation**. In a casual conversation, it is a lot more natural to end your sentences with 「よ」、「ね」、「な」、「よね」、「かな」、etc. These are called "sentence ending particles", and we will learn about them in a later section. Regardless of which engine the sentence is using, native speakers like to end it with a "sentence ending particles during **dialogues/conversations**. And if the sentence happens to be using a だ-engine, then it will be 「だ」＋「。。。」, such as 「だよ」、「だね」、「だよね」、etc. It is also very common for women to omit 「だ」 even if the sentence is using the だ-engine. Example:
 
 - ヤキモチ妬き ==だよね==　←　Both men and women speak like that
 - ヤキモチ妬き ==よね==　←　Only women speak like that
 
-**However**, there are times when native speakers end their sentences in 「だ」. This typically only occur when it's **NOT** a dialogue/conversation. There are a variety of reasons for them to end their sentences in 「だ」. One of them is to make the sentence sound more emphatic. For example, if a guy is confessing his love to a girl, he might shout:
+**However**, there are times when native speakers end their sentences in 「だ」. This typically only occur when it's **NOT** a dialogue/conversation. There are many reasons, and one of them is to make the sentence sound more emphatic. For example, if a guy is confessing his love to a girl, he might shout:
 
 - 好きだ！
 
@@ -553,7 +553,7 @@ In English, the word "be" is used as the copula and to also express "exist". How
 - To express the copula, the hiragana 「だ」 is used (again, we already learned this in the section about だ-engine).
 - To express "exist", there are two verbs: 「いる」 and 「ある」.
 
-We say **「いる」** for animate objects, and **「ある」** for inanimate objects.
+We say ==「いる」== for animate objects, and ==「ある」== for inanimate objects.
 
 **BIG DISCLAIMER HERE**: separating 「いる」 and 「ある」 into animate and inanimate objects, respectively, is not always true. But we can use this as a general rule of thumb.
 
@@ -562,15 +562,15 @@ Inanimate objects are things that don't.
 
 For example:
 
-- 教室に椅子が**ある**  
+- 教室に椅子が ==ある==  
 *The chairs __are__ in the classroom* / *There __are__ chairs in the classroom*
-- 机の上に鉛筆が**ある**  
+- 机の上に鉛筆が ==ある==  
 *The pencil __is__ on the desk* / *There __is__ a pencil on the desk*
-- 教室にジョンさんが**いる**  
+- 教室にジョンさんが ==いる==  
 *John __is__ in the classroom*
-- 庭に犬が**いる**  
+- 庭に犬が ==いる==  
 *The dog __is__ in the garden* / *There __is__ a dog in the garden*
-- 猫は部屋に**いる。**  
+- 猫は部屋に ==いる==    
 *The cat __is__ in the room.* / *There __is__ a cat in the room*
 
 Now let's look at one example where the aforementioned rule (anime vs inanimte) doesn't apply.
