@@ -1,14 +1,32 @@
 # Home
 
-!!! danger "STOP RIGHT THERE"
-    Before you proceed to learn Japanese grammar from this guide, please do yourself a favor and read this page first. It's only a 10 minutes read. The following information in this page assumes that the reader wants to achieve high level of fluency.
+!!! danger "DISCLAIMER"
+    Before you proceed to learn Japanese grammar from this guide, please read this page first. It's only a 12 minutes read. **The following information in this page assumes that the reader wants to achieve high level of fluency.** 
+    
+    If you:
+
+    - want to get really good at Japanese (or any language for that matter) to the point where you can just comfortably watch your favorite anime with no subtitles and it doesn't require extra work for your brain to understand what you're listening to (the same way your brain doesn't need to do extra work to understand your native language)
+    - Or, you can go have a meaningful conversation with a Japanese person about any topics spontaneously
+    
+    That is going to take multiple years of really committing yourself and dedicating yourself to studying. For *those* people; for those of you whose goal is to reach high fluency in Japanese, the following information in this page IS RELEVANT.
+
+    BUT, if you:
+    
+    - are simply learn Japanese as a hobby
+    - something you do on the side
+    - it'd be cool if you could speak a few words here and there when you take a vacation to Japan
+    - want to learn only a few phrases to enricher your experience when watching an anime (although you still need subtitles to comprehend)
+    
+    In that case, then taking a more traditional approach like using textbooks, taking Japanese language course, using an app, etc. would probably serve you well.
+
+    It's in your best interest to think about what your own goals are before you start your journey. That way, you will have a more realistic expectation of your own results. Reaching high level of fluency is a marathon, not a sprint.
 
 Let's first talk about learning (and acquiring) languages in general.
 
 ## Acquiring a language
 
 ???+ info "Author's note"
-    For a more in-depth explanation of the **methodology** for acquiring a new language, refer to [TheMoeWay](https://learnjapanese.moe/) and/or [Refold](https://refold.la/). Those are just general guidelines, and you don't have to follow everything to the letter. I don't personally follow everything to the letter in those guidelines. Not because I disagree with it, but because I don't find some aspect of the methodology particularly engaging and I get bored easily. At the end of the day, the more time you spend in your target language (the language you are trying to acquire) the better you will become at understanding it. This is why, it's important to spend your time doing things that keep you interested in the language, as opposed to following some guideline that you found online. However, objectively speaking, there **is** an efficient methodology for acquiring/learning a language. Whether you find that methodoloy engaging/fun or tiresome/boring is a different story.
+    For a more in-depth explanation of the **methodology** for acquiring a new language, refer to [TheMoeWay](https://learnjapanese.moe/) and/or [Refold](https://refold.la/). Those are just general guidelines, and you don't have to follow everything to the letter. I don't personally follow everything to the letter in those guidelines. Not because I disagree with it, but because I don't find some aspect of the methodology particularly engaging and I get bored easily. At the end of the day, the more time you spend in your target language (the language you are trying to acquire) the better you will become at understanding it. This is why, it's important to spend your time doing things that keep you interested in the language, as opposed to following some guideline that you found online (this one included). However, objectively speaking, there **is** an efficient methodology for acquiring/learning a language. Whether you find that methodoloy engaging/fun or tiresome/boring is a different question.
 
 The short version of the methodology is the following: **get as much as input as you can, i.e. immersion**. 
 
@@ -22,19 +40,33 @@ Output refers to:
 - speaking
 - writing
 
-People *acquire* (not to be confused with *learning*) a language through *comprehensible input*. Comprehensible input means "understanding the message", without necessarily "understanding every single word in the message", or "the grammar rules that were used in the sentence", etc. *Learning* a language means memorizing grammar rules, memorizing vocabulary, etc. Acquiring a language happens subconsciously. Learning a language happens consciously. Learning a language will *not* get you to a high level of fluency. Acquiring *will*. Of course, if you can do both then you can improve faster.
+People **acquire** (not to be confused with **learning**) a language through **comprehensible input**. Comprehensible input means "understanding the message", without necessarily "understanding every single word in the message", or "the grammar rules that were used in the sentence", etc. **Learning** a language means memorizing grammar rules, memorizing vocabulary, etc. Acquiring a language happens subconsciously. Learning a language happens consciously. Learning a language will *not* get you to a high level of fluency. Acquiring *will*. Of course, if you can do both then you can improve faster.
 
-**I still highly recomend you go read [TheMoeWay](https://learnjapanese.moe/)'s and/or [Refold](https://refold.la/)'s in-depth explanation about language acquisition**. It has a lot of insights and nuances that I skipped in my short explanation. Not only that, TheMoeway has a huge list of **[useful resources](https://learnjapanese.moe/resources)**.
+**I still highly recomend you to go read [TheMoeWay](https://learnjapanese.moe/)'s and/or [Refold](https://refold.la/)'s in-depth explanation about language acquisition**. It has a lot of insights and nuances that I skipped in my short explanation. Not only that, TheMoeway has a huge list of **[useful resources](https://learnjapanese.moe/resources)**.
 
 If you have the time and are interested in watching a video about language acquisition: [I recommend watching this interview with Stephen Krashen](https://youtu.be/_VYfpL6lcjE). (59m45s)
 
 ???+ tip "Comprehensible input for beginners of Japanese"
     If you want to get started with comprehensible input in Japanese, [this YouTube channel](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA) has lots of videos that are made specifically for beginners to get them started on comprehensible input in Japanese. 
 
-An excerpt from the [Refold website](https://refold.la/roadmap/stage-0/b/enjoyment) about enjoying the language:
+Here's an excerpt from the [Refold website](https://refold.la/roadmap/stage-0/b/enjoyment) about enjoying the language:
 
 ???+ quote
     A word of advice: The Refold method is just a guide. It is far more important to follow your interests than to adhere to our plan. If you are compelled to read a book before you’ve reached "Stage 2C: Reading", then, by all means, go for it. No need to wait. **Your intrinsic motivation to consume that content will drive your language acquisition more than any learning method, including this one**.
+
+Here's a quote from Dr. Stephen Krashen:
+
+???+ quote
+    "We acquire language in one way and only one way. When we get comprehensible input in a low anxiety environment." - [Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug) (15m24s)
+
+It's important to pay extra attention to the last part: "low anxiety environment". If the learner:
+
+- is not motivated
+- has low self-esteem
+- has high anxiety
+- is on the defensive
+
+the learner may understand the input but it won't penetrate. It won't reach those parts of the brain that do language acquisition.
 
 ## Learning a language
 
@@ -42,18 +74,20 @@ Before we start talking about *learning* a language, there are three points I wo
 
 **Point #1**
 
-???+ quote "Quote from a [video](https://youtu.be/QYlVJlmjLEc) by Tom Scott"
-    "Most monolingual speakers think that other languages are basically just *their* language, with different words, in a slightly different order, and maybe a different way of writing."
+???+ quote
+    "Most monolingual speakers think that other languages are basically just *their* language, with different words, in a slightly different order, and maybe a different way of writing." - [Video by Tom Scott](https://youtu.be/QYlVJlmjLEc) (3m59s)
 
-The point that I want to make here is that, languages are *not* all the same. Do NOT try to learn Japanese with the impression that there is always a 1:1 relation between Japanese and English (or any other language). The fact that machine translation is never perfect should be enough proof that the difference between any two languages is not simply a matter of "word order" and "written differently". In fact, even if the translation was done by a human who is very fluent in both languages, nuances will still be lost. More about [machine translation here](https://youtu.be/GAgp7nXdkLU). (5m04s)
+The point that I want to make here is that, languages are *not* all the same. Do NOT try to learn Japanese with the impression that there is always a 1:1 relation between Japanese and English (or any other language). The fact that machine translation is never perfect should be enough proof that the difference between any two languages is not simply a matter of "word order" and "written differently". More about [machine translation here](https://youtu.be/GAgp7nXdkLU). (5m04s)
+
+In fact, even if the translation was done by a human who is extremely fluent in both languages, nuances will still be lost. That's just the nature of languages. Different languages have different ways of expressing ideas and thoughts, and the way those thoughts are expressed in one language doesn't always translate well into another language. Which brings me to my second point:
 
 **Point #2**
 
-I would also like to emphasize that languages are just one way to express thoughts and ideas (*mentalese*). Therefore, the best advice I can give you is: 
+I would like to emphasize that languages are just a way to express thoughts and ideas (*mentalese*). Therefore, the best advice I can give you is: 
 
-> Do NOT learn learn Japanese (or any other language) with the approach of "how do I say this English phrase in Japanese?", but instead try to learn it with the approach of "how do I express this thought (*mentalese*) in Japanese?". 
+> Do NOT learn learn Japanese (or any other language) with the approach of "how do I say this English phrase in Japanese?", but instead try to learn it with the approach of "how do I express this thought (*mentalese*) in Japanese?" or better yet "what would a native speaker say in this situation?"
 
-There's a *very big* distinction between those two approaches. To learn more about *mentalese* and the point I'm trying to make here, [I recommend this video](https://youtu.be/CRmxNFv04ao) by Matt. (15m07s)
+There's a *very big* distinction between those two approaches. To learn more about *mentalese*, [I recommend this video](https://youtu.be/CRmxNFv04ao) by Matt. (15m07s)
 
 Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/output-troubleshooting#NL-Conflicts):
 
@@ -69,11 +103,11 @@ Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/
 One last point I would like to bring up is:
 
 ???+ quote
-    "Language is highly specific in unpredictable ways" - Matt
+    "Language is highly specific in unpredictable ways" - Matt vs Japan
 
 **I highly highly highly recommend watching this short video by Matt titled [Language isn't Math](https://youtu.be/y8JK8W8dBxk)**. (8m29s)
 
-It will reinforce the concept of acquisition vs learning that we just talked about.
+It will reinforce the concept of acquisition vs learning that we have been talking about.
 
 ---
 
@@ -102,6 +136,8 @@ When I say "learn about pitch accent", I don't necessarily mean that you have to
 - [FORVO](https://forvo.com/) to listen to native speakers pronounce a particular word (each sound sample is user-submitted).
 - [Youglish](https://youglish.com/japanese) to listen to native speakers pronounce a particular word by searching through YouTube videos.
 
+You can also look up a word's pitch accent in a **monolingual dictionary**.
+
 ### 4. Vocabulary
 
 This guide only teaches grammar. It doesn't teach vocabulary. For more details on how to learn vocabulary, refer to [TheMoeWay](https://learnjapanese.moe/guide/#vocabulary) and/or [Refold](https://refold.la/roadmap). 
@@ -115,23 +151,29 @@ First, let's define what grammar is.
 
 In other words, grammar is a set of rules that attemps to model how a language works. It is important to emphasize that grammar **does not define** how a language works, but it simply **attempts to describe** how it works. Grammar rules are made after-the-fact. On top of that, languages are always evolving. An incorrect grammar today, could very well be a correct one tomorrow. As an example, around 30 years ago, saying 「全然大丈夫」 would have been incorrect. Nowadays, everyone says it (even in the news).
 
-So **why should you learn grammar?** You can speed up your listening and reading *comprehension* (i.e. acquisition) skills by learning grammar. Of course, you can improve those skills without learning grammar as well, but the improvement will be slower. 
+**So why should you learn grammar if so far I've been telling you that ACQUISITION is more important than LEARNING?** You can speed up your listening and reading *comprehension* (i.e. acquisition) skills by learning grammar. Of course, you can improve those skills without learning grammar as well, but the improvement will be slower. 
 
 However, if you only memorize grammar and vocabulary but don't get input (immersion), it doesn't matter how much grammar and vocabulary you memorize, it will be **meaningless**. Period. No one ever got good at swimming by only watching videos about swimming and studying the physics and science behind swimming. You have to ACTUALLY swim to get good at swimming. Now, I know this analogy is not perfect for language acquisition. Some people might mistakenly think that "Oh, so I need to speak a lot in my target language to get good at my target language?" from reading this analogy. However, "you have to actually swim" actually refers to INPUT, not output. The whole point is to get experience on "how those grammars and vocabularies are actually used by native speakers". And output will not help you in that regard. [Here's a complimentary video for what I just talked about](https://youtu.be/_LIz-Wbt4us). (29m07s)
 
-Grammar -like we said earlier- is just something that attempts to describe how a language works. In other words, grammar is a model of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. By learning grammar, you are essentially giving your brain a model to start from. (To learn more about modeling, I suggest [this video by Matt](https://youtu.be/UHAa0mFOsYM))
+Grammar -like we said earlier- is just something that attempts to describe how a language works. In other words, grammar is a model of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. By learning grammar, you are essentially giving your brain a model to start from. To learn more about modeling, I suggest [this video by Matt](https://youtu.be/UHAa0mFOsYM)
 
 However, grammar will not necessarily improve your output. In fact, more likely than not, it will harm your output in ways you don't expect (especially during early stages of acquiring a language), such as building up bad habits of saying things in an unnatural way (even if it's grammatically correct). For more details about output, refer to [TheMoeWay](https://learnjapanese.moe/speaking/) and/or [Refold](https://refold.la/roadmap). Matt also has a [video about early output](https://youtu.be/-OuMfLtK3tU).
 
 ???+ quote
     "The quality and quantity of your output is a function of the quality and quantity of your input" - [More about it on this video](https://youtu.be/Df24NIPkvVQ)
 
-There are tons of Japanese grammar guides out there. You should find the easiest one to understand for you. This guide is simply yet another one. If you find this one easy to undersand, then by all means use it.
+Your output can only be as good as your input. If you haven't heard (input) how an idea is expressed in Japanese, you won't know how to say (output) it in Japanese. You could technically, by learning grammar and vocabulary, know how to say something in Japanese without hearing it first; BUT the way you say it, the words you choose, they will all sound unnatural (even if it's grammatically correct). This is especially true for beginners because you don't have enough exposure to Japanese.
 
-With that out of the way, let's talk about this guide specifically. I will try my best to avoid using linguistic terms in this guide for those of you who are not familiar with them. However, it will help you a lot if you at least know some basic linguistic terms like nouns, adjectives, verbs, etc. I wrote this grammar guide hoping that other people can learn Japanese grammar in a more structured way that makes sense. When I say "structured way", I mean "building blocks". We start from zero, and every new grammar that we learn is built upon previous grammars.
+**Why learn from this grammar guide?**  
+There are tons of Japanese grammar guides out there. You should find the easiest one to understand for you. If you find this one easy to undersand, then by all means use it. I wrote this guide with two things in mind:
+
+1. Avoid using linguistic terms in this guide for those of you who are not familiar with them. (However, it will help you a lot if you at least know some basic linguistic terms like nouns, adjectives, verbs, etc.) 
+2. Teach Japanese grammar in a more structured way that makes sense. When I say "structured way", I mean "building blocks". We start from zero, and every new grammar that we learn is built upon previous grammars.
+
+Unlike traditional textbooks, you will NOT be able to start speaking Japanese *just* from reading this grammar guide. This guide is NOT meant to be used for output anyways. This guide is meant to be used in tandem with input (immersion). The goal of this guide is to help you UNDERSTAND what you are reading/listening.
 
 **How to use this guide**  
-I only expect you to read through the guide and **be aware** that such grammar exists. You don't have to bother too much with the small details. The general approach with grammar is to read about the basics and see what sticks, but don't stress over it. Anything that you don't get the first time will come naturally through immersion. On top of that, you can always go back and revisit the grammar guide.
+Like I said earlier, this grammar guide is meant to be used in tandem with immersion. I only expect you to read through the guide and **be aware** that such grammar exists. You don't have to bother too much with the small details. The general approach with grammar is to read about the basics and see what sticks, but don't stress over it. Anything that you don't get the first time will come naturally through immersion. On top of that, you can always go back and revisit the grammar guide.
 
 Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) about learning grammar:
 
@@ -162,5 +204,5 @@ This grammar guide is largely a consolidation of
 
 If you have any feedback, please contact me in one of the following two ways:
 
-1. Open a new "issue" in [GitHub](https://github.com/wizo06/japanese/issues) (preferred). You can also access this by clicking on the "Feedback" button located in the top-right corner of the header of this website.
-2. Send an email to wizo.kuro@gmail.com
+1. Open a new "issue" in [GitHub](https://github.com/wizo06/japanese/issues) (preferred)
+2. Contact me through Discord: `wizo#1968`. You can find me in [TheMoeWay's Discord server](https://discord.gg/nhqjydaR8j)

@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.sections
   palette:
+    # scheme: slate
     primary: pink
     accent: green
   icon:

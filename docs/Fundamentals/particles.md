@@ -582,23 +582,43 @@ Can be used for "duration of time"
 ???+ warning
     While we can use 「に」 for specific points in time, such as:
     
-    - 1 o'clock
-    - March
-    - 15th (day of month)
+    - 1 o'clock (一時)
+    - March (三月)
+    - 15th (day of month) (十五日)
     
     and also for duration of time, such as:
 
-    - 1 week
-    - 3 year
-    - 2 months
+    - 1 week (一週間)
+    - 3 year (三年間)
+    - 2 months (二ヶ月)
 
     we **can NOT use 「に」 for relative time**, such as:
 
-    - tomorrow
-    - yesterday
-    - today
-    - last week
-    - next month
+    - tomorrow (明日)
+    - yesterday (昨日)
+    - today (今日)
+    - last week (先週)
+    - next month (来月)
+    - this morning (今朝)
+    - this evening (今晩)
+    - yesterday's evening (昨夜)
+    - present (現在)
+    - future (将来)
+    - recently (最近)
+    - etc...
+
+    However, words that don't describe an exact point in time, such as:
+
+    - noon (昼)
+    - midnight (深夜)
+    - dawn (明け方)
+    - sunset/dusk (暮れ)
+    - around (頃)
+    - before (前)
+    - after (後)
+    - autumn (秋)
+
+    can be said with or without 「に」.
 
 **Function 3: Marks the destination of a verb**
 
@@ -619,9 +639,6 @@ Can be used for "duration of time"
 
 - 壁に地図を貼る。  
 *Stick a map on the wall*
-
-- 馬に傷をつける。(Lit: Attach wound to horse)  
-*Hurt a horse* / *Injure a horse* / *Wound a horse*
 
 **Function 4: Marks the Indirect Object (recipient of action)**
 
@@ -648,6 +665,9 @@ Can be used for "duration of time"
 
 - 母に甘える。  
 *To indulge mom* / *To spoil mom*
+
+- 馬に傷をつける。(Lit: Attach wound to horse)  
+*Hurt a horse* / *Injure a horse* / *Wound a horse*
 
 **Function 5: Marks the result of a change**
 
@@ -1338,7 +1358,7 @@ While the second sentence is implicitly answering the question "What did I do?",
     Japanese grammar allows you to omit the topic or the subject (main wagon "A") or both. In fact the only component needed to make a complete and proper sentence is the engine "B". This means that, when we choose to explicitly say the topic or the subject out loud, we do so because we want to say it with a certain nuance, or with a certain emphasis.
 
 ???+ info "The English equivalent of 「が」"
-    Japanese is a topic-prominent language, which is why there is one particle for topic (「は」) and one for subject (「が」) . This allows Japanese speakers to emphasize either the topic or the subject, by simply using the corresponding particle.
+    Japanese is a topic-prominent language, and there is one particle for topic (「は」) and one for subject (「が」) . This allows Japanese speakers to emphasize either the topic or the subject, by simply using the corresponding particle.
 
     English, on the other hand, is subject-prominent language. On top of that, English doesn't use particles. In English, when we want to express "emphasis on the subject" the same way 「が」 does in Japanese, we would usually do it in these two ways:
 
@@ -1348,14 +1368,14 @@ While the second sentence is implicitly answering the question "What did I do?",
 
     The first way is to explicitly say "I am the one who..." or "she is the one who..." or "they are the ones who..." or "this is the thing that...".
 
-    The second way is to -if it's on text- stylize the "I" with italics or with bold (or both). The equivalent of this in spoken speech is to say "I" louder or longer (or both).
+    The second way is to ーif it's written communicationー stylize the "I" with italics or with bold (or both). The equivalent of this in spoken speech is to say "I" louder or longer (or both).
 
-    **On a related note**: If we want to *interpret* (not to be confused with *translate*) the following Japanese sentence into English, while still retaining all the nuances and emphasis as much as possible, this is how it would probably be said in English.
+    **On a related note**: If we want to retain as much nuances as possible when translating from Japanese into English, this is how we would probably do it:
 
     - 私は日本人だ。  
     *I am Japanese.*
 
-    Notice that in Japanese, 「私」 is marked with the topic particle 「は」. But the interpretation in English, "I" is the subject, not the topic. Now, let's look at the next sentence:
+    Notice that in Japanese, 「私」 is the **topic**. But in English, "I" is the **subject**. Now, let's look at the next sentence:
 
     - 私が日本人だ。  
     *I am the one who is Japanese.*
@@ -1375,10 +1395,12 @@ In the second sentence, 「を」 is being used to "mark the path/place of motio
 
 The difference between these two sentences is:
 
-1. 山 ==に== 登る → The focus of this sentence is: the goal is the summit of the mountain.
-2. 山 ==を== 登る → The focus of this sentence is: we are climbing up the uphill of the mountain. The summit may or may not be or goal.
+1. 山 ==に== 登る  
+The focus of this sentence is: the goal is the summit of the mountain.
+2. 山 ==を== 登る  
+The focus of this sentence is: we are climbing the uphills of the mountain. The summit may or may not be or goal.
 
-The difference in focus makes sense if we look at the function of each particle. 「に」 is marking the destination of 「登る」, while 「を」 is marking the path of 「登る」. This is why I like to think of 「に」 as an arrow. In this case, 「に」 is an arrow that is pointing towards the summit. In Japanese, we often say 「～登る」 instead of 「～を登る」.
+The difference in focus makes sense if we look at the function of each particle. 「に」 is marking the destination of 「登る」. This is why I like to think of 「に」 as an arrow. In this case, 「に」 is an arrow that is pointing towards the summit. However, 「を」 is marking the path of 「登る」: the uphills. This means that the focus is on the action of climbing （登る） itself. In Japanese, it's more common to say 「～に登る」 instead of 「～を登る」.
 
 ### 「に」 vs 「へ」
 
@@ -1407,6 +1429,8 @@ In the first example, we're implying the destination of the 「台風」. In the
 
 ### 「に」 vs 「で」
 
+**Example 1**
+
 Note: 集まる means "gather", "collect", "meet up"
 
 1. 公園 ==で== 集まる
@@ -1417,8 +1441,10 @@ In the second sentence, 「に」 is being used to "mark the destination of a ve
 
 The difference between these two sentences is:
 
-1. 公園 ==で== 集まる → The focus of this sentence is: the action 「集まる」 will take place in 「公園」.
-2. 公園 ==に== 集まる → The focus of this sentence is: the destination where they will "meet up" is 「公園」.
+1. 公園 ==で== 集まる  
+The focus of this sentence is: the action 「集まる」 will take place in 「公園」.
+2. 公園 ==に== 集まる  
+The focus of this sentence is: the destination where they will "meet up" is 「公園」.
 
 This is another case where imagining 「に」 as an arrow is useful.
 
@@ -1426,12 +1452,97 @@ This is another case where imagining 「に」 as an arrow is useful.
 
 The park (公園) is depicted with the green rectangle, and the people that are going to meet up are depicted with the little black circles. Those people will gather "towards" the destination: 「公園」. In Japanese, it is more natural to say 「～に集まる」.
 
-Let's look at another example where 「に」 and 「で」 is used for time-related word, such as 「後」:
+**Example 2**
 
-1. 晩ご飯を食べた{++後++} ==で== 宿題をやる
-2. 晩ご飯を食べた{++後++} ==に== 宿題をやる
+Let's look at another example where 「に」 and 「で」 is used for time-related word, such as 「後」(after):
 
-In normal English, both sentences could be translates as "to do homework after finishing dinner".
+1. 晩ご飯を食べた後 ==で== 宿題をやる
+2. 晩ご飯を食べた後 ==に== 宿題をやる
+
+In the first sentence, 「で」 is being used to "mark the condition of an action".  
+In the second sentence, 「に」 is being used to "mark temporal locations".
+
+1. 晩ご飯を食べた後 ==で== 宿題をやる  
+The focus of this sentence is: the action 「宿題をやる」 will take place IF the condition 「晩ご飯を食べた」 is completed.
+2. 晩ご飯を食べた後 ==に== 宿題をやる  
+The focus of this sentence is: emphasizes the specific point in time where the action 「宿題をやる」 will take place.
+
+We already said that 「で」 is being used to "mark the ==condition== of an {++action++}". What is the ==condition==? It is 「晩ご飯を食べる」. What is the {++action++}? It is 「宿題をやる」. Once this condition has been met, the action will take place.
+
+In the second sentence, 「に」 is "marking temporal location". We already learned this in the section about 「に」. Let's revisit two examples we saw back there:
+
+- 1時に食べる。  
+*Eat at one o'clock*
+
+![](ni-vs-de-2.png){: width=500 }
+
+As you can see, imagining 「に」 as an arrow is also useful here. The 「に」 is an arrow that is pointing at a specific point in time: 1:00PM.
+
+- 3年生の3月にある就活のイベント。  
+*Job hunting event in March of junior year*
+
+![](ni-vs-de-3.png){: width=500 }
+
+Here, 「に」 is again pointing at a specific point in time: March of junior year.
+
+Now, let's see how this arrow is applied to 「晩ご飯を食べた後 ==に== 宿題をやる」.
+
+![](ni-vs-de-4.png){: width=500 }
+
+Here, 「に」 is pointing at a specific point in time: 「後」. As a result, the nuance that 「～後に」 carries is **the order** in which the actions will take place. First 「晩ご飯を食べた」 then 「宿題をやる」.
+
+**Example 3**
+
+1. 後 ==に== する
+2. 後 ==で== する
+
+Both sentences are generally translated into the same sentence in English: "do it later".
+
+However, ... TBA
+
+This is why you will hear people say 「後 ==に== しよう」(let's do it later). This is because you want to convey the order in which you want to do things: let's first do X, and then we'll do Y later.
+
+**Example 4**
+
+Let's look at an example where 「に」 and 「で」 is used with 「間」(time period).
+
+1. 昼休みの間 ==で== 宿題をやった。
+2. 昼休みの間 ==に== 宿題をやった。
+
+In the first sentence, 「で」 is being used to "mark the boundary of range".  
+In the second sentence, 「に」 is again being used to "mark temporal locations".
+
+1. 昼休みの間 ==で== 宿題をやった。  
+The focus of this sentence is: the action 「宿題をやる」 was completed within the time frame of 「昼休みの間」.
+2. 昼休みの間 ==に== 宿題をやった。  
+The focus of this sentence is: the action 「宿題をやる」 was taken place at some point during 「昼休みの間」. It doesn't necessarily indicate if the action 「宿題をやる」 was finished or not.
+
+We already said that 「で」 is being used to "mark the ==boundary== of {++range++}". What is the ==boundary==? It is the start and end of 「昼休みの間」. What is the range? It is 「昼休みの間」 itself. It is a temporal range. Within that time frame, timespan, duration (however you want to call it), the action 「宿題をやる」 was **completed**. 
+
+In the second sentence, by using 「に」, again, we are essentially using an arrow to point at a specific point in time within 「昼休みの間」 to simply say that the action 「宿題をやる」 was taken place. It doesn't carry the nuance the action itself was or was not completed.
+
+It's also possible to say:
+
+- 昼休みの間宿題をやった。
+
+Yes. This version doesn't have either 「に」 or 「で」. How is this different from the other two? The nuance that this one carries is: the action 「宿題をやる」 was taken place throughout the time frame 「昼休みの間」; as soon as the time frame started, the action started taking place, all the way until the end of the time frame. Now, this doesn't necessarily mean that the task itself 「宿題をやる」 was completed. If you spent all your lunch break (昼休みの間) doing homework (宿題をやる) but you still couldn't finish the homework, then you can say 「昼休みの間宿題をやった」 without either 「に」 or 「で」.
+
+**Example 5**
+
+1. 店は七時 ==で== 閉める。
+2. 店は七時 ==に== 閉める。
+
+In the first sentence, 「で」 is being used to "mark the boundary of range".  
+In the second sentence, 「に」 is being used to "mark temporal locations".
+
+1. 店は七時 ==で== 閉める。  
+The focus of this sentence is: the action closing the business (閉める)  with the implication that the limit of business hours is 7 o'clock (七時).
+2. 店は七時 ==に== 閉める。  
+The focus of this sentence is: to stop the business for that day, and then the status of "shop is closed" will happen at 7 o'clock.
+
+In the first sentence, the focus is on the time limit: the shop will only operate until 7 o'clock. In the second sentence, the focus is on the time itself: "*at what time* will the shop become closed?".
+
+**Example 6**
 
 http://www.ritsumei.ac.jp/acd/cg/lt/rb/633/633PDF/sano.pdf
 
