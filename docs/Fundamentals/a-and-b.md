@@ -1,4 +1,4 @@
-# Main wagon "A" and Engine "B"
+# "A" and "B"
 
 ## Main wagon "A"
 
@@ -496,6 +496,8 @@ Other reasons to end a sentence in 「だ」 are:
 - Casual conversation (this is often accompained with sentence ending particles, like we discussed earlier)
 
 Explaining each reason is beyond the scope of this grammar guide. If you wish to read more about it, you can start [here](https://www.tofugu.com/japanese/da-vs-desu-in-real-life/).
+
+Side note: this doesn't mean that learning Japanese from watching anime is a bad idea. In fact I strongly encourage it (assuming you like watching anime in the first place). To learn more about why I encourage this, watch [this video by Matt](https://youtu.be/V9ND6uw6-QA).
 
 ### い-engine
 

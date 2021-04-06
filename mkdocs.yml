@@ -13,9 +13,9 @@ theme:
     repo: fontawesome/brands/github
 extra_css:
   # - stylesheets/extra.css
-repo_url: https://github.com/wizo06/japanese/issues
-repo_name: FEEDBACK
-edit_uri: ""
+# repo_url: https://github.com/wizo06/japanese/issues
+# repo_name: FEEDBACK
+# edit_uri: ""
 markdown_extensions:
   - admonition
   - attr_list
@@ -32,7 +32,8 @@ nav:
   - Fundamentals:
     - 'Fundamentals/sentence-structures.md'
     - 'Fundamentals/a-and-b.md'
-    - 'Fundamentals/description-inflection.md'
+    - 'Fundamentals/description.md'
+    - 'Fundamentals/inflection.md'
     - 'Fundamentals/particles.md'
     # - 'Fundamentals/word-order.md'
     # - 'Fundamentals/transitive-intransitive.md'

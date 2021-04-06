@@ -36,6 +36,9 @@ We can finally put the knowledge from "Sentence Structures" into use. As a remin
 
 Let's begin learning some basic particles. Each particle has more than one usage/function. We will only learn a few basic usage for each particle for now.
 
+!!! danger "REPEAT AFTER ME"
+    The ENGINE determines which particle will be used for each wagon. This will become more apparent as we look into the contrasts of particles.
+
 ## Topic particles
 
 If we follow the analogy of the train, then topic particles are the particles that go into the "Topic 🏳️" part of the train. We will learn what this actually means when we learn about the particles themselves. There are two topics particles in Japanese: 「は」 and 「も」.
@@ -224,7 +227,21 @@ The "Topic" simply brings something up as... well, the topic of the conversation
 
 ### 「も」
 
-**「も」 is the inclusive topic particle**. It is essentially the topic particle with the additional meaning of "also". Basically, it can introduce another topic in addition to the current topic. Its usage is best explained by an example.
+**「も」 is the inclusive topic particle**. It is essentially the topic particle with the additional meaning of the English words "also" and "too". Basically, it can introduce another topic in addition to the current topic.
+
+The particle 「も」 (and the English words "also" and "too" for that matter) can be broken down into two functions:
+
+- Function 1: **A** "is" or "does" the same thing as **B**  
+Example:  
+*Alice is studying. Bob is studying ==too==.*  
+*Alice is studying. Bob is ==also== studying.*
+
+- Function 2: If **A** "is" or "does" something, you can provide additional information about **A**.  
+Example:  
+*He is a brilliant linguist. He is ==also== interested in botany.*  
+*He is a brilliant linguist. He is interested in botany too.*
+
+**Function 1: the comment of the new and old topic are the same**
 
 - 私 ==も== 学生だ。
 
@@ -242,14 +259,14 @@ The "Topic" simply brings something up as... well, the topic of the conversation
   </tr>
 </table>
 
-*As for me __also__, (I) am student.*
+*As for me __too__, (I) am student.*
 
 Let's look at 「も」 in dialogues:
 
 **Example 1**
 
 ボブ： アリスは学⽣？  
-アリス： うん、トム =も== 学⽣。
+アリス： うん、トム ==も== 学⽣。
 
 *Literal translation*  
 Bob: As for Alice, are (you) a student?  
@@ -257,14 +274,17 @@ Alice: Yes. As for Tom **also**, (he) is a student.
 
 *Normal English*  
 Bob: Are you a student?  
-Alice: Yeah, Tom is **also** student.
+Alice: Yeah, Tom is student too. / Yeah, Tom is also a student.
 
-**The inclusion of 「も」 must be consistent with the answer**. It would not make sense to say, "I am a student, and Tom is also not a student." Instead, use the 「は」 particle to make a break from the inclusion, i.e. change the topic. Let's look at the next example.
+**The comments must be consistent (old and new)**. It would not make sense to say, "I am a student (old comment), and Tom is not a student too (new comment)." If the comments are NOT the same, we should use 「は」 to make a **contrast**. Let's look at the next example.
+
+???+ note 
+    We will learn more about the **contrast** property of 「は」 in a later section when we compare 「は」 vs 「も」.
 
 **Example 2**
 
 ボブ： アリスは学⽣？  
-アリス： うん、でもトムは学⽣じゃない。
+アリス： うん、でもトム ==は== 学⽣じゃない。
 
 *Literal translation*  
 Bob: As for Alice, are (you) a student?  
@@ -274,9 +294,9 @@ Alice: Yes, but, as for Tom, (he) is not.
 Bob: Are you a student?  
 Alice: Yeah, but Tom is not.
 
-If the inclusion *is* consistent with the answer, then we can use 「も」.
-
 **Example 3**
+
+If both comments are consistent, then we can use 「も], just like we did in Example 1.
 
 ボブ：アリスは学⽣？  
 アリス：ううん、トム ==も==学⽣じゃない。
@@ -287,11 +307,9 @@ Alice: No, as for Tom **also**, (he) is not a student.
 
 *Normal English*  
 Bob: Are you a student?  
-Alice: No, Tom is **also** not student.
+Alice: No, Tom is not student either.
 
----
-
-Sometimes the "comment" of the new topic doesn't have to be "consistent" with the comment of the old topic, as long as the comments are not contradicting each other.
+**Function 2: Provide additional information**
 
 **Example 1**
 
@@ -304,22 +322,22 @@ Person B: As for me also, ==(you) are liked.==
 
 *Normal English*  
 Person A: I like ==you==.  
-Person B: I like ==you== too.
+Person B: I also like ==you==. (I like you too)
 
-Notice that when person A says "you", it's referring to person B. But when person B says "you", it's referring to person A. Even though these two comments are not referring to the same person ーtherefore they're not "consistent"ー, they don't contradict each other.
+This usage of 「も」 is simply providing us additional information "I like you too" (from Person B), on top of the previous information "I like you" (from Person A).
 
-**Example 2**
+**Example 5**
 
 Suppose you were working on something on a Sunday night. There's someone who is staying up with you to help you finish your task. Then you realize that it's already midnight and you want to let the other person know that it's OK to go to sleep now. You could say to the other person:
 
 - もう寝ていいよ。疲れたでしょう？明日は月曜日だから{++仕事 ==も== あるし。++}  
-Literally: *Sleep is OK. Tired, right? Monday is tomorrow so {++there is ==also== work.++}*  
+Literally: *It's OK to sleep. Tired, right? Tomorrow is Monday so {++there is ==also== work.++}*  
 
 Or in normal English:
 
 *You can go to sleep now. You must be tired, right? It's Monday tomorrow so you also have to work.*
 
-The comment at the end "there is also work" isn't necessarily "consistent" with what you said previously, in the sense that "There is X, there is Y, there is also work". However, saying 「も」 here is simply "adding one more reason why you should go to sleep now". The previous reason was "you must be tired, right?".
+In this example, 「も」 is simply adding one more reason why you should go to sleep now: "you have work tomorrow". The previous reason was "you must be tired, right?".
 
 ## Case marking particles
 
@@ -482,6 +500,12 @@ Some more examples:
 - 穴を掘る。  
 *Dig hole*
 
+- あの夢をなぞって。  
+*Tracing that dream*
+
+???+ trivia
+    「あの夢をなぞって」 is the name of a song from the duo YOASOBI.
+
 A *direct object* of a verb, is a word that the verb is acting on. It indicates the object of the action. If I say "I eat fish", you can ask "what are you eating?", and my answer would be "fish". The verb "eat" is acting on the word "fish".
 
 **Function 2: Marks the path/place of motion verbs**
@@ -546,6 +570,10 @@ The particle 「に」 also has many functions. I like to think of the particle 
 - 日本に住む。  
 *Live in Japan*
 
+Main wagon "A" | Wagon 「に」 | Engine "B"
+:---: | :---: | :---:
+Ø | 日本に | 住む
+
 - 私が家にいる。  
 *I am at home*
 
@@ -558,7 +586,13 @@ The particle 「に」 also has many functions. I like to think of the particle 
 - 枝先に芽が出る。  
 *Sprout appears in branch*
 
-**Funcion 2: Marks temporal locations**
+- *私のうちに泊まる。  
+*Stay at my place* / *Stay at my house*
+
+- あそこに座る。  
+*Sit over there*
+
+**Funcion 2: Marks the time when an action (verb) happens**
 
 Can be used for "specific point in time"
 
@@ -640,7 +674,15 @@ Can be used for "duration of time"
 - 壁に地図を貼る。  
 *Stick a map on the wall*
 
-**Function 4: Marks the Indirect Object (recipient of action)**
+- 深夜にようこそ。
+
+- 夜に駆ける。  
+*Racing into the night*
+
+???+ trivia
+    「夜に駆ける」 is the name of a song from the music duo YOASOBI.
+
+**Function 4: Marks the "addressee" of the verb (recipient of the action)**
 
 - 友達に花をあげる。  
 *Give flowers to friend*
@@ -683,7 +725,7 @@ Can be used for "duration of time"
 - 王様に扮する。  
 *Disguise as a king* / *Play the role of a king*
 
-**Function 6: Marks the purpose or intention**
+**Function 6: Marks the purpose or intention of the verb**
 
 - 映画を見に行く。  
 *Go see a movie*
@@ -724,6 +766,10 @@ The particle 「へ」 also has many functions that resembles a few functions fr
 - 南へ向かう。  
 *Face towards south*
 
+Main wagon "A" | Wagon 「へ」 | Engine "B"
+:---: | :---: | :---:
+Ø | 南へ | 向かう
+
 - 勝ちへ向かう。  
 *Go towards victory*
 
@@ -759,7 +805,7 @@ The particle 「へ」 also has many functions that resembles a few functions fr
 - こちらへ住んで５年になる。(Lit: Live here and become 5 years)  
 *It will be 5 years since I have (moved and) lived here*
 
-**Function 3: Marks the Indirect Object (recipient of action)**
+**Function 3: Marks the "addressee" of the verb (recipient of the action)**
 
 - 友達へ電話する。  
 *Make a phone call to friend*
@@ -785,6 +831,10 @@ The particle 「で」 also has many functions, and can be summarized as the **c
 - 映画館で映画を⾒た。  
 *Saw a movie at the movie theater* 
 
+Main wagon "A" | Wagon 「で」 | Wagon 「を」 | Engine "B"
+:---: | :---: | :---: | :---:
+Ø | 映画館で | 映画を | 見た
+
 - レストランで昼ご飯を⾷べた。  
 *Ate lunch at restaurant*
 
@@ -797,7 +847,11 @@ The particle 「で」 also has many functions, and can be summarized as the **c
 - 渋谷で時計を買った。  
 *Bought a clock in Shibuya*
 
-**Function 2: Marks the instrument/material/method of which an action is performed**
+- 「ドイツの大学で学んだ」
+
+- 家の中で遊ぶ
+
+**Function 2: Marks the instrument/material/method from which an action is performed**
 
 - バスで帰る。  
 *Go home by bus*
@@ -823,10 +877,21 @@ The particle 「で」 also has many functions, and can be summarized as the **c
 - ラジオで聞いた話。  
 *Story heard from a radio*
 
-**Function 3: Marks the cause/reason**
+- 「ペンで書く」
+- 「汽車で行く」　
+- 「木と紙でできている日本の家」
+- 「機械で作る」
+- 「花でいっぱい野原」
+- 「広場は人でうずまった」
+- 木と紙でできた家
+- ラジオのニュースで事件を知った
+
+**Function 3: Marks the cause/reason of the action**
 
 - 熱で学校を休む。  
 *Miss school due to fever*
+
+かぜで休む
 
 - 寒さで震える。  
 *Shiver with cold*
@@ -840,7 +905,13 @@ The particle 「で」 also has many functions, and can be summarized as the **c
 - 心臓発作で入院する。  
 *Hospitalize due to heart attack*
 
-**Function 4: Marks the condition/state/circumstance of an action**
+- 「火事で一文なしになる」
+- 「撃たれた傷で死ぬ」
+- 「老師の一言でさとる」
+- 「ひどい熱で欠勤する」
+- 火事ですべてを失う
+
+**Function 4: Marks the state/circumstance/condition in which an action happens**
 
 - 急ぎ足で歩く。  
 *Walk with fast pace*
@@ -863,23 +934,82 @@ The particle 「で」 also has many functions, and can be summarized as the **c
 - 千円で釣りをください。  
 *Please give me my change in bills of 1000 yen*
 
-**Function 5: Marks the boundary/limit of a range/scope/extent/quantity**
+- 「はらぺこで帰る」
 
-- 申込みは明日で締め切る。  
-*The applications will close by tomorrow*  
-(The time limit is "tomorrow")
+- 「挨拶のつもりで声をかけたのだ」
+
+- 「無名の詩人で終わる」
+- 「花嫁姿で立つ」
+- 「立ったっままで飯を食う」
+- いいかげんな気持で言ったのではない
+
+**Function 5: Marks the time frame in which an action is completed**
 
 - 三日で仕上げる。  
 *Finish in three days*  
-(The time limit is "three days")
+(The time frame that you have to finish the task is "three days")
+
+- 「新幹線は一時間で二百キロも走る」
+- 「十分間で答えてください」
+- 「一週間で治せる」
+- 1時間で4キロ歩く
+
+**Function 6: Marks the deadline of an action**
+
+- 申込みは明日で締め切る。  
+*The applications will close by tomorrow*  
+(The time frame that the applications will stay open is until "tomorrow")
+
+- 当店は五時で閉める。  
+*This store closes at 5 o'clock*  
+(The time tame frame that the store will stay open is until "5 o'clock")
+
+- 「明日でお別れだ」
+- 明日で公演は終りです
+
+**Function 7: Marks the point in time at which an action takes place**
+
+- 「今日では、月旅行はもはや夢ではなくなった」
+- 「現在では、なんらの疑惑もいだいていない」
+- 「現在では、簡単に解決する問題だ」
+- 「後で僕が片付ける」
+- 「今では真面目に暮らしている」
+
+**Function 8: Marks the boundary of a range**
+
+The word "range" is used very loosely here.
+
+The "range" could be referring to quantity:
 
 - みんなで行く。  
 *Go with everyone*    
-(The boundary of the number of people is "everyone")
+(The boundary of the quantity-range of people is "everyone")
 
 - 一人で泣いた。  
 *Cried alone* / *Cried by himself/herself*    
-(The boundary of the number of people is "alone")
+(The boundary of the quantity-range is "alone" or "one person")
+
+- 全部で百円だ。  
+*The total is 100 yen*  / *100 yen for all the items*
+(The boundary of which the "100 yen" is referring to, is "all the items together" aka "the total")
+
+- 三つで百円。  
+*100 yen for 3 items*  
+(The boundary of which the "100 yen" is referring to, is "3 items")
+
+- それだけでいい。(Lit: It's enough with only that)  
+*That's all I need*
+(The boundary of the quantity-range is "only that")
+
+- 「二人でならできる」
+- 「自分で考える」
+- 野球は9人で1チームだ
+
+Or it could be referring to something more abstract:
+
+- 私の実力で無理だ。  
+*It's impossible with my competency*
+(Given that the range of "competency" has a boundary of "my boundary" (i.e. doesn't include other people's competency), then it would be "impossible")
 
 - 世界で一番高い山。  
 *Tallest mountain in the world*  
@@ -893,13 +1023,19 @@ The particle 「で」 also has many functions, and can be summarized as the **c
 *Be popular among young people*  
 (The boundary of which "being popular" is true, is only "among young people")
 
-- 全部で百円だ。  
-*The total is 100 yen*  
-(The boundary of which the "100 yen" is referring to, is "all the items together" aka "the total")
+### 「と」
 
-- 三つで百円。  
-*100 yen for 3 items*  
-(The boundary of which the "100 yen" is referring to, is "3 items")
+**Function 1: Marks who/what does "A" perform an action (verb) with**
+
+友達 ==と== 買い物する。
+
+**Function 2: Result of change**
+
+被告人は無罪 ==と== なった。
+
+**Function 3: Marks comparison**
+
+兄 ==と== 似ている。
 
 ### 「の」
 
@@ -1095,10 +1231,10 @@ it is not encouraged to do so. By doing so, there will be two 「が」 in the b
 
 ### 「は」 vs 「も」
 
-We learned in the previously that:
+We learned in the first function of 「も」 that:
 
 ???+ quote
-    The inclusion of 「も」 must be consistent.
+    The comments must be consistent (old and new).
 
 Let's see what we mean by "consistent" by comparing 「も」 to 「は」.
 
@@ -1130,7 +1266,7 @@ Then, we **can** use 「も」 in the second topic, because the *comment* of bot
 
     Note: 「今年」（ことし）＝ this year
 
-    - 「今年**も**よろしくお願いします。」
+    - 「今年 ==も== よろしくお願いします。」
 
     A very rough translation of this phrase in English can be 
 
@@ -1398,7 +1534,7 @@ The difference between these two sentences is:
 1. 山 ==に== 登る  
 The focus of this sentence is: the goal is the summit of the mountain.
 2. 山 ==を== 登る  
-The focus of this sentence is: we are climbing the uphills of the mountain. The summit may or may not be or goal.
+The focus of this sentence is: the path itself; the uphills of the mountain. The summit may or may not be or goal.
 
 The difference in focus makes sense if we look at the function of each particle. 「に」 is marking the destination of 「登る」. This is why I like to think of 「に」 as an arrow. In this case, 「に」 is an arrow that is pointing towards the summit. However, 「を」 is marking the path of 「登る」: the uphills. This means that the focus is on the action of climbing （登る） itself. In Japanese, it's more common to say 「～に登る」 instead of 「～を登る」.
 
@@ -1442,15 +1578,23 @@ In the second sentence, 「に」 is being used to "mark the destination of a ve
 The difference between these two sentences is:
 
 1. 公園 ==で== 集まる  
-The focus of this sentence is: the action 「集まる」 will take place in 「公園」.
+The focus of this sentence is: the action itself of 「集まる」, which will take place in 「公園」.
 2. 公園 ==に== 集まる  
-The focus of this sentence is: the destination where they will "meet up" is 「公園」.
+The focus of this sentence is: the destination where they will "meet up" (集まる), which is 「公園」.
 
 This is another case where imagining 「に」 as an arrow is useful.
 
 ![](ni-vs-de.png){: width=400 }
 
 The park (公園) is depicted with the green rectangle, and the people that are going to meet up are depicted with the little black circles. Those people will gather "towards" the destination: 「公園」. In Japanese, it is more natural to say 「～に集まる」.
+
+**When they are used with time**
+
+＃「に」も使えるが、「に」は存在する（に関連すること）の場所、「で」は（活動的な）物事の起こる場所を言う
+　　「いなかで暮らす」と「いなかに住む」も、「住む」が「暮らす」より性的な意味の表現である点で言い分ける。
+　　「店は七時で閉める」と「店は七時に閉める」も、前者は営業を終わらせる行為を積極的に背景にした言い方で営業時間の限度が７時だという含みが伴いやすく、後者はその日の営業をやめ閉店状態になるのが７時だということ。
+
+「当店は５時で／に閉める」では、前者は開店の期限を、後者は閉店の時点を表す。
 
 **Example 2**
 
@@ -1459,17 +1603,15 @@ Let's look at another example where 「に」 and 「で」 is used for time-rel
 1. 晩ご飯を食べた後 ==で== 宿題をやる
 2. 晩ご飯を食べた後 ==に== 宿題をやる
 
-In the first sentence, 「で」 is being used to "mark the condition of an action".  
-In the second sentence, 「に」 is being used to "mark temporal locations".
+In the first sentence, 「で」 is being used to "mark the circumstance in which an action happens".  
+In the second sentence, 「に」 is being used to "mark specific temporal location".
 
 1. 晩ご飯を食べた後 ==で== 宿題をやる  
-The focus of this sentence is: the action 「宿題をやる」 will take place IF the condition 「晩ご飯を食べた」 is completed.
+The focus of this sentence is: the action itself of 「宿題をやる」, which will take place under the circumstance of "after dinner" (晩ご飯を食べた後)
 2. 晩ご飯を食べた後 ==に== 宿題をやる  
-The focus of this sentence is: emphasizes the specific point in time where the action 「宿題をやる」 will take place.
+The focus of this sentence is: to emphasize the specific point in time where the action 「宿題をやる」 will take place: "after dinner".
 
-We already said that 「で」 is being used to "mark the ==condition== of an {++action++}". What is the ==condition==? It is 「晩ご飯を食べる」. What is the {++action++}? It is 「宿題をやる」. Once this condition has been met, the action will take place.
-
-In the second sentence, 「に」 is "marking temporal location". We already learned this in the section about 「に」. Let's revisit two examples we saw back there:
+Before we continue with the explanation, let's revisit two examples we saw in the section about the particle 「に」:
 
 - 1時に食べる。  
 *Eat at one o'clock*
@@ -1489,64 +1631,84 @@ Now, let's see how this arrow is applied to 「晩ご飯を食べた後 ==に== 
 
 ![](ni-vs-de-4.png){: width=500 }
 
-Here, 「に」 is pointing at a specific point in time: 「後」. As a result, the nuance that 「～後に」 carries is **the order** in which the actions will take place. First 「晩ご飯を食べた」 then 「宿題をやる」.
+Here, 「に」 is pointing at a specific point in time: 「後」. It tells  us *when* 「宿題をやる」 will start. As a result, the nuance that 「～後に」 carries is **the order** in which the actions will take place. First 「晩ご飯を食べた」 then 「宿題をやる」. 「で」, however, puts emphasis on the the fact that the action 「宿題をやる」 will ONLY happen under the circumstance of "after dinner" (晩ご飯を食べた後). This can also be seen as "「宿題をやる」 will happen once 「晩ご飯を食べる」 is finished".
 
 **Example 3**
 
-1. 後 ==に== する
-2. 後 ==で== する
+1. 後 ==で== する
+2. 後 ==に== する
 
-Both sentences are generally translated into the same sentence in English: "do it later".
-
-However, ... TBA
-
-This is why you will hear people say 「後 ==に== しよう」(let's do it later). This is because you want to convey the order in which you want to do things: let's first do X, and then we'll do Y later.
+In the first sentence, 「で」 is exactly the same as the 「で」 from Example 2.  
+In the second sentence, 「に」 is also the same as the 「に」 from Example 2. However, 「～にする」 is an expression on its own, and we will learn about this expression in a later section. I simply wanted to bring this example up so you're aware of it for now. 
 
 **Example 4**
 
-Let's look at an example where 「に」 and 「で」 is used with 「間」(time period).
+- ⭕ また後 ==で== ね！
+- ❌ また後 ==に== ね！
+
+Japanese people often say 「また後でね！」 when saying goodbye. This phrase is often translated as "**See you later!**". Let's break down the phrase and see what it really means.
+
+「また」 means "again". 「後」 means "after" or "later". 「ね」 is just a sentence ending particle, which we can ignore for now. So, the phrase is essentially saying "again later". If we were to write the complete phrase, it would be 「また後で会おうね！」. Now we can see that it's saying "again later meet"; or in normal English "See you later!".
+
+Now, why is it incorrect to use 「に」 in this phrase? If we recall from Example 2, using 「に」 expresses the order in which things will happen. When we are expressing "I'll see you later!", we're not necessarily concerned about the order in which things will happen. We're not trying to express "X will happen, then Y will happen, then we will see each other again". Instead, we are simply trying to express "I'll see you/meet you sometime after". For this reason, we must use 「で」. This is because
+
+後 and 前 are used as "time frame", so they can be used with 「で」.
+
+後 and 前 can aslo be used as "specific point in time", so they can also be used with 「に」.
+先 can only refer to "order", so it can only go with 「に」.
+
+
+
+**Example 5**
+
+Let's look at an example where 「に」 and 「で」 is used with 「間」(during).
 
 1. 昼休みの間 ==で== 宿題をやった。
 2. 昼休みの間 ==に== 宿題をやった。
 
-In the first sentence, 「で」 is being used to "mark the boundary of range".  
-In the second sentence, 「に」 is again being used to "mark temporal locations".
+In the first sentence, 「で」 is being used to "mark the time frame in which an action is completed".  
+In the second sentence, 「に」 is again being used to "mark specific temporal location".
 
 1. 昼休みの間 ==で== 宿題をやった。  
 The focus of this sentence is: the action 「宿題をやる」 was completed within the time frame of 「昼休みの間」.
 2. 昼休みの間 ==に== 宿題をやった。  
 The focus of this sentence is: the action 「宿題をやる」 was taken place at some point during 「昼休みの間」. It doesn't necessarily indicate if the action 「宿題をやる」 was finished or not.
 
-We already said that 「で」 is being used to "mark the ==boundary== of {++range++}". What is the ==boundary==? It is the start and end of 「昼休みの間」. What is the range? It is 「昼休みの間」 itself. It is a temporal range. Within that time frame, timespan, duration (however you want to call it), the action 「宿題をやる」 was **completed**. 
-
-In the second sentence, by using 「に」, again, we are essentially using an arrow to point at a specific point in time within 「昼休みの間」 to simply say that the action 「宿題をやる」 was taken place. It doesn't carry the nuance the action itself was or was not completed.
+It is important to note that in the first sentence, it implies that the action 「宿題をやる」 was **completed**. It could've been only a few minutes of your lunch break (昼休みの間), or it could've been the entire duration of it. Either way, the focus is that the task was *completed* within that time frame.  
+In the second sentence, we are using 「に」 as an arrow to point at a specific point in time within 「昼休みの間」 to simply say that the action 「宿題をやる」 was taken place at some point. It doesn't carry the nuance that the action itself was or was not completed.
 
 It's also possible to say:
 
 - 昼休みの間宿題をやった。
 
-Yes. This version doesn't have either 「に」 or 「で」. How is this different from the other two? The nuance that this one carries is: the action 「宿題をやる」 was taken place throughout the time frame 「昼休みの間」; as soon as the time frame started, the action started taking place, all the way until the end of the time frame. Now, this doesn't necessarily mean that the task itself 「宿題をやる」 was completed. If you spent all your lunch break (昼休みの間) doing homework (宿題をやる) but you still couldn't finish the homework, then you can say 「昼休みの間宿題をやった」 without either 「に」 or 「で」.
+Yes. This version doesn't have either 「に」 or 「で」. How is this different from the other two? The nuance that this one carries is: the action 「宿題をやる」 was taken place throughout the time frame 「昼休みの間」; from the beginning of the time frame all the way until the end of it. Now, this doesn't necessarily mean that the task itself 「宿題をやる」 was completed. If you spent all your lunch break (昼休みの間) doing homework (宿題をやる) but you still couldn't finish the homework, then you can say 「昼休みの間宿題をやった」 without either 「に」 or 「で」.
 
-**Example 5**
+**Example 6**
 
 1. 店は七時 ==で== 閉める。
 2. 店は七時 ==に== 閉める。
 
-In the first sentence, 「で」 is being used to "mark the boundary of range".  
-In the second sentence, 「に」 is being used to "mark temporal locations".
+In the first sentence, 「で」 is being used to "mark the deadline of an action".  
+In the second sentence, 「に」 is being used to "mark specific temporal location".
 
 1. 店は七時 ==で== 閉める。  
-The focus of this sentence is: the action closing the business (閉める)  with the implication that the limit of business hours is 7 o'clock (七時).
+The focus of this sentence is: the action itself of closing the shop (閉める), which has a deadline of 7 o'clock (七時). It tells us the time to terminate the action (shop is open) that has been going on until then (7 o'clock). The operating hours is until 7 o'clock.
 2. 店は七時 ==に== 閉める。  
-The focus of this sentence is: to stop the business for that day, and then the status of "shop is closed" will happen at 7 o'clock.
+The focus of this sentence is: the time itself of 7 o'clock (七時), which is when the shop will have its status go from "open" to "closed".
 
-In the first sentence, the focus is on the time limit: the shop will only operate until 7 o'clock. In the second sentence, the focus is on the time itself: "*at what time* will the shop become closed?".
+**Example 7**
 
-**Example 6**
+1. 駅の前 ==に== いる
+2. 駅の前 ==で== 待つ
+
+In the first sentence, 「に」 is being used to "mark the location of existential verbs".  
+In the second sentence, 「で」 is being used to "mark the the place where an action takes place".
+
+As we can see, this example is not a matter of 「に」 vs 「で」, but more a matter of "the correct particle for the corresponding verb". However, if we had to draw some sort of nuance between the two, then the first sentence would have a focus on *where* you are: "in front of the station"（駅の前）; and the second sentence would have a focus on *what* you are doing in front of the station: "to wait" (待つ).
+
+**Example 8**
 
 http://www.ritsumei.ac.jp/acd/cg/lt/rb/633/633PDF/sano.pdf
-
-### 「の」 vs 「な」
 
 ### 「に」 vs 「と」
 
@@ -1566,7 +1728,7 @@ https://hinative.com/ja/questions/5665426
 
 We can express "**from**" and "**until**" with the particles 「**から**」 and 「**まで**」, respectively.
 
-**Example of spatial location**:
+**Example of physical location**:
 
 - アリスは、アメリカから来る。  
 *Alice comes from America.*

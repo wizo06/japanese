@@ -1,3 +1,10 @@
+!!! info "Author's note"
+    Before you start using this grammar, I would like to clarify one thing.
+
+    - Some example of Japanese sentences will have weird English translation.
+
+    This is because I'm trying to convey the original Japanese meaning without losing any nuances while still using English. After all, the best language to explain Japanese is Japanese (the same way the best language to explain English is English). So, expect some sentences to have weird sounding translations in this guide.
+
 # Sentence Structures
 
 ## Subject-Object Structure
@@ -46,7 +53,7 @@ The important point here is that the "Comment" part is actually the *Subject-Obj
 
 <table style="border: 1px solid black">
   <tr>
-    <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid black">Topic 🚩</td>
+    <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid black">Topic 🏳️</td>
     <th colspan="2" style="text-align: center; border: 1px solid black">Comment</td>
   </tr>
   <tr>
@@ -60,13 +67,13 @@ The important point here is that the "Comment" part is actually the *Subject-Obj
   </tr>
 </table>
 
-Notice that I've depicted the topic as a flag 🚩. If the "Comment" is the "train" (main wagon "A" + engine "B"), then the "Topic" is like a flag in this analogy. The flag is not part of the train. The flag simply tells us the topic of the sentence/train.
+Notice that I've depicted the topic as a flag 🏳️. If the "Comment" is the "train" (main wagon "A" + engine "B"), then the "Topic" is like a flag in this analogy. The flag is not part of the train. The flag simply tells us the topic of the sentence/train.
 
 A simpler visualization can be represented as following table:
 
 <table>
   <tr>
-    <th colspan="2" style="text-align: center; border: 1px solid black">Topic 🚩</th>
+    <th colspan="2" style="text-align: center; border: 1px solid black">Topic 🏳️</th>
   </tr>
   <tr>
     <th style="text-align: center; border: 1px solid black">Main wagon "A"</th>
