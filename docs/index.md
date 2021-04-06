@@ -12,7 +12,7 @@ First, let's make a distinction between *acquisition* and *studying*.
 
 [Refold](https://refold.la/) has done a good job at explaining language acquisition, so I'm just going to copy paste their explanation here:
 
-!!! quote
+???+ quote
 
     **Language Acquisition**
     
@@ -57,7 +57,7 @@ Now we can talk about *studying* a language. Specifically, studying Japanese.
 
 ### 1. Writing system
 
-Japanese writing system consists of Kana (Hiragana + Katakana) and Kanji.
+Japanese writing system consists of Kana (Hiragana + Katakana) and Kanji. Refer to [TheMoeWay](https://learnjapanese.moe/guide/#kana).
 
 ### 2. Phonetics
 
@@ -78,7 +78,7 @@ When I say "learn about pitch accent", I don't necessarily mean that you have to
 
 ### 4. Vocabulary
 
-This guide only teaches grammar. It doesn't teach vocabulary. For more details on how to learn vocabulary, refer to [TheMoeWay](https://learnjapanese.moe/guide/#vocabulary) and/or [Refold](https://refold.la/roadmap). My recommendation is to learn vocabularies from the contents that you use as input.
+This guide only teaches grammar. It doesn't teach vocabulary. For more details on how to learn vocabulary, refer to [TheMoeWay](https://learnjapanese.moe/guide/#vocabulary) and/or [Refold](https://refold.la/roadmap/stage-1/c/vocabulary). My recommendation is to learn vocabularies from the contents that you use as input.
 
 ### 5. Grammar
 

@@ -225,6 +225,96 @@ The "Topic" simply brings something up as... well, the topic of the conversation
 
 **It is important to note that giving the 「は」 flag to a word can change the nuance of the sentence every so slightly**, but we don't have to worry about it for now. We will have a deeper look at these nuances in a later section.
 
+**How do native speakers use 「は」 in conversations?**  
+It is very common for native speakers to drop almost all the words in a sentence or question, to keep it as short as possible. The unspoken part of the sentence is expected to be inferred by the listener based on context.
+
+For example, a person might ask a roommate in English:
+
+- "What should we eat for dinner?"
+
+But for a Japanese speaker, they can ask the same question by saying:
+
+Note: 「夕飯」 means "dinner"
+
+- 「夕飯は？」
+
+The literal translation is *"As for dinner?"*. Of course, the actual complete sentence (though not said out loud) can be something like:
+
+- 「夕飯は何にする？」
+
+Which can be roughly translated as *"As for dinner, what should we eat?"*.
+
+Let's look at another dialogue:  
+
+Note: 「今夜」（こんや）means "tonight"  
+「空いてる」（あいてる）means "free" (as in "available" or "have time")  
+「残念」（ざんねん）means "unfortunate"  
+「俺」means "I" (masculine tone)
+
+*Suppose that two friends want to go try out a new restaurant that just opened up*  
+- アリス：「私は今夜空いてるよ。ボブさんは？」
+- ボブ：「残念。俺は今夜忙しいんだ」
+
+*Literal translation (not quite literal, but I tried my best)*  
+- Alice: As for me, (I) am free tonight. As for Bob?
+- Bob: Unfortunate. As for me, (I) am busy tonight.
+
+*Natural English*  
+- Alice: I am free tonight. What about you?
+- Bob: That's unfortunate. I'm busy tonight.
+
+Notice how Alice says 「ボブさんは？」 which literally means *"As for Bob?"*. When Alice first started her sentence, she said 「私は。。。」 which means *"As for me..."*. This means that the current topic is "Alice". By using the 「は」 particle again when she asked 「ボブさんは？」, she has now changed the topic. Changing the topic in this paritcular way in this particular context implies *"What about you (Bob)?"*.
+
+The complete question would be 「ボブさんは今夜空いてる？」 which means *"As for Bob, are (you) free tonight?"*. You can see that even in English, asking "What about you?" was enough to convey the meaning of the whole question without actually saying it out loud.
+
+Let's look at another dialogue as example:
+
+Note: 「明日」（あした）means "tomorrow"
+
+- アリス：リエさんは明日？
+- ボブ：ううん、明日じゃない。
+
+*Literal translation*  
+- Alice: As for Rie, tomorrow?  
+- Bob: No, not tomorrow.
+
+Since we don't have enough context, we don't have enough information to make sense of this conversation. Given a context, as long as the sentence has something to do with "Rie" and "tomorrow", it can mean anything. For instance, they could be talking about when Rie is taking an exam.
+
+Let's look at another example:
+
+Note: 「試験」（しけん）means "exam"
+
+- アリス： 今⽇は試験だ。
+- ボブ： ジョンは？
+- アリス： ジョンは明⽇。
+
+*Literal translation*  
+- Alice: In relation to today, (it) is exam.
+- Bob: As for John?
+- Alice: As for John, (it is) tomorrow.
+
+*Natural English*  
+- Alice: Today is the exam.
+- Bob: What about John?
+- Alice: John will take it tomorrow.
+
+This example shows how generic the topic of a sentence can be. A topic can be referring to any action or object from anywhere even including other sentences. For example, in the last sentence 「ジョンは明⽇」, even though the sentence is about when the exam is for John, the word "exam" doesn't appear anywhere in the sentence!
+
+Let's look at another example:
+
+- ボブ： アリスは学⽣？
+- アリス： うん、学⽣。
+
+*Literal translation*  
+- Bob: As for Alice, are (you) a student?
+- Alice: Yes, (I) am a student.
+
+*Natural English*  
+- Bob: Are you a student?
+- Alice: Yeas, I am.
+
+Here, Bob is marking "Alice" as the topic when he asked 「アリスは学⽣？」. Notice that once the topic is established, Alice does not have to repeat the topic to answer the question about herself. We know that the zero pronoun is "Alice" based on context. The full sentence from Alice is 「うん、私はØが学生だ。」. 
+
 ### 「も」
 
 **「も」 is the inclusive topic particle**. It is essentially the topic particle with the additional meaning of the English words "also" and "too". Basically, it can introduce another topic in addition to the current topic.
@@ -824,7 +914,7 @@ Main wagon "A" | Wagon 「へ」 | Engine "B"
 
 ### 「で」
 
-The particle 「で」 also has many functions, and can be summarized as the **contextual/boundary** particle.
+The particle 「で」 also has many functions, and can be summarized as the **boundary** particle.
 
 **Function 1: Marks the place where an action takes place**
 
@@ -1039,7 +1129,7 @@ Or it could be referring to something more abstract:
 
 ### 「の」
 
-The particle 「の」 has many functions/usages, one of which we already learned in the section "[Describing a noun using another noun](description-inflection.md#using-a-noun)". Let's learn about some more usages in this section.
+The particle 「の」 has many functions/usages, one of which we already learned in the section "[Describing a noun using another noun](description.md#using-a-noun)". Let's learn about some more usages in this section.
 
 **Function 1: Replacement or omission of noun**
 
@@ -1184,7 +1274,7 @@ Main wagon "A" | Engine "B"
 
 *Little sister drew*
 
-And if we recall what we learned in "[Describing a noun using a verb](description-inflection.md#using-a-verb)", we simply place the description before the noun:
+And if we recall what we learned in "[Describing a noun using a verb](description.md#using-a-verb)", we simply place the description before the noun:
 
 - ==妹が描いた== {++絵++}  
 *{++Picture++} ==that little sister drew==*
@@ -1295,6 +1385,12 @@ Normal English: *There is strawberry, but there's no banana*
 Literally: *==As for you==, (you) don't know, but ==as for me==, (I) know*  
 Normal English: *You don't know but I do*
 
+**Example 3**
+
+- アフリカは ==ライオンは== いるけど、==トラは== いない。  
+Literally: *As for Africa, ==as for lions==, (they) exist but ==as for tigers==, they don't exist*  
+Normal English: *In Africa, there are lions but there are no tigers.
+
 ### 「は」 vs 「が」
 
 !!! warning
@@ -1303,6 +1399,25 @@ Normal English: *You don't know but I do*
 We learned about the grammatical usage of 「は」 and 「が」: one is a flag, the other is the main wagon. However, it might still be confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B".
 
 Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar, but from the perspective of communication/conversation. *How do native speakers use those particles?* 
+
+#### Mark the same thing
+
+First, let's look at the scenario when the topic (marked by は) and the subject (marked by が) are the same thing.
+
+What do I mean by "same thing"? Let's use this sentence as example:
+
+- ==私== は学生だ。  
+*As for ==me==, (I) am student.*
+
+If we were to write out the full sentence (although very unnatural), it would be:
+
+- ==私== は {++私++}が学生だ。  
+*As for ==me==, {++I++} am a student.*
+
+In scenarios where the topic and the subject are the same thing, it's more natural to omit one of the two, such as:
+
+- 私 ==は== 学生だ。(私は{--Øが--}学生だ。)
+- 私 ==が== 学生だ。({--Øは--}私が学生だ。)
 
 There are two ways you can look at the difference between these two particles.
 
@@ -1517,6 +1632,20 @@ While the second sentence is implicitly answering the question "What did I do?",
     *I am the one who is Japanese.*
 
     Because normal English sentences is already subject-prominent, when we want to emphasize on the subject the same way 「が」 does in Japanese, we end up resorting to phrases like "the one" or "the thing".
+
+#### Mark different things
+
+Now let's look at a scenario where the topic and the subject are different things.
+
+- 私はラーメンが好きだ。  
+*As for me, ramen is liked*
+
+Here, the core sentence (the "comment" of the topic-comment structure) is 「ラーメンが好きだ」. You are expressing the statement that "ramen is liked", and 「私」 is the topic. This is how you express "I like ramen" in Japanese. It's possible to literally say word for word "I like ramen" in Japanese, but it's not natural.
+
+- 象は鼻が長い。  
+*As for elephants, nose is long*
+
+In normal English, we might say "Elephant's nose is long". Again, it's possible to literally say word for word "Elephant's nose is long" in Japanese, but it's more natural to say it as "As for elephants, nose is long".
 
 ???+ tip
     The difference between these two particles will become more apparent and easier to tell apart as you do more **immersion**.
