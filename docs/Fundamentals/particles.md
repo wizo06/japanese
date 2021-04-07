@@ -259,7 +259,7 @@ Note: 「今夜」（こんや）means "tonight"
 - Alice: As for me, (I) am free tonight. As for Bob?
 - Bob: Unfortunate. As for me, (I) am busy tonight.
 
-*Natural English*  
+*Normal English*  
 - Alice: I am free tonight. What about you?
 - Bob: That's unfortunate. I'm busy tonight.
 
@@ -293,7 +293,7 @@ Note: 「試験」（しけん）means "exam"
 - Bob: As for John?
 - Alice: As for John, (it is) tomorrow.
 
-*Natural English*  
+*Normal English*  
 - Alice: Today is the exam.
 - Bob: What about John?
 - Alice: John will take it tomorrow.
@@ -309,7 +309,7 @@ Let's look at another example:
 - Bob: As for Alice, are (you) a student?
 - Alice: Yes, (I) am a student.
 
-*Natural English*  
+*Normal English*  
 - Bob: Are you a student?
 - Alice: Yeas, I am.
 
@@ -1129,7 +1129,7 @@ Or it could be referring to something more abstract:
 
 ### 「の」
 
-The particle 「の」 has many functions/usages, one of which we already learned in the section "[Describing a noun using another noun](description.md#using-a-noun)". Let's learn about some more usages in this section.
+The particle 「の」 has many functions/usages, one of which we already learned in the section [Describing a noun using another noun](description.md#using-a-noun). Let's learn about some more usages in this section.
 
 **Function 1: Replacement or omission of noun**
 
@@ -1266,7 +1266,7 @@ First noun | が | Second noun
 {++妹++} | が | ==描いた== {++絵++}
 
 **More in-depth explanation**  
-If we recall what we learned in "[A does B](a-and-b.md#verb-sentence)" type of sentences, 「妹が描いた」 is just that.
+If we recall what we learned in [A does B](a-and-b.md#verb-sentence) type of sentences, 「妹が描いた」 is just that.
 
 Main wagon "A" | Engine "B"
 :---: | :---:
@@ -1274,7 +1274,7 @@ Main wagon "A" | Engine "B"
 
 *Little sister drew*
 
-And if we recall what we learned in "[Describing a noun using a verb](description.md#using-a-verb)", we simply place the description before the noun:
+And if we recall what we learned in [Describing a noun using a verb](description.md#using-a-verb), we simply place the description before the noun:
 
 - ==妹が描いた== {++絵++}  
 *{++Picture++} ==that little sister drew==*

@@ -11,14 +11,32 @@ Japanese | English | Sentence type | Engine name
 さくらが親切だ | Sakura is friendly | A is B (Adjectives) | だ-engine
 さくらが学生だ | Sakura is a student | A is B (Nouns) | だ-engine
 
-Let's step back a little bit. Instead of making sentences, let's try simply describing a noun, like so:
+Now, let's start describing words by using other words, like so:
 
-- Crying Sakura / Sakura who is crying
-- Kind Sakura / Sakura who is kind
-- Friendly Sakura / Sakura who is friendly
-- Sakura who is a student
+- ==Crying== Sakura / Sakura ==who is crying==
+- ==Kind== Sakura / Sakura ==who is kind==
+- ==Friendly== Sakura / Sakura ==who is friendly==
+- Sakura ==who is a student==
 
-We can describe a noun using: a verb, an adjective (i-adjective and na-adjective), or another noun. To do this in Japanese, we simply place the word **before** the noun. Let's look at how this is done.
+In these examples, I've highlighted the "descriptive words" in yellow. These words are describing another word: "Sakura".
+
+We can make these descriptions as long as we want to. Example:
+
+- ==好きな人に振られたから昨日部屋の中でずっと泣いてた== {++アリス++}が今はみんなの前で笑ってる。  
+{++Alice++}, ==who was crying the whole time in her room yesterday because she got rejected by her crush==, is now smiling in front of everyone.
+
+Notice that the core of the sentence is just:
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+アリスが | 笑ってる
+Alice | is smiling
+
+and the descriptive words (highlighted in yellow) are just, well, describing "Alice".
+
+We can describe a word (more specifically, describe a noun) by using another word. Let's call this "another word" as "descriptive word". This "descriptive word" can be: a verb, an adjective (i-adjective and na-adjective), or another noun. Notice that all of them are related to one of the three engines.
+
+To describe a noun in Japanese, we simply place the "descriptive word" **before** the noun. In other words, we place the engine before the noun. Let's look at how this is done for each engine.
 
 ### Using a verb
 
@@ -89,72 +107,6 @@ Notice how we are using the verb "eat" to describe the noun "dog".
 
 ### Using an adjective
 
-#### na-adjective
-
-We know how to say:
-
-- さくらが親切だ。  
-*Sakura is friendly*
-
-But if we want to describe Sakura by saying:
-
-- Friendly Sakura / Sakura who is friendly
-
-then we place 「親切」 before 「さくら」, like so:
-
-- 親切**な**さくら
-
-???+ warning "Pay attention to the kana 「な」"
-    When a na-adjective is describing a noun, the copula 「だ」 is dropped and we use the kana 「な」 to connect the two words (hence the name na-adjectives).
-
-    Again, this explanation isn't entirely correct according to how grammar is actually taught in Japan. However, for the sake of simplicity and to make things easy to understand, we will stick with this explanation. There's no need to fuss over the technical side of things.
-
-Examples of na-adjectives (highlighted) describing a noun:
-
-Japanese | English
-:---: | :---:
-==有名== な英雄 | ==Famous== hero
-==綺麗== な花 | ==Beautiful== flowers
-==特別== な日 | ==Special== day
-
-Let's look at some examples in sentences:
-
-**Example 1**:
-
-- ==有名== な女優が来る。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-==有名== な女優が | 来る
-
-In this sentence, 「有名」 means "famous", 「女優」 means "actress", 「来る」 means "come". So, the full sentence reads:
-
-- ==Famous== actress comes. / ==Famous== actress will come.
-
-**Example 2**:
-
-- ==静か== な町が素晴らしい。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-==静か== な町が | 素晴らしい
-
-In this sentence, 「静か」 means "quiet / peaceful", 「町」 means "town", 「素晴らしい」 means "wonderful". So, the full sentence reads:
-
-- ==Peaceful== town is wonderful.
-
-**Example 3**:
-
-- ==真面目== なトムが医者だ。
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-==真面目== なトムが | 医者だ
-
-In this sentence, 「真面目」 means "serious / honest", 「医者」 means "doctor". So, the full sentence reads:
-
-- ==Honest== Tom is a doctor.
-
 #### i-adjective
 
 We know how to say:
@@ -215,12 +167,78 @@ Main wagon "A" | Engine "B"
 - ==優しい== 彗星  
 **==Gentle== comet**
 
-???+ trivia
-    「優しい彗星」 is the name of a song from the music duo YOASOBI.
+!!! tip "Did you know"
+    「優しい彗星」 is the name of a song from the duo YOASOBI. Great song by the way.
+
+#### na-adjective
+
+We know how to say:
+
+- さくらが親切だ。  
+*Sakura is friendly*
+
+But if we want to describe Sakura by saying:
+
+- Friendly Sakura / Sakura who is friendly
+
+then we place 「親切」 before 「さくら」, like so:
+
+- 親切 ==な== さくら
+
+!!! warning "Pay attention to the kana 「な」"
+    When a na-adjective is describing a noun, the copula 「だ」 is dropped and we use the kana 「な」 to connect the two words (hence the name na-adjectives).
+
+    Again, this explanation isn't entirely correct according to how grammar is actually taught in Japan. However, for the sake of making things easy to understand, we will stick with this explanation.
+
+Examples of na-adjectives (highlighted) describing a noun:
+
+Japanese | English
+:---: | :---:
+==有名== な英雄 | ==Famous== hero
+==綺麗== な花 | ==Beautiful== flowers
+==特別== な日 | ==Special== day
+
+Let's look at some examples in sentences:
+
+**Example 1**:
+
+- ==有名== な女優が来る。
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+==有名== な女優が | 来る
+
+In this sentence, 「有名」 means "famous", 「女優」 means "actress", 「来る」 means "come". So, the full sentence reads:
+
+- ==Famous== actress comes. / ==Famous== actress will come.
+
+**Example 2**:
+
+- ==静か== な町が素晴らしい。
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+==静か== な町が | 素晴らしい
+
+In this sentence, 「静か」 means "quiet / peaceful", 「町」 means "town", 「素晴らしい」 means "wonderful". So, the full sentence reads:
+
+- ==Peaceful== town is wonderful.
+
+**Example 3**:
+
+- ==真面目== なトムが医者だ。
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+==真面目== なトムが | 医者だ
+
+In this sentence, 「真面目」 means "serious / honest", 「医者」 means "doctor". So, the full sentence reads:
+
+- ==Honest== Tom is a doctor.
 
 ### Using a noun
 
-We can **label** (not to be confused with **describe**) a noun with another noun by linking them with the particle 「の」. (_We will learn the difference between *labeling* and *describing* in the next section about no-adjectives_).
+We can **label** (not to be confused with **describe**) a noun with another noun by connecting them with the particle 「の」. (We will learn the difference between *labeling* and *describing* in the next section about no-adjectives).
 
 Here are a few examples:
 
@@ -268,12 +286,12 @@ The noun highlighted in {++green++} is what we are talking about, and the noun h
 
 We will learn more about the particle 「の」 in a later section.
 
-???+ tip "Trivia"
+!!! tip "Did you know"
     The example sentence #4 is the name of a Manga and Anime series. The English name of the series is "March comes in like a lion".
 
 ### no-adjectives
 
-Historically, Japanese did not have na-adjectives, and only had i-adjectives and nouns. Overtime, when new words were introduced into the language they were added as **nouns**. These "new words" are primarily of Chinese origin, such as:
+Historically, Japanese did not have na-adjectives, and only had i-adjectives and nouns. In fact, in Japanese, "i-adjectives" are referred to as 「形容詞」 which literally means "adjective". The terms "i-adjective" and "na-adjective" are only really used in settings where Japanese is being taught to westerners, but I digress. Overtime, when new words were introduced into the language they were added as **nouns**. These "new words" are primarily of Chinese origin, such as:
 
 - 綺麗
 - 元気
@@ -320,7 +338,7 @@ Here's a few examples of "new words" that stayed as nouns (some dictionaries and
 - グレー ==の== 傘
 - ソロ ==の== 演奏
 
-???+ tip "Trivia"
+!!! note "Side note"
     Within the set of "na-adjectives", there is also a small subset of native Japanese origin. Some examples are:
 
     - 静か
@@ -337,15 +355,15 @@ Adjectives and nouns are not black and white. They actually lie on a spectrum. S
 2. 綺麗のヒント  
 *beauty hints*
 
-In the first sentence, 「綺麗」 is expressing a characteristic, quality, or attribute of 「人」. The word 「綺麗」 is **describing** 「人」. We already learned this back in the "[A is B (Adjectives)](a-and-b.md#a-is-b-adjectives)" section. To briefly quote what was explained in that section:
+In the first sentence, 「綺麗」 is expressing a characteristic, quality, or attribute of 「人」. The word 「綺麗」 is **describing** 「人」. We already learned this back in the [Engine "B"](a-and-b.md#engine-b) section. To briefly paraphrase what was explained in that section:
 
-> The type of words that expresses property or state is called an adjective.
+> Adjectives are words that expresses state, quality, property of an object.
 
 「綺麗」 is in fact acting as an adjective here.
 
-Now, let's look at the second sentence. Here, 「綺麗」 is used with 「の」. We learned in the previous section that we can label a noun with another noun, and we connect them with the particle 「の」. Does that mean that 「綺麗」 is acting as a noun here? Absolutely. 「綺麗」 is not describing 「ヒント」, it is **labeling** it. The *hints* themselves are not beautiful, it is simply telling us what type of hints they are: they are not about finance or dating; they are about beauty. As we learned from the "[だ-engine](#-engine_1)" section, we are not putting "hints" into the set of "finance" or the set of "dating"; we are putting them into the set of "beauty".
+Now, let's look at the second sentence. Here, 「綺麗」 is used with 「の」. We learned in the previous section that we can label a noun with another noun, and we connect them with the particle 「の」. Does that mean that 「綺麗」 is acting as a noun here? Absolutely. 「綺麗」 is not describing 「ヒント」, it is **labeling** it. The *hints* themselves are not beautiful, it is simply telling us what type of hints they are: they are not about finance or dating; they are about beauty.
 
-Some words are always used with 「な」, while others are always used with 「の」. There are also some words that can be used with both, just like the examples that we saw earlier. Here's a small chart that shows all three categories:
+Some words are always used with 「な」, while others are always used with 「の」. There are also some words that can be used with both, just like the examples that we saw earlier. Here's a small chart that shows all four categories:
 
 Always 「の」 | Usually 「の」＞「な」 | Usually 「な」＞「の」 | Always 「な」
 :---: | :---: | :---: | :---:
@@ -361,8 +379,8 @@ na-adjectives can usually be modified by an adverb of degree, such as: 「すご
 
 no-adjectives can be loosely divided into two groups:
 
-1. words that expresses absolutes, such as 「本当」(true), 「最大」(the biggest)
-2. words that expresses quantities, such as 「沢山」(many), 「大量」(large amount)
+1. words that expresses **absolutes**, such as 「本当」(true), 「最大」(the biggest)
+2. words that expresses **quantities**, such as 「沢山」(many), 「大量」(large amount)
 
 Let's look at two examples of no-adjectives that expresses **absolutes**:
 
@@ -404,7 +422,7 @@ In this example, *person B* chooses to answer the question with 「普通 ==の=
 - ううん、普通 ==な== 人だよ。
 *No, he's a normal person*
 
-In this case, it was less about labeling the boyfriend, and more about his personality. For this reason, *person B* chose to use 「普通な人」, highlighting normalness as a trait that characterizes the boyfriend. 「普通の人」 is possible here too, if we decide to treat "weirdos" and "normal people" as categories of people.
+In this case, it was less about labeling the boyfriend, and more about his personality. For this reason, *person B* chose to use 「普通 ==な== 人」, highlighting normalness as a trait that characterizes the boyfriend. 「普通 ==の== 人」 is possible here too, if we decide to treat "weirdos" and "normal people" as categories of people.
 
 **Example 2**:
 
@@ -415,6 +433,8 @@ In this case, it was less about labeling the boyfriend, and more about his perso
 
 In the first sentence, 「病気」 is labeling 「人」. It tells us that that the sentences applies to *people who have disease*, rather than *people who don't*. This is the typical way that 「病気」 is used to modify a noun, and has a neutral, objective tone.
 
-On the other hand, the second sentence, 「病気」 is describing 「人」. In this (possible, but uncommon) usage, 「病気」 is treated as a quality, property, nature of those people, which sounds negative and rude. It sounds something akin to the English phrase "sick in the head". This shouldn't be a surprise if we recall what we learned in "[A is B (Adjectives)](a-and-b.md#a-is-b-adjectives)" and "[だ-engine](#-engine_1)". As a reminder, adjectives expresses nature, property, quality; the copula expresses "A belongs to the set of B".
+On the other hand, the second sentence, 「病気」 is describing 「人」. In this (possible, but uncommon) usage, 「病気」 is treated as a quality, property, nature of those people, which sounds negative and rude. It sounds something akin to the English phrase "sick in the head". This shouldn't be a surprise if we recall what we learned in [A is B (Adjectives)](a-and-b.md#a-is-b-adjectives) and [だ-engine](#-engine_1). As a reminder, adjectives expresses nature, property, quality; the copula expresses "A belongs to the set of B".
 
-If we choose to say 「病気な人」, then 「病気」 is acting as an adjective, therefore we're expressing a nature or quality of 「人」. We're saying that "being sick" is intrinsically a characteristic of those people (which is why it sounds negative and rude). However, if we say 「病気の人」, then we're not treating 「病気」 as a intrinsic nature of those people; we're simply labeling them with a neutral tone as "people who have disease" / "people who are sick". We're saying with a neutral tone "people who belong to the set of people who have disease".
+If we choose to say 「病気 ==な== 人」, then 「病気」 is acting as an adjective, therefore we're expressing a nature or quality of 「人」. We're saying that "being sick" is intrinsically a characteristic of those people (which is why it sounds negative and rude). However, if we say 「病気 ==の== 人」, then we're not treating 「病気」 as a intrinsic nature of those people; we're simply labeling them with a neutral tone as "people who have disease" / "people who are sick". We're saying with a neutral tone "people who belong to the set of people who have disease".
+
+[^1]: [The Guide to Na-Adjectives and "So-Called" No-Adjectives](https://www.tofugu.com/japanese/na-adjectives-no-adjectives/)

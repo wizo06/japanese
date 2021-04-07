@@ -84,7 +84,7 @@ This guide only teaches grammar. It doesn't teach vocabulary. For more details o
 
 First, let's define what grammar is.  
 
-???+ quote
+!!! quote
     "In linguistics, the grammar of a natural language is its set of structural constraints on speakers' or writers' composition of clauses, phrases, and words." - [Wikipedia](https://en.wikipedia.org/wiki/Grammar)
 
 In other words, grammar is a set of rules that attemps to model how a language works. It is important to emphasize that grammar **does not define** how a language works, but it simply **attempts to describe** how it works. Grammar rules are made after-the-fact. On top of that, languages are always evolving. An incorrect grammar today, could very well be a correct one tomorrow.
@@ -108,14 +108,14 @@ There are tons of Japanese grammar guides out there. You should find the easiest
 1. Avoid using linguistic terms in this guide for those of you who are not familiar with them. (However, it will help you a lot if you at least know some basic linguistic terms like nouns, adjectives, verbs, etc.) 
 2. Teach Japanese grammar in a more structured way that makes sense. When I say "structured way", I mean "building blocks". We start from zero, and every new grammar that we learn is built upon previous grammars.
 
-Unlike traditional textbooks, this grammar guide is not meant to teach you how to output. This guide is meant to be used in tandem with INPUT. The goal of this guide is to help you UNDERSTAND what you are reading/listening.
+Unlike traditional textbooks, this grammar guide is not meant to teach you how to output. This guide is meant to be used in tandem with INPUT. The goal of this guide is to help you UNDERSTAND what you are reading/listening to.
 
 **How to use this guide**  
 Like I said earlier, this grammar guide is meant to be used in tandem with input. I only expect you to read through the guide and **be aware** that such grammar exists. You don't have to bother too much with the small details.
 
 Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) about studying grammar:
 
-???+ quote
+!!! quote
     When approaching grammar, it is important to know that the purpose of a grammar guide is not to make you a master at the language, but to give you only a basic understanding of how things work in the language, and then a true understanding of grammar can only be achieved through immersion. Therefore, I recommend you choose a grammar guide, read/watch it **and** do immersion.
 
 Input itself refers to listening and reading to native content in the target language. Mass input can be referred to as immersion.
@@ -138,12 +138,18 @@ Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/
 
 ## Final words
 
-ACQUISITION (reading and listening) is the heavy lifting. STUDYING (grammar and vocabularies) is not. Please do not neglect immersion.
+ACQUISITION (reading and listening) is the heavy lifting. STUDYING (grammar and vocabularies) is not. **Please do not neglect immersion**.
 
 ## Resources
 
+For more information about the methodology of acquiring a language:
+
 - [Refold](https://refold.la/)
-- [TheMoeWay](https://learnjapanese.moe/)
+- [TheMoeWay](https://learnjapanese.moe/)  
+*TheMoeWay focuses specifically on Japanese*
+
+For easy comprehensible input videos in Japanese:
+
 - [Comprehensible Japanese](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA)
 
 ## References
@@ -155,13 +161,14 @@ This grammar guide is largely a consolidation of
 - 大辞林 第三版 ISBN-13: 978-4385139050
 - 岩波国語辞典 第八版 ISBN-13: 978-4000800488
 - [国語の文法](https://www.kokugobunpou.com/)
+- [Upwrite](https://upwrite.jp/grammar/)
 - [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
 - [Tae Kim](http://www.guidetojapanese.org/learn/grammar)
 - and other sources
 
 ## Feedback
 
-If you have any feedback, please contact me in one of the following two ways:
+If you have any feedback, please contact me in one of the following ways:
 
 1. Open a new "issue" in [GitHub](https://github.com/wizo06/japanese/issues) (preferred)
 2. Contact me through Discord: `wizo#1968`. You can find me in [TheMoeWay's Discord server](https://discord.gg/nhqjydaR8j)

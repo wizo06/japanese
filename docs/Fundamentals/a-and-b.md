@@ -33,7 +33,7 @@ Main wagon "A" | Engine "B"
 Sakura が | walks
 Sakura が | is Japanese
 
-???+ note
+!!! note
     We will learn more about particles in a later section.
 
 ### Invisible main wagon "A"
@@ -122,28 +122,19 @@ All these sentences are complete Japanese sentences, with two parts: 1. the main
 
 This might sound like unecessary emphasis on the fact that the main wagon is still there even though it's invisible. However, the importance of this emphasis will become more apparent as sentences become more complex. Without a good understanding of this concept, complex sentences are going to start sounding extremely vague and hard to understand.
 
-## Type of sentences
+## Definition of three basic linguistic words
 
-Before we go on to learn about the engine "B", we need to learn this first: there are three types of sentences in Japanese.
+Before we learn about the engine "B", it'd be a lot easier for us to understand the engines if we first learn three basic linguistic words:
 
-Type | Used for
-:--- | :---
-A does B (Verbs) | These sentences are used for expressing the action or existence of "A".
-A is B (Adjectives) | These sentences are used for expressing the nature, property, state, condition of "A".
-A is B (Nouns) | These sentences are used for expressing the declaration of what "A" is.
+- Verb
+- Noun
+- Adjective
 
-### A does B (Verbs) 
+### Verb
 
-These sentences are used for expressing the action or existence of "A". 
+A verb is a word that expresses action or state of being. 
 
-Example | Expressing:
-:--- | :---
-Sakura writes a book. | Action
-Sakura is at home. | Existence
-
-In the first sentence, it expresses Sakura's action: "to write". In the second sentence, it expresses Sakura's existence: "to be". The type of words that expresses action or existence is called a **verb**. 
-
-Other examples of verbs are:
+Examples of verbs are:
 
 - read
 - swim
@@ -155,59 +146,13 @@ Other examples of verbs are:
 - play
 - go
 - live
+- be
 
-???+ warning
-    Do **NOT** confuse this "to be" (and its conjugation am/is/are/was/were/being/been) with the "to be" of the other two sentences of type "A **is** B". It is very unfortunate, but English uses the same word for expressing "existence" and expressing "what something is". To illustrate this, let's look at two English sentences where "is" is used to express "exists":
+### Noun
 
-    1. There **is** a cat.
-    2. Sakura **is** at the stadium.
+A noun is a word that functions as the name of a specific object or set of objects, such as living creatures, places, actions, qualities, states of existence, or ideas.
 
-    In the first sentence, we're not saying that a place is literally "a cat", we're saying that a cat **exsists** in that place. In the second sentence, we're not saying that Sakura is literally "a stadium", we're saying that Sakura **exists** in that stadium.
-
-    Now, let's look at two English sentences where "is" is used to express "what something is":
-
-    1. Sakura **is** a Japanese person.
-    2. Sakura **is** a student.
-
-    In these two sentences, "is" is actually telling us "what Sakura is". 
-    
-    We can now clearly see that the word "is" in English actually has two functions. One to express "exists" and one to express "what something is". In Japanese, we have one word for expressing "exists" and another word for expressing "what something is". The word that expresses "what something is" is called a **copula**. We will learn more about the copula when we learn about the だ-engine.
-
-### A is B (Adjectives)
-
-These sentences are used for expressing the nature, property, state, condition of "A".
-
-Example | Expressing:
-:--- | :---
-The line is thick. | Nature / Property
-I am sad. | State / Condition
-
-In the first sentence, it expresses the line's property: "thick". In the second sentence, it expresses "I"'s state: "sad". The type of words that expresses property or state is called an **adjective**.
-
-Other examples of adjectives are:
-
-- tall
-- pretty
-- small
-- bright
-- friendly
-- warm
-- cold
-- angry
-- happy
-
-### A is B (Nouns)
-
-These sentences are used for expressing the declaration of what "A" is.
-
-Example | Expressing:
-:--- | :---
-That person is Sakura. | What something is
-Sakura is a student. | What something is
-
-In the first sentence, it expresses what "that person" is: "Sakura". In the second sentence, it expresses what Sakura is: "a student". A **noun** is a word that is used to identify a class of people, places, things, etc. "Sakura" from the first example, and "student" from the second example, are both nouns. When we say "noun-A is noun-B", we are saying "noun-A belongs to the set of noun-B". For example, in the second sentence, we are saying "Sakura belongs to the set of student".
-
-Other examples of nouns are:
+Examples of nouns are:
 
 - student
 - mountain
@@ -226,45 +171,71 @@ Other examples of nouns are:
 - rice
 - water
 - music
+- victory
 
-???+ warning
-    Do NOT confuse a noun (such as thickness) with an adjective (such as thick). We can say "the line is thick", but we can't say "the line is thickness". We can, however, say "the thickness of a line".
+### Adjective
 
-    The key difference is that in the sentence "the thickness of a line", we're talking about the property of the line: the thickness itself. But in the sentence "the line is thick", we're talking about the line itself, and we are describing how the line is: it's thick.
+An adjective is a word that modifies a noun or noun phrase or describes its referent.
 
-    **In practice, the difference between "A is B (Adjectives)" and "A is B (Nouns)" is not that important**, but I still want to make the distinction here so that you are aware of it. This knowledge will come in handy in some grammars that we will learn later on.
+Examples of adjectives are:
+
+- tall
+- pretty
+- small
+- bright
+- friendly
+- warm
+- cold
+- angry
+- happy
 
 ## Engine "B"
 
-Let's remind ourselves of the three types of sentences that exist in Japanese. We will also give nicknames to each type, so it's easier to talk about them during an explanation.
+First, we need to learn that there are three types of sentences. Each sentence type is an answer to an implicit question.
 
-Type | Nickname
-:--- | :---:
-A does B (Verbs) | Verb-sentence
-A is B (Adjectives) | Adjective-sentence
-A is B (Nouns) | Noun-sentence
+1. What does "A" do?  
+Answer: "A" does "==B==".  
+Example: Flowers ==bloom==.
 
-Now, let's learn about the "Engine B". The engine can be divided into three types:
+2. What is "A"?  
+Answer: "A" is "==B==".  
+Example: Flowers are ==plants==.
 
-Engine name | Used for sentences of type:
+3. What is "A" like?  
+Answer: "A" is "==B==".  
+Example: Flowers are ==pretty==.
+
+The first type of sentence is used to express the action of "A". In this case, "A" is "flowers". What do flowers do? They bloom. Here, "B" is "bloom". In other words, "B" is a **==verb==**.
+
+The second type of sentence is used to express what "A" is. In this case, we're saying that "flowers" are "plants". Here, "B" is "plants". In other words, "B" is a **==noun==**.
+
+The third type of sentence is used to express state, quality, property of "A". In this case, the quality of "flowers" is "pretty". Here, "B" is "pretty". In other words, "B" is an **==adjective==**.
+
+We can now look at the three type of Engines that exist in Japanese.
+
+Engine name | Used when "B" is:
 :---: | :---:
-う-engine | Verb-sentence
-だ-engine | Noun-sentence + Adjective-sentence (na-adjectives)
-い-engine | Adjective-sentence (i-adjectives)
+う-engine | Verb
+だ-engine | Noun or Adjective (na-adjective)
+い-engine | Adjective (i-adjective)
 
-???+ tip "Trivia"
-    According to how grammar is taught in schools in Japan (to Japanese people), dividing the engine into these three types isn't exactly correct. But, for the sake of simplicity and to make things easier to understand for us, we will stick to this model.
+Notice these two points from the table:
+
+- Adjectives in Japanese are divided into two groups: *na-adjective* and *i-adjective*. 
+- na-adjectives and nouns use the same engine.
+
+We will learn the reason behind this when we learn about the だ-engine.
+
+!!! note "Author's note"
+    According to how grammar is taught in Japan, dividing the engine into these three types isn't exactly correct. But, for the sake of simplicity and to make things easier to understand for us, we will stick to this model.
 
 ### う-engine
 
-#### Verb-sentence
+#### When "B" is a verb
 
-This engine is used for expressing sentences like "A does B", where "B" is a verb. Verbs in Japanese can be divided into two categories: __*one-row*__ and __*five-rows*__. All *one-row* verbs end in 「る」, while *five-rows* verbs can end in 「く」、「す」、「つ」、「ぬ」、「む」、「る」、「ぐ」、「ぶ」. Therefore, if a verb does **not** end in 「る」then it must be a *five-rows* verb.
+This engine is used for expressing sentences like "A does B", where "B" is a **verb**. Verbs in Japanese can be divided into two categories: __*one-row*__ and __*five-rows*__. All *one-row* verbs end in 「る」, while *five-rows* verbs can end in 「く」、「す」、「つ」、「ぬ」、「む」、「る」、「ぐ」、「ぶ」. Therefore, if a verb does **not** end in 「る」then it must be a *five-rows* verb. Notice that all verbs end with an 「う」 u-vowel sound. Hence the name of this engine: う-engine.
 
-???+ note
-    Notice that all verbs end with an 「う」 u-vowel sound. Hence the name of this engine: う-engine.
-
-???+ tip
+???+ tip 
     **How to tell if a verb is *one-row* or *five-rows* if it ends in 「る」?**
 
     For verbs ending in 「る」, if the vowel sound preceding the 「る」 is an 「あ」、「う」 or 「お」 vowel sound, it will **always** be a *five-rows* verb. Otherwise, if it is 「い」 or 「え」, it will be a *one-row* verb **in most cases**. If you're unsure which category a verb falls into, you can verify with most dictionaries.
@@ -314,7 +285,7 @@ Example of one-row verbs | Example of five-rows verbs | Irregular verbs
 
 As we saw earlier, it is important to make the distinction of *one-row* vs *five-rows* because they inflect differently.
 
-???+ warning "There are two irregular verbs"
+!!! warning "There are two irregular verbs"
     The verb: 「する」 and 「来る」 are considered as irregular. The reason is that these two verbs do not inflect in quite the same way as the other two categories do. We will learn about inflections in a later section.
 
 An example sentence using the う-engine is:
@@ -340,51 +311,50 @@ Main wagon "A" | Engine "B" | English
 
 ### だ-engine
 
-#### Noun-sentence
+#### Copula
 
-If we want to express a sentence of type "Noun-sentence" such as:
+Before we continue, we need to first learn about the **copula**. A copula is a word that is used to declare that "A" belongs to the set of "B". 
 
-- Sakura is a Japanese person.
+!!! example "Example 1"
+    Back when we learned the three type of sentences, the second sentence answers the question *What is "A"?* We used this sentence as example:
 
-then we need to express the "**is**" part of "Sakura **is** a Japanese person". This is where the copula comes in. In English, the word "to be" (and its conjugation am/is/are/was/were/being/been) is used as the copula.
+    - Flowers are plants.
 
-???+ warning 
-    Again, do not confuse this "to be" with the "to be" of "exist". Go back to [A does B (Verbs)](#a-does-b-verbs) if you don't remember what I'm talking about.
+    In this case, "A" is "flowers" and "B" is "plants". Then, we connect "A" and "B" with the word "==are==", to say that "flowers" belong to the set of "plants".
 
-Examples of "noun-sentence":
+    What are flowers? → Flowers are plants.
 
-1. Sakura is a Japanese person.
-2. Sakura is a student.
+!!! example "Example 2"
+    Let's look at another example:
 
-Main wagon "A" | Engine "B"
-:---: | :---: 
-Sakura | is a Japanese person
-Sakura | is a student
+    - Sakura is a Japanese person.
 
-In these two sentences, the engine "B" is telling us *what* Sakura is. It is *declaring* what Sakura is. **The copula declares what something is**.
+    Here, "A" is "Sakura" and "B" is "Japanese person". Then, we connect "A" and "B" with the word "==is==", to say that "Sakura" belongs to the set of "Japanese people".
 
-**In Japanese, the hiragana 「だ」 is used as the copula** (hence the name of this engine: だ-engine). So, to say the previous examples in Japanese, it would be:
+    What is Sakura? → Sakura is a Japanese person.
 
-Main wagon "A" | Engine "B" 
-:---: | :---: 
-さくらが | 日本人だ
-さくらが | 学生だ
+In English, the word "be" (and its conjugation am, is, are, was, were, being, been) is used as the copula.
 
-???+ info "Copula"
-    A copula is a word that expresses a **one-way equality sign**.  
-    
-    In the previous example "Sakura is a Japanese person", it is essentially saying:
+In Japanese, we use the hiragana 「だ」 as the copula (hence the name of this engine: だ-engine).
 
-    - Sakura belongs to the set of Japanese people.
-    - Sakura is part of the set of Japanese people. 
+So, to say the previous two examples in Japanese, it would be:
 
-    To illustrate this one-way equality sign, it is helpful to think of 「だ」 as a person placing "A" into the set "B", like so:
+Main wagon "A" | Engine "B" | English
+:---: | :---: | :---:
+花が | 植物 ==だ== | Flowers ==are== plants
+さくらが | 日本人 ==だ== | Sakura ==is== a Japanese person
 
-    ![](copula.png){: width=300 }
+It is helpful to think of 「だ」 as a person placing "A" into the set "B", like so:
 
-    In other words, the copula 「だ」 is placing "Sakura" into the set of "Japanese people".
+![](copula.png){: width=300 }
 
-Some more examples of "noun-sentence":
+So, if we use "Sakura is a Japanese person" as an example again, then the copula 「だ」 is placing "Sakura" into the set of "Japanese people".
+
+#### When "B" is a noun
+
+As we saw earlier when we learned about the copula, the だ-engine is used in the sentences of type "A is B", which implicitly answer the question "What is A?". When we answer that question by saying "A is B", the "B" is a **noun**.
+
+Example sentences using the だ-engine, where "B" is a noun:
 
 Main wagon "A" | Engine "B" | English
 :---: | :---: | :---:
@@ -397,14 +367,15 @@ Main wagon "A" | Engine "B" | English
 ２が | 数字だ。 | 2 is a number.
 トムが | 医者だ。 | Tom is a doctor.
 
-#### Adjective-sentence (na-adjective)
+#### When "B" is an adjective (na-adjective)
 
-While "noun-sentence" is used for declaring what something is, "adjective-sentence" is used for expressing the property or state of "A". This engine can also be used for "adjective-sentence". Specifically, it is used for "**na-adjectives**". 
+Back when we learned the three type of sentences, the third sentence answers the question *What is "A" like?* We answer this question by saying "A is B". Example:
 
-???+ info "Adjectives in Japanese"
-    Adjectives in Japanese can be divided into two groups: na-adjectives and i-adjectives. We will look at i-adjectives in the next type of engine.
+- What are flowers like? Flowers are pretty.
 
-Some example sentences using na-adjectives:
+This type of "A is B" sentence is fundamentally different from the "A is B" sentence we [just learned](#when-b-is-a-noun). Here, the "B" is not a noun; it's an adjective: "pretty". Nevertheless, we can still use the だ-engine when "B" is an adjective. More specifically, we can use it when "B" is a **na-adjective**. 
+
+Example sentences using the だ-engine, but "B" is a na-adjective:
 
 Main wagon "A" | Engine "B" | English
 :---: | :---: | :---:
@@ -416,94 +387,16 @@ Main wagon "A" | Engine "B" | English
 アリスが | 親切だ。 | Alice is friendly.
 私が | 真面目だ。 | I am honest.
 
-???+ tip "Trivia"
-    na-adjectives are actually derived from nouns[^1], which is why they both behave so similarly.
+???+ tip
+    na-adjectives are actually derived from nouns[^1], which is why they both behave so similarly. We will learn the history behind this in a later section when we learn about the so called "no-adjective".
 
 [^1]: [形容動詞 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%AE%B9%E5%8B%95%E8%A9%9E#%E6%A6%82%E8%A6%81)
 
-#### How native speakers actually use だ-engine 
-
-Colloquially, you will most likely hear native speakers have a **dialogue/conversation** without ending their sentences with 「だ」. For example, a dialogue between two close friends can look like:
-
-Note: 「元気」 means "in good health"
-
-Person A: 元気？  
-Person B: うん、元気。
-
-*Nautral Englsh*  
-Person A: Are you OK? / Are you fine? / How are you doing? / How are you?  
-Person B: Yeah, I'm OK. / Yeah, I'm fine. 
-
-To fit this dialogue into our train analogy, it will look like this:
-
-**Person A**
-
-Main wagon "A" | Engine "B"
-:---: | :---:
-Ø が | 元気?
-
-**Person B**
-
-A simple "yes" | Main wagon "A" | Engine "B"
-:---: | :---: | :---:
-うん、 | Ø が | 元気
-
-The point I want to make here is that *person B* said "Yes, I **am** OK" 「うん、元気。」 in Japanese without actually saying the "**am**" part (without actually saying the copula 「だ」). This is very common in casual **dialogues/conversations**. In fact, it's so common to the point where if you end your sentences in 「だ」 in casual **dialogues/conversations**, you might sound like an anime character (specifically shounen anime).
-
-Here are two lines from an anime character:
-
-- 俺はガキではないの ==だ==。
-- 俺の店 ==だ==。
-
-If this was a real life conversation, it would probably be like this instead:
-
-- 俺はガキじゃない ==よ== / 俺はガキじゃない ==んだよ==
-- 俺の店 / 俺の店 ==だよ==
-
-Let's look at another example. This time we will look at a real life conversation between two guys from a reality TV show called "Terrace House":
-
-- いつ行くの？
-- 俺ね、来週かな。
-- 俺、３日だよ。
-- だよね、早いよね。
-- 俺のほうが早いよ。
-
-As you can see, they don't end their sentences with 「だ」. This can be rephrased to sound more like anime characters:
-
-- いつ行くの{++だ++}？
-- 俺は来週{++だ++}。
-- 俺は３日{++だ++}。
-- そうか、貴様、早いの{++だ++}な。
-- 俺のほうが早い{++ぜ++}。
-
-Hopefully, you can see that it sounds very anime-ish.
-
-**So when do native speakers say 「だ」?**  
-Like we saw earlier, it's not that they don't say 「だ」, it's just that they dont end their sentences in 「だ」 in a casual **dialogue/conversation**. In a casual conversation, it is a lot more natural to end your sentences with 「よ」、「ね」、「な」、「よね」、「かな」、etc. These are called "sentence ending particles", and we will learn about them in a later section. Regardless of which engine the sentence is using, native speakers like to end it with a "sentence ending particles during **dialogues/conversations**. And if the sentence happens to be using a だ-engine, then it will be 「だ」＋「。。。」, such as 「だよ」、「だね」、「だよね」、etc. It is also very common for women to omit 「だ」 even if the sentence is using the だ-engine. Example:
-
-- ヤキモチ妬き ==だよね==　←　Both men and women speak like that
-- ヤキモチ妬き ==よね==　←　Only women speak like that
-
-**However**, there are times when native speakers end their sentences in 「だ」. This typically only occur when it's **NOT** a dialogue/conversation. There are many reasons, and one of them is to make the sentence sound more emphatic. For example, if a guy is confessing his love to a girl, he might shout:
-
-- 好きだ！
-
-Other reasons to end a sentence in 「だ」 are:
-
-- Emphatic self-expression (like the 「好きだ！」 we saw earlier)
-- Sounding the alarm
-- Invading personal space
-- Casual conversation (this is often accompained with sentence ending particles, like we discussed earlier)
-
-Explaining each reason is beyond the scope of this grammar guide. If you wish to read more about it, you can start [here](https://www.tofugu.com/japanese/da-vs-desu-in-real-life/).
-
-Side note: this doesn't mean that learning Japanese from watching anime is a bad idea. In fact I strongly encourage it (assuming you like watching anime in the first place). To learn more about why I encourage this, watch [this video by Matt](https://youtu.be/V9ND6uw6-QA).
-
 ### い-engine
 
-#### Adjective-sentence (i-adjective)
+#### When "B" is an adjective (i-adjective)
 
-This engine is also used for "adjective-sentence". Specifically, it is used for "**i-adjectives**". i-adjectives always end with the kana 「い」, hence the name of this engine: い-engine
+This engine is also used for "A is B" sentences where "B" is an adjective. More specifically, it is used for **i-adjectives**. All i-adjectives end with the kana 「い」, hence the name of this engine: い-engine.
 
 ???+ warning "Some na-adjectives look like an i-adjective"
     There are some na-adjectives that look like an i-adjective because they also "end with the kana 「い」". The two most common examples are:
@@ -521,7 +414,7 @@ This engine is also used for "adjective-sentence". Specifically, it is used for 
 
     Notice that 「嫌い」 still ends with the kana 「い」 even if we write it in Kanji. But that's because 「嫌い」(hated) actually comes from the verb 「嫌う」(to hate). Interestingly, 「好き」(liked) comes from the verb 「好く」(to like).
 
-Some example sentences using i-adjectives:
+Example sentences using the い-engine:
 
 Main wagon "A" | Engine "B" | English
 :---: | :---: | :---:
@@ -533,9 +426,9 @@ Main wagon "A" | Engine "B" | English
 さくらが | 優しい。 | Sakura is kind.
 
 ???+ warning "Do not use 「だ」 with i-adjectives"
-    Notice that we don't use the copula 「だ」 with i-adjectives, even though this is an "A is B" type sentence. There are many ways to explain why this is, but we'll use this following explanation because it's the easiest to understand:
+    Notice that we don't use the copula 「だ」 with i-adjectives, even though this is an "A is B" type sentence. There are many ways to explain the reason behind this, but we'll use this following explanation because it's the easiest to understand:
 
-    Unlike nouns and na-adjectives where we have to use the copula 「だ」, i-adjectives already have the copula built into them. For example, 「優しい」 does NOT mean "kind", it means "is kind".
+    Unlike nouns and na-adjectives where we have to use the copula 「だ」, i-adjectives already have the copula built into them, which is the last kana 「い」. For example, 「優し ==い==」 does NOT mean "kind", it means "==is== kind".
 
 ## Copula vs Exist
 
@@ -543,21 +436,24 @@ In English, the verb "**be**" (and its conjugation am/is/are/was/were/being/been
 
 Example | "is" is functioning as:
 :--- | :---
-Sakura **is** a Japanese person. | Copula
-Sakura **is** at the stadium. | Exist
+Sakura ==is== a Japanese person. | Copula
+Sakura ==is== at the stadium. | Exist
 
 The "is" from the first sentence is expressing "Sakura belongs to the set of Japanese people". The copula allows us to express declarations about what something is. We already learned this when we learned about the だ-engine. 
 
 The "is" from the second sentence, however, is not expressing "Sakura belongs to the set of stadium". It's not expressing that Sakura is literally a stadium. Instead, it is expressing "Sakura *exists* in a stadium".
 
-In English, the word "be" is used as the copula and to also express "exist". However, in Japanese:
+In English, the word "be" is used as the copula and also used to express "exist". 
 
-- To express the copula, the hiragana 「だ」 is used (again, we already learned this in the section about だ-engine).
+Japanese on the other hand:
+
+- The hiragana 「だ」 is used as copula.
 - To express "exist", there are two verbs: 「いる」 and 「ある」.
 
 We say ==「いる」== for animate objects, and ==「ある」== for inanimate objects.
 
-**BIG DISCLAIMER HERE**: separating 「いる」 and 「ある」 into animate and inanimate objects, respectively, is not always true. But we can use this as a general rule of thumb.
+!!! danger "BIG DISCLAIMER"
+    Separating 「いる」 and 「ある」 into animate and inanimate objects, respectively, is not always true. But we can use this as a general rule of thumb.
 
 Animate objects are things that have life: humans, animals, etc.  
 Inanimate objects are things that don't.
@@ -565,15 +461,15 @@ Inanimate objects are things that don't.
 For example:
 
 - 教室に椅子が ==ある==  
-*The chairs __are__ in the classroom* / *There __are__ chairs in the classroom*
+*The chairs ==are== in the classroom* / *There ==are== chairs in the classroom*
 - 机の上に鉛筆が ==ある==  
-*The pencil __is__ on the desk* / *There __is__ a pencil on the desk*
+*The pencil ==is== on the desk* / *There ==is== a pencil on the desk*
 - 教室にジョンさんが ==いる==  
-*John __is__ in the classroom*
+*John ==is== in the classroom*
 - 庭に犬が ==いる==  
-*The dog __is__ in the garden* / *There __is__ a dog in the garden*
+*The dog ==is== in the garden* / *There ==is== a dog in the garden*
 - 猫は部屋に ==いる==    
-*The cat __is__ in the room.* / *There __is__ a cat in the room*
+*The cat ==is== in the room.* / *There ==is== a cat in the room*
 
 Now let's look at one example where the aforementioned rule (anime vs inanimte) doesn't apply.
 
@@ -581,7 +477,7 @@ Now let's look at one example where the aforementioned rule (anime vs inanimte) 
 - ⭕ チューリップがある  
 *There is a Tulip*
 
-So, plants can't be used with 「いる」? Then it just seems like the rule should be "things that move" vs "things that don't move", right? Not true either. Let's look at the following sentences:
+So, plants can't be used with 「いる」 even though it is a living thing? Then it just seems like the rule should be "things that move" vs "things that don't move", right? Not true either. Let's look at the following sentences:
 
 - ❌ 人形がある
 - ⭕ 人形がいる  
@@ -608,11 +504,13 @@ So, plants can't be used with 「いる」? Then it just seems like the rule sho
 - ❌ シーリングファンがいる  
 *There is a ceiling fan*
 
-Vehicles (in the broadest sense of the word) such as trains, cars, boats, etc, are generally used with 「いる」 because there are *people* inside those vehicles. Of course, vehicles can be used with 「ある」 as well, but the nuance changes slightly. If we use 「いる」 to refer to a vehicle, it's implied that we're talking about the people inside the vehicle. If we use 「ある」 to refer to a vehicle, then: 1. we're talking about the vehicle itself or 2. we're implying that the vehicle has no one in it. There was a news article by the NHK with the title:
+Vehicles (in the broadest sense of the word) such as trains, cars, boats, etc, are generally used with 「いる」 because there are *people* inside those vehicles. Of course, vehicles can be used with 「ある」 as well, but the nuance changes slightly. If we use 「いる」 to refer to a vehicle, it's implied that we're talking about the people inside the vehicle. If we use 「ある」 to refer to a vehicle, then: 1. we're talking about the vehicle itself or 2. we're implying that the vehicle has no one in it. 
 
-- 「不審な ==船== が{++いる++}」
+There was a news article by the NHK with the title:
 
-Here, ==「船」== means "ship", and it's being used with {++「いる」++} which is for animate objects according to our rule of thumb. By using 「いる」 here, it is implied that the title is referring to the people inside the ship.[^1]
+- 不審な ==船== が{++いる++}
+
+Here, ==「船」== means "ship", and it's being used with {++「いる」++} which is for animate objects according to our rule of thumb. However, by using 「いる」 here, it is implied that the title is referring to the people inside the ship.[^1]
 
 [^1]: [NHKニュース　「不審な船がいる」の「いる」について](https://lang-8.com/293700/journals/1257964)
 

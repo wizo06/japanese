@@ -2,19 +2,21 @@
 
 ## Inflection
 
-The only words that have inflection in Japanese are the ENGINES: う-engine (verbs), だ-engine (copula), and い-engine (i-adjectives).
+**The only words that have inflection in Japanese are the ENGINES**.
 
-So far, we learned how to make simple sentences using the main wagon "A" and the engine "B", and we also learned how to describe a noun by using the engine "B". We're now ready to learn how to express those sentences in negative, past-tense, and negative past-tense. Let's remind ourselves of the three types of engines:
+So far, we learned how to make simple sentences using the main wagon "A" and the engine "B", and we also learned how to describe a noun by using the engine "B". We're now ready to learn how to express those sentences in negative, past-tense, and negative past-tense. 
 
-Engine name | Used for sentences of type:
+First, Let's remind ourselves of the three types of engines:
+
+Engine name | Used for:
 :---: | :---:
-う-engine | Verb-sentence
-だ-engine | Noun-sentence + Adjective-sentence (na-adjectives)
-い-engine | Adjective-sentence (i-adjectives)
+う-engine | Verb
+だ-engine | Noun or Adjective (na-adjective)
+い-engine | Adjective (i-adjective)
 
-In Japanese, if we want to express negative, past-tense, negative past-tense, conditional, causative, receptive, etc, **we just have to inflect the engine**. Inflection means changing part of a word (usually the ending) to express a grammatical function or attribute. For example, in English, the verb "see" can inflect into "saw", "sees", "seen" to express present/past and singular/plural, etc. In Japanese, verbs (and words in general) don't express singular/plural, but they can express a lot more than English verbs can.
+In Japanese, if we want to express negative, past-tense, negative past-tense, conditional, causative, receptive, etc, **we simply have to inflect the engine**. Inflection means changing part of a word (usually the ending) to express a grammatical function or attribute. For example, in English, the verb "see" can inflect into "saw", "sees", "seen" to express present/past and singular/plural, etc. In Japanese, verbs (and words in general) don't express singular/plural, but they can express a lot more than English verbs can.
 
-For now, we will only learn how to inflect the engine to express negative, past-tense, and negative past-tense.
+For now, we will only learn the basic inflections: negative, past-tense, and negative past-tense.
 
 ### Negative
 
@@ -37,7 +39,7 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
     - 泳 ==ぐ== → 泳 ==が== {++ない++}
     - 遊 ==ぶ== → 遊 ==ば== {++ない++}
 
-    **For five-rows verbs that specifically end in 「う」**, change the 「う」 to 「わ」 and attach the helper verb 「ない」. Examples:
+    **For five-rows verbs that end in 「う」**, change the 「う」 to 「わ」 and attach the helper verb 「ない」. Examples:
 
     - 言 ==う== → 言 ==わ== {++ない++}
     - 思 ==う== → 思 ==わ== {++ない++}
@@ -56,8 +58,13 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
 
         We already know how to describe a noun by using a verb. We can also do so if the verb is in negative:
 
-        - ==知らない== 人と話す  
-        *Talk to a person ==that (I) don't know==* / *Talk to a stranger*
+        - ==勉強しない== 人が合格できない  
+        *People ==who don't study== can't pass the exam*
+
+        Main wagon "A" | Engine "B"
+        :---: | :---:
+        ==勉強しない== 人が | 合格できない
+        
 
 ???+ info "だ-engine"
     Change 「だ」 to 「では」 and attach the helper verb 「ない」. Examples:
@@ -104,7 +111,7 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
         *People ==who are not kind== are scary*
 
     ???+ tip Trivia
-        The word 「良い」(usually written in kana only 「いい」) was originally pronounced as 「よい」. It eventually became 「いい」 but its inflection still retains the original form. Nowadays, the word 「良い」 can still be pronounced as 「よい」 but it's not common.
+        The word 「良い」(usually written in kana only 「いい」) was originally pronounced as 「よい」. It eventually became 「いい」 but its inflection still retains the original form. Nowadays, the word 「良い」 can still be pronounced as 「よい」 but it's not as common.
 
 ### Past-Tense
 
@@ -151,13 +158,13 @@ To inflect into past-tense, we attach the helper verb 「た」 to the engine.
     ???+ example
         Let's look at one example sentence:
 
-        - ラーメンが美味しくない  
-        *Ramen is not delicious*
+        - ボブが走った  
+        *Bob ran*
 
         We can also describe a noun:
 
-        - ==優しくない== 人が怖い  
-        *People ==who are not kind== are scary*
+        - ==走った== ボブが疲れた  
+        *Bob ==who ran== is exhausted*
 
 ???+ info "だ-engine"
     Change 「だ」 to 「だっ」 and attach the helper verb 「た」. Examples:
@@ -195,14 +202,14 @@ To inflect into past-tense, we attach the helper verb 「た」 to the engine.
 
         We can also describe a noun:
 
-        - ==楽しかった== 時間が戻らない
+        - ==楽しかった== 時間が戻らない  
         *Time ==that was fun== won't come back*
 
 ### Negative Past-Tense
 
-We already know how to inflect into negative with the helper verb 「ない」. Notice that 「ない」 ends with the kana 「い」. To inflect into the negative past-tense, we can treat 「ない」 as an い-engine and inflect into past-tense. In other words:
+We already know how to inflect into negative with the helper verb 「ない」. Notice that 「ない」 ends with the kana 「い」. To inflect into the negative past-tense, we can treat 「ない」 as an い-engine and inflect into past-tense. 
 
-To inflect into **negative past-tense for all 3 engines**, we first inflect into negative with 「ない」, and then inflect 「ない」 into past-tense with 「た」.
+In other words, to inflect into **negative past-tense for all 3 engines**, we first inflect into negative with 「ない」, and then inflect 「ない」 into past-tense with 「た」.
 
 ???+ info
     **う-engine**
@@ -284,4 +291,4 @@ The "て-form" (te-form) itself doesn't have any meaning, but it is used in a lo
 
     **Exceptions**:
 
-    - 良 ==い== → 良 ==く== {++た++} (pronounced as いい → よくて)
+    - 良 ==い== → 良 ==く== {++て++} (pronounced as いい → よくて)

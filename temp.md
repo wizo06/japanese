@@ -1,3 +1,82 @@
+???+ tip "How do native speakers actually use だ-engine?"
+
+    Colloquially, you will most likely hear native speakers have a **dialogue/conversation** without ending their sentences with 「だ」. For example, a dialogue between two close friends can look like:
+
+    Note: 「元気」 means "in good health"
+
+    Person A: 元気？  
+    Person B: うん、元気。
+
+    *Nautral Englsh*  
+    Person A: Are you OK? / Are you fine? / How are you doing? / How are you?  
+    Person B: Yeah, I'm OK. / Yeah, I'm fine. 
+
+    To fit this dialogue into our train analogy, it will look like this:
+
+    **Person A**
+
+    Main wagon "A" | Engine "B"
+    :---: | :---:
+    Ø が | 元気?
+
+    **Person B**
+
+    A simple "yes" | Main wagon "A" | Engine "B"
+    :---: | :---: | :---:
+    うん、 | Ø が | 元気
+
+    The point I want to make here is that *person B* said "Yes, I **am** OK" 「うん、元気。」 in Japanese without actually saying the "**am**" part (without actually saying the copula 「だ」). This is very common in casual **dialogues/conversations**. In fact, it's so common to the point where if you end your sentences in 「だ」 in casual **dialogues/conversations**, you might sound like an anime character (specifically shounen anime).
+
+    Here are two lines from an anime character:
+
+    - 俺はガキではないの ==だ==。
+    - 俺の店 ==だ==。
+
+    If this was a real life conversation, it would probably be like this instead:
+
+    - 俺はガキじゃない ==よ== / 俺はガキじゃないん ==だよ==
+    - 俺の店 / 俺の店 ==だよ==
+
+    Let's look at another example. This time we will look at a real life conversation between two guys from a reality TV show called "Terrace House":
+
+    - いつ行くの？
+    - 俺ね、来週かな。
+    - 俺、３日だよ。
+    - だよね、早いよね。
+    - 俺のほうが早いよ。
+
+    As you can see, they don't end their sentences with 「だ」. This can be rephrased to sound more like anime characters:
+
+    - いつ行くの{++だ++}？
+    - 俺は来週{++だ++}。
+    - 俺は３日{++だ++}。
+    - そうか、貴様、早いの{++だ++}な。
+    - 俺のほうが早い{++ぜ++}。
+
+    Hopefully, you can see that it sounds very anime-ish.
+
+    **So when do native speakers say 「だ」?**  
+    Like we saw earlier, it's not that they don't say 「だ」, it's just that they dont end their sentences in 「だ」 in a casual **dialogue/conversation**. In a casual conversation, it is a lot more natural to end your sentences with 「よ」、「ね」、「な」、「よね」、「かな」、etc. These are called "sentence ending particles", and we will learn about them in a later section. Regardless of which engine the sentence is using, native speakers like to end it with a "sentence ending particles" during **dialogues/conversations**. And if the sentence happens to be using a だ-engine, then it will be 「だ」＋「。。。」, such as 「だよ」、「だね」、「だよね」、etc. It is also very common for women to omit 「だ」 even if the sentence is using the だ-engine. Example:
+
+    - ヤキモチ妬き ==だよね==　←　Neutral
+    - ヤキモチ妬き ==よね==　←　Feminine
+
+    **However**, there are times when native speakers do end their sentences in 「だ」. This typically only occur when it's **NOT** a dialogue/conversation. There are many reasons, and one of them is to make the sentence sound more emphatic. For example, if a guy is confessing his love to a girl, he might shout:
+
+    - 好きだ！
+
+    Other reasons to end a sentence in 「だ」 are:
+
+    - Emphatic self-expression (like the 「好きだ！」 we saw earlier)
+    - Sounding the alarm
+    - Invading personal space
+    - Casual conversation (this is often accompained with sentence ending particles, like we discussed earlier)
+
+    Explaining each reason is beyond the scope of this grammar guide. If you wish to read more about it, you can start [here](https://www.tofugu.com/japanese/da-vs-desu-in-real-life/).
+
+    Side note: this doesn't mean that learning Japanese from watching anime is a bad idea. In fact I strongly encourage it (assuming you like watching anime in the first place). To learn more about why I encourage this, watch [this video by Matt](https://youtu.be/V9ND6uw6-QA).
+
+
 ## Relative clauses
 
 We learned how to modify/describe a noun by using the engine.
