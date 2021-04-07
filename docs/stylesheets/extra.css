@@ -1,24 +1,15 @@
 :root {
-  /* Default color shades */
-  --md-default-fg-color:               hsla(0, 0%, 0%, 0.87);
-  --md-default-fg-color--light:        hsla(0, 0%, 0%, 0.54);
-  --md-default-fg-color--lighter:      hsla(0, 0%, 0%, 0.32);
-  --md-default-fg-color--lightest:     hsla(0, 0%, 0%, 0.07);
-  --md-default-bg-color:               hsla(0, 0%, 100%, 1);
-  --md-default-bg-color--light:        hsla(0, 0%, 100%, 0.7);
-  --md-default-bg-color--lighter:      hsla(0, 0%, 100%, 0.3);
-  --md-default-bg-color--lightest:     hsla(0, 0%, 100%, 0.12);
+  --md-default-fg-color:               rgba(255, 255, 255, 0.60); /*Regular font*/
+  --md-default-fg-color--light:        rgba(255, 255, 255, 0.87); /*h1*/
+  --md-default-fg-color--lighter:      rgba(255, 255, 255, 0.60); /*Quote line of >*/
+  --md-default-fg-color--lightest:     rgba(255, 255, 255, 0.38); /*Horizontal line used for separation*/
+  --md-default-bg-color:               rgba(018, 018, 018, 0.90); /*Background color*/
+}
 
-  /* Primary color shades */
-  --md-primary-fg-color:               hsla(, 1);
-  --md-primary-fg-color--light:        hsla(, 1);
-  --md-primary-fg-color--dark:         hsla(, 1);
-  --md-primary-bg-color:               hsla(0, 0%, 100%, 1);
-  --md-primary-bg-color--light:        hsla(0, 0%, 100%, 0.7);
+b, strong, .md-nav__title, h2, h3, h4 {
+  color: rgba(255, 255, 255, 0.87);
+}
 
-  /* Accent color shades */
-  --md-accent-fg-color:                hsla(, 1);
-  --md-accent-fg-color--transparent:   hsla(, 0.1);
-  --md-accent-bg-color:                hsla(0, 0%, 100%, 1);
-  --md-accent-bg-color--light:         hsla(0, 0%, 100%, 0.7);
+tbody {
+  background-color: rgba(255, 255, 255, 0.05);
 }

@@ -5,14 +5,14 @@ theme:
     text: Noto Sans JP
   features:
     - navigation.sections
+  icon:
+    repo: fontawesome/brands/github
   palette:
     # scheme: slate
     primary: pink
     accent: green
-  icon:
-    repo: fontawesome/brands/github
 extra_css:
-  # - stylesheets/extra.css
+  - stylesheets/extra.css
 # repo_url: https://github.com/wizo06/japanese/issues
 # repo_name: FEEDBACK
 # edit_uri: ""
@@ -27,6 +27,7 @@ markdown_extensions:
   - pymdownx.details
 plugins:
   - git-revision-date
+  - search
 nav:
   - 'index.md'
   - Fundamentals:
