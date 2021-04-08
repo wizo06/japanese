@@ -8,9 +8,9 @@ theme:
   icon:
     repo: fontawesome/brands/github
   palette:
-    # scheme: slate
-    primary: pink
-    accent: green
+    scheme: slate
+    primary: cyan
+    accent: cyan
 extra_css:
   - stylesheets/extra.css
 # repo_url: https://github.com/wizo06/japanese/issues
@@ -19,12 +19,15 @@ extra_css:
 markdown_extensions:
   - admonition
   - attr_list
+  - footnotes
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.critic
-  - footnotes
   - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.keys
 plugins:
   - git-revision-date
   - search

@@ -9,7 +9,7 @@ Let's use the following sentence to illustrate what a particle is:
 Note: 「魚」 means "fish"  
 「食べる」 means "eat"
 
-- 魚 ==_== 食べる。
+- 魚 ==＿== 食べる。
 
 What is that sentence saying in English?
 
@@ -148,7 +148,7 @@ Main wagon "A" | Wagon 「を」 | Wagon 「に」 | Engine "B"
 
 This sentence means "I throw a ball at Sakura" or "I throw a ball to Sakura". All three particles in this sentence -「が」,「を」and 「に」 tell us the "role" of each word that it's attached to. 「が」 tells us *who* threw the ball, 「を」 tells us *what* was thrown, 「に」 tells us *to whom* the ball was thrown.
 
-???+ note
+!!! note
     We will learn more about 「が」,「を」and 「に」 in a later section.
 
 Now that we've seen how those particles can affect the "role" of a word, let's introduce the 「は」 particle into the sentence to see what a topic particle does.
@@ -225,96 +225,6 @@ The "Topic" simply brings something up as... well, the topic of the conversation
 
 **It is important to note that giving the 「は」 flag to a word can change the nuance of the sentence every so slightly**, but we don't have to worry about it for now. We will have a deeper look at these nuances in a later section.
 
-**How do native speakers use 「は」 in conversations?**  
-It is very common for native speakers to drop almost all the words in a sentence or question, to keep it as short as possible. The unspoken part of the sentence is expected to be inferred by the listener based on context.
-
-For example, a person might ask a roommate in English:
-
-- "What should we eat for dinner?"
-
-But for a Japanese speaker, they can ask the same question by saying:
-
-Note: 「夕飯」 means "dinner"
-
-- 「夕飯は？」
-
-The literal translation is *"As for dinner?"*. Of course, the actual complete sentence (though not said out loud) can be something like:
-
-- 「夕飯は何にする？」
-
-Which can be roughly translated as *"As for dinner, what should we eat?"*.
-
-Let's look at another dialogue:  
-
-Note: 「今夜」（こんや）means "tonight"  
-「空いてる」（あいてる）means "free" (as in "available" or "have time")  
-「残念」（ざんねん）means "unfortunate"  
-「俺」means "I" (masculine tone)
-
-*Suppose that two friends want to go try out a new restaurant that just opened up*  
-- アリス：「私は今夜空いてるよ。ボブさんは？」
-- ボブ：「残念。俺は今夜忙しいんだ」
-
-*Literal translation (not quite literal, but I tried my best)*  
-- Alice: As for me, (I) am free tonight. As for Bob?
-- Bob: Unfortunate. As for me, (I) am busy tonight.
-
-*Normal English*  
-- Alice: I am free tonight. What about you?
-- Bob: That's unfortunate. I'm busy tonight.
-
-Notice how Alice says 「ボブさんは？」 which literally means *"As for Bob?"*. When Alice first started her sentence, she said 「私は。。。」 which means *"As for me..."*. This means that the current topic is "Alice". By using the 「は」 particle again when she asked 「ボブさんは？」, she has now changed the topic. Changing the topic in this paritcular way in this particular context implies *"What about you (Bob)?"*.
-
-The complete question would be 「ボブさんは今夜空いてる？」 which means *"As for Bob, are (you) free tonight?"*. You can see that even in English, asking "What about you?" was enough to convey the meaning of the whole question without actually saying it out loud.
-
-Let's look at another dialogue as example:
-
-Note: 「明日」（あした）means "tomorrow"
-
-- アリス：リエさんは明日？
-- ボブ：ううん、明日じゃない。
-
-*Literal translation*  
-- Alice: As for Rie, tomorrow?  
-- Bob: No, not tomorrow.
-
-Since we don't have enough context, we don't have enough information to make sense of this conversation. Given a context, as long as the sentence has something to do with "Rie" and "tomorrow", it can mean anything. For instance, they could be talking about when Rie is taking an exam.
-
-Let's look at another example:
-
-Note: 「試験」（しけん）means "exam"
-
-- アリス： 今⽇は試験だ。
-- ボブ： ジョンは？
-- アリス： ジョンは明⽇。
-
-*Literal translation*  
-- Alice: In relation to today, (it) is exam.
-- Bob: As for John?
-- Alice: As for John, (it is) tomorrow.
-
-*Normal English*  
-- Alice: Today is the exam.
-- Bob: What about John?
-- Alice: John will take it tomorrow.
-
-This example shows how generic the topic of a sentence can be. A topic can be referring to any action or object from anywhere even including other sentences. For example, in the last sentence 「ジョンは明⽇」, even though the sentence is about when the exam is for John, the word "exam" doesn't appear anywhere in the sentence!
-
-Let's look at another example:
-
-- ボブ： アリスは学⽣？
-- アリス： うん、学⽣。
-
-*Literal translation*  
-- Bob: As for Alice, are (you) a student?
-- Alice: Yes, (I) am a student.
-
-*Normal English*  
-- Bob: Are you a student?
-- Alice: Yeas, I am.
-
-Here, Bob is marking "Alice" as the topic when he asked 「アリスは学⽣？」. Notice that once the topic is established, Alice does not have to repeat the topic to answer the question about herself. We know that the zero pronoun is "Alice" based on context. The full sentence from Alice is 「うん、私はØが学生だ。」. 
-
 ### 「も」
 
 **「も」 is the inclusive topic particle**. It is essentially the topic particle with the additional meaning of the English words "also" and "too". Basically, it can introduce another topic in addition to the current topic.
@@ -329,7 +239,7 @@ Example:
 - Function 2: If **A** "is" or "does" something, you can provide additional information about **A**.  
 Example:  
 *He is a brilliant linguist. He is ==also== interested in botany.*  
-*He is a brilliant linguist. He is interested in botany too.*
+*He is a brilliant linguist. He is interested in botany ==too==.*
 
 **Function 1: the comment of the new and old topic are the same**
 
@@ -360,13 +270,13 @@ Let's look at 「も」 in dialogues:
 
 *Literal translation*  
 Bob: As for Alice, are (you) a student?  
-Alice: Yes. As for Tom **also**, (he) is a student.
+Alice: Yes. As for Tom ==also==, (he) is a student.
 
 *Normal English*  
 Bob: Are you a student?  
-Alice: Yeah, Tom is student too. / Yeah, Tom is also a student.
+Alice: Yeah, Tom is student ==too==. / Yeah, Tom is ==also== a student.
 
-**The comments must be consistent (old and new)**. It would not make sense to say, "I am a student (old comment), and Tom is not a student too (new comment)." If the comments are NOT the same, we should use 「は」 to make a **contrast**. Let's look at the next example.
+**The comments must be consistent (old and new)**. It would not make sense to say, "*I am a student (old comment), and Tom is not a student too (new comment).*" If the comments are NOT the same, we should use 「は」 to make a **contrast**. Let's look at the next example.
 
 ???+ note 
     We will learn more about the **contrast** property of 「は」 in a later section when we compare 「は」 vs 「も」.
@@ -386,20 +296,20 @@ Alice: Yeah, but Tom is not.
 
 **Example 3**
 
-If both comments are consistent, then we can use 「も], just like we did in Example 1.
+If both comments are consistent, then we can use 「も」, just like we did in Example 1.
 
 ボブ：アリスは学⽣？  
-アリス：ううん、トム ==も==学⽣じゃない。
+アリス：ううん、トム ==も== 学⽣じゃない。
 
 *Literal trasnlation*  
 Bob: As for Alice, are (you) a student?  
-Alice: No, as for Tom **also**, (he) is not a student.
+Alice: No, as for Tom ==also==, (he) is not a student.
 
 *Normal English*  
 Bob: Are you a student?  
 Alice: No, Tom is not student either.
 
-**Function 2: Provide additional information**
+**Function 2: Provide additional relevant information**
 
 **Example 1**
 
@@ -414,20 +324,50 @@ Person B: As for me also, ==(you) are liked.==
 Person A: I like ==you==.  
 Person B: I also like ==you==. (I like you too)
 
-This usage of 「も」 is simply providing us additional information "I like you too" (from Person B), on top of the previous information "I like you" (from Person A).
+This usage of 「も」 is simply providing us the additional information of "I like you too" (from Person B), on top of the previous information "I like you" (from Person A).
 
-**Example 5**
+**Example 2**
 
 Suppose you were working on something on a Sunday night. There's someone who is staying up with you to help you finish your task. Then you realize that it's already midnight and you want to let the other person know that it's OK to go to sleep now. You could say to the other person:
 
-- もう寝ていいよ。疲れたでしょう？明日は月曜日だから{++仕事 ==も== あるし。++}  
-Literally: *It's OK to sleep. Tired, right? Tomorrow is Monday so {++there is ==also== work.++}*  
+- もう寝ていいよ。{++疲れた++}でしょう？明日は月曜日だから{++仕事 ==も== あるし++}。  
+Literally: *It's OK to sleep. {++Tired++}, right? Tomorrow is Monday so {++there is ==also== work++}.*  
 
 Or in normal English:
 
-*You can go to sleep now. You must be tired, right? It's Monday tomorrow so you also have to work.*
+*You can go to sleep now. {++You must be tired++}, right? It's Monday tomorrow so {++you ==also== have to work++}.*
 
-In this example, 「も」 is simply adding one more reason why you should go to sleep now: "you have work tomorrow". The previous reason was "you must be tired, right?".
+In this example, 「も」 is simply adding one more reason why that person should go to sleep now: "{++you have work tomorrow++}". The previous reason was "{++you must be tired++}".
+
+**「も」 doesn't change the logical meaning of a sentence**
+
+Just like 「は」, 「も」 doesn't change the logical meaning of the sentence either. After all, 「も」 is also a topic particle. This is true regardless of which function (function 1 and function 2) 「も」 is doing in a particular sentence. Let's use the same example we saw in the section about 「は」 to illustrate how topic particles don't change the logical meaning of a sentence.
+
+- 私がさくらにボールを投げる
+
+Main wagon "A" | Wagon 「を」 | Wagon 「に」 | Engine "B"
+:---: | :---: | :---: | :---:
+私が | ボールを | さくらに | 投げる
+
+- 私もさくらにボールを投げる
+
+<table>
+  <tr>
+    <th colspan="4" style="text-align: center">私も 🏳️</th>
+  </tr>
+  <tr>
+    <th style="text-align: center">Main wagon "A"</th>
+    <th style="text-align: center">Wagon 「に」</th>
+    <th style="text-align: center">Wagon 「を」</th>
+    <th style="text-align: center">Engine "B"</th>
+  </tr>
+  <tr>
+    <td style="text-align: center">Ø が</td>
+    <td style="text-align: center">さくらに</td>
+    <td style="text-align: center">ボールを</td>
+    <td style="text-align: center">投げる</td>
+  </tr>
+</table>
 
 ## Case marking particles
 

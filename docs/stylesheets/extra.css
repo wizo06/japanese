@@ -1,15 +1,22 @@
-:root {
-  --md-default-fg-color:               rgba(255, 255, 255, 0.60); /*Regular font*/
-  --md-default-fg-color--light:        rgba(255, 255, 255, 0.87); /*h1*/
-  --md-default-fg-color--lighter:      rgba(255, 255, 255, 0.60); /*Quote line of >*/
-  --md-default-fg-color--lightest:     rgba(255, 255, 255, 0.38); /*Horizontal line used for separation*/
-  --md-default-bg-color:               rgba(018, 018, 018, 0.90); /*Background color*/
+[data-md-color-scheme="slate"] {
+  /* --md-hue: 210; [0, 360] */
+  --md-default-fg-color:               rgba(255, 255, 255, 0.60);
+  --md-default-fg-color--light:        rgba(255, 255, 255, 0.38);
+  --md-default-bg-color:               rgba(018, 018, 018, 0.95);
+  
+  --md-typeset-mark-color:           #808000;
+  --md-typeset-del-color:            #800000;
+  --md-typeset-ins-color:            #008000;
+
+  --md-admonition-bg-color:          rgba(255, 255, 255, 0.05);
+
+  --md-footer-fg-color:              rgba(255, 255, 255, 0.87);
+  --md-footer-fg-color--light:       rgba(255, 255, 255, 0.60);
+  --md-footer-fg-color--lighter:     rgba(255, 255, 255, 0.38);
+  --md-footer-bg-color:              rgba(255, 255, 255, 0.05);
+  --md-footer-bg-color--dark:        rgba(255, 255, 255, 0.07);
 }
 
 b, strong, .md-nav__title, h2, h3, h4 {
   color: rgba(255, 255, 255, 0.87);
-}
-
-tbody {
-  background-color: rgba(255, 255, 255, 0.05);
 }

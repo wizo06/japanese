@@ -129,6 +129,8 @@ Japanese | English
 ==青い== 空 | ==Blue== sky
 ==明るい== 星 | ==Bright== stars
 ==美味しい== 寿司 | ==Delicious== sushi
+==美しい== 姫 | ==Beautiful== princess
+==赤い== ペン | ==Red== pen
 
 Let's look at some examples in sentences:
 
@@ -197,6 +199,11 @@ Japanese | English
 ==有名== な英雄 | ==Famous== hero
 ==綺麗== な花 | ==Beautiful== flowers
 ==特別== な日 | ==Special== day
+==好き== な食べ物 | ==Favorite== food
+==静か== な街 | ==Quiet== street
+==便利== な場所 | ==Convenient== place
+==上手== な学生 | ==Skillful== student
+==必要== な書類 | ==Necessary== documents
 
 Let's look at some examples in sentences:
 

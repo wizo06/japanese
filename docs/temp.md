@@ -1,3 +1,40 @@
+```css
+/* For kanji */
+.kanji-link {
+
+}
+
+/* For kana & alphanumeric characters */
+.source-text {
+
+}
+
+/* For furigana */
+ruby {
+
+}
+``` 
+
+A disc img ..... (usually `.iso`) that contains .......
+
+++ctrl+alt+del++
+
+# Japanese Guide
+I know that the following guide is long. But language learning is something you do in the long term, so please take time to read this guide in its entirety.
+
+I apologise if this guide may get a little scientific, and I **will not write a simplified version** of this guide. Everything stated below is what you need to know. Sorry about that.
+
+## Why many people “fail” to learn Japanese
+Before I talk about this, I would like to clarify what I mean by “fail”. What I mean is, not being able to achieve their goals. Many people love the idea of being fluent, and being able to watch Japanese media without subtitles, in their raw form. However, many people also don’t ever reach this goal, or even get close. I believe it mostly isn’t *their* fault, but rather, the *method*’s fault.
+
+Whether you’re a “visual learner” or an “auditory learner” does not mean anything when it comes to learning a language, you have a big problem if you acquired your first language by hearing it (like we all did) but apparently you’re more of a “visual learner.” It mostly comes down to the *method* used to study Japanese. There are other factors too, such as motivation, or hours spent each day/consistency. But I believe the *method* in the first place is very important.
+
+For example, if someone told you that you could learn to swim by reading a book about swimming, would you be able to swim after you finished that book? No. That is because this is a fundamentally flawed method - it does not work.
+
+What this guide aims to do is educate you on effective methods to study Japanese, so that you don’t end up like the others that failed and instead succeed, all while having fun in your target language, and in this case, your target language is most likely Japanese.
+Back to the “visual learner” and “auditory learner” thing, while it may be true for other fields of study, it is not valid for acquiring a language. We all acquire language in the same exact way, and that is through *comprehensible input*. I often come across people saying, “everyone learns differently” and again, this may be true for other fields of study but not for language *acquisition*.
+Key word: acquisition.
+
 ???+ tip "How do native speakers actually use だ-engine?"
 
     Colloquially, you will most likely hear native speakers have a **dialogue/conversation** without ending their sentences with 「だ」. For example, a dialogue between two close friends can look like:
@@ -76,6 +113,97 @@
 
     Side note: this doesn't mean that learning Japanese from watching anime is a bad idea. In fact I strongly encourage it (assuming you like watching anime in the first place). To learn more about why I encourage this, watch [this video by Matt](https://youtu.be/V9ND6uw6-QA).
 
+???+ info
+
+    **How do native speakers use 「は」 in conversations?**  
+    It is very common for native speakers to drop almost all the words in a sentence or question, to keep it as short as possible. The unspoken part of the sentence is expected to be inferred by the listener based on context.
+
+    For example, a person might ask a roommate in English:
+
+    - "What should we eat for dinner?"
+
+    But for a Japanese speaker, they can ask the same question by saying:
+
+    Note: 「夕飯」 means "dinner"
+
+    - 「夕飯は？」
+
+    The literal translation is *"As for dinner?"*. Of course, the actual complete sentence (though not said out loud) can be something like:
+
+    - 「夕飯は何にする？」
+
+    Which can be roughly translated as *"As for dinner, what should we eat?"*.
+
+    Let's look at another dialogue:  
+
+    Note: 「今夜」（こんや）means "tonight"  
+    「空いてる」（あいてる）means "free" (as in "available" or "have time")  
+    「残念」（ざんねん）means "unfortunate"  
+    「俺」means "I" (masculine tone)
+
+    *Suppose that two friends want to go try out a new restaurant that just opened up*  
+    - アリス：「私は今夜空いてるよ。ボブさんは？」
+    - ボブ：「残念。俺は今夜忙しいんだ」
+
+    *Literal translation (not quite literal, but I tried my best)*  
+    - Alice: As for me, (I) am free tonight. As for Bob?
+    - Bob: Unfortunate. As for me, (I) am busy tonight.
+
+    *Normal English*  
+    - Alice: I am free tonight. What about you?
+    - Bob: That's unfortunate. I'm busy tonight.
+
+    Notice how Alice says 「ボブさんは？」 which literally means *"As for Bob?"*. When Alice first started her sentence, she said 「私は。。。」 which means *"As for me..."*. This means that the current topic is "Alice". By using the 「は」 particle again when she asked 「ボブさんは？」, she has now changed the topic. Changing the topic in this paritcular way in this particular context implies *"What about you (Bob)?"*.
+
+    The complete question would be 「ボブさんは今夜空いてる？」 which means *"As for Bob, are (you) free tonight?"*. You can see that even in English, asking "What about you?" was enough to convey the meaning of the whole question without actually saying it out loud.
+
+    Let's look at another dialogue as example:
+
+    Note: 「明日」（あした）means "tomorrow"
+
+    - アリス：リエさんは明日？
+    - ボブ：ううん、明日じゃない。
+
+    *Literal translation*  
+    - Alice: As for Rie, tomorrow?  
+    - Bob: No, not tomorrow.
+
+    Since we don't have enough context, we don't have enough information to make sense of this conversation. Given a context, as long as the sentence has something to do with "Rie" and "tomorrow", it can mean anything. For instance, they could be talking about when Rie is taking an exam.
+
+    Let's look at another example:
+
+    Note: 「試験」（しけん）means "exam"
+
+    - アリス： 今⽇は試験だ。
+    - ボブ： ジョンは？
+    - アリス： ジョンは明⽇。
+
+    *Literal translation*  
+    - Alice: In relation to today, (it) is exam.
+    - Bob: As for John?
+    - Alice: As for John, (it is) tomorrow.
+
+    *Normal English*  
+    - Alice: Today is the exam.
+    - Bob: What about John?
+    - Alice: John will take it tomorrow.
+
+    This example shows how generic the topic of a sentence can be. A topic can be referring to any action or object from anywhere even including other sentences. For example, in the last sentence 「ジョンは明⽇」, even though the sentence is about when the exam is for John, the word "exam" doesn't appear anywhere in the sentence!
+
+    Let's look at another example:
+
+    - ボブ： アリスは学⽣？
+    - アリス： うん、学⽣。
+
+    *Literal translation*  
+    - Bob: As for Alice, are (you) a student?
+    - Alice: Yes, (I) am a student.
+
+    *Normal English*  
+    - Bob: Are you a student?
+    - Alice: Yeas, I am.
+
+    Here, Bob is marking "Alice" as the topic when he asked 「アリスは学⽣？」. Notice that once the topic is established, Alice does not have to repeat the topic to answer the question about herself. We know that the zero pronoun is "Alice" based on context. The full sentence from Alice is 「うん、私はØが学生だ。」. 
 
 ## Relative clauses
 
