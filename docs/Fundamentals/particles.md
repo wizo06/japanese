@@ -231,12 +231,12 @@ The "Topic" simply brings something up as... well, the topic of the conversation
 
 The particle 「も」 (and the English words "also" and "too" for that matter) can be broken down into two functions:
 
-- Function 1: **A** "is" or "does" the same thing as **B**  
+- Function 1: One person/thing "is" or "does" the same thing as another person/thing.  
 Example:  
 *Alice is studying. Bob is studying ==too==.*  
 *Alice is studying. Bob is ==also== studying.*
 
-- Function 2: If **A** "is" or "does" something, you can provide additional information about **A**.  
+- Function 2: If a person/thing "is" or "does" something, you can provide additional information about that person/thing.  
 Example:  
 *He is a brilliant linguist. He is ==also== interested in botany.*  
 *He is a brilliant linguist. He is interested in botany ==too==.*
@@ -278,7 +278,7 @@ Alice: Yeah, Tom is student ==too==. / Yeah, Tom is ==also== a student.
 
 **The comments must be consistent (old and new)**. It would not make sense to say, "*I am a student (old comment), and Tom is not a student too (new comment).*" If the comments are NOT the same, we should use 「は」 to make a **contrast**. Let's look at the next example.
 
-???+ note 
+!!! note 
     We will learn more about the **contrast** property of 「は」 in a later section when we compare 「は」 vs 「も」.
 
 **Example 2**
@@ -341,13 +341,17 @@ In this example, 「も」 is simply adding one more reason why that person shou
 
 **「も」 doesn't change the logical meaning of a sentence**
 
-Just like 「は」, 「も」 doesn't change the logical meaning of the sentence either. After all, 「も」 is also a topic particle. This is true regardless of which function (function 1 and function 2) 「も」 is doing in a particular sentence. Let's use the same example we saw in the section about 「は」 to illustrate how topic particles don't change the logical meaning of a sentence.
+Just like 「は」, 「も」 doesn't change the logical meaning of the sentence either. After all, 「も」 is also a topic particle. This is true regardless of which function (function 1 and function 2) 「も」 is doing in a particular sentence. Let's use the same example we saw in the section about 「は」 to illustrate how 「も」 doesn't change the logical meaning of a sentence.
 
 - 私がさくらにボールを投げる
 
 Main wagon "A" | Wagon 「を」 | Wagon 「に」 | Engine "B"
 :---: | :---: | :---: | :---:
 私が | ボールを | さくらに | 投げる
+
+This means "I throw a ball at Sakura".
+
+Now, let's add the 「も」 flag.
 
 - 私もさくらにボールを投げる
 
@@ -369,6 +373,42 @@ Main wagon "A" | Wagon 「を」 | Wagon 「に」 | Engine "B"
   </tr>
 </table>
 
+This means "As for me too, (I) throw a ball at Sakura". In normal English, we might say "I also throw a ball at Sakura". Notice that the logical meaning of the sentence hasn't changed. The person throwing the ball (marked by 「が」) is still 『私」, the object being thrown is still 「ボール」, the recipient of the ball is still 「さくら」.
+
+This is true regardless of the function of 「も」. If 「も」 is acting as **function 1**, then it could be something like:
+
+- Bob throws a ball at Sakura. ==I also throw a ball at Sakura==.
+
+If 「も」 is acting as **function 2**, then it could be something like:
+
+- One time when I got angry, I punched and broke my TV. ==I also threw a ball at Sakura==.
+
+I don't condone violence, but you get the idea. The logical meaning of the sentence doesn't change.
+
+We can even give the flag to the "ball".
+
+- ボールも私がさくらに投げる
+
+<table>
+  <tr>
+    <th colspan="4" style="text-align: center">ボールも 🏳️</th>
+  </tr>
+  <tr>
+    <th style="text-align: center">Main wagon "A"</th>
+    <th style="text-align: center">Wagon 「に」</th>
+    <th style="text-align: center">Wagon 「を」</th>
+    <th style="text-align: center">Engine "B"</th>
+  </tr>
+  <tr>
+    <td style="text-align: center">私が</td>
+    <td style="text-align: center">さくらに</td>
+    <td style="text-align: center">Ø を</td>
+    <td style="text-align: center">投げる</td>
+  </tr>
+</table>
+
+This means "As for the ball too, I throw (it) at Sakura". Again, the logical meaning of the sentence still doesn't change. The person throwing the ball is still 『私」, the object being thrown (marked by 「を」) is still 「ボール」, the recipient of the ball is still 「さくら」.
+
 ## Case marking particles
 
 Case marking particles (「格助詞」 in Japanese) are particles that mark the role of a word in a sentence. We will take a look at a few of them here.
@@ -383,7 +423,7 @@ Note: 「誰」（だれ） means "who"
 
 *"As for who, is (it) a student?"*
 
-and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the "*Main wagon "A"*" section that 「が」 attaches to a word to mark it as the main wagon "A". 
+and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the section about [Main wagon "A"](a-and-b.md#main-wagon-a) that 「が」 attaches to a word to mark it as the main wagon "A". 
 
 Suppose the student is "Alice". Then, we can say "Alice is student" like so:
 
@@ -458,7 +498,7 @@ The 「が」 particle identifies a specific entity as *the* thing while the 「
 
 ### 「を」
 
-The particle 「を」 has many functions. We'll look at a few functions below. The kana 「を」 , while technically pronounced as 「を」, essentially sounds like 「お」 in real speech. 
+The particle 「を」 has many functions. We'll look at a few functions below. This kana is almost exclusively only used as a particle. The kana 「を」 is normally pronounced as 「を」, but when it's used as a particle, it's pronounced as 「お」. You might ocassionally hear the particle 「を」 actually being pronounced as 「を」 in some slow songs.
 
 **Function 1: Marks the Direct Object of a verb**
 
@@ -489,7 +529,7 @@ Some more examples:
 *Erase blackboard*
 
 - 黒板の字を消す。  
-*Erase blackboard's words.* (Erase what's written on the blackboard)
+*Erase blackboard's words.*
 
 - 字を書く。  
 *Write words.*
@@ -533,12 +573,12 @@ Some more examples:
 - あの夢をなぞって。  
 *Tracing that dream*
 
-???+ trivia
-    「あの夢をなぞって」 is the name of a song from the duo YOASOBI.
+!!! tip "Did you know"
+    「あの夢をなぞって」 is the name of a song from a duo called YOASOBI.
 
 A *direct object* of a verb, is a word that the verb is acting on. It indicates the object of the action. If I say "I eat fish", you can ask "what are you eating?", and my answer would be "fish". The verb "eat" is acting on the word "fish".
 
-**Function 2: Marks the path/place of motion verbs**
+**Function 2: Marks the path of motion verbs**
 
 Unlike the direct object in English, places can also be the direct object of certain motion verbs in Japanese. However, as you can see by the next examples, it often translates to something different in English due to the slight difference of the concept of direct object.
 
@@ -552,10 +592,10 @@ Unlike the direct object in English, places can also be the direct object of cer
 *Fly through the sky.*
 
 - 横断歩道を渡る。(Lit: Cross pedestrian walk)  
-*Cross over crosswalk.* / *Cross over pedestrian crossing.* / *Cross over pedestrian walk.*
+*Cross over a pedestrian walk.*
 
 - 山道を登る。(Lit: Climb mountain path)  
-*Climb up mountain path.*
+*Climb up a mountain path.*
 
 - 階段を降りる。(Lit: Descend stairs)  
 *Go down the stairs.*
@@ -575,25 +615,25 @@ Unlike the direct object in English, places can also be the direct object of cer
 *Separate from homeland.* / *Go away from homeland.*
 
 - 脇道を入る。  
-*Enter side road*
+*Enter side road.*
 
 **Function 4: Marks the time of time-passing verbs**
 
 - ６時を過ぎる。  
-*Pass 6 o'clock*
+*Pass 6 o'clock.*
 
 - 時代を生き抜く。  
-*Live through an era*
+*Live through an era.*
 
 - 不惑の年を越える。  
-*Go past one's prime time*
+*Go past one's prime time.*
 
 - 不遇の一生を送る。  
-*Spend a lifetime of misfortune*
+*Spend a lifetime of misfortune.*
 
 ### 「に」
 
-The particle 「に」 also has many functions. I like to think of the particle 「に」 as an **arrow**. The reason why I think of it as an arrow will become more apparent when we look at the contrast between 「に」 and other particles in a later section.
+The particle 「に」 also has many functions. I personally like to think of the particle 「に」 as an **arrow**. The reason why I think of it as an arrow will become more apparent when we look at the contrast between 「に」 and other particles in a later section.
 
 **Function 1: Marks location of existential verbs**
 
@@ -616,21 +656,18 @@ Main wagon "A" | Wagon 「に」 | Engine "B"
 - 枝先に芽が出る。  
 *Sprout appears in branch*
 
-- *私のうちに泊まる。  
+- 私のうちに泊まる。  
 *Stay at my place* / *Stay at my house*
 
 - あそこに座る。  
 *Sit over there*
 
-**Funcion 2: Marks the time when an action (verb) happens**
+**Funcion 2: Marks the time when an action happens**
 
 Can be used for "specific point in time"
 
 - 1時に食べる。  
 *Eat at one o'clock*
-
-- 3年生の3月にある就活のイベント。  
-*Job hunting event in March of junior year*
 
 - 休み時間に本を読む。  
 *Read a book during recess*
@@ -671,8 +708,9 @@ Can be used for "duration of time"
     - recently (最近)
     - etc...
 
-    However, words that don't describe an exact point in time, such as:
+    However, there are words that could be said with or without 「に」, such as:
 
+    - morning (朝)
     - noon (昼)
     - midnight (深夜)
     - dawn (明け方)
@@ -681,8 +719,6 @@ Can be used for "duration of time"
     - before (前)
     - after (後)
     - autumn (秋)
-
-    can be said with or without 「に」.
 
 **Function 3: Marks the destination of a verb**
 
@@ -789,7 +825,7 @@ Can be used for "duration of time"
 
 ### 「へ」
 
-The particle 「へ」 also has many functions that resembles a few functions from the particle 「に」. 「へ」 is normally pronounced as 「へ」, when it is being used as a particle, it is always pronounced as 「え」. 
+The particle 「へ」 also has many functions that resembles a few functions from the particle 「に」. The kana 「へ」 is normally pronounced as 「へ」, but when it is being used as a particle, it is always pronounced as 「え」. 
 
 **Function 1: Marks the direction of a verb**
 

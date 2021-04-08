@@ -138,7 +138,7 @@ Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/
 
 ## Final words
 
-ACQUISITION (reading and listening) is the heavy lifting. STUDYING (grammar and vocabularies) is not. **Please do not neglect immersion**.
+ACQUISITION (reading and listening) is the heavy lifting. STUDYING (grammar and vocabularies) is not. **Please do not neglect immersion**. No amount of grammar and vocabulary will help you become fluent if you neglect immersion.
 
 ## Resources
 
