@@ -1206,7 +1206,7 @@ First noun | が | Second noun
 {++妹++} | が | ==描いた== {++絵++}
 
 **More in-depth explanation**  
-If we recall what we learned in [A does B](a-and-b.md#verb-sentence) type of sentences, 「妹が描いた」 is just that.
+If we recall what we learned in [Engine "B"](a-and-b.md#engine-b), 「妹が描いた」 is just an "A does B" sentence.
 
 Main wagon "A" | Engine "B"
 :---: | :---:
@@ -1219,7 +1219,7 @@ And if we recall what we learned in [Describing a noun using a verb](description
 - ==妹が描いた== {++絵++}  
 *{++Picture++} ==that little sister drew==*
 
-The entire sentence (highlighted in ==yellow==) is describing the noun (highlighted in {++green++}). In this specific way of describing a noun, the 「の」 inside the description itself can be interchanged to 「が」, and vice-versa.
+The entire sentence (highlighted in ==yellow==) is describing the noun (highlighted in {++green++}). In this specific way of describing a noun, the 「の」 is interchangeable with 「が」.
 
 Let's look at some more examples:
 
@@ -1243,7 +1243,7 @@ Let's look at some more examples:
 - 立場が違う{++二人++}  
 *{++Two people++} who are in different situations*
 
-Using 「の」 is often favored when the entire phrase is marked by the 「が」 as the subject of a bigger sentence. Let's look at the following sentence:
+Using 「の」 is often favored over using 「が」 when it's part of a bigger sentence. Let's look at the following sentence:
 
 - 立場 ==の== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
 
@@ -1251,11 +1251,43 @@ Main wagon "A" | 「で」 | 「を」 |  Engine "B"
 :--: | :---: | :---: | :---:
 立場 ==の== 違う二人{++が++} | 残酷な世界の中で | すごく美しく友情を | 育む
 
-The entire phrase 「立場の違う二人」 is theh subject of the sentence. In other words, the entire phrase 「立場の違う二人」 is marked by 「が」 as the main wagon "A". Although it is technically possible to change the sentence to:
+The entire phrase 「立場の違う二人」 is the subject of the sentence. In other words, the entire phrase 「立場の違う二人」 is marked by 「が」 as the main wagon "A" of the bigger sentence. Although it is technically possible to say the sentence like this:
 
 - 立場 ==が== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
 
-it is not encouraged to do so. By doing so, there will be two 「が」 in the bigger sentence, and it becomes harder to recognize *what* is the actual subject of the bigger sentence at hand.
+it is NOT encouraged to do so. This is because, if you do this, there will be two 「が」 in the entire sentence, and it becomes harder to recognize *what* is the actual subject (main wagon "A") of the bigger sentence at hand.
+
+If we look at the sentence where it uses 「の」:
+
+- 立場 ==の== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
+
+we can clearly spot the core of the sentence. Remember that the core of any sentence is just main wagon "A" + engine "B".
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+二人が | 育む
+
+and 「立場の違う」 is simply a description of 「二人」.
+
+However, if we look at the sentence where there are two 「が」:
+
+- 立場 ==が== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
+
+suddenly, there are two possible candidates as the main wagon "A".
+
+Possibility 1
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+立場が | 育む
+
+Possibility 2
+
+Main wagon "A" | Engine "B"
+:---: | :---:
+二人が | 育む
+
+Of course, if someone who is fluent in Japanese is reading that sentence, they can quickly figure out what's the actual subject of the entire sentence before they even finish reading the sentence. Nevertheless, it takes one extra step to do so.
 
 ## Contrasts
 
@@ -1383,7 +1415,7 @@ Note: 「これ」＝ this
 
 Both sentences are generally translated the same way into normal English as: "This is a cellphone".
 
-But the one that is used more often is 「これは携帯だ」. You only use 「が」 when you one to single something/someone out. When you want to say that **something ーas opposed to other thingsー is/does X**, you use 「が」:
+But the one that is used more often is 「これは携帯だ」. You only use 「が」 when you one to single something/someone out. When you want to say that **something in particular ーas opposed to other random thingsー is/does X**, you use 「が」:
 
 - Something ==が== is X
 - Something ==が== does X
