@@ -387,7 +387,7 @@ Main wagon "A" | Engine "B" | English
 アリスが | 親切だ。 | Alice is friendly.
 私が | 真面目だ。 | I am honest.
 
-???+ tip
+!!! tip
     na-adjectives are actually derived from nouns[^1], which is why they both behave so similarly. We will learn the history behind this in a later section when we learn about the so called "no-adjective".
 
 [^1]: [形容動詞 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%AE%B9%E5%8B%95%E8%A9%9E#%E6%A6%82%E8%A6%81)
@@ -398,7 +398,7 @@ Main wagon "A" | Engine "B" | English
 
 This engine is also used for "A is B" sentences where "B" is an adjective. More specifically, it is used for **i-adjectives**. All i-adjectives end with the kana 「い」, hence the name of this engine: い-engine.
 
-???+ warning "Some na-adjectives look like an i-adjective"
+!!! warning "Some na-adjectives look like an i-adjective"
     There are some na-adjectives that look like an i-adjective because they also "end with the kana 「い」". The two most common examples are:
 
     - きれい  
@@ -425,7 +425,7 @@ Main wagon "A" | Engine "B" | English
 学費が | 安い。 | Tuition is cheap.
 さくらが | 優しい。 | Sakura is kind.
 
-???+ warning "Do not use 「だ」 with i-adjectives"
+!!! warning "Do not use 「だ」 with i-adjectives"
     Notice that we don't use the copula 「だ」 with i-adjectives, even though this is an "A is B" type sentence. There are many ways to explain the reason behind this, but we'll use this following explanation because it's the easiest to understand:
 
     Unlike nouns and na-adjectives where we have to use the copula 「だ」, i-adjectives already have the copula built into them, which is the last kana 「い」. For example, 「優し ==い==」 does NOT mean "kind", it means "==is== kind".

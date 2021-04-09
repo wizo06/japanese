@@ -50,7 +50,7 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
     - 来る → 来{++ない++} (pronounced as くる → こ{++ない++})
     - ある → {++ない++}
 
-    ???+ example 
+    !!! example 
         Let's look at one example sentence:
 
         - さくらが食べない  
@@ -77,7 +77,7 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
     - 学生 ==だ== → 学生 ==じゃ== {++ない++}
     - 静か ==だ== → 静か ==じゃ== {++ない++}
 
-    ???+ example
+    !!! example
         Let's look at one example sentence:
 
         - さくらが学生じゃない  
@@ -99,7 +99,7 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
 
     - 良 ==い== → 良 ==く== {++ない++} (pronounced as いい → よくない)
 
-    ???+ example
+    !!! example
         Let's look at one example sentence:
 
         - ラーメンが美味しくない  
@@ -110,7 +110,7 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
         - ==優しくない== 人が怖い  
         *People ==who are not kind== are scary*
 
-    ???+ tip Trivia
+    !!! tip "Did you know"
         The word 「良い」(usually written in kana only 「いい」) was originally pronounced as 「よい」. It eventually became 「いい」 but its inflection still retains the original form. Nowadays, the word 「良い」 can still be pronounced as 「よい」 but it's not as common.
 
 ### Past-Tense
@@ -155,7 +155,7 @@ To inflect into past-tense, we attach the helper verb 「た」 to the engine.
     - 来る → 来{++た++} (pronounced as くる → きた)
     - 行く → 行っ{++た++}
     
-    ???+ example
+    !!! example
         Let's look at one example sentence:
 
         - ボブが走った  
@@ -172,7 +172,7 @@ To inflect into past-tense, we attach the helper verb 「た」 to the engine.
     - 学生 ==だ== → 学生 ==だっ== {++た++}
     - 静か ==だ== → 静か ==だっ== {++た++}
 
-    ???+ example
+    !!! example
         Let's look at one example:
 
         - さくらが学生だった  
@@ -194,7 +194,7 @@ To inflect into past-tense, we attach the helper verb 「た」 to the engine.
 
     - 良 ==い== → 良 ==かっ== {++た++} (pronounced as いい → よかった)
 
-    ???+ example
+    !!! example
         Let's look at one example sentence:
 
         -　ゲームが楽しかった  
@@ -211,7 +211,7 @@ We already know how to inflect into negative with the helper verb 「ない」. 
 
 In other words, to inflect into **negative past-tense for all 3 engines**, we first inflect into negative with 「ない」, and then inflect 「ない」 into past-tense with 「た」.
 
-???+ info
+!!! info
     **う-engine**
 
     Non-past → | Negative → | Negative past-tense

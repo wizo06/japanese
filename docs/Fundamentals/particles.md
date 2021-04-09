@@ -259,7 +259,7 @@ Example:
   </tr>
 </table>
 
-*As for me __too__, (I) am student.*
+*As for me ==too==, (I) am student.*
 
 Let's look at 「も」 in dialogues:
 
@@ -504,74 +504,74 @@ The particle 「を」 has many functions. We'll look at a few functions below. 
 
 This is probably the easiest function to understand by simply looking at a few example sentences.
 
-- ⿂を⾷べる。  
+- ==⿂を== ⾷べる。  
 *Eat fish*
 
 Main wagon "A" | Wagon 「を」 | Engine "B"
 :---: | :---: | :---:
-Ø | ⿂を | ⾷べる
+Ø | ==⿂を== | ⾷べる
 
 Some more examples:
 
-- 石を投げる。  
-*Throw rocks*
+- ==石を== 投げる。  
+*Throw ==rocks==*
 
-- 鍵を探す。  
-*Find keys*
+- ==鍵を== 探す。  
+*Find ==keys==*
 
-- リンゴの皮を剥く。  
-*Peel apple's skin*
+- ==リンゴの皮を== 剥く。  
+*Peel ==ski of apple==*
 
-- 庭を掃く。  
-*Sweep garden.* / *Sweep yard.*
+- ==庭を==掃く。  
+*Sweep ==garden==*
 
-- 黒板を消す。  
-*Erase blackboard*
+- ==黒板を== 消す。  
+*Erase ==blackboard==*
 
-- 黒板の字を消す。  
-*Erase blackboard's words.*
+- ==黒板の字を== 消す。  
+*Erase ==blackboard's words==* (Erase words that are written on the blackboard)
 
-- 字を書く。  
-*Write words.*
+- ==字を== 書く。  
+*Write ==words==*
 
-- パンを焼く。  
-*Bake bread*
+- ==パンを== 焼く。  
+*Bake ==bread==*
 
-- 勝利を目指す。  
-*Aim victory*
+- ==勝利を== 目指す。  
+*Aim ==victory==*
 
-- お金を費やす。  
-*Spend money*
+- ==お金を== 費やす。  
+*Spend ==money==*
 
-- 本を読む。  
-*Read book*
+- ==本を== 読む。  
+*Read ==book==*
 
-- 日本語を勉強する。  
-*Study Japanese*
+- ==日本語を== 勉強する。  
+*Study ==Japanese==*
 
-- アニメを見る。  
-*Watch anime*
+- ==アニメを== 見る。  
+*Watch ==anime==*
 
-- ケーキを作る。  
-*Make cake*
+- ==ケーキを== 作る。  
+*Make ==cake==*
 
-- パソコンを使う。  
-*Use computer*
+- ==パソコンを== 使う。  
+*Use ==computer==*
 
-- 友達を殴る。  
-*Punch friend*
+- ==友達を== 殴る。  
+*Punch ==friend==*
 
-- 顔を撫でる。  
-*Caress face*
+- ==顔を== 撫でる。  
+*Caress ==face==*
 
-- 家を建てる。  
-*Build house*
+- ==家を== 建てる。  
+*Build ==house==*
 
-- 穴を掘る。  
-*Dig hole*
+- ==穴を== 掘る。  
+*Dig ==hole==*
 
-- あの夢をなぞって。  
-*Tracing that dream*
+- ==あの夢を== なぞって。  
+*Tracing ==that dream==*
 
 !!! tip "Did you know"
     「あの夢をなぞって」 is the name of a song from a duo called YOASOBI.
@@ -582,54 +582,63 @@ A *direct object* of a verb, is a word that the verb is acting on. It indicates 
 
 Unlike the direct object in English, places can also be the direct object of certain motion verbs in Japanese. However, as you can see by the next examples, it often translates to something different in English due to the slight difference of the concept of direct object.
 
-- 街を歩く。(Lit: Walk street)  
+- ==街を== 歩く。(Lit: Walk ==street==)  
 *Walk through street.* 
 
-- ⾼速道路を⾛る。(Lit: Run expressway)  
+- ==⾼速道路を== ⾛る。(Lit: Run ==expressway==)  
 *Run through expressway.* 
 
-- 空を飛ぶ。(Lit: Fly sky)  
+- ==空を== 飛ぶ。(Lit: Fly ==sky==)  
 *Fly through the sky.*
 
-- 横断歩道を渡る。(Lit: Cross pedestrian walk)  
+- ==横断歩道を== 渡る。(Lit: Cross ==pedestrian walk==)  
 *Cross over a pedestrian walk.*
 
-- 山道を登る。(Lit: Climb mountain path)  
+- ==山道を== 登る。(Lit: Climb ==mountain path==)  
 *Climb up a mountain path.*
 
-- 階段を降りる。(Lit: Descend stairs)  
+- ==階段を== 降りる。(Lit: Descend ==stairs==)  
 *Go down the stairs.*
 
-- 我が道を行く。(Lit: Go my path)  
-*Go my own way.* / *Follow my own path.*
+- ==我が道を== 行く。(Lit: Go ==my path==)  
+*Follow my own path.*
 
-**Function 3: Marks the starting point of a motion verb**
+- ==いつもの道を== 通る。(Lit: Pass through ==usual route==)  
+*Take the usual route*
 
-- 電車を降りる。  
-*Get off the train.*
+- ==川を== 超える。(Lit: Cross over ==river==)  
+*Cross a river*
 
-- 家を出る。  
-*Leave the house.* 
+**Function 3: Marks the starting/departure point of a motion verb**
 
-- 故国を離れる。  
-*Separate from homeland.* / *Go away from homeland.*
+- ==電車を== 降りる。  
+*Get off ==train==.*
 
-- 脇道を入る。  
-*Enter side road.*
+- ==家を== 出る。  
+*Leave ==house==* 
+
+- ==故国を== 離れる。  
+*Separate from ==homeland==.* / *Go away from ==homeland==.*
+
+- ==脇道を== 入る。  
+*Enter ==side road==.*
+
+- ==席を== 立つ。(Lit: Depart seat)  
+*Leave the ==seat==*
 
 **Function 4: Marks the time of time-passing verbs**
 
-- ６時を過ぎる。  
-*Pass 6 o'clock.*
+- ==６時を== 過ぎる。  
+*Pass ==6 o'clock==.*
 
-- 時代を生き抜く。  
-*Live through an era.*
+- ==時代を== 生き抜く。  
+*Live through an ==era==.*
 
-- 不惑の年を越える。  
-*Go past one's prime time.*
+- ==不惑の年を== 越える。  
+*Go past one's ==prime time==.*
 
-- 不遇の一生を送る。  
-*Spend a lifetime of misfortune.*
+- ==不遇の一生を== 送る。  
+*Spend a ==lifetime of misfortune==.*
 
 ### 「に」
 
@@ -637,48 +646,48 @@ The particle 「に」 also has many functions. I personally like to think of th
 
 **Function 1: Marks location of existential verbs**
 
-- 日本に住む。  
+- ==日本に== 住む。  
 *Live in Japan*
 
 Main wagon "A" | Wagon 「に」 | Engine "B"
 :---: | :---: | :---:
-Ø | 日本に | 住む
+Ø | ==日本に== | 住む
 
-- 私が家にいる。  
-*I am at home*
+- 私が ==家に== いる。  
+*I am at ==home==*
 
-- 私の中に君がいる。  
-*You are inside me* / *You exist within me*
+- ==私の中に== 君がいる。  
+*You are ==inside me==* / *You exist ==within me==*
 
-- 机の上に本がある。(Lit: Book exist above desk)  
+- ==机の上に== 本がある。(Lit: Book exist ==above desk==)  
 *There is a book on the desk*
 
-- 枝先に芽が出る。  
-*Sprout appears in branch*
+- ==枝先に== 芽が出る。  
+*Sprout appears in ==branch==*
 
-- 私のうちに泊まる。  
-*Stay at my place* / *Stay at my house*
+- ==私のうちに== 泊まる。  
+*Stay at ==my place==* / *Stay at ==my house==*
 
-- あそこに座る。  
-*Sit over there*
+- ==あそこに== 座る。  
+*Sit ==over there==*
 
 **Funcion 2: Marks the time when an action happens**
 
 Can be used for "specific point in time"
 
-- 1時に食べる。  
-*Eat at one o'clock*
+- ==1時に== 食べる。  
+*Eat at ==one o'clock==*
 
-- 休み時間に本を読む。  
-*Read a book during recess*
+- ==休み時間に== 本を読む。  
+*Read a book during ==recess time==*
 
 Can be used for "duration of time"
 
-- 1週間に2回シャワーする。  
-*Shower twice a week*
+- ==1週間に== 2回シャワーする。  
+*Shower twice ==a week==*
 
-- 2年間に1回引っ越しする。  
-*Move houses every two year*
+- ==2年間に== 1回引っ越しする。  
+*Move houses every ==two year==*
 
 ???+ warning
     While we can use 「に」 for specific points in time, such as:
@@ -722,105 +731,101 @@ Can be used for "duration of time"
 
 **Function 3: Marks the destination of a verb**
 
-- 学校に行く。    
-*Go to school*
+- ==学校に== 行く。    
+*Go to ==school==*
 
-- 家に帰る。  
-*Go back home*
+- ==家に== 帰る。  
+*Go back ==home==*
 
-- 山に登る。  
-*Climb up mountain*
+- ==山に== 登る。  
+*Climb up ==mountain==*
 
-- 電車に乗る。
-*Get on train*
+- ==電車に== 乗る。
+*Get on ==train==*
 
-- 駅に着く。  
-*Arrived at station*
+- ==駅に== 着く。  
+*Arrived at ==station==*
 
-- 壁に地図を貼る。  
-*Stick a map on the wall*
+- ==壁に== 地図を貼る。  
+*Stick a map on the ==wall==*
 
-- 深夜にようこそ。
+- ==夜に== 駆ける。  
+*Racing into the ==night==*
 
-- 夜に駆ける。  
-*Racing into the night*
-
-???+ trivia
-    「夜に駆ける」 is the name of a song from the music duo YOASOBI.
+!!! tip "Did you know"
+    「夜に駆ける」 is the name of a song from a duo called YOASOBI.
 
 **Function 4: Marks the "addressee" of the verb (recipient of the action)**
 
-- 友達に花をあげる。  
-*Give flowers to friend*
+- ==友達に== 花をあげる。  
+*Give flowers to ==friend==*
 
-- さくらにボールを投げる。  
-*Throw ball at/to Sakura*
+- ==さくらに== ボールを投げる。  
+*Throw ball at/to ==Sakura==*
 
-- 友達に会う。  
-*Meet friend*
+- ==友達に== 会う。  
+*Meet ==friend==*
 
-- 神に誓う。  
-*Swear to God*
+- ==神に== 誓う。  
+*Swear to ==God==*
 
-- 友達に話す。  
-*Talk to friend*
+- ==友達に== 話す。  
+*Talk to ==friend==*
 
-- 家に電話する。  
-*Make a phone call to home*
+- ==家に== 電話する。  
+*Make a phone call to ==home==*
 
-- 弟に数学を教える。  
-*Teach math to little brother*
+- ==弟に== 数学を教える。  
+*Teach math to ==little brother==*
 
-- 母に甘える。  
-*To indulge mom* / *To spoil mom*
+- ==母に== 甘える。  
+*Indulge ==mom==* / *Spoil ==mom==*
 
-- 馬に傷をつける。(Lit: Attach wound to horse)  
+- ==馬に== 傷をつける。(Lit: Attach wound to ==horse==)  
 *Hurt a horse* / *Injure a horse* / *Wound a horse*
 
-**Function 5: Marks the result of a change**
+**Function 5: Marks the result or outcome**
 
-- 医者になる。  
-*Become doctor*
+- ==医者に== なる。  
+*Become ==doctor==*
 
-- 信号が赤に変わる。  
-*Signal turns red*
+- 信号が ==赤に== 変わる。  
+*Signal changes to ==red==*
 
-- 新しい車に変える。  
-*Change to new char*
-
-- 王様に扮する。  
-*Disguise as a king* / *Play the role of a king*
+- ==新しい車に== 変える。  
+*Change to ==new char==*
 
 **Function 6: Marks the purpose or intention of the verb**
 
-- 映画を見に行く。  
-*Go see a movie*
+- 映画を ==見に== 行く。  
+*Go ==see== a movie*
 
-- 本を買いに行く。  
-*Go buy a book*
+- 本を ==買いに== 行く。  
+*Go ==buy== a book*
 
-- 昼は食事に帰る。  
-*As for lunch, go back home to eat*
+- 昼は ==食事に== 帰る。  
+*As for lunch, go back home to ==eat==*
 
-- 君を迎えに行く。  
-*Go to pick you up* / *Go to welcome you*
+- 君を ==迎えに== 行く。  
+*Go ==pick up== you*  
+(Normal English: Go pick you up)
 
 **Function 7: Marks the object used for comparison**
 
-- 私が母に似ている。  
-*I resemble mother*
+- 私が ==母に== 似ている。  
+*I resemble ==mother==*
 
-- アリスはボブに等しい。  
-*Alice is no different to Bob*
+- アリスは ==ボブに== 等しい。  
+*Alice is no different to ==Bob==*
 
-- 海に近い。  
-*Close to sea* / *Close to beach*
+- ==海に== 近い。  
+*Close to ==sea==* / *Close to ==beach==*
 
-- このマンションは駅に近い。  
-*This apartment is close to the station*
+- このマンションは ==駅に== 近い。  
+*This apartment is close to the ==station==*
 
-- 無関心は賛成したのに等しい。  
-*Indifference is the same as approval*  
+- 無関心は ==賛成したのに== 等しい。  
+*Indifference is the same as ==approval==*  
 (Similar to the English phrase "to be silent is to be complicit") 
 
 ### 「へ」
@@ -829,64 +834,61 @@ The particle 「へ」 also has many functions that resembles a few functions fr
 
 **Function 1: Marks the direction of a verb**
 
-- 南へ向かう。  
-*Face towards south*
+- ==南へ== 向かう。  
+*Face towards ==south==*
 
 Main wagon "A" | Wagon 「へ」 | Engine "B"
 :---: | :---: | :---:
-Ø | 南へ | 向かう
+Ø | ==南へ== | 向かう
 
-- 勝ちへ向かう。  
-*Go towards victory*
+- ==勝ちへ== 向かう。  
+*Face towards ==victory==*
 
-- 部屋へ来る。  
-*Come towards room*
+- ==部屋へ== 来る。  
+*Come towards ==room==*
 
-- ボブは⽇本へ⾏く。  
-*Bob goes to Japan.*
+- ボブは ==⽇本へ== ⾏く。  
+*Bob goes to ==Japan==.*
 
-- 北へ飛ぶ。  
-*Fly towards north*
+- ==北へ== 飛ぶ。  
+*Fly towards ==north==*
 
-- 海の方へ飛んでいく。  
-*Fly towards the sea*
+- ==海の方へ== 飛んでいく。  
+*Fly towards the ==sea==*
 
-- 家へ帰る。  
-*Go back toward house.*
+- ==家へ== 帰る。  
+*Go back toward ==house==.*
 
 **Function 2: Marks the destination of a verb**
 
-- 日本へようこそ！  
-*Welcome to Japan*
+- ==日本へ== ようこそ！  
+*Welcome to ==Japan==*
 
-- ここへ荷物を置く。  
-*Place the luggage here*
+- ==ここへ== 荷物を置く。  
+*Place the luggage ==here==*
 
-- 荷物をロッカーへ入れる。  
-*Put the luggage inside the locker*
+- 荷物を ==ロッカーへ== 入れる。  
+*Put the luggage inside the ==locker==*
 
-- 押入れへしまう。  
-*Put away in the closet*
-
-- こちらへ住んで５年になる。(Lit: Live here and become 5 years)  
-*It will be 5 years since I have (moved and) lived here*
+- ==押入れへ== しまう。  
+*Put away in the ==closet==*
 
 **Function 3: Marks the "addressee" of the verb (recipient of the action)**
 
-- 友達へ電話する。  
-*Make a phone call to friend*
+- ==友達へ== 電話する。  
+*Make a phone call to ==friend==*
 
-- 先生へ伝える。  
-*Tell the teacher* / *Repor to teacher* / *Convey to teacher*
+- ==先生へ== 伝える。  
+*Tell the ==teacher==* / *Repor to ==teacher==*
 
-- 母への手紙。  
-*Letter to mother* / *Letter for mother*
+- ==母へ== の手紙。  
+*Letter to ==mother==* / *Letter for ==mother==*
 
-- 君への愛。  
-*Love towards you* / *Love for you*
+- ==君へ== の愛。  
+*Love towards ==you==* / *Love for ==you==*
 
-- 妻へ贈る。  
-*Give (a gift) to wife*
+- ==妻へ== 贈る。  
+*Give (a gift) to ==wife==*
 
 ### 「で」
 
@@ -894,152 +896,180 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
 **Function 1: Marks the place where an action takes place**
 
-- 映画館で映画を⾒た。  
-*Saw a movie at the movie theater* 
+- ==映画館で== 映画を⾒た。  
+*Saw a movie at the ==movie theater==* 
 
 Main wagon "A" | Wagon 「で」 | Wagon 「を」 | Engine "B"
 :---: | :---: | :---: | :---:
-Ø | 映画館で | 映画を | 見た
+Ø | ==映画館で== | 映画を | 見た
 
-- レストランで昼ご飯を⾷べた。  
-*Ate lunch at restaurant*
+- ==レストランで== 昼ご飯を⾷べた。  
+*Ate lunch at ==restaurant==*
 
-- 図書館で勉強する。  
-*Study at the library*
+- ==図書館で== 勉強する。  
+*Study at the ==library==*
 
-- 庭で遊ぶ。  
-*Play in the garden*
+- ==庭で== 遊ぶ。  
+*Play in the ==garden==*
 
-- 渋谷で時計を買った。  
-*Bought a clock in Shibuya*
+- ==渋谷で== 時計を買った。  
+*Bought a clock in ==Shibuya==*
 
-- 「ドイツの大学で学んだ」
+- ==ドイツの大学で== 学んだ。  
+*Studied at a ==German university==*
 
-- 家の中で遊ぶ
+- ==家の中で== 遊ぶ。  
+*Play ==inside the house==*
 
 **Function 2: Marks the instrument/material/method from which an action is performed**
 
-- バスで帰る。  
-*Go home by bus*
+- ==バスで== 帰る。  
+*Go home by ==bus==*
 
-- 車で行く。  
-*Go by car*
+- ==車で== 行く。  
+*Go by ==car==*
 
-- 投票で決める。  
-*Decide by poll* / *Decide through a poll*
+- ==投票で== 決める。  
+*Decide by ==poll==* / *Decide through a ==poll==*
 
-- 愛でご飯を作る。  
-*Make food with love*
+- ==愛で== ご飯を作る。  
+*Make food with ==love==*
 
-- お箸でお寿司を食べる。  
-*Eat sushi with chopsticks*  
+- ==お箸で== お寿司を食べる。  
+*Eat sushi with ==chopsticks==*  
 
-- 鉛筆で書く。  
-*Write with pencil*
+- ==鉛筆で== 書く。  
+*Write with ==pencil==*
 
-- 米で酒を作る。  
-*Make Sake with rice* / *Make Sake out of rice*
+- ==米で== 酒を作る。  
+*Make Sake with ==rice==* / *Make Sake out of ==rice==*
 
-- ラジオで聞いた話。  
-*Story heard from a radio*
+- ==ラジオで== 聞いた話。  
+*Story heard from a ==radio==*
 
-- 「ペンで書く」
-- 「汽車で行く」　
-- 「木と紙でできている日本の家」
-- 「機械で作る」
-- 「花でいっぱい野原」
-- 「広場は人でうずまった」
-- 木と紙でできた家
-- ラジオのニュースで事件を知った
+- ==木と紙で== できている日本の家  
+*Japanese houses that are made from ==wood and paper==*
+
+- ==機械で== 作る。  
+*Made by ==machine==*
+
+- ==花で== いっぱい野原  
+*Field full of ==flowers==*
+
+- 広場は ==人で== うずまった。  
+*Square that is crowded with ==people==*
+
+- ==ラジオのニュースで== 事件を聞いた  
+*Heard about the incident on the ==radio news==*
 
 **Function 3: Marks the cause/reason of the action**
 
-- 熱で学校を休む。  
-*Miss school due to fever*
+- ==熱で== 学校を休む。  
+*Skip school due to ==fever==*
 
-かぜで休む
+- ==寒さで== 震える。  
+*Shiver with ==cold==*
 
-- 寒さで震える。  
-*Shiver with cold*
+- ==病気で== 休む。  
+*Be absent due to ==illness==*
 
-- 病気で休む。  
-*Be absent due to illness*
+- ==受験準備で== 忙しい。  
+*Busy due to ==preparations for entrance examination==*
 
-- 受験準備で忙しい。  
-*Busy due to preparations for entrance examination*
+- ==心臓発作で== 入院する。  
+*Hospitalize due to ==heart attack==*
 
-- 心臓発作で入院する。  
-*Hospitalize due to heart attack*
+- ==撃たれた傷で== 死ぬ。  
+*Die from ==injury inflicted by gun shot==*
 
-- 「火事で一文なしになる」
-- 「撃たれた傷で死ぬ」
-- 「老師の一言でさとる」
-- 「ひどい熱で欠勤する」
-- 火事ですべてを失う
+- ==ひどい熱で== 欠勤する。  
+*Absence from work due to ==severe fever==*
+
+- ==火事で== すべてを失う  
+*Lose everything because of ==conflagration==*
 
 **Function 4: Marks the state/circumstance/condition in which an action happens**
 
-- 急ぎ足で歩く。  
-*Walk with fast pace*
+- ==急ぎ足で== 歩く。  
+*Walk with ==fast pace==*
 
-- 笑顔で答える。  
-*Reply with a smiling face*
+- ==笑顔で== 答える。  
+*Reply with a ==smiling face==*
 
-- 裸足で出かける。  
-*Go out barefoot*
+- ==裸足で== 出かける。  
+*Go out ==barefoot==*
 
-- 土足で上がる。  
-*Come inside (the house) with shoes on*
+- ==土足で== 上がる。  
+*Come inside (the house) ==shoed==*
 
-- 全力で問題に取り組む。  
-*Tackle a problem with all your might*
+- ==全力で== 問題に取り組む。  
+*Tackle a problem with ==all your might==*
 
-- フルスピードで走った。  
-*Ran at full speed*
+- ==フルスピードで== 走った。  
+*Ran at ==full speed==*
 
-- 千円で釣りをください。  
-*Please give me my change in bills of 1000 yen*
+- ==千円で== 釣りをください。  
+*Please give me my change in ==bills of 1000 yen==*
 
-- 「はらぺこで帰る」
+- ==はらぺこで== 帰る  
+*Go home while ==starving==*
 
-- 「挨拶のつもりで声をかけたのだ」
+- ==無名の詩人で== 終わる  
+*End as an ==unknown (not-famous) poet==*
 
-- 「無名の詩人で終わる」
-- 「花嫁姿で立つ」
-- 「立ったっままで飯を食う」
-- いいかげんな気持で言ったのではない
+- ==立ったっままで== 飯を食う  
+*Eat while ==standing up==*
 
 **Function 5: Marks the time frame in which an action is completed**
 
-- 三日で仕上げる。  
-*Finish in three days*  
+- ==三日で== 仕上げる。  
+*Finish in ==three days==*  
 (The time frame that you have to finish the task is "three days")
 
-- 「新幹線は一時間で二百キロも走る」
-- 「十分間で答えてください」
-- 「一週間で治せる」
-- 1時間で4キロ歩く
+- 新幹線は ==一時間で== 二百キロも走る  
+*The bullet train runs 200 km ==an hour==*
+
+- ==十分間で== 答えてください  
+*Please answer within ==10 minutes==*
+
+- ==一週間で== 治せる  
+*Can fix it in ==a week==*
+
+- ==1時間で== 4キロ歩く  
+*Walk 4 km in ==an hour==*
 
 **Function 6: Marks the deadline of an action**
 
-- 申込みは明日で締め切る。  
-*The applications will close by tomorrow*  
+- 申込みは ==明日で== 締め切る。  
+*The applications will close by ==tomorrow==*  
 (The time frame that the applications will stay open is until "tomorrow")
 
-- 当店は五時で閉める。  
-*This store closes at 5 o'clock*  
+- 当店は ==五時で== 閉める。  
+*This store closes at ==5 o'clock==*  
 (The time tame frame that the store will stay open is until "5 o'clock")
 
-- 「明日でお別れだ」
-- 明日で公演は終りです
+- ==明日で== お別れだ  
+*==Tomorrow== we break up*
+
+- ==明日で== 公演は終りです  
+*==Tomorrow== is the end of the show*
 
 **Function 7: Marks the point in time at which an action takes place**
 
-- 「今日では、月旅行はもはや夢ではなくなった」
-- 「現在では、なんらの疑惑もいだいていない」
-- 「現在では、簡単に解決する問題だ」
-- 「後で僕が片付ける」
-- 「今では真面目に暮らしている」
+- ==今日で== は、月旅行はもはや夢ではなくなった  
+*==Today==, a trip to the moon is no longer a dream*
+
+- ==現在で== は、なんらの疑惑もいだいていない  
+*==Now==, there are no suspicions whatsoever*
+
+- ==現在で== は、簡単に解決する問題だ  
+*==Now==, it's an easy problem to solve*
+
+- ==後で== 僕が片付ける  
+*I'll put it away ==later==*
+
+- ==今で== は真面目に暮らしている  
+*==Now== I'm living an honest life*
 
 **Function 8: Marks the boundary of a range**
 
@@ -1047,65 +1077,204 @@ The word "range" is used very loosely here.
 
 The "range" could be referring to quantity:
 
-- みんなで行く。  
-*Go with everyone*    
+- ==みんなで== 行く。  
+*Go with ==everyone==*    
 (The boundary of the quantity-range of people is "everyone")
 
-- 一人で泣いた。  
-*Cried alone* / *Cried by himself/herself*    
+- ==一人で== 泣いた。  
+*Cried ==alone==*  
 (The boundary of the quantity-range is "alone" or "one person")
 
-- 全部で百円だ。  
-*The total is 100 yen*  / *100 yen for all the items*
+- ==全部で== 百円だ。  
+*The ==total== is 100 yen*  / *100 yen for ==all the items==*
 (The boundary of which the "100 yen" is referring to, is "all the items together" aka "the total")
 
-- 三つで百円。  
-*100 yen for 3 items*  
+- ==三つで== 百円。  
+*100 yen for ==3 items==*  
 (The boundary of which the "100 yen" is referring to, is "3 items")
 
-- それだけでいい。(Lit: It's enough with only that)  
+- ==それだけで== いい。(Lit: It's enough with ==only that==)  
 *That's all I need*
 (The boundary of the quantity-range is "only that")
 
-- 「二人でならできる」
-- 「自分で考える」
-- 野球は9人で1チームだ
+- ==二人で== ならできる  
+*If it's ==two people==, then it's possible*
+
+- ==自分で== 考える  
+*Think by ==yourself==*
+
+- 野球は ==9人で== 1チームだ  
+*As for baseball, 1 team has ==9 people==*
 
 Or it could be referring to something more abstract:
 
-- 私の実力で無理だ。  
-*It's impossible with my competency*
+- ==私の実力で== 無理だ。  
+*It's impossible with ==my competency==*
 (Given that the range of "competency" has a boundary of "my boundary" (i.e. doesn't include other people's competency), then it would be "impossible")
 
-- 世界で一番高い山。  
-*Tallest mountain in the world*  
+- ==世界で== 一番高い山。  
+*Tallest mountain in the ==world==*  
 (The boundary of which this "tallest mountain" is true, is the "world")
 
-- 全国で一番美味しいラーメン。  
-*Most delicious ramen in the nation/country*    
+- ==全国で== 一番美味しいラーメン。  
+*Most delicious ramen in the ==nation/country==*    
 (The boundary of which this "most delicious ramen" is true, is the "country")
 
-- 若い人の間で人気がある。  
-*Be popular among young people*  
+- ==若い人の間で== 人気がある。  
+*Be popular ==among young people==*  
 (The boundary of which "being popular" is true, is only "among young people")
 
 ### 「と」
 
-**Function 1: Marks who/what does "A" perform an action (verb) with**
+**Function 1: Marks the person or thing with whom the action is performed**
 
-友達 ==と== 買い物する。
+- ==友達と== 買い物する。  
+*Go shopping with ==friend==*
 
-**Function 2: Result of change**
+- 妹は ==友達のお兄さんと== 結婚した。  
+*Little sister married to ==friend's brother==*
 
-被告人は無罪 ==と== なった。
+- 父親は ==子供と== 遊ぶ。  
+*Father plays with ==kid==*
 
-**Function 3: Marks comparison**
+- 天分は ==努力と== 相俟って成功に結びつくものだ。  
+*Talent, coupled with ==hardwork==, results in success*
 
-兄 ==と== 似ている。
+- ==先生と== 話す  
+*Talk with ==teacher==*
+
+- ==友人と== 会社を作る  
+*Create a company with ==friend==*
+
+- ==花子と== 散歩する  
+*Stroll with ==Hanako==*
+
+- ==これと== 深い関係がある  
+*There is a close relationship with ==this==*
+
+- ==友達と== 旅行する  
+*Travel with ==friend==*
+
+**Function 2: Marks the result or outcome**
+
+- 被告人は ==無罪と== なった。  
+*The accused was found not guilty*  
+(Lit: The accused became ==not guilty==)
+
+- 夜半から雨は ==雪と== なった  
+*From midnight, rain became ==snow==*
+
+- ==無罪と== 決定する  
+*Decide that it's ==innocent==*
+
+- これで ==終りと== する  
+*We are done here*  
+(Lit: Make it as ==the end== here)
+
+- ==学生と== なる  
+*Become ==student==*
+
+- 名を ==一郎と== 改める  
+*Change name into ==Ichirou==*
+
+- 明日を ==決戦の日と== 決める  
+*Decide that tomorrow is ==the day of battle==*
+
+- 開催地は ==東京と== 決まった  
+*As for host city, it was decided to be ==Tokyo==*
+
+**Function 3: Marks the object used for comparison**
+
+- ==兄と== 似ている。  
+*Look like ==brother==*
+
+- ==あなたと== は立場が違う  
+*My position/situation is different from ==you==*
+
+- ==彼と== は比べ物にならない  
+*You're nothing compared to him*  
+(Lit: Compared to ==him==, (you) don't become someone worthy of comparison)
+
+- 考え方が ==君と== 違う  
+*I think differently than you do*  
+(Lit: Way of thinking differs from ==you==)
+
+- ==以前と== 同じ要領  
+*Same point as ==before==*
+
+- ==あなたと== 同じ考えだ  
+*Same opinion as ==you==*
+
+- ==以前と== は条件が異なる  
+*Conditions differ from== before==*
+
+**Funciton 4: Marks the content of speech or thoughts**
+
+This function can also be thought of as "quotation". The term "quotation" is used very loosely here.
+
+- ==いいと== 思う  
+*I think it's ==good==*
+
+- ==ごまかしと== 見る  
+*See as ==deception==*
+
+- ==助けてと== 叫んだ  
+*Screamed for ==help==*
+
+- ==花子と== 名づける  
+*Name (someone) as ==Hanako==*
+
+- 子供を ==太郎と== 名づける  
+*Name a child as ==Tarou==*
+
+- ==嫌だと== 言う  
+*Say ==no==*
+
+- ==危ないと== 感じる  
+*Feel ==dangerous==*
+
+- ==やめようと== 思った  
+*I thought I'd ==stop==*
+
+**Function 5: Used for listing things**
+
+- ==君と僕と== が選ばれた  
+*==You and me==, we were chosen*
+
+- ==君と僕と== は親友だ  
+*==You and me==, we're best friends*
+
+- ==本とノート== を買う  
+*Buy ==books and notebooks==*
+
+- ==犬と猫== を飼う  
+*Own ==dog and cat== (as pets)*
+
+- ==ライオンと虎と== の間の混血  
+*Mixed blood between ==a lion and a tiger==*
+
+- ==紅茶とケーキ== を注文する  
+*Order ==black tea and cake==*
+
+- ==ゲームとピアノとハイキング== が好きだ  
+*I like ==games, piano, and hiking==*  
+(Lit: ==Games, piano, and hiking== are liked)
+
+In this function, the last 「と」 is optional.
+
+- ==君と僕== が選ばれた  
+- ==君と僕と== が選ばれた  
+
+are both acceptable. Likewise:
+
+- ==犬と猫== を飼う  
+- ==犬と猫と== を飼う  
+
+are also acceptable.
 
 ### 「の」
 
-The particle 「の」 has many functions/usages, one of which we already learned in the section [Describing a noun using another noun](description.md#using-a-noun). Let's learn about some more usages in this section.
+The particle 「の」 has many functions, one of which we already learned in the section [Describing a noun using another noun](description.md#using-a-noun). Let's learn about some more usages in this section.
 
 **Function 1: Replacement or omission of noun**
 
@@ -1131,11 +1300,16 @@ Using another noun
 - ==大学== の{++学生++}  
 ==College== {++student++}
 
-The words highlighted in {++green++} are the nouns that are being described. These words can be omitted or replaced by 「の」 if the context clearly indicates what is being omitted.
+The words highlighted in {++green++} are the nouns that are being described by the words highlighted in ==yellow==. These words in green can be: 
+
+1. replaced by 「の」
+2. omitted altogether
+
+if the context clearly indicates what is being omitted.
 
 Let's look at a few examples.
 
-???+ example "Examples of replacement"
+???+ example "Examples of REPLACEMENT"
 
     If the noun is being described by a verb or an adjective, we replace the noun with 「の」
 
@@ -1181,10 +1355,10 @@ Let's look at a few examples.
     - Person B: 私も大事な{++の++}は言い方だと思う。  
     I also think that the important {++thing++} is how you say it
 
-    ???+ warning "Pay attention to 「な」"
+    !!! warning "Pay attention to 「な」"
         Notice that 「大事 ==な== こと」 changes to 「大事 ==な== の」. The 「な」 cannot be omitted. After all the thing we're omitting/replacing is only the noun itself. This applies for all na-adjectives.
 
-???+ example "Examples of omission"
+???+ example "Examples of OMISSION"
     If the noun is being described by another noun (which means there is already a 「の」 linking them), we simply omit the noun.
 
     **Example 1:**
@@ -1331,17 +1505,17 @@ Of course, if someone who is fluent in Japanese is reading that sentence, they c
 
 We learned in the first function of 「も」 that:
 
-???+ quote
+!!! quote
     The comments must be consistent (old and new).
 
 Let's see what we mean by "consistent" by comparing 「も」 to 「は」.
 
-???+ info "The main difference between 「は」 and 「も」"
+!!! info "The main difference between 「は」 and 「も」"
     - 「は」 changes the topic, and implies that the comment of the new topic is **different** from the comment of the old topic.
 
     - 「も」 also changes the topic, but it implies that the comment of the new topic is the **same** as the comment of the old topic.
 
-This is why 「も」 can only be used when the comment is "consistent" with the previous comment. Furthermore, the other function of the particle 「は」 is to be the **contrastive** topic particle ーas opposed to the particle 「も」 which is the **inclusive** topic particleー precisely because the comment on the new topic is different from the comment of the previous topic.
+This is why 「も」 can only be used when the comment is "consistent" with the previous comment. Furthermore, the particle 「は」 has a **contrastive** property (as opposed to 「も」 which is **inclusive**) precisely because the comment of the new topic is *different* from the comment of the previous topic.
 
 Suppose we have a first topic "Alice", and the comment about her is "is student":
 
@@ -1358,7 +1532,7 @@ Then, we **can** use 「も」 in the second topic, because the *comment* of bot
 - アリスは学生だ。
 - トム ==も== 学生だ。
 
-???+ warning "Be careful how you use 「は」 and 「も」 in certain phrases"
+!!! warning "Be careful how you use 「は」 and 「も」 in certain set phrases"
 
     For example, the following phrase is often said when greeting someone during New Year:
 
@@ -1368,16 +1542,18 @@ Then, we **can** use 「も」 in the second topic, because the *comment* of bot
 
     A very rough translation of this phrase in English can be 
 
-    - "Once again this year, please be good to me"
-    - "Once again this year, I'm looking forward to working with you" 
+    - "This year too, I hope you take good care of me"
+    - "This year too, I hope you look after me"
 
+    which can be used to greet anyone. The important point here is that we're using 「も」 to say "this year too".
+    
     Let us remind ourselves that the particle 「は」:
 
     > implies that the comment of the new topic is **different** from the comment of the old topic
 
-    So, if we say 「今年は。。。」, we're implying that "this year is different from previous years". In other words, it implies that your relationship with that person in previous years was not a successful one. It implies that the relationship in previous years was not pleasant for you. You're essentially saying, "This year, **as opposed to previous years**, I'll be looking forward to working with you".
+    So, if we say 「今年 ==は== 。。。」, we're implying that "this year (new comment) is different from previous years (old comments)". In other words, it implies that your relationship with that person in previous years was not a good one. It implies that the relationship in previous years was not pleasant for you. You're essentially saying, "This year, **as opposed to previous years**, I hope you take good care of me".
 
-    This is why the correct way of saying the phrase is 「今年**も**よろしくお願いします」 because you want to express "this year too".
+    This is why the correct way of saying the phrase is 「今年 ==も== よろしくお願いします」 because you want to express "this year too".
 
 To expand a little bit more on the **contrastive** property of the the particle 「は」, let's look at some examples:
 
@@ -1397,16 +1573,16 @@ Normal English: *You don't know but I do*
 
 - アフリカは ==ライオンは== いるけど、==トラは== いない。  
 Literally: *As for Africa, ==as for lions==, (they) exist but ==as for tigers==, they don't exist*  
-Normal English: *In Africa, there are lions but there are no tigers.
+Normal English: *In Africa, there are lions but there are no tigers.*
 
 ### 「は」 vs 「が」
 
 !!! warning
-    **I have been using 「が」 in a lot of example sentences so far, but that's NOT how Japanese people normally say things.**
+    **I have been using 「が」 in a lot of example sentences as the main wagon "A" so far. Although that is technically correct, that's NOT how Japanese people normally speak when they want to express sentences like "A is B" or "A does B".** We'll see the reason behind this in this section.
 
-We learned about the grammatical usage of 「は」 and 「が」: one is a flag, the other is the main wagon. However, it might still be confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B".
+We learned about the grammatical usage of 「は」 and 「が」: one is a flag, the other is the main wagon. However, it might still be confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B" or "A does B".
 
-Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar, but from the perspective of communication/conversation. *How do native speakers use those particles?* 
+Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar. *How do native speakers use those particles?* Or more precisely, what kind of impression do native speakers get when they see/hear 「は」 or 「が」?
 
 #### Mark the same thing
 
@@ -1422,17 +1598,44 @@ If we were to write out the full sentence (although very unnatural), it would be
 - ==私== は {++私++}が学生だ。  
 *As for ==me==, {++I++} am a student.*
 
-In scenarios where the topic and the subject are the same thing, it's more natural to omit one of the two, such as:
+Here, 「私」 is the topic and also the subject. In scenarios where the topic and the subject are the same thing, it's more natural to omit one of the two, such as:
 
 - 私 ==は== 学生だ。(私は{--Øが--}学生だ。)
 - 私 ==が== 学生だ。({--Øは--}私が学生だ。)
 
 There are two ways you can look at the difference between these two particles.
 
-???+ info "First way to look at the difference bewtween 「は」 and 「が」"
+!!! info "First way to look at the difference bewtween 「は」 and 「が」"
 
     - 「は」 talks about **something in general**.
-    - 「が」 **singles something out**  to say "that is *the thing*".
+    - 「が」 **singles something out**  to say "THAT is *the thing*".
+
+What do I mean by that? Let's compare it to English.
+
+!!! info "The English equivalent of 「が」"
+    Japanese is a topic-prominent language, and there is one particle for topic (「は」) and one for subject (「が」) . This allows Japanese speakers to emphasize either the topic or the subject, by simply using the corresponding particle.
+
+    English, on the other hand, is subject-prominent language. On top of that, English doesn't use particles. In English, when we want to express "emphasis on the subject" the same way 「が」 does in Japanese, we would usually do it in these two ways:
+
+    1. I am the one who bought the book.
+    2. *I* bought the book.
+    3. **I** bought the book.
+
+    The first way is to explicitly say "I am the one who..." or "she is the one who..." or "they are the ones who..." or "this is the thing that...".
+
+    The second way is to ーif it's written communicationー stylize the "I" with italics or with bold (or both). The equivalent of this in spoken speech is to say "I" louder or longer (or both).
+
+    **On a related note**: If we want to retain as much nuances as possible when translating from Japanese into English, this is how we would probably do it:
+
+    - 私は日本人だ。  
+    *I am Japanese.*
+
+    Notice that in Japanese, 「私」 is the **topic**. But in English, "I" is the **subject**. Now, let's look at the next sentence:
+
+    - 私が日本人だ。  
+    *I am the one who is Japanese.*
+
+    Because normal English sentences is already subject-prominent, when we want to emphasize on the subject the same way 「が」 does in Japanese, we end up resorting to phrases like "the one" or "the thing".
 
 Let's look at a few examples to understand these nuances.
 
@@ -1545,11 +1748,11 @@ we're stressing 「花」 as the subject. We're emphasizing 「花」 to mean:
 
 **Example 8**:
 
-Let's look at another example. Suppose you are with a friend who has never seen what a ramen looks like. There are three dishes in front of you two: sushi, curry rice, and ramen. When you point at the ramen to let your friend know that *that* is ramen, you can say:
+Let's look at another example. Suppose you are with a friend who has never seen what a ramen looks like. There are three dishes in front of you two: sushi, curry rice, and ramen. You want to single out one dish, point at it, and tell your friend that "*that* is ramen". In this scenario, you can say:
 
 - あれ ==が== ラーメン
 
-Using 「が」 in this manner implies "*That dish* (sushi) is not ramen. *That dish* (curry rice) is also not ramen. *That dish* (ramen) is ramen". You are comparing and singling out the one dish that **is** ramen.
+Using 「が」 in this manner implies "*That dish* (sushi) is not ramen. *That dish* (curry rice) is also not ramen. *THAT dish* (ramen) is the one that's ramen". You are comparing and singling out the one dish that *is* ramen.
 
 **Example 9**:
 
@@ -1559,19 +1762,7 @@ Another example that might not seem as straightforward to understand is this sen
 
 This sentence roughly translates to "I liked playing soccer when I was in highschool". This sentence might look too complicated for someone who just started learning Japanese. But the point I want to make is that 「が」 was used in the sentence, instead of 「は」. Earlier, we learned that 「が」 is only used for comparison. So who are we comparing 「私」 to? We are comparing "myself" to "myself". More accurately, we are comparing the "present me" to the "past me" or "the highschool me".
 
-**Example 10**:
-
-This is why saying "I like you" in Japanese is always said as 
-
-- 君 ==が== 好きだ
-
-which translates literally to "You are liked". We want to express that "YOU are the one" that is liked; not person A, nor person B, but YOU. If we instead use 「は」 like so:
-
-- 君 ==は== 好きだ
-
-it will sound like we are saying "As for you, (you) are liked. As for other people, they are hated" (remember the contrastive property of 「は」), which is not what we were trying to convey/express.
-
-???+ info "Second way to look at the difference bewtween 「は」 and 「が」"
+!!! info "Second way to look at the difference bewtween 「は」 and 「が」"
     - 「は」 puts the emphasis on the sentence **after** it
     - 「が」 puts the emphasis on the sentence **before** it.
     
@@ -1601,7 +1792,7 @@ Now, if we say the **third sentence**, we've now changed the emphasis. Under wha
 
 While the second sentence is implicitly answering the question "What did I do?", the third sentence is implicitly answering the question "**Who bought the book?**" The answer is "*I am the one* who bought the book".
 
-???+ note
+!!! note
     The last three examples sentences that we just looked at:
 
     1. 本を買った。
@@ -1616,49 +1807,83 @@ While the second sentence is implicitly answering the question "What did I do?",
 
     Japanese grammar allows you to omit the topic or the subject (main wagon "A") or both. In fact the only component needed to make a complete and proper sentence is the engine "B". This means that, when we choose to explicitly say the topic or the subject out loud, we do so because we want to say it with a certain nuance, or with a certain emphasis.
 
-???+ info "The English equivalent of 「が」"
-    Japanese is a topic-prominent language, and there is one particle for topic (「は」) and one for subject (「が」) . This allows Japanese speakers to emphasize either the topic or the subject, by simply using the corresponding particle.
-
-    English, on the other hand, is subject-prominent language. On top of that, English doesn't use particles. In English, when we want to express "emphasis on the subject" the same way 「が」 does in Japanese, we would usually do it in these two ways:
-
-    1. I am the one who bought the book.
-    2. *I* bought the book.
-    3. **I** bought the book.
-
-    The first way is to explicitly say "I am the one who..." or "she is the one who..." or "they are the ones who..." or "this is the thing that...".
-
-    The second way is to ーif it's written communicationー stylize the "I" with italics or with bold (or both). The equivalent of this in spoken speech is to say "I" louder or longer (or both).
-
-    **On a related note**: If we want to retain as much nuances as possible when translating from Japanese into English, this is how we would probably do it:
-
-    - 私は日本人だ。  
-    *I am Japanese.*
-
-    Notice that in Japanese, 「私」 is the **topic**. But in English, "I" is the **subject**. Now, let's look at the next sentence:
-
-    - 私が日本人だ。  
-    *I am the one who is Japanese.*
-
-    Because normal English sentences is already subject-prominent, when we want to emphasize on the subject the same way 「が」 does in Japanese, we end up resorting to phrases like "the one" or "the thing".
-
 #### Mark different things
 
 Now let's look at a scenario where the topic and the subject are different things.
 
-- 私はラーメンが好きだ。  
-*As for me, ramen is liked*
+**Example 1**:
 
-Here, the core sentence (the "comment" of the topic-comment structure) is 「ラーメンが好きだ」. You are expressing the statement that "ramen is liked", and 「私」 is the topic. This is how you express "I like ramen" in Japanese. It's possible to literally say word for word "I like ramen" in Japanese, but it's not natural.
+- 君 ==が== 好きだ  
+*I like you*
+
+which translates literally to "You are liked". We want to express that "**YOU** are the one" that is liked; not person A, nor person B, but **YOU**. If we instead use 「は」 like so:
+
+- 君 ==は== 好きだ
+
+it will sound like we are saying "As for you, (you) are liked. As for other people, they are hated" (remember the contrastive property of 「は」), which is not what we were trying to convey/express.
+
+Why is this example under "Mark different things"? Because the topic (marked by 「は」) is indeed different from the subject (「君」 which is marked by が」). Let's write out the full sentence:
+
+- 私は君が好きだ  
+*As for me, you are liked*
+
+The 「私は」 is often omitted because it's obvious from context. In fact, 「君が」 is also often omitted because it's obvious from context. If you are talking to your crush one-on-one, you can in fact just say 「好きだ」 (lit: (you) are liked).
+
+!!! warning "This is an 'A is B' sentence, not an 'A does B' sentence"
+    Notice that we are using the だ-engine. This means that the sentence is of type "A is B", NOT "A does B". Although in English, the natural way of saying it is "I like you", where "I" is *doing* the action of *liking someone* ("A does B" sentence), in Japanese it's more natural to say "You are liked" ("A is B" sentence), where "liked" is an adjective. 
+    
+    The same way we say "You are pretty" (where "pretty" is an adjective), we are saying in this case "You are liked". It might be a bit hard to see "liked" as an adjective for some people, since "liked" looks like the past-tense of the verb "like", but that's just an unfortunate coincidence in English (happens a lot tbh). We could translate 「君が好きだ」 with other words (although not as accurate) so we can better see "liked" as an adjective in this sentence.
+
+    Other (not-as-accurate) translations of 「君が好きだ」 could be:
+
+    - You are favorite
+    - You are pleasing
+    - etc...    
+
+**Example 2**
 
 - 象は鼻が長い。  
 *As for elephants, nose is long*
 
 In normal English, we might say "Elephant's nose is long". Again, it's possible to literally say word for word "Elephant's nose is long" in Japanese, but it's more natural to say it as "As for elephants, nose is long".
 
-???+ tip
+**Example 3**
+
+- 私は魚だ。  
+*As for me, (it) is fish*
+
+Ah, yes. Remember this example from the section about [「は」](#_1)? When you're with a group of friends ordering at a restaurant, it's common to say 「私は。。。」 because you want to make a contrast from your friends (remember the contrastive property of 「は」). If your friend orders pancakes, and you want to order something else, you should say 「私は。。。」 (not 「私が。。。」) to make use of the contrastive property of 「は」. If you want to order the same thing, then you can of course say 「私も。。。」.
+
+I digress. In this sentence, the topic is "I" and the subject is "it". Based on context, "it" refers to "the dish that I want to order".
+
+**Example 4**
+
+Following example 3, let's say you ended up ordering fish. After a while, the waiter comes back with a plate of fish and asks you and your friend:
+
+- Who ordered the fish?
+
+It's also possible to ask the same question as:
+
+- Who is the fish?
+
+This is pretty common in restaurant settings (even in English). Now, let's see how this exchange goes down in Japanese:
+
+- どちら様が魚ですか？  
+*Who is the fish?*
+
+「どちら様」 is just a respectful and polite way of saying "who". You can then reply to the waiter with:
+
+- 私が魚です。  
+*I am the fish*
+
+In this sentence, it *actually* means quite literally "I am the fish" (as opposed to 「私は魚だ」). But everyone can infer from context that you're not literally saying you are a fish; you are just saying that you are the one who ordered fish.
+
+!!! tip
     The difference between these two particles will become more apparent and easier to tell apart as you do more **immersion**.
 
 ### 「に」 vs 「を」
+
+**Example 1**
 
 1. 山 ==に== 登る
 2. 山 ==を== 登る
@@ -1674,6 +1899,10 @@ The focus of this sentence is: the goal is the summit of the mountain.
 The focus of this sentence is: the path itself; the uphills of the mountain. The summit may or may not be or goal.
 
 The difference in focus makes sense if we look at the function of each particle. 「に」 is marking the destination of 「登る」. This is why I like to think of 「に」 as an arrow. In this case, 「に」 is an arrow that is pointing towards the summit. However, 「を」 is marking the path of 「登る」: the uphills. This means that the focus is on the action of climbing （登る） itself. In Japanese, it's more common to say 「～に登る」 instead of 「～を登る」.
+
+**Example 2**
+
+「を」でも「に」でも言える場合、意味に次のような違いがある。「野—行く」と「野に行く」とでは、後者がその野を静的目標としてとらえ、それを目当てに進むことを言う（従って野に到達すれば大概は進行を止めるだろう）のに対し、前者はその野を動的目標としてとらえ、例えば野の中を動いて行くとか野を横切って更に進むとかすることを表す。
 
 ### 「に」 vs 「へ」
 
@@ -1854,6 +2083,10 @@ http://www.ritsumei.ac.jp/acd/cg/lt/rb/633/633PDF/sano.pdf
 
 になる
 となる
+
+「a 弟 と／に 相談する」「b 彼女 と／に キスをする」「c 喫茶店で先生 と／に 会う」のように「に」で言い換えると、対等の立場の相手から動作の向かう相手の意となり、〈a 弟の方が立場が上〉、〈b 合意に基づかない一方的な動作〉、〈c 礼にかなった穏当な言い方〉となる点などに意味の違いが現れる。
+
+「（顔立ちが）子は父に似ている」とは言えても「父は子に似ている」とは言い難い。
 
 ### 「を」 vs 「から」
 
