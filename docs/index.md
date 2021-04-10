@@ -6,7 +6,7 @@ Here is the most important advice for learning languages: **your interest in lea
 
 With that being said, there are scientific studies about second language acquisition that we can use as foundations for learning languages more efficiently. In this page, I'd like to present to you Dr. Krashen's theory about language acquisition.
 
-First, let's make a distinction between *acquisition* and *studying*.
+First, let's make a distinction between *acquisition* and *learning*.
 
 ## Acquisition
 
@@ -44,16 +44,24 @@ First, let's make a distinction between *acquisition* and *studying*.
 
     As adults, we don’t have a parent to talk to us 24/7, but we do have access to the whole of the internet. Using widely available media, we can emulate the language acquisition process that children experience.
 
+    **Footnotes**:  
+    Stephen Krashen uses the term "learning" to contrast with "acquisition". Because the term learning is overloaded, we use the term "study" here.
+
 Here's a quote from one of Dr. Krashen's presentation about language acquisition:
 
 !!! quote
     "We acquire language in one way and only one way. When we get comprehensible input in a low anxiety environment." - Stephen Krashen
 
-[The presentation is available on YouTube](https://youtu.be/NiTsduRreug) where his theory is more thoroughly explained.
+The two important points in this quote are:
 
-## Studying
+- Comprehensible input
+- Low anxiety environment
 
-Now we can talk about *studying* a language. Specifically, studying Japanese.
+You can learn more about it in Dr. Krashen's [presentation](https://youtu.be/NiTsduRreug).
+
+## Learning
+
+Now we can talk about *learning* a language. Specifically, learning Japanese.
 
 ### 1. Writing system
 
@@ -89,17 +97,17 @@ First, let's define what grammar is.
 
 In other words, grammar is a set of rules that attemps to model how a language works. It is important to emphasize that grammar **does not define** how a language works, but it simply **attempts to describe** how it works. Grammar rules are made after-the-fact. On top of that, languages are always evolving. An incorrect grammar today, could very well be a correct one tomorrow.
 
-**Why study grammar?**
+**Why learn grammar?**
 
-At the beginning when we made the distinction between acquiring and studying (skill-building) a language, we learned that:
+At the beginning when we made the distinction between acquiring and learning (skill-building) a language, we saw that:
 
 > "No amount of skill-building will help you become fluent."
 
-So what's the point of studying a language, such as studying grammar? You can speed up your acquisition by studying. You can speed up your listening and reading comprehension (acquisition) by studying grammar and vocabulary.
+So what's the point of learning a language, such as learning grammar? You can speed up your acquisition by learning. You can speed up your listening and reading comprehension (acquisition) by learning grammar and vocabulary.
 
 **Grammar is a model**
 
-Grammar, like we said earlier, is just something that attempts to describe how a language works. In other words, grammar is a **model** of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. By studying grammar, you are essentially giving your brain a model to start from. 
+Grammar, like we said earlier, is just something that attempts to describe how a language works. In other words, grammar is a **model** of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. By learning grammar, you are essentially giving your brain a model to start from. 
 
 **Choosing a grammar guide**
 
@@ -113,7 +121,7 @@ Unlike traditional textbooks, this grammar guide is not meant to teach you how t
 **How to use this guide**  
 Like I said earlier, this grammar guide is meant to be used in tandem with input. I only expect you to read through the guide and **be aware** that such grammar exists. You don't have to bother too much with the small details.
 
-Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) about studying grammar:
+Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) about learning grammar:
 
 !!! quote
     When approaching grammar, it is important to know that the purpose of a grammar guide is not to make you a master at the language, but to give you only a basic understanding of how things work in the language, and then a true understanding of grammar can only be achieved through immersion. Therefore, I recommend you choose a grammar guide, read/watch it **and** do immersion.
@@ -122,10 +130,23 @@ Input itself refers to listening and reading to native content in the target lan
 
 ## Output
 
+Output does NOT improve your input. Output does not improve your listening or reading comprehension. Output does not improve acquisition.
+
+Output is the RESULT of your input. Output is the result of your acquisition.
+
+!!! note
+    This does not necessarily mean that outputting is bad. 
+    
+    Here's a few reasons why it's OK to output, [written by TheMoeWay](https://learnjapanese.moe/speaking/).
+
+    [Matt vs Japan also has a video](https://youtu.be/-OuMfLtK3tU) explaining why it's OK to output early.
+
+**The "ceiling" of your output**
+
 !!! quote
     "The quality and quantity of your output is a function of the quality and quantity of your input" - Matt vs Japan. [More about it on this video](https://youtu.be/Df24NIPkvVQ).
 
-Your output can only be as good as your input. If you haven't heard (input) how an idea is expressed in Japanese, you won't know how to express (output) it in Japanese. You could technically, by studying grammar and vocabulary, know how to say something in Japanese without hearing it first; BUT the way you say it, the words you choose, they will (99% of the time) all sound unnatural (even if it's grammatically correct). This is especially true for beginners because you haven't had enough exposure to Japanese.
+Your output can only be as good as your input. If you haven't heard (input) how an idea is expressed in Japanese, you won't know how to express (output) it in Japanese. You could technically, by learning grammar and vocabulary, know how to say something in Japanese without hearing it first; BUT the way you say it, the words you choose, they will (99% of the time) all sound unnatural (even if it's grammatically correct). This is especially true for beginners because you haven't had enough exposure to Japanese.
 
 Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/output-troubleshooting#NL-Conflicts):
 
@@ -136,25 +157,29 @@ Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/
 
     Most of the time, you have already acquired the necessary language, but just need to change your mindset. The key to getting around this is asking yourself the right question. Instead of asking, “How do I say this?”, ask yourself “What would a native speaker say in this situation?”. This subtle reframing of the question will often produce completely different results from your subconscious.
 
-## Final words
+## Final notes
 
-ACQUISITION (reading and listening) is the heavy lifting. STUDYING (grammar and vocabularies) is not. **Please do not neglect immersion**. No amount of grammar and vocabulary will help you become fluent if you neglect immersion.
+ACQUISITION (reading and listening) is the heavy lifting. LEARNING (grammar and vocabularies) is not. **Please do not neglect immersion**. No amount of grammar and vocabulary will help you become fluent if you neglect immersion.
 
-## Resources
+## See also
 
-For more information about the methodology of acquiring a language:
+- [Comprehensible Japanese - YouTube](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA)  
+*YouTube channel with lots of easy comprehensible input videos made for beginners*
 
+- [Resources - TheMoeWay](https://learnjapanese.moe/resources/)  
+*Huge list of all kinds of resources for acquiring and learning Japanese*
+
+## References
+
+For more information about the methodology of acquiring any language in general:
+
+- [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis) developed by Stephen Krashen
+- [Presentation about language acquisition](https://youtu.be/NiTsduRreug) by Stephen Krashen
 - [Refold](https://refold.la/)
 - [TheMoeWay](https://learnjapanese.moe/)  
 *TheMoeWay focuses specifically on Japanese*
 
-For easy comprehensible input videos in Japanese:
-
-- [Comprehensible Japanese](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA)
-
-## References
-
-This grammar guide is largely a consolidation of
+This grammar guide is largely a consolidation of:
 
 - 新明解国語辞典 第七版 ISBN-13: 978-4385131078
 - 明鏡国語辞典 第三版 ISBN-13: 978-4469021226

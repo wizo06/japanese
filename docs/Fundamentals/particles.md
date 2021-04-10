@@ -36,9 +36,6 @@ We can finally put the knowledge from "Sentence Structures" into use. As a remin
 
 Let's begin learning some basic particles. Each particle has more than one usage/function. We will only learn a few basic usage for each particle for now.
 
-!!! danger "REPEAT AFTER ME"
-    The ENGINE determines which particle will be used for each wagon. This will become more apparent as we look into the contrasts of particles.
-
 ## Topic particles
 
 If we follow the analogy of the train, then topic particles are the particles that go into the "Topic 🏳️" part of the train. We will learn what this actually means when we learn about the particles themselves. There are two topics particles in Japanese: 「は」 and 「も」.
@@ -411,422 +408,723 @@ This means "As for the ball too, I throw (it) at Sakura". Again, the logical mea
 
 ## Case marking particles
 
-Case marking particles (「格助詞」 in Japanese) are particles that mark the role of a word in a sentence. We will take a look at a few of them here.
+Case marking particles (「格助詞」 in Japanese) are particles that mark the role of a word in a sentence. This "role" defines the relationship between the word itself and the engine. 
+
+!!! danger "REPEAT AFTER ME"
+    **Case marking particles define the relationship between the word that they are marking and the Engine.** 
+    
+    If the engine is 「食べる」(eat), then we can answer the following questions by simply looking at the case marking particles:
+
+    - Who ate it? (marked by 「が」)
+    - What was eaten? (marked by 「を」)
+    - When was it eaten? (marked by 「に」)
+    - Where was it eaten? (marked by 「で」)
+    - With whom was it eaten? (marked by 「と」)
+    - etc...
+
+Each case marking particle has **more than one function**. We will learn only the basic functions for each of them for now.
 
 ### 「が」
 
-**「が」 is the identifier particle**. What do I mean by that? Let's say I want to ask "Who is the student?". If I use the topic particle 「は」, the question would become 
+???+ info "Function 1: Marks the subject (main wagon "A") of the sentence"
+    **Example 1**
 
-Note: 「誰」（だれ） means "who"
+    - ==雨が== 降る  
+    ==Rain== falls
 
-- 誰は学生？
+    Main wagon "A" | Engine "B"
+    :---: | :---:
+    ==雨が== | 降る
 
-*"As for who, is (it) a student?"*
+    「が」 marks the subject of the sentence. In other words, it marks the main wagon "A". It marks the *doer*. It tells us *who* or *what* is doing the action of engine "B". Here, the engine "B" is the verb 「降る」(fall). What is falling? Rain is falling. This is an ["A does B" sentence](a-and-b.md#engine-b).
 
-and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the section about [Main wagon "A"](a-and-b.md#main-wagon-a) that 「が」 attaches to a word to mark it as the main wagon "A". 
+    **Example 2**
 
-Suppose the student is "Alice". Then, we can say "Alice is student" like so:
+    - ==りんごが== 美味しい  
+    ==Apple== is delicious
 
-- アリスが学生だ
+    Main wagon "A" | Engine "B"
+    :---: | :---:
+    ==りんごが== | 美味しい  
 
-Main wagon "A" | Engine "B"
-:---: | :---:
-アリスが | 学生だ
+    Here, the engine is 「美味しい」(is delicious). What is delicious? Apple is delicious. This is an ["A is B" sentence](a-and-b.md#engine-b).
 
-But if we are asking the question "Who is the student?", that means we don't know what is inside the main carriage "A". It means that the main wagon "A" is unknown. To illustrate:
+???+ info "Function 2: Interchangeable with 「の」"
+    You'll most likely not see this function of 「が」 if you're using beginner-friendly content as your input.
 
-Main wagon "A" | Engine "B"
-:---: | :---:
-❓ が | 学生
+    Basically, this function of 「が」 is exactly the same as the 「の」 we learned in [Describing a noun with another noun](#using-a-noun). However, this is often only used in "archaic" phrases like:
 
-So, all we need to do is put 「誰」 in the main wagon. The question now becomes:
-
-- 誰が学生？
-
-*Who is student?*
-
-Makes sense right? The 「が」 particle marks the main wagon "A". It marks the subject. It marks the doer. It tells us *who*/*what* is doing/being "B". But didn't we say earlier that the particle 「が」 is the **identifier particle**?. That's right. The particle 「が」 marks the main wagon "A", therefore it tells us *who*/*what* is doing/being "B". It **identifies** "A" for us.
-
-Let's look at an example:
-
-- ボブ：誰が学⽣？  
-*Bob: Who is the one that is student?*  
-
-- アリス：ジョンが学⽣。  
-*Alice: John is the one that is student*
-
-Bob wants to identify *who* -among all the possible candidates- is a student. Alice responds that *John* is the one. Notice that Alice could also have answered with the topic particle to indicate that, "Speaking of John", she knows that he is **a** student (maybe not **the** student that Bob is looking for). Let's illustrate this difference again. If Bob asks:
-
-- ボブ：誰が学⽣？  
-*Bob: Who is the one that is student?* 
-
-Then Alice can answer in two ways:
-
-- アリス：ジョンが学⽣。  
-*Alice: John is the one that is student.*
-
-- アリス：ジョンは学⽣。  
-*Alice: As for John, (he) is student. (As for other people, they could be students too.*
-
-It is helpful to translate 「は」 as "as for...; about...; speaking of...; in relation to..." and 「が」 as "the one; the thing" to illustrate the difference.
-
-Let's look at one more example:
-
-1. 私は学⽣。  
-*As for me, (I am) student.*
-
-2. 私が学⽣。  
-*I (am) the one (that is) student.*
-
-The 「は」 and 「が」 particles are actually quite different if we use the train analogy to illustrate the sentence. 
-
-<table>
-  <tr>
-    <th colspan="2" style="text-align: center">私は 🏳️</th>
-  </tr>
-  <tr>
-    <th style="text-align: center">Main wagon "A"</th>
-    <th style="text-align: center">Engine "B"</th>
-  </tr>
-  <tr>
-    <td style="text-align: center">Ø が</td>
-    <td style="text-align: center">学生だ</td>
-  </tr>
-</table>
-
-The 「が」 particle identifies a specific entity as *the* thing while the 「は」 particle is used only to bring up a new topic of conversation. This is why, in longer sentences, it is common to separate the topic with commas to remove ambiguity about which part of the sentence the topic applies to.
+    - 我が国
+    - 我が祖国
+    - 藤が丘
+    - 霞が関
 
 ### 「を」
 
-The particle 「を」 has many functions. We'll look at a few functions below. This kana is almost exclusively only used as a particle. The kana 「を」 is normally pronounced as 「を」, but when it's used as a particle, it's pronounced as 「お」. You might ocassionally hear the particle 「を」 actually being pronounced as 「を」 in some slow songs.
+The particle 「を」 has many functions. We'll look at a few basic ones below. The kana 「を」 is normally pronounced as 「を」, but when it's used as a particle, it's pronounced as 「お」. You might ocassionally hear it actually being pronounced as 「を」 in some songs.
 
-**Function 1: Marks the Direct Object of a verb**
+???+ info "Function 1: Marks the object of an action"
+    **Example 1**
 
-This is probably the easiest function to understand by simply looking at a few example sentences.
+    - ==水を== 飲む  
+    Drink ==water==
 
-- ==⿂を== ⾷べる。  
-*Eat fish*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==水を== | 飲む
+    
+    Here, the engine is 「飲む」(drink). In other words, the action is "drink". What are you drinking? What's the object that you're drinking? You're drinking water.
 
-Main wagon "A" | Wagon 「を」 | Engine "B"
-:---: | :---: | :---:
-Ø | ==⿂を== | ⾷べる
+    **Example 2**
 
-Some more examples:
+    - ==映画を== 見る  
+    Watch ==movie==
 
-- ==石を== 投げる。  
-*Throw ==rocks==*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==映画を== | 見る  
+    
+    Here, the engine/action is 「見る」(watch). What are you watching? You're watching a movie.
 
-- ==鍵を== 探す。  
-*Find ==keys==*
+    **Example 3**
 
-- ==リンゴの皮を== 剥く。  
-*Peel ==ski of apple==*
+    - ==ケーキを== 作る  
+    Make ==cake==
 
-- ==庭を==掃く。  
-*Sweep ==garden==*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==ケーキを== | 作る  
 
-- ==黒板を== 消す。  
-*Erase ==blackboard==*
+    The engine is 「作る」(make). What are you making? A cake.
 
-- ==黒板の字を== 消す。  
-*Erase ==blackboard's words==* (Erase words that are written on the blackboard)
+???+ info "Function 2: Marks the physical space of movemen/motiont"
+    **Example 1**
 
-- ==字を== 書く。  
-*Write ==words==*
+    - ==階段を== 上がる  
+    Go up ==the stairs==
 
-- ==パンを== 焼く。  
-*Bake ==bread==*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==階段を== | 上がる  
 
-- ==勝利を== 目指す。  
-*Aim ==victory==*
+    The engine is 「上がる」(go up). In other words, the movement is "go up". What is the physical space in which you "go up"? The stairs.
 
-- ==お金を== 費やす。  
-*Spend ==money==*
+    **Example 2**
 
-- ==本を== 読む。  
-*Read ==book==*
+    - ==階段を== 降りる  
+    Go down ==the stairs==
 
-- ==日本語を== 勉強する。  
-*Study ==Japanese==*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==階段を== | 降りる
 
-- ==アニメを== 見る。  
-*Watch ==anime==*
+    The movement is "go down". What is the physical space in which you are "going down"? The stairs.
 
-- ==ケーキを== 作る。  
-*Make ==cake==*
+    **Example 3**
 
-- ==パソコンを== 使う。  
-*Use ==computer==*
+    - ==空を== 飛ぶ  
+    Fly ==in the sky==
 
-- ==友達を== 殴る。  
-*Punch ==friend==*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==空を== | 飛ぶ
 
-- ==顔を== 撫でる。  
-*Caress ==face==*
+    The engine is 「飛ぶ」(fly). The movement is "fly". What's the physical space in which you are flying? The sky.
 
-- ==家を== 建てる。  
-*Build ==house==*
+    **Example 4**
 
-- ==穴を== 掘る。  
-*Dig ==hole==*
+    - ==公園を== 散歩する  
+    Take a walk ==in the park==
 
-- ==あの夢を== なぞって。  
-*Tracing ==that dream==*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==公園を== | 散歩する
 
-!!! tip "Did you know"
-    「あの夢をなぞって」 is the name of a song from a duo called YOASOBI.
+    The engine is 「散歩する」(stroll). The movement is "stroll". What's the physical space in which you are taking a stroll? The park.
 
-A *direct object* of a verb, is a word that the verb is acting on. It indicates the object of the action. If I say "I eat fish", you can ask "what are you eating?", and my answer would be "fish". The verb "eat" is acting on the word "fish".
+    **Example 4**
 
-**Function 2: Marks the path of motion verbs**
+    - ==山道を== 登る  
+    Climb ==mountain path==
 
-Unlike the direct object in English, places can also be the direct object of certain motion verbs in Japanese. However, as you can see by the next examples, it often translates to something different in English due to the slight difference of the concept of direct object.
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==山道を== | 登る
 
-- ==街を== 歩く。(Lit: Walk ==street==)  
-*Walk through street.* 
+    The movement is 「登る」(climb). What's the physical space in which you are climbing up? The mountain path.
 
-- ==⾼速道路を== ⾛る。(Lit: Run ==expressway==)  
-*Run through expressway.* 
+???+ info "Function 3: Marks the time of time-related verbs"
+    **Example 1**
 
-- ==空を== 飛ぶ。(Lit: Fly ==sky==)  
-*Fly through the sky.*
+    - ==楽しい時間を== 過ごした  
+    Spent ==fun time==
 
-- ==横断歩道を== 渡る。(Lit: Cross ==pedestrian walk==)  
-*Cross over a pedestrian walk.*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==楽しい時間を== | 過ごした
 
-- ==山道を== 登る。(Lit: Climb ==mountain path==)  
-*Climb up a mountain path.*
+    In normal English, we might say "I had a good time". Here, the engine is the verb 「過ごす」("pass" or "spend") in past-tense. 「楽しい時間」 means "fun time". So, what time did you spend your time on? You spent it on "fun time".
 
-- ==階段を== 降りる。(Lit: Descend ==stairs==)  
-*Go down the stairs.*
+    **Example 2**
 
-- ==我が道を== 行く。(Lit: Go ==my path==)  
-*Follow my own path.*
+    - ==混沌の時代を== 生き抜く  
+    Live through ==era of chaos==
 
-- ==いつもの道を== 通る。(Lit: Pass through ==usual route==)  
-*Take the usual route*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==混沌の時代を== | 生き抜く
 
-- ==川を== 超える。(Lit: Cross over ==river==)  
-*Cross a river*
+    In normal English, we might say "Survive the test of time". The engine is the verb 「生き抜く」 which means "live" with the nuance of "survived hardships". So, what kind of time did we live through? An era/age of chaos.
 
-**Function 3: Marks the starting/departure point of a motion verb**
+    **Example 3**
 
-- ==電車を== 降りる。  
-*Get off ==train==.*
+    - ==不惑の年を== 越える  
+    Go past (one's) ==prime time==
 
-- ==家を== 出る。  
-*Leave ==house==* 
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==不惑の年を== | 越える
 
-- ==故国を== 離れる。  
-*Separate from ==homeland==.* / *Go away from ==homeland==.*
+    The engine is the verb 「超える」("go over" or "pass over" or "go past"). So, what kind of time did we go past? We went past prime time.
 
-- ==脇道を== 入る。  
-*Enter ==side road==.*
+???+ info "Function 4: Marks the place of departure"
+    **Example 1**
 
-- ==席を== 立つ。(Lit: Depart seat)  
-*Leave the ==seat==*
+    - ==電車を== 降りる  
+    Get off ==train==
 
-**Function 4: Marks the time of time-passing verbs**
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==電車を== | 降りる
 
-- ==６時を== 過ぎる。  
-*Pass ==6 o'clock==.*
+    The engine is 「降りる」(get off). When you step out of the train, then the train will be the "starting point" of your movement.
 
-- ==時代を== 生き抜く。  
-*Live through an ==era==.*
+    **Example 2**
 
-- ==不惑の年を== 越える。  
-*Go past one's ==prime time==.*
+    - ==家を== 出る  
+    Leave ==house==
 
-- ==不遇の一生を== 送る。  
-*Spend a ==lifetime of misfortune==.*
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==家を== | 出る
+
+    The engine is 「出る」(exit). When you leave(exit) your house, then the house will be the "starting point" of your movement.
+
+    **Example 3**
+    
+    - ==席を== 離れる  
+    Leave ==seat==
+
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==席を== | 離れる
+
+    The engine is 「離れる」 which means "to separate (from someting)" or "to distant (from something)" or "to go away (from something)". If you are sitting in your seat, and then stand up and leave, then you are separating yourself (physically) from the seat. The seat then becomes the "starting point" of this movement of "separation".
+
+    **Example 4**
+
+    - ==脇道を== 入る  
+    Enter ==side road==
+
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==脇道を== | 入る
+
+    The engine is 「入る」(enter). When enter into a side road, then the side road is the "starting point" of that entrance.
 
 ### 「に」
 
-The particle 「に」 also has many functions. I personally like to think of the particle 「に」 as an **arrow**. The reason why I think of it as an arrow will become more apparent when we look at the contrast between 「に」 and other particles in a later section.
+The particle 「に」 also has many functions. I personally like to think of the particle 「に」 as an **arrow**. Why? It will become apparent when we compare 「に」 to other particles in a later section.
 
-**Function 1: Marks location of existential verbs**
+???+ info "Function 1: Marks location of static verbs"
+    **Example 1**
 
-- ==日本に== 住む。  
-*Live in Japan*
+    - ==日本に== 住む  
+    Live ==in Japan==
 
-Main wagon "A" | Wagon 「に」 | Engine "B"
-:---: | :---: | :---:
-Ø | ==日本に== | 住む
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==日本に== | 住む
 
-- 私が ==家に== いる。  
-*I am at ==home==*
+    The engine is 「住む」 which means "live" or "inhabit" or "reside". Where do you live? You live in Japan.
 
-- ==私の中に== 君がいる。  
-*You are ==inside me==* / *You exist ==within me==*
+    **Example 2**
 
-- ==机の上に== 本がある。(Lit: Book exist ==above desk==)  
-*There is a book on the desk*
-
-- ==枝先に== 芽が出る。  
-*Sprout appears in ==branch==*
-
-- ==私のうちに== 泊まる。  
-*Stay at ==my place==* / *Stay at ==my house==*
-
-- ==あそこに== 座る。  
-*Sit ==over there==*
-
-**Funcion 2: Marks the time when an action happens**
-
-Can be used for "specific point in time"
-
-- ==1時に== 食べる。  
-*Eat at ==one o'clock==*
-
-- ==休み時間に== 本を読む。  
-*Read a book during ==recess time==*
-
-Can be used for "duration of time"
-
-- ==1週間に== 2回シャワーする。  
-*Shower twice ==a week==*
-
-- ==2年間に== 1回引っ越しする。  
-*Move houses every ==two year==*
-
-???+ warning
-    While we can use 「に」 for specific points in time, such as:
+    - ==机の上に== ノートがある  
+    There is a notebook ==on the desk==
     
-    - 1 o'clock (一時)
-    - March (三月)
-    - 15th (day of month) (十五日)
+    「に」 | Main wagon "A" | Engine "B"
+    :---: | :---: | :---:
+    ==机の上に== | ノートが | ある
+
+    The engine is 「ある」(exist). Where does the notebook exist? Or in normal English, where *is* the notebook? It's on the desk.
+
+    **Example 3**
+
+    - ==冷蔵庫の中に== 牛乳が有る  
+    There is milk ==inside the fridge==
+
+    「に」 | Main wagon "A" | Engine "B"
+    :---: | :---: | :---:
+    ==冷蔵庫の中に== | 牛乳が | ある
+
+    The engine is again 「ある」. Where is the milk? It's inside the fridge.
+
+    **Example 4**
+
+    - 先生は ==教室に== いる  
+    The teacher is ==in the classroom==
+
+    <table>
+      <tr>
+        <th colspan="4" style="text-align: center">先生は 🏳️</th>
+      </tr>
+      <tr>
+        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">「に」</th>
+        <th style="text-align: center">Engine "B"</th>
+      </tr>
+      <tr>
+        <td style="text-align: center">Ø が</td>
+        <td style="text-align: center">==教室に==</td>
+        <td style="text-align: center">いる</td>
+      </tr>
+    </table>
+
+    The engine is 「いる」(exist). Where is the teacher? Inside the classroom.
+
+    **Example 5**
+
+    - ==あそこに== 座ってる  
+    Sitting ==over there==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==あそこに== | 座ってる
+
+    The engine is 「座ってる」(sitting). Where are you sitting? Over there.
+
+???+ info "Funcion 2: Marks the time or order of an action"
+    **Example 1**
+
+    - ==五時に== 起きる  
+    Wake up ==at five o'clock==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==五時に== | 起きる
+
+    The engine is 「起きる」(wake up). At what time will you wake up? At 5 o'clock.
+
+    **Example 2**
+
+    - 鈴木さんが ==最後に== 食べた  
+    Suzuki ate ==last==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    鈴木さんが | ==最後に== | 食べた
+
+    The engine is 「食べた」 which is the past tense of "eat". In what order? Suzuki was the last one to eat. Maybe Suzuki's friends started eating first.
+
+    **Example 3**
+
+    - ==月曜に== 宿題をやる  
+    Do homework ==on Monday==
+
+    Main wagon "A" | 「に」 | 「を」 | Engine "B"
+    :---: | :---: | :---: | :---:
+    Ø が | ==月曜に== | 宿題を | やる
+
+    The engine is 「やる」(do). What are we doing? Homework (marked by 「を」). When will we do it? On Monday.
+
+    !!! warning
+        「に」 can only be used with **specific time**, and NOT **relative time**.
+
+        Examples of specific time:
+
+        - １時 (1 o'clock)
+        - ３月 (March)
+        - １５日 (15th day of month)
+
+        Examples of relative time:
+
+        - 今日 (today)
+        - 明日 (tomorrow)
+        - 去年 (last year)
+        - 来月 (next month)
+
+        But there are some words that can be used with 「に」 **optionally**:
+
+        - morning (朝)
+        - noon (昼)
+        - midnight (深夜)
+        - dawn (明け方)
+        - sunset/dusk (暮れ)
+        - before (前)
+        - after (後)
+
+???+ info "Function 3: Marks the destination of a verb"
+    **Example 1**
+
+    - ==学校に== 行く    
+    Go ==to school==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==学校に== | 行く
+
+    The engine is 「行く」(go). Where is the destination? School.
+
+    **Example 2**
+
+    - ==家に== 帰る  
+    Go back ==home==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==家に== | 帰る
+
+    The engine is 「帰る」 which means "go back" (specifically used for going back to where one is from). Where are we going back to? Home.
+
+    **Example 3**
+
+    - ==日本に== 帰る  
+    Go back ==home==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==日本に== | 帰る
+
+    The engine is 「帰る」 again. Where are we going back to? Japan.
+
+    **Example 4**
+
+    - ==山に== 登る  
+    Climb ==mountain==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==山に== | 登る
+
+    The engine is 「登る」(climb). Where is the destination of climbing up? The summit of the mountain.
+
+    **Example 5**
+
+    - ==電車に== 乗る  
+    Get on ==train==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==電車に== | 乗る
+
+    The engine is 「乗る」 which means "get on" (a vehicle). When you step inside the train, then the train is the destination of "get on".
+
+    **Example 6**
+
+    - ==駅に== 着いた  
+    Arrived at ==station==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==駅に== | 着いた
+
+    The engine is 「着いた」(arrived). Where is the destination of arrival? The station.
+
+???+ info "Function 4: Marks the reason of an action"
+    **Example 1**
+
+    - ==恐ろしさに== 震える  
+    Tremble with ==fear==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==恐ろしさに== | 震える
+
+    The engine is 「震える」(tremble). What's the reason for trembling? Because of fear.
+
+    **Example 2**
+
+    - ==蚊に== 苦しむ  
+    Suffer from ==mosquitoes==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==蚊に== | 苦しむ
+
+    The engine is 「苦しむ」(suffer). What's the reason for suffering? Mosquitoes. Probably mosquito bites.
+
+    **Example 3**
+
+    - ==勉強に== 疲れた  
+    Tired from ==studying==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==勉強に== | 疲れた
+
+    The engine is 「疲れた」(tired). What are you tired from? What's the reason for getting tired? Studying.
+
+???+ info "Function 5: Marks the receiver of an action"
+    Some resources call this "indirect object".
+
+    **Example 1**
+
+    - ==友達に== 花をあげる  
+    Give flowers ==to friend==
+
+    Main wagon "A" | 「に」 |  「を」 | Engine "B"
+    :---: | :---: | :---: | :---:
+    Ø が | ==友達に== | 花を | あげる
+
+    The action is 「あげる」(give). What are we giving? Flowers (marked by 「を」). Who are we givint it to? Who is receiving the flowers? Friend.
+
+    **Example 2**
+
+    - ==神に== 誓う  
+    Pray to ==God==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==神に== | 誓う
+
+    The action is 「祈る」(pray). Who are we praying to? Who is receiving our prayers? God.
+
+    **Example 3**
+
+    - ==友達に== 話す  
+    Talk ==to friend==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==友達に== | 話す
+
+    The action is 「話す」(talk). Who are we talking to? Friend.
+
+    **Example 4**
+
+    - ==弟に== 数学を教える  
+    Teach math ==to little brother==
+
+    Main wagon "A" | 「に」 | 「を」 | Engine "B"
+    :---: | :---: | :---: | :---:
+    Ø が | ==弟に== | 数学を | 教える 
+
+    The action is 「教える」(teach). What are we teaching? Math (marked by 「を」). Who are we teaching it to? Who is receiving our teachings? Little brother.
+
+    **Example 5**
+
+    - ==読書に== 熱中する  
+    Passionate about ==reading==
     
-    and also for duration of time, such as:
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==読書に== | 熱中する
 
-    - 1 week (一週間)
-    - 3 year (三年間)
-    - 2 months (二ヶ月)
+    The action is 「熱中する」 which means "to be enthusiastic" or "to be passionate". This verb doesn't really translate well into English, since 「熱中する」 is an action (verb), but the English words "enthusiastic" and "passionate" are adjectives. Another translation (although not as accurate) is to say "Focus on reading". The action (verb) "to focus" means "to give your focus". If you are "focusing on reading" then you are "giving your focus to reading". Likewise, 「熱中する」 is "to enthusize" (if you will) which means "to give your enthusiasm" (or in normal English "to be enthusiastic").
 
-    we **can NOT use 「に」 for relative time**, such as:
+    I digress. The action is 「熱中する」. What is receiving our passion? Reading.
 
-    - tomorrow (明日)
-    - yesterday (昨日)
-    - today (今日)
-    - last week (先週)
-    - next month (来月)
-    - this morning (今朝)
-    - this evening (今晩)
-    - yesterday's evening (昨夜)
-    - present (現在)
-    - future (将来)
-    - recently (最近)
-    - etc...
+    **Example 6**
 
-    However, there are words that could be said with or without 「に」, such as:
+    - ==友達に== 会う  
+    Meet ==friend==
 
-    - morning (朝)
-    - noon (昼)
-    - midnight (深夜)
-    - dawn (明け方)
-    - sunset/dusk (暮れ)
-    - around (頃)
-    - before (前)
-    - after (後)
-    - autumn (秋)
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==友達に== | 会う
 
-**Function 3: Marks the destination of a verb**
+    The action is 「会う」(meet up). Who are we meeting? Who is the "target" of the action "meet up"? It is "friend".
 
-- ==学校に== 行く。    
-*Go to ==school==*
+    **Example 7**
 
-- ==家に== 帰る。  
-*Go back ==home==*
+    - ==君の意見に== 賛成する  
+    Agree with ==your opinion==
 
-- ==山に== 登る。  
-*Climb up ==mountain==*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==君の意見に== | 賛成する
 
-- ==電車に== 乗る。
-*Get on ==train==*
+    The action is 「賛成する」(agree). What is receiving our agreement? "Your opinion" is receiving it.
 
-- ==駅に== 着く。  
-*Arrived at ==station==*
+    **Example 8**
+    
+    - ==人間関係に== 悩む  
+    Worry about human relations    
 
-- ==壁に== 地図を貼る。  
-*Stick a map on the ==wall==*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==人間関係に== | 悩む
 
-- ==夜に== 駆ける。  
-*Racing into the ==night==*
+    The action is 「悩む」(worry). What are we worrying about? What is receiving our worry? Human relations.
 
-!!! tip "Did you know"
-    「夜に駆ける」 is the name of a song from a duo called YOASOBI.
+???+ info "Function 6: Marks the result or outcome of an action"
+    **Example 1**
 
-**Function 4: Marks the "addressee" of the verb (recipient of the action)**
+    - 子供が ==小学校の一年生に== なった  
+    The kid became ==first grader of elementary school==
 
-- ==友達に== 花をあげる。  
-*Give flowers to ==friend==*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    子供が | ==小学校の一年生に== | なった
 
-- ==さくらに== ボールを投げる。  
-*Throw ball at/to ==Sakura==*
+    The action is 「なった」(became). What did the kid become? What is the "result" of "become"? First grader of elementary school. The kid went from "not a first grader" and turned into "a first grader". The kid changed from "not a first grader" to "a first grader".
 
-- ==友達に== 会う。  
-*Meet ==friend==*
+    **Example 2**
 
-- ==神に== 誓う。  
-*Swear to ==God==*
+    - ==お金持ちに== なりたい  
+    Want to become ==rich==
 
-- ==友達に== 話す。  
-*Talk to ==friend==*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==お金持ちに== | なりたい
 
-- ==家に== 電話する。  
-*Make a phone call to ==home==*
+    The action is 「なりたい」(want to become). What do we want to become? We want to become rich.
 
-- ==弟に== 数学を教える。  
-*Teach math to ==little brother==*
+    **Example 3**
 
-- ==母に== 甘える。  
-*Indulge ==mom==* / *Spoil ==mom==*
+    - 信号が ==赤に== 変わる  
+    Signal changes to ==red==
 
-- ==馬に== 傷をつける。(Lit: Attach wound to ==horse==)  
-*Hurt a horse* / *Injure a horse* / *Wound a horse*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    信号が | ==赤に== | 変わる
 
-**Function 5: Marks the result or outcome**
+    The action is 「変わる」(change). What does the signal change to? What does the signal turn into? It turns red.
 
-- ==医者に== なる。  
-*Become ==doctor==*
+???+ info "Function 7: Marks the purpose or intention of an action"
+    **Example 1**
 
-- 信号が ==赤に== 変わる。  
-*Signal changes to ==red==*
+    - ==映画を見に== 行く  
+    Go ==see a movie==
 
-- ==新しい車に== 変える。  
-*Change to ==new char==*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==映画を見に== | 行く
 
-**Function 6: Marks the purpose or intention of the verb**
+    The action is 「行く」(go). The intention is 「映画を見る」(see a movie).
 
-- 映画を ==見に== 行く。  
-*Go ==see== a movie*
+    **Example 2**
 
-- 本を ==買いに== 行く。  
-*Go ==buy== a book*
+    - ==魚を釣りに== 行く  
+    Go ==fish a fish==
 
-- 昼は ==食事に== 帰る。  
-*As for lunch, go back home to ==eat==*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==魚を釣りに== | 行く
 
-- 君を ==迎えに== 行く。  
-*Go ==pick up== you*  
-(Normal English: Go pick you up)
+    The action is 「行く」(go). The intention is 「魚を釣る」(fish a fish).
 
-**Function 7: Marks the object used for comparison**
+    **Example 3**
 
-- 私が ==母に== 似ている。  
-*I resemble ==mother==*
+    - ==ご飯を食べに== 行く  
+    Go ==eat food==
 
-- アリスは ==ボブに== 等しい。  
-*Alice is no different to ==Bob==*
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==ご飯を食べに== | 行く
 
-- ==海に== 近い。  
-*Close to ==sea==* / *Close to ==beach==*
+    The action is 「行く」(go). The intention is 「ご飯を食べる」(eat food).
 
-- このマンションは ==駅に== 近い。  
-*This apartment is close to the ==station==*
+    !!! note
+        Notice that the action of the intention changes slightly when we attach 「に」 to it.
 
-- 無関心は ==賛成したのに== 等しい。  
-*Indifference is the same as ==approval==*  
-(Similar to the English phrase "to be silent is to be complicit") 
+        - 見る → 見に
+        - 釣る → 釣りに
+        - 食べる → 食べに
+
+        We will learn more about this grammar in a later section.
+
+???+ info "Function 8: Marks the object used as basis/standard for comparison"
+    **Example 1**
+
+    - 私が ==母に== 似ている  
+    I resemble ==mother==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    私が | ==母に== | 似ている
+
+    The verb is 「似ている」(resemble). The subject is 「私」(I). Who do I resemble? Who do I look like? Mother.
+
+    **Example 2**
+
+    - ==海に== 近い  
+    Close to ==sea==
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==海に== | 近い
+
+    The engine is 「近い」 which means "is close" or "is nearby". What are we close to? The sea.
+
+    **Example 3**
+
+    - ==1ヶ月に== ８日の休みがある  
+    There are 8 days of vacation ==in 1 month==
+
+    「に」 | Main wagon "A" | Engine "B"
+    :---: | :---: | :---:
+    ==1ヶ月に== | ８日の休みが | ある  
+
+    The verb is 「ある」(exist). What is there? There are 8 days of vacation. In what basis are there 8 days of vacation? In 1 month. If the basis was different, say, 2 months, then the number of vacation days would also differ. This is why "1 month" is considered as a basis/standard.
+
+    **Example 4**
+
+    - ==一日に== 三回食べる  
+    Eat three times ==in one day==
+
+    Main wagon "A" | 「に」 | Counter | Engine "B"
+    :---: | :---: | :---: | :---:
+    Ø が | ==一日に== | 三回 | 食べる
+
+    The action is 「食べる」(eat). How many times? 3 times. In what basis do we eat 3 times? We eat 3 times in "one day".
+
+???+ info "Function 9: 所有する者を表す (明鏡国語辞典)"
+    - 彼には子供が三人いる
+    - 彼女には責任感が欠けている
+
+???+ info "Function 10: その状態が適切かどうかを判断するための、個別の基準を表す (明鏡国語辞典)"
+    - 私には大きい
+    - 子供には無理だ
+
+???+ info "Function 11: 〔自発・可能・感情述語の表現で〕感情・知覚・思考の主体を表わす。 (新明解国語辞典　第七版)"
+    - 私にはよく分かる
+    - 私にはあなたの言葉が悲しい
+    - 彼には幽霊が見える
+
+???+ info "Function 12: 問題として取り上げる対象の範囲を限定することを表わす。 (新明解国語辞典　第七版)"
+    - その点━△関して（ついて）は検討の余地がある
+    - 即刻改める分━は格別とがめるものではない
+    - 先生━は〔=間接的な表現をとることによる一種の尊敬表現〕お変わりなくお過ごしのことと存じます
+
+???+ warning "unknown"
+    - 私は ==天文学に== 詳しい  
+    As for me, (it) is detailed about ==astronomy==
+
+    <table>
+      <tr>
+        <th colspan="4" style="text-align: center">私は 🏳️</th>
+      </tr>
+      <tr>
+        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">「に」</th>
+        <th style="text-align: center">Engine "B"</th>
+      </tr>
+      <tr>
+        <td style="text-align: center">Ø が</td>
+        <td style="text-align: center">==天文学に==</td>
+        <td style="text-align: center">詳しい</td>
+      </tr>
+    </table>
+
+    The engine is 「詳しい」(detailed). 「詳しい」 is an i-adjective, so we know that it is an "A is B" type of sentence. What is the main wagon "A"? It is "it". What is "it" referring to? It refers to knowledge. So, the full sentence actually reads:
+
+    - As for me, knowledge is detailed about astronomy.
+
+    Or in normal English, we might say "I'm an astronomy expert".
+
+- 私にはできない
 
 ### 「へ」
 
@@ -1499,6 +1797,29 @@ Main wagon "A" | Engine "B"
 
 Of course, if someone who is fluent in Japanese is reading that sentence, they can quickly figure out what's the actual subject of the entire sentence before they even finish reading the sentence. Nevertheless, it takes one extra step to do so.
 
+### 「から」
+
+We can express "**from**" and "**until**" with the particles 「**から**」 and 「**まで**」, respectively.
+
+**Example of physical location**:
+
+- アリスは、アメリカから来る。  
+*Alice comes from America.*
+
+- 学校から家まで歩く。  
+*Walk from school to home.*
+
+**Example of temporal location**:
+
+- 今⽇から明⽇まで宿題をする。  
+*Do homework from today until tomorrow.*
+
+- 1時から始まった。  
+*Started from 1 o'clock.*
+
+### 「まで」
+### 「より」
+
 ## Contrasts
 
 ### 「は」 vs 「も」
@@ -1584,6 +1905,87 @@ We learned about the grammatical usage of 「は」 and 「が」: one is a flag
 
 Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar. *How do native speakers use those particles?* Or more precisely, what kind of impression do native speakers get when they see/hear 「は」 or 「が」?
 
+!!! danger
+    **「が」 is the identifier particle**. What do I mean by that? Let's say I want to ask "Who is the student?". If I use the topic particle 「は」, the question would become 
+
+    Note: 「誰」（だれ） means "who"
+
+    - 誰は学生？
+
+    *"As for who, is (it) a student?"*
+
+    and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the section about [Main wagon "A"](a-and-b.md#main-wagon-a) that 「が」 attaches to a word to mark it as the main wagon "A". 
+
+    Suppose the student is "Alice". Then, we can say "Alice is student" like so:
+
+    - アリスが学生だ
+
+    Main wagon "A" | Engine "B"
+    :---: | :---:
+    アリスが | 学生だ
+
+    But if we are asking the question "Who is the student?", that means we don't know what is inside the main carriage "A". It means that the main wagon "A" is unknown. To illustrate:
+
+    Main wagon "A" | Engine "B"
+    :---: | :---:
+    ❓ が | 学生
+
+    So, all we need to do is put 「誰」 in the main wagon. The question now becomes:
+
+    - 誰が学生？
+
+    *Who is student?*
+
+    Makes sense right? The 「が」 particle marks the main wagon "A". It marks the subject. It marks the doer. It tells us *who*/*what* is doing/being "B". But didn't we say earlier that the particle 「が」 is the **identifier particle**?. That's right. The particle 「が」 marks the main wagon "A", therefore it tells us *who*/*what* is doing/being "B". It **identifies** "A" for us.
+
+    Let's look at an example:
+
+    - ボブ：誰が学⽣？  
+    *Bob: Who is the one that is student?*  
+
+    - アリス：ジョンが学⽣。  
+    *Alice: John is the one that is student*
+
+    Bob wants to identify *who* -among all the possible candidates- is a student. Alice responds that *John* is the one. Notice that Alice could also have answered with the topic particle to indicate that, "Speaking of John", she knows that he is **a** student (maybe not **the** student that Bob is looking for). Let's illustrate this difference again. If Bob asks:
+
+    - ボブ：誰が学⽣？  
+    *Bob: Who is the one that is student?* 
+
+    Then Alice can answer in two ways:
+
+    - アリス：ジョンが学⽣。  
+    *Alice: John is the one that is student.*
+
+    - アリス：ジョンは学⽣。  
+    *Alice: As for John, (he) is student. (As for other people, they could be students too.*
+
+    It is helpful to translate 「は」 as "as for...; about...; speaking of...; in relation to..." and 「が」 as "the one; the thing" to illustrate the difference.
+
+    Let's look at one more example:
+
+    1. 私は学⽣。  
+    *As for me, (I am) student.*
+
+    2. 私が学⽣。  
+    *I (am) the one (that is) student.*
+
+    The 「は」 and 「が」 particles are actually quite different if we use the train analogy to illustrate the sentence. 
+
+    <table>
+      <tr>
+        <th colspan="2" style="text-align: center">私は 🏳️</th>
+      </tr>
+      <tr>
+        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">Engine "B"</th>
+      </tr>
+      <tr>
+        <td style="text-align: center">Ø が</td>
+        <td style="text-align: center">学生だ</td>
+      </tr>
+    </table>
+
+    The 「が」 particle identifies a specific entity as *the* thing while the 「は」 particle is used only to bring up a new topic of conversation. This is why, in longer sentences, it is common to separate the topic with commas to remove ambiguity about which part of the sentence the topic applies to.
 #### Mark the same thing
 
 First, let's look at the scenario when the topic (marked by は) and the subject (marked by が) are the same thing.
@@ -1902,7 +2304,14 @@ The difference in focus makes sense if we look at the function of each particle.
 
 **Example 2**
 
-「を」でも「に」でも言える場合、意味に次のような違いがある。「野—行く」と「野に行く」とでは、後者がその野を静的目標としてとらえ、それを目当てに進むことを言う（従って野に到達すれば大概は進行を止めるだろう）のに対し、前者はその野を動的目標としてとらえ、例えば野の中を動いて行くとか野を横切って更に進むとかすることを表す。
+「を」でも「に」でも言える場合、意味に次のような違いがある。「野—行く」と「野に行く」とでは、後者がその野を静的目標としてとらえ、それを目当てに進むことを言う（従って野に到達すれば大概は進行を止めるだろう）のに対し、前者はその野を動的目標としてとらえ、例えば野の中を動いて行くとか野を横切って更に進むとかすることを表す。「庭—出る」は庭から外部（例えば屋敷に沿う道）に出ることを言い、「庭に出る」は家の中（例えば庭に面した座敷）から庭に出ることを言う。
+
+**Example 3**
+
+＃動的にとらえた対象を「を」で、静的にとらえた対象を「に」で示す。「長き—わたる闘病生活」のように文語残存形を使うことも珍しくない。特に、
+＃ 《移動に関する動詞と共に使って》動作・作用による到達点を示す。「京都—着く」「山—行く」「庭—出る」＃「庭を出る」のように「を」でも言える場合との意味の違いは、[参照]を[格助](３)
+
+③ 《移動に関する動詞と共に使って》起点、経過する時・所、相対的位置、または限界を示す。「席—立つ」「家—離れる」「空—行く雲」「夏—軽井沢で過ごす」「年—経た松」「川—越える」「峠—越した」「乱世—生き延びる」「先頭—進む」「一番手—走る」「２万円の大台—割り込む」
 
 ### 「に」 vs 「へ」
 
@@ -1929,7 +2338,30 @@ Let's look at another example:
 
 In the first example, we're implying the destination of the 「台風」. In the second sentence, we're implying the general direction of the 「台風」. In the context of alarming citizens of where the 「台風」is headed towards, it is more natural to say the second sentence.
 
+**Another example**
+
+⒟（一） ㊂ で移動性動作の到達点を表わす点から「に」を用いることが期待されるところに、格助詞「へ」が用いられることもある。「へ」は元来、移動の方向・方角を表わすものであり、到達点までは含意していないのであるが、移動の方向・方角と到達点が結果としては同じになることが多いので、「行く」 「来る」などの動詞をあとに伴う場合、「へ」と「に」が混用されるようになったと考えられる。観光ポスターなどで「水のきれいな○○の海へ」のように、あとに「行こう」といった述語が省略されている表現では、「へ」の本来の意味が保存されている。
+
+方向・方角は普通「へ」で示すが、「東—５キロの所」など向かう先に重点を置いた表現なら「に」を使う。
+
+㋒《移動や設置などを表す動詞とともに使って》移動先や設置の場所や方向を表す。「成田に着く」「東京に向かう」「プールに飛び込む」「銃口を市民に向ける」「リボンは胸に付けなさい」「服に泥が付く」「南に向いた窓」 ものの設置よりも、動きの方向性を重視するときは「へ」に言い換えられる。→へ（格助）
+
+**asdf**
+
+Where did the thief go?
+
+強盗はどこに行った？
+
+台北に行きました
+台北へ行きました
+
 ### 「に」 vs 「で」
+
+⑵ ⒜格助詞「で」にも場所を表わす用法があるが、両者には以下のような違いがある。「で」は動作主〔=その動作をする人〕が何らかの動作を行なう場所を表わす。それに対し、「に」は動作主から何らかの行為を受けた対象物が結果として存在する場所を表わす。「庭で木を植える」は動作主に着目した表現であり、「庭に木を植える」は植えられた木に着目した表現であるということになる。両者が同じ場所である場合には、「（動作主が）庭で庭に木を植える」ということになるのだが、そのような場合には一般にどちらか（多く「庭で」）が消去されて「庭に木を植える」となることが多い。両者が異なる場合には当然「ベランダでプランターに菊の苗を植える」となる。⒝⒜と同様に、「門の前で車を止める」は運転者が止める行為を行なう場所が「門の前」だということを表わす。「門の前に車を止める」は止められた車の存在する場所が「門の前」だということを表わすのである。⒞「駅の近くで火事があった」 「駅の近くに火事があった」の「で」と「に」の違いも、「火事」を発生から鎮火に至るまでの動的な変化の出現ととらえるか、結果に着目した単なる非日常的な状態の存在と見るかによるものだと解される。
+
+場所を「で」で示す場合との区別は、[参照]で[格助](３)。
+
+③ その事が現れる（行われる）場所や時を示す。「ドイツの大学—学んだ」「報告書—も指摘しておいた」「ここ—（＝この場で。または、今）新しい説を紹介しましょう」「あと—ぼくがかたづける」「今—はまじめに暮らしている」「一週間—直せる」＃場所や時を示すには「に」も使えるが、「銀座—会う」「銀座に在る」を比べて分かるとおり、「に」は存在（に関連すること）の場所、「で」は（活動的な）物事の起こる場所を言う。「いなか—暮らす」「いなかに住む」も、「住む」が「暮らす」より静的な意味の表現である点で言い分ける。「店は７時—閉めます」と「店は７時に閉めます」との意味の違いも、前者は営業を終わらせる行為を積極的に背景とした言い方で営業時間の限度が７時だという含みが伴いやすく、後者はその日の営業をやめ閉店状態になるのが７時だということ。
 
 **Example 1**
 
@@ -2023,8 +2455,6 @@ Now, why is it incorrect to use 「に」 in this phrase? If we recall from Exam
 後 and 前 can aslo be used as "specific point in time", so they can also be used with 「に」.
 先 can only refer to "order", so it can only go with 「に」.
 
-
-
 **Example 5**
 
 Let's look at an example where 「に」 and 「で」 is used with 「間」(during).
@@ -2076,6 +2506,12 @@ As we can see, this example is not a matter of 「に」 vs 「で」, but more 
 
 http://www.ritsumei.ac.jp/acd/cg/lt/rb/633/633PDF/sano.pdf
 
+**Example 9**
+
+勉強に疲れた (心理的)
+勉強で疲れた (肉体的)
+
+
 ### 「に」 vs 「と」
 
 に会う
@@ -2088,31 +2524,23 @@ http://www.ritsumei.ac.jp/acd/cg/lt/rb/633/633PDF/sano.pdf
 
 「（顔立ちが）子は父に似ている」とは言えても「父は子に似ている」とは言い難い。
 
+＃ 《変化・作成に関する動詞と共に使って》その結果として到達する帰結の状態（であるもの）を示す。「大きくなったら医者—なる」「長男を医者—する」「計画は失敗—終わった」「３人—減ってしまった」「さかなを三枚—おろす」「美しい姿を絵—描く」「参考の一端—供する」＃「と」でも表せる場合の「と」との意味の違いは、[参照]と[格助](２)(ア)。「ぴかぴか—光る」はこの種の動詞を使っていないが、磨き上げた結果そのありさまになる意で、「ぴかぴかと光る」とは異なる。このように推移が予想できる言い方は(イ)の用法に含まれる。
+
+② 次に来る述語が表す動作・作用の状態や内容・名称を示すのに使う。
+＃ 動作・作用が加わって転化した結果を示す。「戦禍をこうむって流民—なる」「日取りを来月３日—決定した」「これ—限った話ではない」「石—化す」「人間—生まれた以上は」「だらしない人間—は見えないが」＃(２)(ア)は一般に「に」でも表せるが、「に」がその帰結を全く自然だととらえた表現なのに対して、「と」は多少とも意外またはあえて言うという気持を伴う。
+
 ### 「を」 vs 「から」
 
 https://hinative.com/ja/questions/5665426
 
-## More particles
+### 「を」 vs 「で」
 
-### 「から」 and 「まで」
+公園を散歩する
+公園で散歩する
 
-We can express "**from**" and "**until**" with the particles 「**から**」 and 「**まで**」, respectively.
-
-**Example of physical location**:
-
-- アリスは、アメリカから来る。  
-*Alice comes from America.*
-
-- 学校から家まで歩く。  
-*Walk from school to home.*
-
-**Example of temporal location**:
-
-- 今⽇から明⽇まで宿題をする。  
-*Do homework from today until tomorrow.*
-
-- 1時から始まった。  
-*Started from 1 o'clock.*
+山を登る
+山で登る
+山で階段を登る
 
 ## Sentence ending particles
 
