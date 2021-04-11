@@ -16,11 +16,13 @@ Engine name | Used for:
 
 In Japanese, if we want to express negative, past-tense, negative past-tense, conditional, causative, receptive, etc, **we simply have to inflect the engine**. Inflection means changing part of a word (usually the ending) to express a grammatical function or attribute. For example, in English, the verb "see" can inflect into "saw", "sees", "seen" to express present/past and singular/plural, etc. In Japanese, verbs (and words in general) don't express singular/plural, but they can express a lot more than English verbs can.
 
-For now, we will only learn the basic inflections: negative, past-tense, and negative past-tense.
+For now, we will only learn four basic inflections: negative, past-tense, negative past-tense, and the so-called "te-form".
 
 ### Negative
 
-To inflect into negative, we attach the **helper verb 「ない」** to the engine.
+To express the negative meaning of an engine, we use the **helper verb 「ない」**.
+
+How do we attach 「ない」 to the engine? We first inflect the engine and then attach the 「ない」 to it.
 
 ???+ info "う-engine"
     **For one-row verbs**, drop the 「る」 and attach the helper verb 「ない」. Examples:
@@ -115,7 +117,9 @@ To inflect into negative, we attach the **helper verb 「ない」** to the engi
 
 ### Past-Tense
 
-To inflect into past-tense, we attach the helper verb 「た」 to the engine.
+To express the past-tense of an engine, we use the **helper verb 「た」 or 「だ」**.
+
+How do we attach 「た」 to the engine? We first inflect the engine and then attach the 「た」 to it.
 
 ???+ info "う-engine"
     **For one-row verbs**, drop the 「る」 and attach the helper verb 「た」. Examples:
@@ -207,9 +211,12 @@ To inflect into past-tense, we attach the helper verb 「た」 to the engine.
 
 ### Negative Past-Tense
 
-We already know how to inflect into negative with the helper verb 「ない」. Notice that 「ない」 ends with the kana 「い」. To inflect into the negative past-tense, we can treat 「ない」 as an い-engine and inflect into past-tense. 
+We already know how to express **negative** meaning of an engine with the helper verb 「ない」.  
+We also know how to express the **past-tense** of an engine with the helper verb 「た」.
 
-In other words, to inflect into **negative past-tense for all 3 engines**, we first inflect into negative with 「ない」, and then inflect 「ない」 into past-tense with 「た」.
+Notice that 「ない」 ends with the kana 「い」. So, to express **negative past-tense**, we can treat 「ない」 as an い-engine, and then attach 「た」 to it, the same way we would to a regular い-engine.
+
+In other words, to express **negative past-tense for all 3 engines**, we first inflect into negative with 「ない」, and then inflect 「ない」 into past-tense with 「た」.
 
 !!! info
     **う-engine**
@@ -236,7 +243,9 @@ In other words, to inflect into **negative past-tense for all 3 engines**, we fi
 
 ### て-form
 
-The "て-form" (te-form) itself doesn't have any meaning, but it is used in a lot of grammar rules so it's best to learn it now. The て-form is very easy to learn, because it's similar to the past-tense inflection.
+The "て-form" (te-form) itself doesn't have any meaning, but it is used in a lot of grammar rules so it's best to learn it now. The て-form is very easy to learn, because it's similar (but not the same) to the past-tense inflection.
+
+Technically speaking, there is no such thing as "te-form". It's simply an inflection of the engine + the conjunction particle 「て」 or 「で」. But we don't need to fuss over the technicalities.
 
 ???+ info "う-engine"
     **For one-row verbs**, drop the 「る」 and attach 「て」. Examples:

@@ -1,7 +1,7 @@
 # Particles
 
 !!! tip "Author's note"
-    Particles can be very confusing if you're not used to them. If there's any grammar that I don't expect you to fully understand it before moving onto the next one, this will be it. You should expect to come back and revisit this page often if you encounter a particle in your input (reading and listening) that you don't understand. That being said, this page does not have all the particles, nor does it have all the different functions of each particle. If you're at intermediat level, I suggest you to look up the particle on a monolingual dictionary.
+    Particles can be very confusing especially for a beginner. If there's one grammar that I don't expect you to fully understand it by reading it once only, it will the the particles. You should expect to come back and revisit this page (or any other resource) often if you encounter a particle in your input (reading and listening) that you don't understand. That being said, this page does not have all the particles, nor does it have all the different functions of each particle. If you're at intermediate level, I suggest you to look up the particle on a monolingual dictionary. Monolingual dictionaries give the best explanation. After all, the best language to explain Japanese is Japanese.
 
 ## What are particles?
 Let's use the following sentence to illustrate what a particle is:
@@ -34,7 +34,57 @@ We can finally put the knowledge from "Sentence Structures" into use. As a remin
   </tr>
 </table>
 
-Let's begin learning some basic particles. Each particle has more than one usage/function. We will only learn a few basic usage for each particle for now.
+Let's begin learning some basic particles. Each particle has more than one function. We will only learn a few basic usage for each particle for now.
+
+Actually, before we do that, we need to talk about word order in Japanese.
+
+!!! warning "WORD ORDER MATTERS (OR DOES IT?)"
+    Word order matters in Japanese sentences. And it doesn't at the same time. (Huge asterisk here).
+
+    So, what do I mean by word order matters? There are two rules that we must always follow:
+
+    ???+ info "Rule 1: Engine always goes at the END of the sentence"
+        Let's say we have a sentence like this:
+
+        - XがYでZを食べる
+
+        Then the "train" will look like this:
+
+        Main wagon "A" | 「で」 | 「を」 | Engine "B"
+        :---: | :---: | :---: | :---:
+        Xが | Yで | Zを | 食べる
+
+        We can change the order of the wagons however we want **as long as the engine "B" is at the end**:
+
+        -| - | - | Engine "B"
+        :---: | :---: | :---: | :---:
+        Xが | Yで | Zを | 食べる
+        Xが | Zを | Yで | 食べる
+        Yで | Xが | Zを | 食べる
+        Yで | Zを | Xが | 食べる
+        Zを | Xが | Yで | 食べる
+        Zを | Yで | Xが | 食べる
+
+        Notice that we only changed the order of the **wagons**, NOT the **content** itself of each wagon.
+
+    !!! info "Rule 2: If X is modifying/describing Y, then X must always come BEFORE Y"
+        We already saw a sneak peek of this in the section about [Description](description.md).
+
+        If we say:
+
+        - ==美味しい== {++ラーメン++}  
+        ==Delicious== {++ramen++}
+
+        then 「美味しい」 is describing 「ラーメン」. Therefore, 「美味しい」 must always come BEFORE 「ラーメン」.
+
+        Another example:
+
+        - ==手を伸ばし抱き止めた激しい== {++光++}  
+        {++The ==bursting== light++} ==that I reached out for and held so close==
+
+        The thing that we are talking about is 「光」(light). 「激しい」(bursting) is describing the "light". 「手を伸ばし抱き止めた」(I reached out for and held so close) is also describing the "light". 
+        
+        Notice that in English, some of the description goes before "light" (bursting), and the other description goes after "light" (I reached out for and held so close). However, in Japanese, the entire description must always go BEFORE 「光」.
 
 ## Topic particles
 
@@ -238,107 +288,105 @@ Example:
 *He is a brilliant linguist. He is ==also== interested in botany.*  
 *He is a brilliant linguist. He is interested in botany ==too==.*
 
-**Function 1: the comment of the new and old topic are the same**
+???+ info "Function 1: the comment of the new and old topic are the same"
+    - 私 ==も== 学生だ。
 
-- 私 ==も== 学生だ。
+    <table>
+      <tr>
+        <th colspan="2" style="text-align: center">私も 🏳️</th>
+      </tr>
+      <tr>
+        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">Engine "B"</th>
+      </tr>
+      <tr>
+        <td style="text-align: center">Ø が</td>
+        <td style="text-align: center">学生だ</td>
+      </tr>
+    </table>
 
-<table>
-  <tr>
-    <th colspan="2" style="text-align: center">私も 🏳️</th>
-  </tr>
-  <tr>
-    <th style="text-align: center">Main wagon "A"</th>
-    <th style="text-align: center">Engine "B"</th>
-  </tr>
-  <tr>
-    <td style="text-align: center">Ø が</td>
-    <td style="text-align: center">学生だ</td>
-  </tr>
-</table>
+    *As for me ==too==, (I) am student.*
 
-*As for me ==too==, (I) am student.*
+    Let's look at 「も」 in dialogues:
 
-Let's look at 「も」 in dialogues:
+    **Example 1**
 
-**Example 1**
+    ボブ： アリスは学⽣？  
+    アリス： うん、トム ==も== 学⽣。
 
-ボブ： アリスは学⽣？  
-アリス： うん、トム ==も== 学⽣。
+    *Literal translation*  
+    Bob: As for Alice, are (you) a student?  
+    Alice: Yes. As for Tom ==also==, (he) is a student.
 
-*Literal translation*  
-Bob: As for Alice, are (you) a student?  
-Alice: Yes. As for Tom ==also==, (he) is a student.
+    *Normal English*  
+    Bob: Are you a student?  
+    Alice: Yeah, Tom is student ==too==. / Yeah, Tom is ==also== a student.
 
-*Normal English*  
-Bob: Are you a student?  
-Alice: Yeah, Tom is student ==too==. / Yeah, Tom is ==also== a student.
+    **The comments must be consistent (old and new)**. It would not make sense to say, "*I am a student (old comment), and Tom is not a student too (new comment).*" If the comments are NOT the same, we should use 「は」 to make a **contrast**. Let's look at the next example.
 
-**The comments must be consistent (old and new)**. It would not make sense to say, "*I am a student (old comment), and Tom is not a student too (new comment).*" If the comments are NOT the same, we should use 「は」 to make a **contrast**. Let's look at the next example.
+    !!! note 
+        We will learn more about the **contrast** property of 「は」 in a later section when we compare 「は」 vs 「も」.
 
-!!! note 
-    We will learn more about the **contrast** property of 「は」 in a later section when we compare 「は」 vs 「も」.
+    **Example 2**
 
-**Example 2**
+    ボブ： アリスは学⽣？  
+    アリス： うん、でもトム ==は== 学⽣じゃない。
 
-ボブ： アリスは学⽣？  
-アリス： うん、でもトム ==は== 学⽣じゃない。
+    *Literal translation*  
+    Bob: As for Alice, are (you) a student?  
+    Alice: Yes, but, as for Tom, (he) is not.
 
-*Literal translation*  
-Bob: As for Alice, are (you) a student?  
-Alice: Yes, but, as for Tom, (he) is not.
+    *Normal English*  
+    Bob: Are you a student?  
+    Alice: Yeah, but Tom is not.
 
-*Normal English*  
-Bob: Are you a student?  
-Alice: Yeah, but Tom is not.
+    **Example 3**
 
-**Example 3**
+    If both comments are consistent, then we can use 「も」, just like we did in Example 1.
 
-If both comments are consistent, then we can use 「も」, just like we did in Example 1.
+    ボブ：アリスは学⽣？  
+    アリス：ううん、トム ==も== 学⽣じゃない。
 
-ボブ：アリスは学⽣？  
-アリス：ううん、トム ==も== 学⽣じゃない。
+    *Literal trasnlation*  
+    Bob: As for Alice, are (you) a student?  
+    Alice: No, as for Tom ==also==, (he) is not a student.
 
-*Literal trasnlation*  
-Bob: As for Alice, are (you) a student?  
-Alice: No, as for Tom ==also==, (he) is not a student.
+    *Normal English*  
+    Bob: Are you a student?  
+    Alice: No, Tom is not student either.
 
-*Normal English*  
-Bob: Are you a student?  
-Alice: No, Tom is not student either.
+???+ info "Function 2: Provide additional relevant information"
+    **Example 1**
 
-**Function 2: Provide additional relevant information**
+    Person A: （私は）==君のことが好きだ==  
+    Person B: 私も ==（君のことが）好きだ==
 
-**Example 1**
+    *Literal translation*  
+    Person A: (As for me), ==you are liked.==  
+    Person B: As for me also, ==(you) are liked.==
 
-Person A: （私は）==君のことが好きだ==  
-Person B: 私も ==（君のことが）好きだ==
+    *Normal English*  
+    Person A: I like ==you==.  
+    Person B: I also like ==you==. (I like you too)
 
-*Literal translation*  
-Person A: (As for me), ==you are liked.==  
-Person B: As for me also, ==(you) are liked.==
+    This usage of 「も」 is simply providing us the additional information of "I like you too" (from Person B), on top of the previous information "I like you" (from Person A).
 
-*Normal English*  
-Person A: I like ==you==.  
-Person B: I also like ==you==. (I like you too)
+    **Example 2**
 
-This usage of 「も」 is simply providing us the additional information of "I like you too" (from Person B), on top of the previous information "I like you" (from Person A).
+    Suppose you were working on something on a Sunday night. There's someone who is staying up with you to help you finish your task. Then you realize that it's already midnight and you want to let the other person know that it's OK to go to sleep now. You could say to the other person:
 
-**Example 2**
+    - もう寝ていいよ。{++疲れた++}でしょう？明日は月曜日だから{++仕事 ==も== あるし++}。  
+    Literally: *It's OK to sleep. {++Tired++}, right? Tomorrow is Monday so {++there is ==also== work++}.*  
 
-Suppose you were working on something on a Sunday night. There's someone who is staying up with you to help you finish your task. Then you realize that it's already midnight and you want to let the other person know that it's OK to go to sleep now. You could say to the other person:
+    Or in normal English:
 
-- もう寝ていいよ。{++疲れた++}でしょう？明日は月曜日だから{++仕事 ==も== あるし++}。  
-Literally: *It's OK to sleep. {++Tired++}, right? Tomorrow is Monday so {++there is ==also== work++}.*  
+    *You can go to sleep now. {++You must be tired++}, right? It's Monday tomorrow so {++you ==also== have to work++}.*
 
-Or in normal English:
-
-*You can go to sleep now. {++You must be tired++}, right? It's Monday tomorrow so {++you ==also== have to work++}.*
-
-In this example, 「も」 is simply adding one more reason why that person should go to sleep now: "{++you have work tomorrow++}". The previous reason was "{++you must be tired++}".
+    In this example, 「も」 is simply adding one more reason why that person should go to sleep now: "{++you have work tomorrow++}". The previous reason was "{++you must be tired++}".
 
 **「も」 doesn't change the logical meaning of a sentence**
 
-Just like 「は」, 「も」 doesn't change the logical meaning of the sentence either. After all, 「も」 is also a topic particle. This is true regardless of which function (function 1 and function 2) 「も」 is doing in a particular sentence. Let's use the same example we saw in the section about 「は」 to illustrate how 「も」 doesn't change the logical meaning of a sentence.
+Just like 「は」, 「も」 doesn't change the logical meaning of the sentence either. After all, 「も」 is also a topic particle. This is true regardless of which function (function 1 or function 2) 「も」 is doing in a particular sentence. Let's use the same example we saw in the section about 「は」 to illustrate how 「も」 doesn't change the logical meaning of a sentence.
 
 - 私がさくらにボールを投げる
 
@@ -452,7 +500,7 @@ Each case marking particle has **more than one function**. We will learn only th
 ???+ info "Function 2: Interchangeable with 「の」"
     You'll most likely not see this function of 「が」 if you're using beginner-friendly content as your input.
 
-    Basically, this function of 「が」 is exactly the same as the 「の」 we learned in [Describing a noun with another noun](#using-a-noun). However, this is often only used in "archaic" phrases like:
+    Basically, this function of 「が」 is exactly the same as the 「の」 we learned in [Describing a noun using another noun](#using-a-noun). However, this is often only used in "archaic" phrases like:
 
     - 我が国
     - 我が祖国
@@ -1128,65 +1176,113 @@ The particle 「に」 also has many functions. I personally like to think of th
 
 ### 「へ」
 
-The particle 「へ」 also has many functions that resembles a few functions from the particle 「に」. The kana 「へ」 is normally pronounced as 「へ」, but when it is being used as a particle, it is always pronounced as 「え」. 
+The particle 「へ」 also has many functions that resembles the particle 「に」. The kana 「へ」 is normally pronounced as 「へ」, but when it is being used as a particle, it is always pronounced as 「え」. 
 
-**Function 1: Marks the direction of a verb**
+???+ info "Function 1: Marks the direction of an action"
+    **Example 1**
 
-- ==南へ== 向かう。  
-*Face towards ==south==*
+    - ==南へ== 向かう  
+    Head towards ==south==
 
-Main wagon "A" | Wagon 「へ」 | Engine "B"
-:---: | :---: | :---:
-Ø | ==南へ== | 向かう
+    Main wagon "A" | 「へ」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==南へ== | 向かう
 
-- ==勝ちへ== 向かう。  
-*Face towards ==victory==*
+    The action is 「向かう」 which means "face towards" or "head towards". Which direction are we heading towards? South.
 
-- ==部屋へ== 来る。  
-*Come towards ==room==*
+    **Example 2**
 
-- ボブは ==⽇本へ== ⾏く。  
-*Bob goes to ==Japan==.*
+    - ==東へ== 進む  
+    Advance towards ==east==
 
-- ==北へ== 飛ぶ。  
-*Fly towards ==north==*
+    Main wagon "A" | 「へ」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==東へ== | 進む
 
-- ==海の方へ== 飛んでいく。  
-*Fly towards the ==sea==*
+    The action is 「進む」 which means "advance towards" or "go forward". Which direction are we advacing towards? East.
 
-- ==家へ== 帰る。  
-*Go back toward ==house==.*
+???+ info "Function 2: Marks the receiver of an action"
+    This is exactly like the "marks the receiver of an action" function from 「に」. However 「へ」 allows us to modify a word in a way that 「に」 cannot.
+    
+    **Example 1**
 
-**Function 2: Marks the destination of a verb**
+    - ==母へ== の手紙  
+    A letter ==to mother==
 
-- ==日本へ== ようこそ！  
-*Welcome to ==Japan==*
+    「手紙」 means "letter". If we ignore 「へ」 for now, and only look at the rest of the phrase: 「母の手紙」, then this phrase means "mother's letter". Remember what we learned from [Describing a noun using another noun](description.md#using-a-noun). We learned that 「母」 is telling us what kind of 「手紙」 it is, because those two words are connected with 「の」. So, the phrase "mother's letter" means that the letter is coming "from mother".
 
-- ==ここへ== 荷物を置く。  
-*Place the luggage ==here==*
+    Now, if we change the 「母」 part into 「母へ」, then that means "targeted at mother". So, if we take 「母へ」 and use it to describe 「手紙」」, then it will become 「==母へ==」+「の」+「{++手紙++}」 → 「==母へ== の{++手紙++}」: "==targeted at mother== {++letter++}". Or in normal English: "a letter to mother" or "a letter for mother". The letter is not *from mother*; the letter is *targeted at mother*.
 
-- 荷物を ==ロッカーへ== 入れる。  
-*Put the luggage inside the ==locker==*
+    If we change this into a sentence (main wagon "A" + engine "B"), then it could be something like:
 
-- ==押入れへ== しまう。  
-*Put away in the ==closet==*
+    - 私が ==母へ== 手紙を書いた
+    - 私が ==母に== 手紙を書いた
 
-**Function 3: Marks the "addressee" of the verb (recipient of the action)**
+    Main wagon "A" | 「へ」 or 「に」 | 「を」 | Engine "B"
+    :---: | :---: | :---: | :---:
+    私が | ==母へ== | 手紙を | 書いた
+    私が | ==母に== | 手紙を | 書いた
 
-- ==友達へ== 電話する。  
-*Make a phone call to ==friend==*
+    We can use either 「へ」 or 「に」 to mark 「母」 and they would both mean the same thing. Both sentences can be translated as "I wrote a letter to mother". We can then re-arrange the order of the words to revert it back to how it was:
 
-- ==先生へ== 伝える。  
-*Tell the ==teacher==* / *Repor to ==teacher==*
+    - ⭕ 私が書いた母 ==へ== の手紙
+    - ❌ 私が書いた母 ==に== の手紙
 
-- ==母へ== の手紙。  
-*Letter to ==mother==* / *Letter for ==mother==*
+    *A letter that I wrote ==to== mother*
 
-- ==君へ== の愛。  
-*Love towards ==you==* / *Love for ==you==*
+    If we recall what we learned in [Describing a noun using a verb](description.md#using-a-verb), we can say:
 
-- ==妻へ== 贈る。  
-*Give (a gift) to ==wife==*
+    - ==私が書いた== 手紙  
+    A letter ==that I wrote==
+
+    to describe 「手紙」 with 「私が書いた」. We're talking about the 「手紙」(letter). What kind of letter? A letter that I wrote (私が書いた手紙). Now let's say that we want to be more specific, and include "A letter that I wrote ==to mother==*. To do this in Japanese, we simply include 「母へ」, and connect it to 「手紙」 with 「の」. The final result is:
+
+    - 私が書いた ==母へ== の手紙  
+    A letter that I wrote ==to mother==
+
+    If we omit the 「私が書いた」 part, we now have what we saw at the beginning of this example:
+
+    - (私が書いた) ==母へ== の手紙  
+    A letter (that I wrote) ==to mother==
+
+    **Example 2**
+
+    - ==母へ== の手紙  
+    A letter ==to mother==
+
+    Again, this is exactly like the previous example. 「母へ」 means "targeted at mother", and it's describing 「手紙」 which means "letter". So, when put together with the 「の」 particle, it means "a letter to mother".
+
+    Notice that we CAN say:
+
+    - ⭕ 母 ==へ== の手紙
+
+    but we CANNOT say:
+
+    - ❌ 母 ==に== の手紙
+
+    this is because 「への」 is allowed, but 「にの」 is not. Why? Don't ask me. Here is what 明鏡国語辞典 says about this:
+
+    > 「私は母 に／へ 手紙を書いた（→私が書いた母への手紙）」のように、名詞句では「にの」の形がないので、すべて「への」となる。
+
+    **Example 2**
+
+    - ==彼女へ== のプレゼントを買った  
+    Bought a gift ==for girlfriend==
+
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==彼女へ== のプレゼントを | 買った
+
+    Again, 「彼女へ」 means "targeted at girlfriend", and it is describing 「プレゼント」
+
+???+ info "Function 2: Marks the destination of a verb"
+    This is exactly like the "marks the destination of a verb" function from 「に」.
+
+    - ==日本へ== ようこそ！  
+    Welcome ==to Japan==!
+
+    - ==学校へ== 行く
+    Go ==to school==
 
 ### 「で」
 
@@ -1424,151 +1520,172 @@ Or it could be referring to something more abstract:
 
 ### 「と」
 
-**Function 1: Marks the person or thing with whom the action is performed**
+???+ info "Function 1: Marks the counterpart (either a person or a thing) with whom the action is performed"
+    **Example 1**
 
-- ==友達と== 買い物する。  
-*Go shopping with ==friend==*
+    - ==友達と== 買い物する  
+    Go shopping with ==friend==
 
-- 妹は ==友達のお兄さんと== 結婚した。  
-*Little sister married to ==friend's brother==*
+    **Example 2**
 
-- 父親は ==子供と== 遊ぶ。  
-*Father plays with ==kid==*
+    - 妹は ==友達のお兄さんと== 結婚した  
+    Little sister married to ==friend's brother==
 
-- 天分は ==努力と== 相俟って成功に結びつくものだ。  
-*Talent, coupled with ==hardwork==, results in success*
+    - 父親は ==子供と== 遊ぶ。  
+    *Father plays with ==kid==*
 
-- ==先生と== 話す  
-*Talk with ==teacher==*
+    - 天分は ==努力と== 相俟って成功に結びつくものだ。  
+    *Talent, coupled with ==hardwork==, results in success*
 
-- ==友人と== 会社を作る  
-*Create a company with ==friend==*
+    - ==先生と== 話す  
+    *Talk with ==teacher==*
 
-- ==花子と== 散歩する  
-*Stroll with ==Hanako==*
+    - ==友人と== 会社を作る  
+    *Create a company with ==friend==*
 
-- ==これと== 深い関係がある  
-*There is a close relationship with ==this==*
+    - ==花子と== 散歩する  
+    *Stroll with ==Hanako==*
 
-- ==友達と== 旅行する  
-*Travel with ==friend==*
+    - ==これと== 深い関係がある  
+    *There is a close relationship with ==this==*
 
-**Function 2: Marks the result or outcome**
+    - ==友達と== 旅行する  
+    *Travel with ==friend==*
 
-- 被告人は ==無罪と== なった。  
-*The accused was found not guilty*  
-(Lit: The accused became ==not guilty==)
+???+ info "Function 2: Marks the result or outcome"
 
-- 夜半から雨は ==雪と== なった  
-*From midnight, rain became ==snow==*
+    - 被告人は ==無罪と== なった。  
+    *The accused was found not guilty*  
+    (Lit: The accused became ==not guilty==)
 
-- ==無罪と== 決定する  
-*Decide that it's ==innocent==*
+    - 夜半から雨は ==雪と== なった  
+    *From midnight, rain became ==snow==*
 
-- これで ==終りと== する  
-*We are done here*  
-(Lit: Make it as ==the end== here)
+    - ==無罪と== 決定する  
+    *Decide that it's ==innocent==*
 
-- ==学生と== なる  
-*Become ==student==*
+    - これで ==終りと== する  
+    *We are done here*  
+    (Lit: Make it as ==the end== here)
 
-- 名を ==一郎と== 改める  
-*Change name into ==Ichirou==*
+    - ==学生と== なる  
+    *Become ==student==*
 
-- 明日を ==決戦の日と== 決める  
-*Decide that tomorrow is ==the day of battle==*
+    - 名を ==一郎と== 改める  
+    *Change name into ==Ichirou==*
 
-- 開催地は ==東京と== 決まった  
-*As for host city, it was decided to be ==Tokyo==*
+    - 明日を ==決戦の日と== 決める  
+    *Decide that tomorrow is ==the day of battle==*
 
-**Function 3: Marks the object used for comparison**
+    - 開催地は ==東京と== 決まった  
+    *As for host city, it was decided to be ==Tokyo==*
 
-- ==兄と== 似ている。  
-*Look like ==brother==*
+???+ info "Function 3: Marks the object used for comparison"
 
-- ==あなたと== は立場が違う  
-*My position/situation is different from ==you==*
+    - ==兄と== 似ている。  
+    *Look like ==brother==*
 
-- ==彼と== は比べ物にならない  
-*You're nothing compared to him*  
-(Lit: Compared to ==him==, (you) don't become someone worthy of comparison)
+    - ==あなたと== は立場が違う  
+    *My position/situation is different from ==you==*
 
-- 考え方が ==君と== 違う  
-*I think differently than you do*  
-(Lit: Way of thinking differs from ==you==)
+    - ==彼と== は比べ物にならない  
+    *You're nothing compared to him*  
+    (Lit: Compared to ==him==, (you) don't become someone worthy of comparison)
 
-- ==以前と== 同じ要領  
-*Same point as ==before==*
+    - 考え方が ==君と== 違う  
+    *I think differently than you do*  
+    (Lit: Way of thinking differs from ==you==)
 
-- ==あなたと== 同じ考えだ  
-*Same opinion as ==you==*
+    - ==以前と== 同じ要領  
+    *Same point as ==before==*
 
-- ==以前と== は条件が異なる  
-*Conditions differ from== before==*
+    - ==あなたと== 同じ考えだ  
+    *Same opinion as ==you==*
 
-**Funciton 4: Marks the content of speech or thoughts**
+    - ==以前と== は条件が異なる  
+    *Conditions differ from== before==*
 
-This function can also be thought of as "quotation". The term "quotation" is used very loosely here.
+???+ info "Funciton 4: Marks the content of speech or thoughts"
 
-- ==いいと== 思う  
-*I think it's ==good==*
+    This function can also be thought of as "quotation". The term "quotation" is used very loosely here.
 
-- ==ごまかしと== 見る  
-*See as ==deception==*
+    - ==いいと== 思う  
+    *I think it's ==good==*
 
-- ==助けてと== 叫んだ  
-*Screamed for ==help==*
+    - ==ごまかしと== 見る  
+    *See as ==deception==*
 
-- ==花子と== 名づける  
-*Name (someone) as ==Hanako==*
+    - ==助けてと== 叫んだ  
+    *Screamed for ==help==*
 
-- 子供を ==太郎と== 名づける  
-*Name a child as ==Tarou==*
+    - ==花子と== 名づける  
+    *Name (someone) as ==Hanako==*
 
-- ==嫌だと== 言う  
-*Say ==no==*
+    - 子供を ==太郎と== 名づける  
+    *Name a child as ==Tarou==*
 
-- ==危ないと== 感じる  
-*Feel ==dangerous==*
+    - ==嫌だと== 言う  
+    *Say ==no==*
 
-- ==やめようと== 思った  
-*I thought I'd ==stop==*
+    - ==危ないと== 感じる  
+    *Feel ==dangerous==*
 
-**Function 5: Used for listing things**
+    - ==やめようと== 思った  
+    *I thought I'd ==stop==*
 
-- ==君と僕と== が選ばれた  
-*==You and me==, we were chosen*
+???+ info "Function 5: Used for listing things"
+    **Example 1**
 
-- ==君と僕と== は親友だ  
-*==You and me==, we're best friends*
+    Let's say you want to express "There is a book on the desk":
 
-- ==本とノート== を買う  
-*Buy ==books and notebooks==*
+    - 机の上に本がある  
+    There is a book on the desk
 
-- ==犬と猫== を飼う  
-*Own ==dog and cat== (as pets)*
+    「に」 | Main wagon "A" | Engine "B"
+    :---: | :---: | :---:
+    机の上に | 本が | ある
 
-- ==ライオンと虎と== の間の混血  
-*Mixed blood between ==a lion and a tiger==*
+    Now, let's say you want to express "There is a book **and a pen** on the desk":
 
-- ==紅茶とケーキ== を注文する  
-*Order ==black tea and cake==*
+    - 机の上に ==本と== ==ペンと== がある  
+    There is ==a book== and ==a pen== on the desk
 
-- ==ゲームとピアノとハイキング== が好きだ  
-*I like ==games, piano, and hiking==*  
-(Lit: ==Games, piano, and hiking== are liked)
+    If we want to list things, such as "A, B, C, D, and E", we attach 「と」 to each item, like so 「AとBとCとDとEと」. So, if we want to list "book and pen", we say:
 
-In this function, the last 「と」 is optional.
+    - 本とペンと
+    
+    「と」 | 「と」
+    :---: | :---:
+    本と | ペンと
 
-- ==君と僕== が選ばれた  
-- ==君と僕と== が選ばれた  
+    Next, 「本とペンと」(book and pen) are the things that are on the desk. In other words "book and pen" is the main wagon "A".
 
-are both acceptable. Likewise:
+    「に」 | Main wagon "A" | Engine "B"
+    :---: | :---: | :---:
+    机の上に | ==本と== ==ペンと== が | ある
 
-- ==犬と猫== を飼う  
-- ==犬と猫と== を飼う  
+    **Example 2**
 
-are also acceptable.
+    - ==本と== ==ペンと== を買う  
+    Buy ==a book== and ==a pen==
+
+    Again, 「本とペンと」 means "book and pen". The engine here is 「買う」(buy). What are the things that we are buying? Book and pen. Therefore "book and pen" has to be marked by 「を」(function 1 of 「を」):
+
+    Main wagon "A" | 「を」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==本と== ==ペンと== を | 買う
+
+    In this function, the last 「と」 is optional.
+
+    - ==君と僕== が選ばれた  
+    - ==君と僕と== が選ばれた  
+
+    are both acceptable. Likewise:
+
+    - ==犬と猫== を飼う  
+    - ==犬と猫と== を飼う  
+
+    are also acceptable.
 
 ### 「の」
 
