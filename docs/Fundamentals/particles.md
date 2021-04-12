@@ -36,56 +36,6 @@ We can finally put the knowledge from "Sentence Structures" into use. As a remin
 
 Let's begin learning some basic particles. Each particle has more than one function. We will only learn a few basic usage for each particle for now.
 
-Actually, before we do that, we need to talk about word order in Japanese.
-
-!!! warning "WORD ORDER MATTERS (OR DOES IT?)"
-    Word order matters in Japanese sentences. And it doesn't at the same time. (Huge asterisk here).
-
-    So, what do I mean by word order matters? There are two rules that we must always follow:
-
-    ???+ info "Rule 1: Engine always goes at the END of the sentence"
-        Let's say we have a sentence like this:
-
-        - XがYでZを食べる
-
-        Then the "train" will look like this:
-
-        Main wagon "A" | 「で」 | 「を」 | Engine "B"
-        :---: | :---: | :---: | :---:
-        Xが | Yで | Zを | 食べる
-
-        We can change the order of the wagons however we want **as long as the engine "B" is at the end**:
-
-        -| - | - | Engine "B"
-        :---: | :---: | :---: | :---:
-        Xが | Yで | Zを | 食べる
-        Xが | Zを | Yで | 食べる
-        Yで | Xが | Zを | 食べる
-        Yで | Zを | Xが | 食べる
-        Zを | Xが | Yで | 食べる
-        Zを | Yで | Xが | 食べる
-
-        Notice that we only changed the order of the **wagons**, NOT the **content** itself of each wagon.
-
-    !!! info "Rule 2: If X is modifying/describing Y, then X must always come BEFORE Y"
-        We already saw a sneak peek of this in the section about [Description](description.md).
-
-        If we say:
-
-        - ==美味しい== {++ラーメン++}  
-        ==Delicious== {++ramen++}
-
-        then 「美味しい」 is describing 「ラーメン」. Therefore, 「美味しい」 must always come BEFORE 「ラーメン」.
-
-        Another example:
-
-        - ==手を伸ばし抱き止めた激しい== {++光++}  
-        {++The ==bursting== light++} ==that I reached out for and held so close==
-
-        The thing that we are talking about is 「光」(light). 「激しい」(bursting) is describing the "light". 「手を伸ばし抱き止めた」(I reached out for and held so close) is also describing the "light". 
-        
-        Notice that in English, some of the description goes before "light" (bursting), and the other description goes after "light" (I reached out for and held so close). However, in Japanese, the entire description must always go BEFORE 「光」.
-
 ## Topic particles
 
 If we follow the analogy of the train, then topic particles are the particles that go into the "Topic 🏳️" part of the train. We will learn what this actually means when we learn about the particles themselves. There are two topics particles in Japanese: 「は」 and 「も」.
@@ -1520,120 +1470,7 @@ Or it could be referring to something more abstract:
 
 ### 「と」
 
-???+ info "Function 1: Marks the counterpart (either a person or a thing) with whom the action is performed"
-    **Example 1**
-
-    - ==友達と== 買い物する  
-    Go shopping with ==friend==
-
-    **Example 2**
-
-    - 妹は ==友達のお兄さんと== 結婚した  
-    Little sister married to ==friend's brother==
-
-    - 父親は ==子供と== 遊ぶ。  
-    *Father plays with ==kid==*
-
-    - 天分は ==努力と== 相俟って成功に結びつくものだ。  
-    *Talent, coupled with ==hardwork==, results in success*
-
-    - ==先生と== 話す  
-    *Talk with ==teacher==*
-
-    - ==友人と== 会社を作る  
-    *Create a company with ==friend==*
-
-    - ==花子と== 散歩する  
-    *Stroll with ==Hanako==*
-
-    - ==これと== 深い関係がある  
-    *There is a close relationship with ==this==*
-
-    - ==友達と== 旅行する  
-    *Travel with ==friend==*
-
-???+ info "Function 2: Marks the result or outcome"
-
-    - 被告人は ==無罪と== なった。  
-    *The accused was found not guilty*  
-    (Lit: The accused became ==not guilty==)
-
-    - 夜半から雨は ==雪と== なった  
-    *From midnight, rain became ==snow==*
-
-    - ==無罪と== 決定する  
-    *Decide that it's ==innocent==*
-
-    - これで ==終りと== する  
-    *We are done here*  
-    (Lit: Make it as ==the end== here)
-
-    - ==学生と== なる  
-    *Become ==student==*
-
-    - 名を ==一郎と== 改める  
-    *Change name into ==Ichirou==*
-
-    - 明日を ==決戦の日と== 決める  
-    *Decide that tomorrow is ==the day of battle==*
-
-    - 開催地は ==東京と== 決まった  
-    *As for host city, it was decided to be ==Tokyo==*
-
-???+ info "Function 3: Marks the object used for comparison"
-
-    - ==兄と== 似ている。  
-    *Look like ==brother==*
-
-    - ==あなたと== は立場が違う  
-    *My position/situation is different from ==you==*
-
-    - ==彼と== は比べ物にならない  
-    *You're nothing compared to him*  
-    (Lit: Compared to ==him==, (you) don't become someone worthy of comparison)
-
-    - 考え方が ==君と== 違う  
-    *I think differently than you do*  
-    (Lit: Way of thinking differs from ==you==)
-
-    - ==以前と== 同じ要領  
-    *Same point as ==before==*
-
-    - ==あなたと== 同じ考えだ  
-    *Same opinion as ==you==*
-
-    - ==以前と== は条件が異なる  
-    *Conditions differ from== before==*
-
-???+ info "Funciton 4: Marks the content of speech or thoughts"
-
-    This function can also be thought of as "quotation". The term "quotation" is used very loosely here.
-
-    - ==いいと== 思う  
-    *I think it's ==good==*
-
-    - ==ごまかしと== 見る  
-    *See as ==deception==*
-
-    - ==助けてと== 叫んだ  
-    *Screamed for ==help==*
-
-    - ==花子と== 名づける  
-    *Name (someone) as ==Hanako==*
-
-    - 子供を ==太郎と== 名づける  
-    *Name a child as ==Tarou==*
-
-    - ==嫌だと== 言う  
-    *Say ==no==*
-
-    - ==危ないと== 感じる  
-    *Feel ==dangerous==*
-
-    - ==やめようと== 思った  
-    *I thought I'd ==stop==*
-
-???+ info "Function 5: Used for listing things"
+???+ info "Function 1: Used for listing things"
     **Example 1**
 
     Let's say you want to express "There is a book on the desk":
@@ -1675,17 +1512,168 @@ Or it could be referring to something more abstract:
     :---: | :---: | :---:
     Ø が | ==本と== ==ペンと== を | 買う
 
-    In this function, the last 「と」 is optional.
+    !!! info "Last 「と」 is optional"
+        When we list things using 「と」, the last 「と」 is optional .
 
-    - ==君と僕== が選ばれた  
-    - ==君と僕と== が選ばれた  
+        - ==君と僕== が選ばれた  
+        - ==君と僕と== が選ばれた  
 
-    are both acceptable. Likewise:
+        are both acceptable. Likewise:
 
-    - ==犬と猫== を飼う  
-    - ==犬と猫と== を飼う  
+        - ==犬と猫== を飼う  
+        - ==犬と猫と== を飼う  
 
-    are also acceptable.
+        are also acceptable.
+
+???+ info "Function 2: Marks the counterpart (either a person or a thing) with whom the action is performed"
+    There are certain actions (verbs) that will always have two sides to it by definition. Examples of these actions are:
+
+    - Marry
+    - Fight
+    - Playing tennis
+    - etc
+
+    **Example 1**
+
+    - ==花子と== 結婚する  
+    Marry ==Hanako==
+
+    Main wagon "A" | 「と」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==花子と== | 結婚する
+
+    Here, the action is 「結婚する」(marry). The action "marry" requires two people. On one side is 「Ø」, which we can assume to be 「私」(I) based on context. On the other side is 「花子」, which is marked by 「と」. This is an "A does B" sentence, where "A" is "I", and "the action I'm doing" is "marry". The counterpart of this "marriage" is "Hanako".
+
+    **Example 2**
+
+    - ==太郎と== 戦う  
+    Fight against ==Tarou==
+
+    Main wagon "A" | 「と」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==太郎と== | 戦う
+
+    Here, the action is 「戦う」(fight). The action "fight" requires two sides. On one side is 「Ø」, which we can again assume to be 「私」(I) based on context. On the other side is 「太郎」, which is marked by 「と」. This is an "A does B" sentence, where "A" is "I", and "the action I'm doing" is "fight". The counterpart of this "fight" is "Tarou".
+
+    **Other examples**
+    - ==友達と== 買い物する  
+    Go shopping with ==friend==
+
+    - 父親は ==子供と== 遊ぶ。  
+    *Father plays with ==kid==*
+
+    - 天分は ==努力と== 相俟って成功に結びつくものだ。  
+    *Talent, coupled with ==hardwork==, results in success*
+
+    - ==先生と== 話す  
+    *Talk with ==teacher==*
+
+    - ==友人と== 会社を作る  
+    *Create a company with ==friend==*
+
+    - ==花子と== 散歩する  
+    *Stroll with ==Hanako==*
+
+    - ==これと== 深い関係がある  
+    *There is a close relationship with ==this==*
+
+    - ==友達と== 旅行する  
+    *Travel with ==friend==*
+
+???+ info "Function 3: Marks the counterpart of comparison"
+    **Example 1**
+
+    - ==以前と== 同じだ
+    (It) is the same as ==before==
+
+    Main wagon "A" | 「と」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==以前と== | 同じだ
+
+    We are marking 「以前」(before) as the thing we want to compare to, and then we are saying "it is the same".
+
+    - ==兄と== 似ている。  
+    *Look like ==brother==*
+
+    - ==あなたと== は立場が違う  
+    *My position/situation is different from ==you==*
+
+    - ==彼と== は比べ物にならない  
+    *You're nothing compared to him*  
+    (Lit: Compared to ==him==, (you) don't become someone worthy of comparison)
+
+    - 考え方が ==君と== 違う  
+    *I think differently than you do*  
+    (Lit: Way of thinking differs from ==you==)
+
+    - ==以前と== 同じ要領  
+    *Same point as ==before==*
+
+    - ==あなたと== 同じ考えだ  
+    *Same opinion as ==you==*
+
+    - ==以前と== は条件が異なる  
+    *Conditions differ from== before==*
+
+???+ info "Function 2: Marks the result or outcome"
+
+    - 被告人は ==無罪と== なった。  
+    *The accused was found not guilty*  
+    (Lit: The accused became ==not guilty==)
+
+    - 夜半から雨は ==雪と== なった  
+    *From midnight, rain became ==snow==*
+
+    - ==無罪と== 決定する  
+    *Decide that it's ==innocent==*
+
+    - これで ==終りと== する  
+    *We are done here*  
+    (Lit: Make it as ==the end== here)
+
+    - ==学生と== なる  
+    *Become ==student==*
+
+    - 名を ==一郎と== 改める  
+    *Change name into ==Ichirou==*
+
+    - 明日を ==決戦の日と== 決める  
+    *Decide that tomorrow is ==the day of battle==*
+
+    - 開催地は ==東京と== 決まった  
+    *As for host city, it was decided to be ==Tokyo==*
+
+
+
+???+ info "Funciton 4: Marks the content of speech or thoughts"
+
+    This function can also be thought of as "quotation". The term "quotation" is used very loosely here.
+
+    - ==いいと== 思う  
+    *I think it's ==good==*
+
+    - ==ごまかしと== 見る  
+    *See as ==deception==*
+
+    - ==助けてと== 叫んだ  
+    *Screamed for ==help==*
+
+    - ==花子と== 名づける  
+    *Name (someone) as ==Hanako==*
+
+    - 子供を ==太郎と== 名づける  
+    *Name a child as ==Tarou==*
+
+    - ==嫌だと== 言う  
+    *Say ==no==*
+
+    - ==危ないと== 感じる  
+    *Feel ==dangerous==*
+
+    - ==やめようと== 思った  
+    *I thought I'd ==stop==*
+
+
 
 ### 「の」
 

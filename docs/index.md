@@ -105,7 +105,7 @@ At the beginning when we made the distinction between acquiring and learning (sk
 
 So what's the point of learning a language, such as learning grammar? You can speed up your acquisition by learning. You can speed up your listening and reading comprehension (acquisition) by learning grammar and vocabulary.
 
-**Grammar is a model**
+**Grammar as a model**
 
 Grammar, like we said earlier, is just something that attempts to describe how a language works. In other words, grammar is a **model** of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. By learning grammar, you are essentially giving your brain a model to start from. 
 
@@ -113,12 +113,13 @@ Grammar, like we said earlier, is just something that attempts to describe how a
 
 There are tons of Japanese grammar guides out there. You should find the easiest one to understand for you. If you find this one easy to undersand, then by all means use it. I wrote this guide with two things in mind:
 
-1. Avoid using linguistic terms in this guide for those of you who are not familiar with them. (However, it will help you a lot if you at least know some basic linguistic terms like nouns, adjectives, verbs, etc.) 
+1. Avoid using linguistic terms. (However, it will help you a lot if you at least know some basic ones like nouns, adjectives, verbs, etc.) 
 2. Teach Japanese grammar in a more structured way that makes sense. When I say "structured way", I mean "building blocks". We start from zero, and every new grammar that we learn is built upon previous grammars.
 
 Unlike traditional textbooks, this grammar guide is not meant to teach you how to output. This guide is meant to be used in tandem with INPUT. The goal of this guide is to help you UNDERSTAND what you are reading/listening to.
 
-**How to use this guide**  
+**How to use this guide**
+
 Like I said earlier, this grammar guide is meant to be used in tandem with input. I only expect you to read through the guide and **be aware** that such grammar exists. You don't have to bother too much with the small details.
 
 Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) about learning grammar:
@@ -134,12 +135,11 @@ Output does NOT improve your input. Output does not improve your listening or re
 
 Output is the RESULT of your input. Output is the result of your acquisition.
 
-!!! note
-    This does not necessarily mean that outputting is bad. 
-    
-    Here's a few reasons why it's OK to output, [written by TheMoeWay](https://learnjapanese.moe/speaking/).
+This does not necessarily mean that outputting is bad. 
 
-    [Matt vs Japan also has a video](https://youtu.be/-OuMfLtK3tU) explaining why it's OK to output early.
+Here's a few reasons why it's OK to output, [written by TheMoeWay](https://learnjapanese.moe/speaking/).
+
+[Matt vs Japan also has a video](https://youtu.be/-OuMfLtK3tU) explaining why it's OK to output early.
 
 **The "ceiling" of your output**
 
@@ -164,14 +164,14 @@ ACQUISITION (reading and listening) is the heavy lifting. LEARNING (grammar and 
 ## See also
 
 - [Comprehensible Japanese - YouTube](https://www.youtube.com/channel/UCXo8kuCtqLjL1EH6m4FJJNA)  
-*YouTube channel with lots of easy comprehensible input videos made for beginners*
+*This YouTube channel has lots of easy comprehensible input videos made for beginners*
 
 - [Resources - TheMoeWay](https://learnjapanese.moe/resources/)  
 *Huge list of all kinds of resources for acquiring and learning Japanese*
 
 ## References
 
-For more information about the methodology of acquiring any language in general:
+For more information about the methodology of acquiring languages in general:
 
 - [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis) developed by Stephen Krashen
 - [Presentation about language acquisition](https://youtu.be/NiTsduRreug) by Stephen Krashen
@@ -196,4 +196,4 @@ This grammar guide is largely a consolidation of:
 If you have any feedback, please contact me in one of the following ways:
 
 1. Open a new "issue" in [GitHub](https://github.com/wizo06/japanese/issues) (preferred)
-2. Contact me through Discord: `wizo#1968`. You can find me in [TheMoeWay's Discord server](https://discord.gg/nhqjydaR8j)
+2. Send me a DM in Discord: `wizo#1968`. You can find me in [TheMoeWay's Discord server](https://discord.gg/nhqjydaR8j)
