@@ -1,22 +1,15 @@
 !!! info "Author's note"
-    Before you start using this grammar, I would like to clarify one thing.
+    Before we continue, I would like to clarify one thing.
 
-    - Some example of Japanese sentences will have weird English translation.
+    - Some example sentences in Japanese will have weird English translation.
 
-    This is because I'm trying to convey the original Japanese meaning without losing any nuances while still using English. After all, the best language to explain Japanese is Japanese (the same way the best language to explain English is English). So, expect some sentences to have weird sounding translations in this guide.
+    This is because I'm trying to convey the original Japanese meaning without losing any nuances. So, expect some example sentences to have weird sounding translations in this guide.
 
 # Sentence Structures
 
 ## Subject-Object Structure
 
-Every Japanese sentence at its core is composed of two elements:
-
-<table>
-  <td style="border: 1px solid black">A</td>
-  <td style="border: 1px solid black">B</td>
-</table>
-
-Let's imagine the sentence as a train, where "A" is the **main wagon** and "B" is the **engine**:
+Every Japanese sentence at its core is composed of two elements: "A" and "B". Let's imagine these elements as part of a train, where "A" is the **main wagon** and "B" is the **engine**:
 
 ![](train.png)
 
@@ -26,12 +19,19 @@ Main wagon "A" | Engine "B"
 :---: | :---:
 - | -
 
-The engine "B" tells us **what the main wagon "A" is doing**. The main wagon "A" tells us **WHO or WHAT is doing engine "B"**. We can add more wagons to the train to: 
+The engine "B" tells us **what the main wagon "A" is doing**. The main wagon "A" tells us **WHO or WHAT is doing engine "B"**. For example:
 
-- say more about "A"
-- say more about "B" 
-- combine sentences (clauses) together to make complex sentences
-- etc. 
+Main wagon "A" | Engine "B"
+:---: | :---:
+You | are a student
+You | eat breakfast
+
+We can add more wagons to the train to convey more information, such as:
+
+- Where did you eat breakfast?
+- What time did you eat breakfast?
+- With whom did you eat breakfast?
+- etc
 
 but the **core** of the train will always be "A" and "B". This train is what we call "**Subject-Object Structure**".
 

@@ -2,7 +2,12 @@
 
 Before you start learning Japanese grammar from this guide, I would like you to read this page first.
 
-Here is the most important advice for learning languages: **your interest in learning a language will far outweight any learning methodology**. It doesn't matter if a methodology that someone told you is "objectively" more efficient than your current one; if that methodology isn't engaging or fun for you, then it's useless.
+First, allow me to define two words that I will be using a lot:
+
+- **NL** means native language. This is the language that you're most comfortable with. For some people, it's just one. For others, it could be many.
+- **TL** means target language. This is the new language that you're trying to learn.
+
+Next, allow me to give you the most important advice for learning languages: **your interest in learning your TL will far outweight any learning methodology**. It doesn't matter if a methodology that someone told you is "objectively" more efficient than your current one; if that methodology isn't engaging or fun for you, then it's useless because you will eventually quit. The only way to get good at your TL is to spend time in it. This is a marathon, not a sprint, so it's important that you keep yourself motivated and interested in spending time in your TL.
 
 With that being said, there are scientific studies about second language acquisition that we can use as foundations for learning languages more efficiently. In this page, I'd like to present to you Dr. Krashen's theory about language acquisition.
 
@@ -13,7 +18,6 @@ First, let's make a distinction between *acquisition* and *learning*.
 [Refold](https://refold.la/) has done a good job at explaining language acquisition, so I'm just going to copy paste their explanation here:
 
 ???+ quote
-
     **Language Acquisition**
     
     The linguist Stephen Krashen argues that there are two ways to develop language ability: acquisition and studying.
@@ -57,11 +61,29 @@ The two important points in this quote are:
 - Comprehensible input
 - Low anxiety environment
 
-You can learn more about it in Dr. Krashen's [presentation](https://youtu.be/NiTsduRreug).
+### Comprehensible input
+
+The way we acquire language is through comprehensible input. What does "input" mean? It means listening and reading. Comprehensible input simply refers to "understanding the message" from what you are listening to or reading from. One does not necessarily need to understand *how* the message was said (What grammar was used? What specific vocabularies were used?). One simply needs to understanding the message itself.
+
+Acquisition is done through thousands of hours of listening and reading in your TL. **There is no shortcut.**
+
+### Low anxiety environment
+
+This is another important point, but it's a bit out of the scope of my overall message in this page. You can learn more about it in Dr. Krashen's presentation [here](https://youtu.be/NiTsduRreug).
 
 ## Learning
 
-Now we can talk about *learning* a language. Specifically, learning Japanese.
+Now we can talk about *learning* a language.
+
+This is the part where a lot of learners will vary. Some like to take language classes. Some like to self-study. Some like to use apps. Some even skip this part entirely, and solely focus on input. 
+
+Earlier when we made the distiction between acquisition(input) vs learning(skill-building), we saw that:
+
+> **No amount of skill-building will help you become fluent.**
+
+However, there are many reasons why it's still a good idea to do some form of "learning" in conjunction with "acquisition", which I will get into later when we talk about grammar.
+
+Now, let's talk about learning Japanese specifically.
 
 ### 1. Writing system
 
@@ -107,7 +129,9 @@ So what's the point of learning a language, such as learning grammar? You can sp
 
 **Grammar as a model**
 
-Grammar, like we said earlier, is just something that attempts to describe how a language works. In other words, grammar is a **model** of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. By learning grammar, you are essentially giving your brain a model to start from. 
+Grammar, like we said earlier, is just something that attempts to describe how a language works. In other words, grammar is a **model** of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. This is essentially what happened to all of us when we were babies with our first language.
+
+By learning grammar, you are essentially giving your brain a model to start from. However, depending on which grammar guide you use (textbooks, apps, random guides online such as this one), the "model" that your brain will receive will also differ. There is no such thing as a perfect grammar guide (including this one) because of reasons that I just explained above. A true understanding of the language only happens through acquisition, NOT learning.
 
 **Choosing a grammar guide**
 
@@ -116,7 +140,7 @@ There are tons of Japanese grammar guides out there. You should find the easiest
 1. Avoid using linguistic terms. (However, it will help you a lot if you at least know some basic ones like nouns, adjectives, verbs, etc.) 
 2. Teach Japanese grammar in a more structured way that makes sense. When I say "structured way", I mean "building blocks". We start from zero, and every new grammar that we learn is built upon previous grammars.
 
-Unlike traditional textbooks, this grammar guide is not meant to teach you how to output. This guide is meant to be used in tandem with INPUT. The goal of this guide is to help you UNDERSTAND what you are reading/listening to.
+Unlike traditional textbooks, this grammar guide is not meant to teach you how to output. This guide is meant to be used IN TANDEM WITH INPUT. The goal of this guide is to help you UNDERSTAND what you are listening to and reading from.
 
 **How to use this guide**
 
@@ -127,19 +151,21 @@ Here's an excerpt from [TheMoeWay](https://learnjapanese.moe/guide/#grammar) abo
 !!! quote
     When approaching grammar, it is important to know that the purpose of a grammar guide is not to make you a master at the language, but to give you only a basic understanding of how things work in the language, and then a true understanding of grammar can only be achieved through immersion. Therefore, I recommend you choose a grammar guide, read/watch it **and** do immersion.
 
-Input itself refers to listening and reading to native content in the target language. Mass input can be referred to as immersion.
+Immersion simply refers to a large amount of input, i.e. listening a lot and reading a lot.
 
 ## Output
 
-Output does NOT improve your input. Output does not improve your listening or reading comprehension. Output does not improve acquisition.
+Output refers to speaking and writing.
 
-Output is the RESULT of your input. Output is the result of your acquisition.
+Output does NOT improve your input. Output does NOT improve your listening or reading comprehension. Output does NOT improve acquisition.
+
+Output is the RESULT of your input. Output is the RESULT of your acquisition.
 
 This does not necessarily mean that outputting is bad. 
 
-Here's a few reasons why it's OK to output, [written by TheMoeWay](https://learnjapanese.moe/speaking/).
+TheMoeWay has listed a few reasons why it's OK to output [here](https://learnjapanese.moe/speaking/).
 
-[Matt vs Japan also has a video](https://youtu.be/-OuMfLtK3tU) explaining why it's OK to output early.
+Matt vs Japan also has a video explaining why it's OK to output early [here](https://youtu.be/-OuMfLtK3tU).
 
 **The "ceiling" of your output**
 
@@ -148,7 +174,7 @@ Here's a few reasons why it's OK to output, [written by TheMoeWay](https://learn
 
 Your output can only be as good as your input. If you haven't heard (input) how an idea is expressed in Japanese, you won't know how to express (output) it in Japanese. You could technically, by learning grammar and vocabulary, know how to say something in Japanese without hearing it first; BUT the way you say it, the words you choose, they will (99% of the time) all sound unnatural (even if it's grammatically correct). This is especially true for beginners because you haven't had enough exposure to Japanese.
 
-Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/output-troubleshooting#NL-Conflicts):
+Here's an excerpt from [Refold](https://refold.la/roadmap/stage-3/b/output-troubleshooting#NL-Conflicts):
 
 !!! quote
     One of the most common output errors is when you express something as a translation from your NL rather than the natural way it should be expressed in your TL.
@@ -157,9 +183,24 @@ Here's an excerpt from the [Refold webiste](https://refold.la/roadmap/stage-3/b/
 
     Most of the time, you have already acquired the necessary language, but just need to change your mindset. The key to getting around this is asking yourself the right question. Instead of asking, “How do I say this?”, ask yourself “What would a native speaker say in this situation?”. This subtle reframing of the question will often produce completely different results from your subconscious.
 
-## Final notes
+## Summary
 
-ACQUISITION (reading and listening) is the heavy lifting. LEARNING (grammar and vocabularies) is not. **Please do not neglect immersion**. No amount of grammar and vocabulary will help you become fluent if you neglect immersion.
+To summarize:
+
+- Acquisition: an intuitive knowledge of the language
+    - How it's done? Listening and reading.
+    - Acquisition happens subconsciously
+- Learning: a logical knowledge about the language
+    - How it's done? Memorizing grammar and vocabulary.
+    - Learning happens consciously
+  
+IMMERSION is the heavy lifting. LEARNING grammar and vocabulary is not. **Please do not neglect immersion**. No amount of learning will help you become fluent if you neglect immersion. 
+
+As far as *learning* is concerned, the methodology that is mentioned in [Refold](https://refold.la/) and [TheMoeWay](https://learnjapanese.moe/)  is just a *guideline*. You do not have to follow every step to the letter. Like I said in the beginning of this page:
+
+> your interest in learning your TL will far outweight any learning methodology
+
+Read the guideline and find what's the most engaging way of learning is for you.
 
 ## See also
 
