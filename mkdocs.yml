@@ -9,11 +9,24 @@ theme:
     repo: fontawesome/brands/github
     logo: fontawesome/solid/torii-gate
   palette:
-    scheme: slate
-    primary: cyan
-    accent: cyan
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 extra_css:
-  - stylesheets/extra.css
+  # - stylesheets/extra.css
 # repo_url: https://github.com/wizo06/japanese/issues
 # repo_name: FEEDBACK
 # edit_uri: ""

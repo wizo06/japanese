@@ -1,7 +1,7 @@
 # Particles
 
 !!! tip "Author's note"
-    Particles can be very confusing especially for a beginner. If there's one grammar that I don't expect you to fully understand it by reading it once only, it will the the particles. You should expect to come back and revisit this page (or any other resource) often if you encounter a particle in your input (reading and listening) that you don't understand. That being said, this page does not have all the particles, nor does it have all the different functions of each particle. If you're at intermediate level, I suggest you to look up the particle on a monolingual dictionary. Monolingual dictionaries give the best explanation. After all, the best language to explain Japanese is Japanese.
+    Particles can be very confusing especially for a beginner. If there's anything that I don't expect you to fully understand it by reading it once only, it will the particles. You should expect to come back and revisit this page (or any other resource) often if you encounter a particle in your input (reading and listening) that you don't understand. That being said, this page does not teach all the particles, nor does it teach all the different functions of each particle. If you're at intermediate level, I suggest you to look up the particle on a monolingual dictionary. Monolingual dictionaries give the best explanations.
 
 ## What are particles?
 Let's use the following sentence to illustrate what a particle is:
@@ -9,16 +9,25 @@ Let's use the following sentence to illustrate what a particle is:
 Note: 「魚」 means "fish"  
 「食べる」 means "eat"
 
-- 魚 ==＿== 食べる。
+- 魚食べる。
 
-What is that sentence saying in English?
+What is that sentence saying?
 
 - Fish eats (something)
 - (Something) eats fish
 
-The answer is: it can be either one. So how do we know if "fish" is doing the "eating", or if "fish" is "being eaten"? This is where particles come into play. Particles are one or more hiragana characters that attach to the end of a word to define the grammatical function of that word in the sentence. In other words, a particle defines the "role" of a word in a sentence. Using the correct particle is very important because the meaning of a sentence can completely change just by changing the particle. 
+The answer is: it can be either one. So how do we know if "fish" is doing the "eating", or if "fish" is "being eaten"? In English, we can tell by simply looking at the word order: "fish eats X" vs "X eats fish". In Japanese, we can tell by looking at the particle.
 
-We can finally put the knowledge from "Sentence Structures" into use. As a reminder, this is how we visualize our train analogy:
+Particles are one or more hiragana characters that attach to **the end of a word** to define the grammatical function of that word in the sentence. In other words, a particle defines the "role" of a word in a sentence. Using the correct particle is very important because the meaning of a sentence can completely change just by changing the particle.
+
+For example:
+
+- 魚 ==が== 食べる。  
+Means "Fish eats (something)"
+- 魚 ==を== 食べる。  
+Means "(Something) eats fish"
+
+We can finally put the knowledge from [Sentence Structures](sentence-structures.md) into use. As a reminder, this is how we visualize our train analogy:
 
 <table>
   <tr>
