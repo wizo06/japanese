@@ -377,7 +377,7 @@ Now, let's add the 「も」 flag.
   </tr>
 </table>
 
-This means "As for me too, (I) throw a ball at Sakura". In normal English, we might say "I also throw a ball at Sakura". Notice that the logical meaning of the sentence hasn't changed. The person throwing the ball (marked by 「が」) is still 『私」, the object being thrown is still 「ボール」, the recipient of the ball is still 「さくら」.
+This means "As for me too, (I) throw a ball at Sakura". In normal English, we might say "I also throw a ball at Sakura". Notice that the logical meaning of the sentence hasn't changed. The person throwing the ball (marked by 「が」) is still 「私」, the object being thrown is still 「ボール」, the recipient of the ball is still 「さくら」.
 
 This is true regardless of the function of 「も」. If 「も」 is acting as **function 1**, then it could be something like:
 
@@ -411,7 +411,7 @@ We can even give the flag to the "ball".
   </tr>
 </table>
 
-This means "As for the ball too, I throw (it) at Sakura". Again, the logical meaning of the sentence still doesn't change. The person throwing the ball is still 『私」, the object being thrown (marked by 「を」) is still 「ボール」, the recipient of the ball is still 「さくら」.
+This means "As for the ball too, I throw (it) at Sakura". Again, the logical meaning of the sentence still doesn't change. The person throwing the ball is still 「私」, the object being thrown (marked by 「を」) is still 「ボール」, the recipient of the ball is still 「さくら」.
 
 ## Case marking particles
 

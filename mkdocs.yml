@@ -1,10 +1,16 @@
 site_name: Japanese Grammar Guide
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Noto Sans JP
+    code: Ubuntu Mono
+  language: en
   features:
     - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - navigation.instant
   icon:
     repo: fontawesome/brands/github
     logo: fontawesome/solid/torii-gate
@@ -12,21 +18,21 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: cyan
+      accent: pink
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: cyan
-      accent: cyan
+      accent: pink
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
 extra_css:
-  # - stylesheets/extra.css
+  - stylesheets/extra.css
 # repo_url: https://github.com/wizo06/japanese/issues
 # repo_name: FEEDBACK
 # edit_uri: ""
@@ -42,22 +48,27 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.keys
+  - toc:
+      permalink: true
 plugins:
-  - git-revision-date
+  # - git-revision-date
   - search
 nav:
   - 'index.md'
-  - Fundamentals:
-    - 'Fundamentals/sentence-structures.md'
-    - 'Fundamentals/a-and-b.md'
-    - 'Fundamentals/description.md'
-    - 'Fundamentals/inflection.md'
-    - 'Fundamentals/particles.md'
-    - 'Fundamentals/word-order.md'
-    # - 'Fundamentals/transitive-intransitive.md'
-  # - Essential Grammar:
-    # - 'Essential Grammar/3. Essential Grammar.md'
-  # - Special Expressions:
-    # - 'Special Expressions/4. Special Expressions.md'
-  # - Advanced Grammar:
-    # - 'Advanced Grammar/5. Advanced Topics.md'
+  - 'language-acquisition.md'
+  - Grammar Guide:
+    - Fundamentals:
+      - 'grammar/fundamentals/sentence-structures.md'
+      - 'grammar/fundamentals/a-and-b.md'
+      - 'grammar/fundamentals/description.md'
+      - 'grammar/fundamentals/inflection.md'
+      - 'grammar/fundamentals/particles.md'
+      - 'grammar/fundamentals/word-order.md'
+      - 'grammar/fundamentals/transitive-intransitive.md'
+    - Essential:
+      - 'grammar/essential/index.md'
+    - Advanced:
+      - 'grammar/advanced/5. Advanced Topics.md'
+    - Special Expressions:
+      - 'grammar/expressions/4. Special Expressions.md'
+  - 'reference.md'

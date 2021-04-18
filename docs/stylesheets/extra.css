@@ -1,8 +1,7 @@
 [data-md-color-scheme="slate"] {
-  /* --md-hue: 210; [0, 360] */
-  --md-default-fg-color:               rgba(255, 255, 255, 0.60);
-  --md-default-fg-color--light:        rgba(255, 255, 255, 0.38);
-  --md-default-bg-color:               rgba(018, 018, 018, 0.95);
+  --md-default-fg-color:             rgba(255, 255, 255, 0.60);
+  --md-default-fg-color--light:      rgba(255, 255, 255, 0.38);
+  --md-default-bg-color:             rgba(018, 018, 018, 0.95);
   
   --md-typeset-mark-color:           #808000;
   --md-typeset-del-color:            #800000;
@@ -14,9 +13,9 @@
   --md-footer-fg-color--light:       rgba(255, 255, 255, 0.60);
   --md-footer-fg-color--lighter:     rgba(255, 255, 255, 0.38);
   --md-footer-bg-color:              rgba(255, 255, 255, 0.05);
-  --md-footer-bg-color--dark:        rgba(255, 255, 255, 0.07);
+  --md-footer-bg-color--dark:        rgba(255, 255, 255, 0.07);  
 }
   
-b, strong, .md-nav__title, h2, h3, h4 {
+[data-md-color-scheme="slate"] strong, .md-nav__title, h2, h3, h4 {
   color: rgba(255, 255, 255, 0.87);
-} 
+}
