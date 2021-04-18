@@ -1,7 +1,7 @@
 site_name: Japanese Grammar Guide
 theme:
   name: material
-  custom_dir: overrides
+  # custom_dir: overrides
   font:
     text: Noto Sans JP
     code: Ubuntu Mono
@@ -15,22 +15,22 @@ theme:
     repo: fontawesome/brands/github
     logo: fontawesome/solid/torii-gate
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: cyan
-      accent: pink
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
     # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    # - media: "(prefers-color-scheme: dark)"
+    - scheme: slate
       primary: cyan
       accent: pink
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+    # Light mode
+    # - media: "(prefers-color-scheme: light)"
+    - scheme: default
+      primary: cyan
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
 extra_css:
   - stylesheets/extra.css
 # repo_url: https://github.com/wizo06/japanese/issues

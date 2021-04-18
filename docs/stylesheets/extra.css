@@ -16,6 +16,6 @@
   --md-footer-bg-color--dark:        rgba(255, 255, 255, 0.07);  
 }
   
-[data-md-color-scheme="slate"] strong, .md-nav__title, h2, h3, h4 {
+[data-md-color-scheme="slate"] strong, [data-md-color-scheme="slate"] .md-nav__title, [data-md-color-scheme="slate"] h2, [data-md-color-scheme="slate"] h3, [data-md-color-scheme="slate"] h4 {
   color: rgba(255, 255, 255, 0.87);
 }
