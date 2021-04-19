@@ -2071,25 +2071,150 @@ The particle 「の」 has many functions, one of which we already learned in th
 
 ### 「から」
 
-We can express "**from**" and "**until**" with the particles 「**から**」 and 「**まで**」, respectively.
+This particle is pretty much a 1 to 1 equivalent to the English word "from" (this doesn't mean that you should translate an English sentence that has the word "from", word for word into Japanese. More often than not, that's not the natural way to express that idea in Japanese)
 
-**Example of physical location**:
+???+ info "Function 1: Marks the starting time"
+    **Example 1**
 
-- アリスは、アメリカから来る。  
-*Alice comes from America.*
+    - 学校は ==明日から== 始まる  
+    School starts ==from tomorrow=
 
-- 学校から家まで歩く。  
-*Walk from school to home.*
+    **Example 2**
 
-**Example of temporal location**:
+    - 会議が ==1時から== 始まった  
+    The meeting started ==from 1 o'clock==
 
-- 今⽇から明⽇まで宿題をする。  
-*Do homework from today until tomorrow.*
+    **Example 3**
 
-- 1時から始まった。  
-*Started from 1 o'clock.*
+    - ==最初から== 嘘ついた  
+    Lied ==from the beginning==
+
+???+ info "Function 2: Marks the giver of action"
+    **Example 1**
+
+    - 情報は ==私から== 先生に伝える  
+    As for the information, (I) report (it) ==from me== to teacher
+
+    **Example 2**
+
+    - ==彼女から== プレゼントをもらった  
+    Received a gift ==from girlfriend==
+
+???+ info "Function 3: Marks the starting point of motion"
+    **Example 1**
+
+    - 虫が ==窓から== 入った  
+    The insect came in ==from the window==
+
+    **Example 2**
+
+    - アリスは ==アメリカから== 来た  
+    Alice came ==from America==
+
+    **Example 3**
+
+    - ==家から== 歩く  
+    Walk ==from home==
 
 ### 「まで」
+
+This particle means "until" (and more), and it is more flexible than the English word "until".
+
+???+ info "Function 1: Marks the ending time or condition"
+    **Example 1**
+
+    - ==明後日まで== 休む  
+    Take a break ==until the day after tomorrow==
+
+    **Example 2**
+
+    - ==昼まで== 寝た  
+    Slept ==until noon==
+
+    **Example 3**
+
+    - ==これが終わるまで== 帰れない  
+    Can't go home ==until this finishes==
+
+    **Example 4**
+
+    - ==今まで== ありがとう  
+    Thanks ==until now==
+
+    In normal English, we might say "Thank you for everything so far".
+
+    **Example 5**
+
+    - ==6時まで== 待つ  
+    Wait ==until 6 o'clock==
+
+    **Example 6**
+
+    - ==勝つまで== やる  
+    Do it ==until win==
+
+???+ info "Function 2: Marks the ending point of motion"
+    **Example 1**
+
+    - 一緒に ==駅まで== 行く  
+    Go together ==until the station==
+
+    Notice that I didn't use "to the station" in the translation. If we had said
+
+    - 一緒に ==駅に== 行く
+
+    then that *could* have been translated as "Go together ==to the station==".
+
+    The difference is that, by saying 「駅まで」(until the station), we are implying "go together ALL THE WAY UNTIL we reach the station".
+
+    **Example 2**
+
+    - ==屋根まで== 飛んだ  
+    Flew ==all the way to the roof==
+
+    **Example 3**
+
+    - ==福岡まで== 行く  
+    Go ==all the way until Fukuoka==
+
+???+ info "Function 3: Marks the extent of something"
+    This is where it differs from the English word "until" (although there is still a slight connection if you think of it more abstractly).
+
+    This usage of 「まで」 often gets translated as "even..." with a tone of "unexpected".
+
+    **Example 1**
+
+    - ==明日の分まで== 食べた
+    Ate ==even tomorrow's portion==
+
+    Or in normal English "I even ate tomorrow's portion"
+
+    **Example 2**
+
+    - ==それを言うまで== 必要がない
+    There is no need to ==even say that==
+
+    **Example 3**
+
+    Suppose you have 2 friends. One (Sakura) always supports you, but the other one (Hanako) always makes fun of you. One day, you do something so ridiculous that even the Sakura makes fun of you. In this scenario, you can say out loud:
+
+    - さくらまで！？  
+    Even Sakura (is making fun of me)!?
+
+### 「から」 with 「まで」
+
+These two particles are often used together to express "from... to/until ...".
+
+**Example 1**
+
+- 仕事は ==9時から== ==5時まで== だ  
+As for work, (it) is ==from 9 o'clock== ==to 5 o'clock==
+
+**Example 2**
+
+- ==家から== ==学校まで== 歩く  
+Walk ==from home== ==to school==
+
 ### 「より」
 
 ## Contrasts
