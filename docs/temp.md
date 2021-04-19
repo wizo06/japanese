@@ -282,9 +282,9 @@ We learned how to modify/describe a noun by using the engine.
 
 What is a *clause*? To put it in simple terms, a clause is basically a sentence that is inside another sentence. Let's recall our train analogy here.
 
-Main wagon | Engine
+Main wagon "A" | Engine "B"
 :---: | :---:
-A | B
+- | -
 
 In this analogy, there are 3 types of engines.
 

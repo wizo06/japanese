@@ -345,7 +345,7 @@ Example:
 
 **「も」 doesn't change the logical meaning of a sentence**
 
-Just like 「は」, 「も」 doesn't change the logical meaning of the sentence either. After all, 「も」 is also a topic particle. This is true regardless of which function (function 1 or function 2) 「も」 is doing in a particular sentence. Let's use the same example we saw in the section about 「は」 to illustrate how 「も」 doesn't change the logical meaning of a sentence.
+Just like 「は」, 「も」 doesn't change the logical meaning of the sentence either. After all, 「も」 is also a topic particle. This is true regardless of which function (function #1 or #2) 「も」 is doing in a particular sentence. Let's use the same example we saw in the section about 「は」 to illustrate how 「も」 doesn't change the logical meaning of a sentence.
 
 - 私がさくらにボールを投げる
 
@@ -379,11 +379,11 @@ Now, let's add the 「も」 flag.
 
 This means "As for me too, (I) throw a ball at Sakura". In normal English, we might say "I also throw a ball at Sakura". Notice that the logical meaning of the sentence hasn't changed. The person throwing the ball (marked by 「が」) is still 「私」, the object being thrown is still 「ボール」, the recipient of the ball is still 「さくら」.
 
-This is true regardless of the function of 「も」. If 「も」 is acting as **function 1**, then it could be something like:
+This is true regardless of the function of 「も」. If 「も」 is acting as **function #1**, then it could be something like:
 
 - Bob throws a ball at Sakura. ==I also throw a ball at Sakura==.
 
-If 「も」 is acting as **function 2**, then it could be something like:
+If 「も」 is acting as **function #2**, then it could be something like:
 
 - One time when I got angry, I punched and broke my TV. ==I also threw a ball at Sakura==.
 
@@ -1547,7 +1547,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     - 机の上に ==本と== ==ペンと== がある  
     There is ==a book== and ==a pen== on the desk
 
-    If we want to list things, such as "A, B, C, D, and E", we attach 「と」 to each item, like so 「AとBとCとDとEと」. So, if we want to list "book and pen", we say:
+    If we want to list things, such as "W, X, Y, and Z", we attach 「と」 to each item, like so 「WとXとYとZと」. So, if we want to list "book and pen", we say:
 
     - 本とペンと
     
@@ -1566,7 +1566,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     - ==本と== ==ペンと== を買う  
     Buy ==a book== and ==a pen==
 
-    Again, 「本とペンと」 means "book and pen". The engine here is 「買う」(buy). What are the things that we are buying? Book and pen. Therefore "book and pen" has to be marked by 「を」(function 1 of 「を」):
+    Again, 「本とペンと」 means "book and pen". The engine here is 「買う」(buy). What are the things that we are buying? Book and pen. Therefore "book and pen" has to be marked by 「を」(function #1 of 「を」):
 
     Main wagon "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
@@ -1632,7 +1632,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     **Example 2**
 
     - ==友達と== 買い物をする  
-    Shopping ==with friend==
+    Shop ==with friend==
 
     Main wagon "A" | 「と」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
@@ -1640,7 +1640,29 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
     The action is 「買い物をする」(to shop), and we are doing it TOGETHER WITH 「友達」(friend).
 
-    !!! danger "How is this function (3) different from the previous one (2)?"
+    **Example 3**
+
+    - ==みんなと== 行く  
+    Go ==with everyone==
+
+    Main wagon "A" | 「と」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==みんなと== | 行く
+
+    The action is 「行く」(go), and we are *going* (somewhere) TOGETHER WITH 「みんな」(everyone).
+
+    **More in-depth explanation**
+
+    This function of 「と」 can be replaced with 「と{++一緒に++}」 and the meaning of the overall sentence will NOT change. The word 「一緒に」 literally means "together".
+
+    - ==花さんと=={++一緒に++}勉強する  
+    Study {++together++} ==with Hanako==
+    - ==友達と=={++一緒に++}買い物をする  
+    Shop {++together++} ==with friend==
+    - ==みんなと=={++一緒に++}行く  
+    Go {++together++} ==with everyone==
+
+    !!! danger "How is this function (#3) different from the previous one (#2)?"
         I'm glad you asked :)
 
         **Example 1**
@@ -1649,22 +1671,18 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
         - I fight with you
 
-        There's two interpretation here:
+        There are 2 interpretations here:
 
         1. I fight *against* you
         2. I fight *alongside* you
 
-        The first interpretation would be using 「と」 with "*Function 2: Marks the counterpart (either a person or a thing) with whom the action is performed*":
+        The first interpretation would be using 「と」 with "*Function 2: Marks the counterpart (either a person or a thing) with whom the action is performed*".
 
-        - 私が君と戦う
-
-        The second interpretation would be using the 「と」 with "*Function 3: Marks the person or thing that you do something together with*":
-
-        - 私が君と戦う
+        The second interpretation would be using the 「と」 with "*Function 3: Marks the person or thing that you do something together with*". **THIS** is the interpretation that can replace 「と」 with 「と一緒に」 and the meaning won't change. Like we saw earlier, the phrase "I fight with you" can have 2 interpretations. But if we explicitly said "I fight *together* with you", then we know for sure that we mean "I fight *alongside* you".
 
         **Example 2**
 
-        「一緒に」 means "together". Now let's look at these sentences[^1]:
+        Now let's look at these sentences[^1]:
 
         [^1]: [文法指導と文法的思考法 : 助詞・助動詞、形容詞・形容動詞について](https://core.ac.uk/download/pdf/78600687.pdf)
 
@@ -1673,11 +1691,11 @@ The particle 「で」 also has many functions, and can be summarized as the **b
         3. 花子さんとデートする
         4. 花子さんと結婚する
 
-        Which sentence can we replace 「と」 with 「と一緒に」 and the overall meaning of the sentence remains unchanged? The answer is **1**.
+        Which of these sentence can we replace 「と」 with 「と一緒に」 and the overall meaning of the sentence remains unchanged? The answer is **1**.
 
-        In the first sentence, the 「と」 is actually being used as "together with". We're saying 「花子さんと（一緒に）勉強する」 or "(I) study (together) with Hanako". The 「と」 with "function 3" can be replaced with 「と一緒に」 and the meaning will not change.
+        In the first sentence, the 「と」 is actually being used as "together with". We're saying 「花子さんと（一緒に）勉強する」 or "(I) study (together) with Hanako". The 「と」 with "function #3" can be replaced with 「と一緒に」 and the meaning will not change.
 
-        However, sentences 2, 3, and 4 are different. The 「と」 from those sentences is the 「と」 from "function 2: marks the counterpart". Let's take sentence 4 as example. If we were to change this:
+        However, sentences 2, 3, and 4 are different. The 「と」 from those sentences is the 「と」 from "function #2: marks the counterpart". Let's take sentence 4 as example. If we were to change this:
 
         - 花子さんと結婚する
 
@@ -1685,7 +1703,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
         - 花子さんと{++一緒に++}結婚する
 
-        then we are no longer saying "(I) marry *to* Hanako". Instead we would be saying, "I marry to person X. Hanako marries to person Y. Hanako and I are simply marrying *at the same time*". Remember that once we use 「と一緒に」 then we are explicitly using the 「と」 with "function 3". This means that "Hanako" is no longer the "counterpart" of my marriage.
+        then we are no longer saying "(I) marry *to* Hanako". Instead we would be saying, "I marry to person X. Hanako marries to person Y. Hanako and I are simply marrying *at the same time*". Remember that once we use 「と一緒に」 then we are explicitly using the 「と」 with "function #3". This means that "Hanako" is no longer the "counterpart" of my marriage.
 
         **Example 3**
 
@@ -1694,13 +1712,19 @@ The particle 「で」 also has many functions, and can be summarized as the **b
         - ==花子さんと== テニスをする  
         Play tennis ==with Hanako==
 
-        Again, this could be interpreted in two ways, but the most likely scenario is that we are saying "playing tennis *against* Hanako". Hanako is our oponent. This means that the 「と」 in this sentence is being used as "function 2".
+        Again, this could be interpreted in two ways, but the most likely scenario is that we are saying "playing tennis *against* Hanako". Hanako is our oponent. This means that the 「と」 in this sentence is being used as "function #2".
 
         If we were to say:
 
         - 花子さんと{++一緒に++}テニスをする
 
-        Then we are no longer saying "play tennis with Hanako" in the sense that Hanako is our oponent. We are now saying that Hanako is in our team and we are playing *alongside* Hanako (presumably a 2vs2 match). In this case, the 「と」 is for sure being used as "function 3".
+        Then we are no longer saying "play tennis with Hanako" in the sense that Hanako is our oponent. We are now saying that Hanako is in our team and we are playing *alongside* Hanako (presumably a 2vs2 match). In this case, the 「と」 is for sure being used as "function #3".
+
+        **Why do I bother making the difference between function #2 and #3?**
+
+        Because, you might encounter 「と一緒に」 in your input (listening and reading) in places where there "**shouldn't**" be a 「一緒に」. When you do encounter those scenarios, you can now pick up on the (not so) subtle difference between them.
+
+        When I say "**shouldn't**", I mean cases like, for example, 「花子と戦う」 where it's *usually* interpreted as "against". But if you see 「花子と一緒に戦う」, then you can know for sure that it means "alongside".
 
 ???+ info "Function 4: Marks the object used for comparison"
     **Example 1**
@@ -2089,18 +2113,7 @@ This particle is pretty much a 1 to 1 equivalent to the English word "from" (thi
     - ==最初から== 嘘ついた  
     Lied ==from the beginning==
 
-???+ info "Function 2: Marks the giver of action"
-    **Example 1**
-
-    - 情報は ==私から== 先生に伝える  
-    As for the information, (I) report (it) ==from me== to teacher
-
-    **Example 2**
-
-    - ==彼女から== プレゼントをもらった  
-    Received a gift ==from girlfriend==
-
-???+ info "Function 3: Marks the starting point of motion"
+???+ info "Function 2: Marks the starting point of motion"
     **Example 1**
 
     - 虫が ==窓から== 入った  
@@ -2115,6 +2128,28 @@ This particle is pretty much a 1 to 1 equivalent to the English word "from" (thi
 
     - ==家から== 歩く  
     Walk ==from home==
+
+    **Example 4**
+
+    - ==ここから== 出発する  
+    Leave ==from here==
+
+???+ info "Function 3: Marks the giver of action"
+    **Example 1**
+
+    - 情報は ==私から== 先生に伝える  
+    As for the information, (I) report (it) ==from me== to teacher
+
+    **Example 2**
+
+    - ==彼女から== プレゼントをもらった  
+    Received a gift ==from girlfriend==
+
+???+ info "Funcion 4: Marks the ingredient used for an action"
+    **Example 1**
+
+    - ワインは、==ブドウから== 作られる  
+    As for wine, (it) is made ==from grapes==
 
 ### 「まで」
 
@@ -2215,8 +2250,6 @@ As for work, (it) is ==from 9 o'clock== ==to 5 o'clock==
 - ==家から== ==学校まで== 歩く  
 Walk ==from home== ==to school==
 
-### 「より」
-
 ## Contrasts
 
 ### 「は」 vs 「も」
@@ -2290,7 +2323,7 @@ Normal English: *You don't know but I do*
 **Example 3**
 
 - アフリカは ==ライオンは== いるけど、==トラは== いない。  
-Literally: *As for Africa, ==as for lions==, (they) exist but ==as for tigers==, they don't exist*  
+Literally: *As for Africa, ==as for lions==, (they) exist but ==as for tigers==, (they) don't exist*  
 Normal English: *In Africa, there are lions but there are no tigers.*
 
 ### 「は」 vs 「が」
@@ -2321,7 +2354,7 @@ Let's see the difference between 「は」 and 「が」 again, but not from the
     :---: | :---:
     アリスが | 学生だ
 
-    But if we are asking the question "Who is the student?", that means we don't know what is inside the main carriage "A". It means that the main wagon "A" is unknown. To illustrate:
+    But if we are asking the question "Who is the student?", that means we don't know what is inside the main wagon "A". It means that the main wagon "A" is unknown. To illustrate:
 
     Main wagon "A" | Engine "B"
     :---: | :---:
@@ -2721,7 +2754,7 @@ However, there is one function that 「へ」 can do but 「に」 cannot:
 
 - Function 1: Marks the direction of a verb
 
-For this reason, 「へ」 is usually only used for this "function 1": to mark the direction of a verb. Let's look at an example:
+For this reason, 「へ」 is usually only used for this "function #1": to mark the direction of a verb. Let's look at an example:
 
 1. 日本 ==に== 行く
 2. 日本 ==へ== 行く
@@ -2939,14 +2972,3 @@ https://hinative.com/ja/questions/5665426
 山で登る
 山で階段を登る
 
-## Sentence ending particles
-
-### 「か」
-### 「かしら」
-### 「の」
-### 「な」
-### 「ね」
-### 「よ」
-### 「よね」
-### 「や」
-### 「わ」
