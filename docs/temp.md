@@ -1,39 +1,110 @@
-```css
-/* For kanji */
-.kanji-link {
+???+ info "Function 4: Marks the reason of an action"
+    **Example 1**
 
-}
+    - ==恐ろしさに== 震える  
+    Tremble with ==fear==
 
-/* For kana & alphanumeric characters */
-.source-text {
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==恐ろしさに== | 震える
 
-}
+    The engine is 「震える」(tremble). What's the reason for trembling? Because of fear.
 
-/* For furigana */
-ruby {
+    **Example 2**
 
-}
-``` 
+    - ==蚊に== 苦しむ  
+    Suffer from ==mosquitoes==
 
-A disc img ..... (usually `.iso`) that contains .......
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==蚊に== | 苦しむ
 
-++ctrl+alt+del++
+    The engine is 「苦しむ」(suffer). What's the reason for suffering? Mosquitoes. Probably mosquito bites.
 
-# Japanese Guide
-I know that the following guide is long. But language learning is something you do in the long term, so please take time to read this guide in its entirety.
+    **Example 3**
 
-I apologise if this guide may get a little scientific, and I **will not write a simplified version** of this guide. Everything stated below is what you need to know. Sorry about that.
+    - ==勉強に== 疲れた  
+    Tired from ==studying==
 
-## Why many people “fail” to learn Japanese
-Before I talk about this, I would like to clarify what I mean by “fail”. What I mean is, not being able to achieve their goals. Many people love the idea of being fluent, and being able to watch Japanese media without subtitles, in their raw form. However, many people also don’t ever reach this goal, or even get close. I believe it mostly isn’t *their* fault, but rather, the *method*’s fault.
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==勉強に== | 疲れた
 
-Whether you’re a “visual learner” or an “auditory learner” does not mean anything when it comes to learning a language, you have a big problem if you acquired your first language by hearing it (like we all did) but apparently you’re more of a “visual learner.” It mostly comes down to the *method* used to study Japanese. There are other factors too, such as motivation, or hours spent each day/consistency. But I believe the *method* in the first place is very important.
+    The engine is 「疲れた」(tired). What are you tired from? What's the reason for getting tired? Studying.
 
-For example, if someone told you that you could learn to swim by reading a book about swimming, would you be able to swim after you finished that book? No. That is because this is a fundamentally flawed method - it does not work.
 
-What this guide aims to do is educate you on effective methods to study Japanese, so that you don’t end up like the others that failed and instead succeed, all while having fun in your target language, and in this case, your target language is most likely Japanese.
-Back to the “visual learner” and “auditory learner” thing, while it may be true for other fields of study, it is not valid for acquiring a language. We all acquire language in the same exact way, and that is through *comprehensible input*. I often come across people saying, “everyone learns differently” and again, this may be true for other fields of study but not for language *acquisition*.
-Key word: acquisition.
+???+ info "Function 9: 所有する者を表す (明鏡国語辞典)"
+    - 彼には子供が三人いる
+    - 彼女には責任感が欠けている
+
+???+ info "Function 10: その状態が適切かどうかを判断するための、個別の基準を表す (明鏡国語辞典)"
+    - 私には大きい
+    - 子供には無理だ
+    - 私にはできない
+
+???+ info "Function 11: 〔自発・可能・感情述語の表現で〕感情・知覚・思考の主体を表わす。 (新明解国語辞典　第七版)"
+    - 私にはよく分かる
+    - 私にはあなたの言葉が悲しい
+    - 彼には幽霊が見える
+
+???+ info "Function 12: 問題として取り上げる対象の範囲を限定することを表わす。 (新明解国語辞典　第七版)"
+    - その点━△関して（ついて）は検討の余地がある
+    - 即刻改める分━は格別とがめるものではない
+    - 先生━は〔=間接的な表現をとることによる一種の尊敬表現〕お変わりなくお過ごしのことと存じます
+
+???+ warning "unknown"
+    - 私は ==天文学に== 詳しい  
+    As for me, (it) is detailed about ==astronomy==
+
+    <table>
+      <tr>
+        <th colspan="4" style="text-align: center">私は 🏳️</th>
+      </tr>
+      <tr>
+        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">「に」</th>
+        <th style="text-align: center">Engine "B"</th>
+      </tr>
+      <tr>
+        <td style="text-align: center">Ø が</td>
+        <td style="text-align: center">==天文学に==</td>
+        <td style="text-align: center">詳しい</td>
+      </tr>
+    </table>
+
+    The engine is 「詳しい」(detailed). 「詳しい」 is an i-adjective, so we know that it is an "A is B" type of sentence. What is the main wagon "A"? It is "it". What is "it" referring to? It refers to knowledge. So, the full sentence actually reads:
+
+    - As for me, knowledge is detailed about astronomy.
+
+    Or in normal English, we might say "I'm an astronomy expert".
+
+???+ info "Function 7: Marks the time of an action"
+    This is different from the "marks the time of an action" function from 「に」. We will look at the difference later in the "Contrast" section.
+
+    **Example 1**
+
+    - ==今日で== は、月旅行はもはや夢ではなくなった  
+    ==Today==, a trip to the moon is no longer a dream
+
+    **Example 2**
+
+    - ==現在で== は、なんらの疑惑もいだいていない  
+    ==Now==, there are no suspicions whatsoever
+
+    **Example 3**
+
+    - ==現在で== は、簡単に解決する問題だ  
+    ==Now==, it's an easy problem to solve
+
+    **Example 4 **
+
+    - ==後で== 僕が片付ける  
+    I'll put it away ==later==
+
+    **Example 5**
+    
+    - ==今で== は真面目に暮らしている  
+    ==Now== I'm living an honest life
 
 ???+ tip "How do native speakers actually use だ-engine?"
 

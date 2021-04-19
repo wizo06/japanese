@@ -33,9 +33,9 @@ theme:
         name: Switch to dark mode
 extra_css:
   - stylesheets/extra.css
-# repo_url: https://github.com/wizo06/japanese/issues
-# repo_name: FEEDBACK
-# edit_uri: ""
+repo_url: https://github.com/wizo06/japanese/discussions
+repo_name: Discussions
+edit_uri: ""
 markdown_extensions:
   - admonition
   - attr_list
@@ -55,7 +55,7 @@ plugins:
   - search
 nav:
   - 'index.md'
-  - 'language-acquisition.md'
+  - Language Acquisition: 'language-acquisition.md'
   - Grammar Guide:
     - Fundamentals:
       - 'grammar/fundamentals/sentence-structures.md'
@@ -72,3 +72,4 @@ nav:
     - Special Expressions:
       - 'grammar/expressions/4. Special Expressions.md'
   - 'reference.md'
+  - 'contact.md'
