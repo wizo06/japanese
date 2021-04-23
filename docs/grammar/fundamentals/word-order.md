@@ -28,7 +28,7 @@
         Notice that we only changed the order of the **wagons**, NOT the **content** itself of each wagon.
 
     !!! info "Rule 2: If X is modifying/describing Y, then X must always come BEFORE Y"
-        We already saw a sneak peek of this in the section about [Description](description.md).
+        We already saw a sneak peek of this in the section about description.
 
         If we say:
 

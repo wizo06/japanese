@@ -279,7 +279,7 @@
 ???+ info "Function 2: Interchangeable with 「の」"
     You'll most likely not see this function of 「が」 if you're using beginner-friendly content as your input.
 
-    Basically, this function of 「が」 is exactly the same as the 「の」 we learned in [Describing a noun using another noun](#using-a-noun). However, this is often only used in "archaic" phrases like:
+    Basically, this function of 「が」 is exactly the same as the 「の」 we learned for describing a noun using another noun. However, this is often only used in "archaic" phrases like:
 
     - 我が国
     - 我が祖国
@@ -804,7 +804,7 @@
     {++妹++} | が | ==描いた== {++絵++}
 
     **More in-depth explanation**  
-    If we recall what we learned in [Engine "B"](a-and-b.md#engine-b), 「妹が描いた」 is just an "A does B" sentence.
+    If we recall what we learned about the Engine "B", 「妹が描いた」 is just an "A does B" sentence.
 
     Main wagon "A" | Engine "B"
     :---: | :---:
@@ -812,7 +812,7 @@
 
     *Little sister drew*
 
-    And if we recall what we learned in [Describing a noun using a verb](description.md#using-a-verb), we simply place the description before the noun:
+    And if we recall what we learned about describing a noun using a verb, we simply place the description before the noun:
 
     - ==妹が描いた== {++絵++}  
     *{++Picture++} ==that little sister drew==*

@@ -45,7 +45,7 @@
 
     Or in normal English we might say "Flowers are prettier than they look in the pictures".
 
-???+ info "Function 2: Interchangeable with the function #1, #2, and #3 of 「[から](grammar/fundamentals/particles.md#_10)」"
+???+ info "Function 2: Interchangeable with some functions of 「から」"
     This usage of 「より」 is preferred over 「から」 for a more formal style of writing.
 
     **Example 1**

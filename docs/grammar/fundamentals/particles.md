@@ -988,7 +988,7 @@ The particle 「へ」 also has many functions that resembles the particle 「�
 
     *A letter that I wrote ==to== mother*
 
-    If we recall what we learned in [Describing a noun using a verb](description.md#using-a-verb), we can say:
+    If we recall what we learned about describing a noun using a verb, we can say:
 
     - ==私が書いた== 手紙  
     A letter ==that I wrote==
@@ -1735,7 +1735,7 @@ Let's see the difference between 「は」 and 「が」 again, but not from the
 
     *"As for who, is (it) a student?"*
 
-    and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the section about [Main wagon "A"](a-and-b.md#main-wagon-a) that 「が」 attaches to a word to mark it as the main wagon "A". 
+    and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the section about main wagon "A" that 「が」 attaches to a word to mark it as the main wagon "A". 
 
     Suppose the student is "Alice". Then, we can say "Alice is student" like so:
 
@@ -2075,7 +2075,7 @@ In normal English, we might say "Elephant's nose is long". Again, it's possible 
 - 私は魚だ。  
 *As for me, (it) is fish*
 
-Ah, yes. Remember this example from the section about [「は」](#_1)? When you're with a group of friends ordering at a restaurant, it's common to say 「私は。。。」 because you want to make a contrast from your friends (remember the contrastive property of 「は」). If your friend orders pancakes, and you want to order something else, you should say 「私は。。。」 (not 「私が。。。」) to make use of the contrastive property of 「は」. If you want to order the same thing, then you can of course say 「私も。。。」.
+Ah, yes. Remember this example from the section about 「は」? When you're with a group of friends ordering at a restaurant, it's common to say 「私は。。。」 because you want to make a contrast from your friends (remember the contrastive property of 「は」). If your friend orders pancakes, and you want to order something else, you should say 「私は。。。」 (not 「私が。。。」) to make use of the contrastive property of 「は」. If you want to order the same thing, then you can of course say 「私も。。。」.
 
 I digress. In this sentence, the topic is "I" and the subject is "it". Based on context, "it" refers to "the dish that I want to order".
 
