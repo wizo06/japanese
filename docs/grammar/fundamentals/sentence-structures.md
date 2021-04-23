@@ -11,7 +11,7 @@
 
 Every Japanese sentence at its core is composed of two elements: "A" and "B". Let's imagine these elements as part of a train, where "A" is the **main wagon** and "B" is the **engine**:
 
-![](train.png)
+![](../../img/fundamentals/train.png)
 
 We will visualize the train as the following table moving forward:
 

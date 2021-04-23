@@ -11,14 +11,14 @@ Japanese | English | Sentence type | Engine name
 さくらが親切だ | Sakura is friendly | A is B (Adjectives) | だ-engine
 さくらが学生だ | Sakura is a student | A is B (Nouns) | だ-engine
 
-Now, let's start describing words by using other words, like so:
+Now, let's start describing nouns by using other words, like so:
 
 - ==Crying== Sakura / Sakura ==who is crying==
 - ==Kind== Sakura / Sakura ==who is kind==
 - ==Friendly== Sakura / Sakura ==who is friendly==
 - Sakura ==who is a student==
 
-In these examples, I've highlighted the "descriptive words" in yellow. These words are describing another word: "Sakura".
+In these examples, I've highlighted the "descriptive words" in yellow. All these descriptive words are describing a noun: "Sakura".
 
 We can make these descriptions as long as we want to. Example:
 
@@ -32,15 +32,15 @@ Main wagon "A" | Engine "B"
 アリスが | 笑ってる
 Alice | is smiling
 
-and the descriptive words (highlighted in yellow) are just, well, describing "Alice".
+and the descriptive words (highlighted in yellow) are just describing "Alice".
 
-We can describe a word (more specifically, describe a noun) by using another word. Let's call this "another word" as "descriptive word". This "descriptive word" can be: a verb, an adjective (i-adjective and na-adjective), or another noun. Notice that all of them are related to one of the three engines.
+We can describe a noun by using another word. Let's call this "another word" as "descriptive word". This "descriptive word" can be: a verb, an adjective (i-adjective and na-adjective), or another noun. Notice that all of them are related to one of the three engines.
 
 To describe a noun in Japanese, we simply place the "descriptive word" **before** the noun. In other words, we place the engine before the noun. Let's look at how this is done for each engine.
 
 ### Using a verb
 
-We know how to say:
+We already know how to say:
 
 - さくらが歩く。  
 *Sakura walks.*
@@ -109,7 +109,7 @@ Notice how we are using the verb "eat" to describe the noun "dog".
 
 #### i-adjective
 
-We know how to say:
+We already know how to say:
 
 - さくらが優しい。  
 *Sakura is kind*
@@ -131,6 +131,10 @@ Japanese | English
 ==美味しい== 寿司 | ==Delicious== sushi
 ==美しい== 姫 | ==Beautiful== princess
 ==赤い== ペン | ==Red== pen
+==優しい== 彗星 | ==Gentle== comet
+
+!!! tip "Did you know"
+    「優しい彗星」 is the name of a song from the duo YOASOBI. Great song by the way.
 
 Let's look at some examples in sentences:
 
@@ -164,17 +168,9 @@ Main wagon "A" | Engine "B"
 
 *==White== horse runs.*
 
-**Example 4**:
-
-- ==優しい== 彗星  
-**==Gentle== comet**
-
-!!! tip "Did you know"
-    「優しい彗星」 is the name of a song from the duo YOASOBI. Great song by the way.
-
 #### na-adjective
 
-We know how to say:
+We already know how to say:
 
 - さくらが親切だ。  
 *Sakura is friendly*
@@ -188,9 +184,7 @@ then we place 「親切」 before 「さくら」, like so:
 - 親切 ==な== さくら
 
 !!! warning "Pay attention to the kana 「な」"
-    When a na-adjective is describing a noun, the copula 「だ」 is dropped and we use the kana 「な」 to connect the two words (hence the name na-adjectives).
-
-    Again, this explanation isn't entirely correct according to how grammar is actually taught in Japan. However, for the sake of making things easy to understand, we will stick with this explanation.
+    When a na-adjective is describing a noun, we use the kana 「な」 to connect the them (hence the name na-adjectives).
 
 Examples of na-adjectives (highlighted) describing a noun:
 
@@ -273,7 +267,9 @@ Here are a few examples:
 8. ==アメリカの大学== の{++学生++}  
 *==American university== {++student++}* / *{++Student++} of an ==American university==*
 
-The noun highlighted in {++green++} is what we are talking about, and the noun highlighted in ==yellow== is labeling it.
+The nouns highlighted in {++green++} are the ones getting labeled. The nouns highlighted in ==yellow== are the ones labeling them.
+
+Let's go over each sentence briefly.
 
 1. We're talking about 「友達」"friends", and the noun 「学校」"school" is labeling "what type of friends?" / "where are those friends from?"
 
@@ -283,13 +279,13 @@ The noun highlighted in {++green++} is what we are talking about, and the noun h
 
 4. We're talking about 「ライオン」"lion", and the noun 「３月」"March" is labeling "lion from which month?"
 
-5. Same as #3.
+5. We're talking about 「本」"book", and the noun 「さくら」"Sakura" is labeling "whose book?"
 
-6. Same as #1.
+6. We're talking about 「大学」"university", and the noun 「アメリカ」"America" is labeling "what type of university?"
 
-7. Same as #1.
+7. We're talking about 「学生」"student", and the noun 「大学」"university" is labeling "what type of students?" / "where are those students from?"
 
-8. Same as #1.
+8. We're talking about 「学生」"student", and the noun 「アメリカの大学」"American university" is labeling "what type of students?" / "where are those students from?"
 
 We will learn more about the particle 「の」 in a later section.
 
@@ -298,7 +294,7 @@ We will learn more about the particle 「の」 in a later section.
 
 ### no-adjectives
 
-Historically, Japanese did not have na-adjectives, and only had i-adjectives and nouns. In fact, in Japanese, "i-adjectives" are referred to as 「形容詞」 which literally means "adjective". The terms "i-adjective" and "na-adjective" are only really used in settings where Japanese is being taught to westerners, but I digress. Overtime, when new words were introduced into the language they were added as **nouns**. These "new words" are primarily of Chinese origin, such as:
+Historically, Japanese did not have na-adjectives, and only had i-adjectives and nouns. In fact, in Japanese, "i-adjectives" are referred to as 「形容詞」 which literally means "adjective". The terms "i-adjective" and "na-adjective" are only really used when teaching Japanese to westerners, but I digress. Overtime, when new words were introduced into the language, they were added as **nouns**. These "new words" are primarily of Chinese origin, such as:
 
 - 綺麗
 - 元気
@@ -308,7 +304,7 @@ Historically, Japanese did not have na-adjectives, and only had i-adjectives and
 - 健康
 - 病気
 
-but there are also some that are from other origins, such as English, French, etc:
+but there are also some that are from other origins, such as English, French, German etc:
 
 - リアル
 - モダン
@@ -352,7 +348,7 @@ Here's a few examples of "new words" that stayed as nouns (some dictionaries and
     - 爽やか
     - 明らか
 
-#### The adjective ←→ noun spectrum
+#### The adjective ←→ noun spectrum [^1]
 
 Adjectives and nouns are not black and white. They actually lie on a spectrum. Some words can be used as nouns (no-adjective) and also as adjectives (na-adjective). Of course, the meaning will also change depending on which one is being used. To best illustrate the change in meaning, let's look at some examples:
 
@@ -362,15 +358,13 @@ Adjectives and nouns are not black and white. They actually lie on a spectrum. S
 2. 綺麗のヒント  
 *beauty hints*
 
-In the first sentence, 「綺麗」 is expressing a characteristic, quality, or attribute of 「人」. The word 「綺麗」 is **describing** 「人」. We already learned this back in the [Engine "B"](a-and-b.md#engine-b) section. To briefly paraphrase what was explained in that section:
+In the first sentence, 「綺麗」 is expressing a characteristic, quality, or attribute of 「人」. The word 「綺麗」 is acting as an adjective and it is **describing** 「人」. To briefly paraphrase what we learned about adjectives:
 
 > Adjectives are words that expresses state, quality, property of an object.
 
-「綺麗」 is in fact acting as an adjective here.
+Now, let's look at the second sentence. Here, 「綺麗」 is used with 「の」. We learned in the previous section that we can label a noun with another noun, and we connect them with the particle 「の」. Does that mean that 「綺麗」 is acting as a noun here? Absolutely. 「綺麗」 is not describing 「ヒント」, it is **labeling** it. The *hints* themselves are not beautiful, the hints are about beauty. 「綺麗」 is simply telling us what type of hints they are: they are not about finance or dating; they are about beauty.
 
-Now, let's look at the second sentence. Here, 「綺麗」 is used with 「の」. We learned in the previous section that we can label a noun with another noun, and we connect them with the particle 「の」. Does that mean that 「綺麗」 is acting as a noun here? Absolutely. 「綺麗」 is not describing 「ヒント」, it is **labeling** it. The *hints* themselves are not beautiful, it is simply telling us what type of hints they are: they are not about finance or dating; they are about beauty.
-
-Some words are always used with 「な」, while others are always used with 「の」. There are also some words that can be used with both, just like the examples that we saw earlier. Here's a small chart that shows all four categories:
+Some words are always used with 「な」, some are always used with 「の」, and some are even used with both, just like the 「綺麗」 that we saw earlier. Here's a small chart that shows a few words in the 4 categories:
 
 Always 「の」 | Usually 「の」＞「な」 | Usually 「な」＞「の」 | Always 「な」
 :---: | :---: | :---: | :---:
@@ -391,11 +385,11 @@ no-adjectives can be loosely divided into two groups:
 
 Let's look at two examples of no-adjectives that expresses **absolutes**:
 
-- 本当の理由  
-*True reason*
+- ==本当== の理由  
+*==True== reason*
 
-- 最大の原因  
-*The biggest cause*
+- ==最大== の原因  
+*==The biggest== cause*
 
 The fact that 「本当」 and 「最大」 are acting as nouns here might be hard for English speakers to see, since "true" and "biggest" are adjectives in English. Here's the logic behind it: a noun such as "dog" expresses absolutes. Something either is or isn't a dog. Similarly, something either is or isn't true. Something either is or isn't the biggest. That's not the case with na-adjectives. A na-adjective such as 「静か」(quiet) can be modified by an adverb of degree such as 「ちょっと静か」(a little quiet). However, the lack of grey area for absolutes like 「最大」 means that they can't be modified by an adverb of degree.
 
@@ -407,11 +401,11 @@ Now let's look at two examples of no-adjectives that expresses **quantities**:
 - {++かなり++} ==大量== のデータ  
 *{++Fairly++} ==large amount== of data*
 
-In the first example, 「沢山」 labels the noun 「魚」 ー it tells us that this is "a lot of fish" rather than "not a lot of fish". Likewise, in the second example, 「大量」 labels the noun 「データ」 ー it tells us that this is "a large amount of data" rather than "not a large amount of data".
+In the first example, 「沢山」 labels the noun 「魚」. It tells us that this is "a lot of fish" rather than "not a lot of fish". Likewise, in the second example, 「大量」 labels the noun 「データ」. It tells us that this is "a large amount of data" rather than "not a large amount of data".
 
 However, quantities are inherently gradable; if we add more fish to 「沢山の魚」, then it would be fair to use an adverb of degree like 「すごく」 to say 「すごく沢山の魚」(incredibly many fish).
 
-Now, let's switch gears and look at two more examples that contrast na-adjectives vs no-adjectives:
+Let's go back to comparing na-adjectives vs no-adjectives by looking at the following 2 examples:
 
 **Example 1**:
 
@@ -423,13 +417,13 @@ Person B: ううん、普通 ==の== 人だよ。
 
 In this example, *person B* chooses to answer the question with 「普通 ==の== 人」. This is because *person B* treats "normal" as a label for a type of people, and suggests that the boyfriend belongs in that category. Let's look at a conversation where using 「普通 ==な== 人」 would be more appropriate:
 
-- 新しい彼氏、変な人？
+- 新しい彼氏、変な人？  
 *Is your new boyfriend a weirdo?*
 
-- ううん、普通 ==な== 人だよ。
+- ううん、普通 ==な== 人だよ。  
 *No, he's a normal person*
 
-In this case, it was less about labeling the boyfriend, and more about his personality. For this reason, *person B* chose to use 「普通 ==な== 人」, highlighting normalness as a trait that characterizes the boyfriend. 「普通 ==の== 人」 is possible here too, if we decide to treat "weirdos" and "normal people" as categories of people.
+In this case, it was less about labeling the boyfriend, and more about his personality or his intrinsic quality. For this reason, *person B* chose to use 「普通 ==な== 人」, highlighting normalness as a trait that characterizes the boyfriend. 「普通 ==の== 人」 is possible here too, if we decide to treat "weirdos" and "normal people" as categories of people.
 
 **Example 2**:
 
@@ -438,11 +432,11 @@ In this case, it was less about labeling the boyfriend, and more about his perso
 
 *There are many sick people at that institution.*
 
-In the first sentence, 「病気」 is labeling 「人」. It tells us that that the sentences applies to *people who have disease*, rather than *people who don't*. This is the typical way that 「病気」 is used to modify a noun, and has a neutral, objective tone.
+In the first sentence, 「病気」 is labeling 「人」. It tells us that the sentences applies to *people who have disease*, rather than *people who don't*. This is the typical way that 「病気」 is used to modify a noun, and has a neutral and objective tone.
 
 On the other hand, the second sentence, 「病気」 is describing 「人」. In this (possible, but uncommon) usage, 「病気」 is treated as a quality, property, nature of those people, which sounds negative and rude. It sounds something akin to the English phrase "sick in the head". 
 
-This shouldn't be a surprise if we recall what we learned in the section of [Engine "B"](a-and-b.md#engine-b) and [copula](a-and-b.md#copula) about adjectives and the copula, respectively. As a reminder, *adjectives* expresses property or quality of something; the copula (which is used for *nouns*) simply expresses "A belongs to the set of B".
+This shouldn't be a surprise if we recall what we learned about adjectives and the copula. As a reminder, adjectives expresses property or quality of something; the copula (which is used for *nouns*) simply expresses "A belongs to the set of B".
 
 If we choose to say 「病気 ==な== 人」, then 「病気」 is acting as an adjective, therefore we're expressing a property or quality of 「人」. We're saying that "being sick" is intrinsically a characteristic of those people (which is why it sounds negative and rude). However, if we say 「病気 ==の== 人」, then we're not treating 「病気」 as a intrinsic nature of those people; we're simply labeling them with a neutral tone as "people who have disease" / "people who are sick" (as opposed to people who aren't sick). We're saying with a neutral tone "people who belong to the set of people who are sick".
 

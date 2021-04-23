@@ -2812,7 +2812,7 @@ The focus of this sentence is: the destination where they will "meet up" (集ま
 
 This is another case where imagining 「に」 as an arrow is useful.
 
-![](ni-vs-de.png){: width=400 }
+![](../../img/fundamentals/ni-vs-de.png){: width=400 }
 
 The park (公園) is depicted with the green rectangle, and the people that are going to meet up are depicted with the little black circles. Those people will gather "towards" the destination: 「公園」. In Japanese, it is more natural to say 「～に集まる」.
 
@@ -2844,20 +2844,20 @@ Before we continue with the explanation, let's revisit two examples we saw in th
 - 1時に食べる。  
 *Eat at one o'clock*
 
-![](ni-vs-de-2.png){: width=500 }
+![](../../img/fundamentals/ni-vs-de-2.png){: width=500 }
 
 As you can see, imagining 「に」 as an arrow is also useful here. The 「に」 is an arrow that is pointing at a specific point in time: 1:00PM.
 
 - 3年生の3月にある就活のイベント。  
 *Job hunting event in March of junior year*
 
-![](ni-vs-de-3.png){: width=500 }
+![](../../img/fundamentals/ni-vs-de-3.png){: width=500 }
 
 Here, 「に」 is again pointing at a specific point in time: March of junior year.
 
 Now, let's see how this arrow is applied to 「晩ご飯を食べた後 ==に== 宿題をやる」.
 
-![](ni-vs-de-4.png){: width=500 }
+![](../../img/fundamentals/ni-vs-de-4.png){: width=500 }
 
 Here, 「に」 is pointing at a specific point in time: 「後」. It tells  us *when* 「宿題をやる」 will start. As a result, the nuance that 「～後に」 carries is **the order** in which the actions will take place. First 「晩ご飯を食べた」 then 「宿題をやる」. 「で」, however, puts emphasis on the the fact that the action 「宿題をやる」 will ONLY happen under the circumstance of "after dinner" (晩ご飯を食べた後). This can also be seen as "「宿題をやる」 will happen once 「晩ご飯を食べる」 is finished".
 

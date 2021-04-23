@@ -61,7 +61,7 @@ The two important points in this quote are:
 
 ### Comprehensible input
 
-The way we acquire language is through comprehensible input. What does "input" mean? It means listening and reading. Comprehensible input simply refers to "understanding the message" from what you are listening to or reading from. One does not necessarily need to understand *how* the message was said (What grammar was used? What specific vocabularies were used?). One simply needs to understanding the message itself.
+The way we acquire language is through comprehensible input. What does "input" mean? It means listening and reading. Comprehensible input simply refers to "understanding the message" from what you are listening to or reading from. One does not necessarily need to understand *how* the message was said (What grammar was used? What specific words were used?). One simply needs to understanding the message itself.
 
 Acquisition is done through thousands of hours of listening and reading in your TL. **There is no shortcut.**
 
@@ -106,7 +106,9 @@ When I say "learn about pitch accent", I don't necessarily mean that you have to
 
 ### 4. Vocabulary
 
-This guide only teaches grammar. It doesn't teach vocabulary. For more details on how to learn vocabulary, refer to [TheMoeWay](https://learnjapanese.moe/guide/#vocabulary) and/or [Refold](https://refold.la/roadmap/stage-1/c/vocabulary). My recommendation is to learn vocabularies from the contents that you use as input.
+My recommendation is to learn vocabulary from the contents that you use as input. If you build your vocabulary from the contents that you read/listen to, chances are, that same word will appear again in the future as you keep reading/listening, which in turn makes it easier to remember because of how frequent they appear. Not only that, you are learning those words WITH context, which in my opinion, is better and more effective than learning without any context (e.g. memorizing a random list of words that are unrelated to each other. This happens a lot in traditional learning environment because the goal is to pass a test).
+
+For more details on how to learn vocabulary, refer to [TheMoeWay](https://learnjapanese.moe/guide/#vocabulary) and/or [Refold](https://refold.la/roadmap/stage-1/c/vocabulary). 
 
 ### 5. Grammar
 
@@ -123,13 +125,13 @@ At the beginning when we made the distinction between acquiring and learning (sk
 
 > "No amount of skill-building will help you become fluent."
 
-So what's the point of learning a language, such as learning grammar? You can speed up your acquisition by learning. You can speed up your listening and reading comprehension (acquisition) by learning grammar and vocabulary.
+So what's the point of learning a language, such as learning grammar? The answer is: You can speed up your language acquisition by learning about the language. You can speed up your listening and reading comprehension (acquisition) by learning grammar and vocabulary.
 
 **Grammar as a model**
 
-Grammar, like we said earlier, is just something that attempts to describe how a language works. In other words, grammar is a **model** of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. This is essentially what happened to all of us when we were babies with our first language.
+Grammar, like we said earlier, is just something that attempts to describe how a language works. In other words, grammar is a **model** of a language. When you start learning a new language, your brain has no model for that language yet. If you get a lot of input from that language, your brain will start doing pattern recognition, and it will automatically build a model for that language. The more input you get, the more refined the model becomes. However, if you start doing input from day 1 without knowing any grammar, your brain has to essentially build the model from scratch. This is essentially what happens to every baby when they are born.
 
-By learning grammar, you are essentially giving your brain a model to start from. However, depending on which grammar guide you use (textbooks, apps, random guides online such as this one), the "model" that your brain will receive will also differ. There is no such thing as a perfect grammar guide (including this one) because of reasons that I just explained above. A true understanding of the language only happens through acquisition, NOT learning.
+Luckily for us, our cognitive ability is more developed than that of a baby's. This means that we can learn grammar from day 1. By doing this, you are essentially giving your brain a model to start from, so it doesn't have to figure things out from scratch. However, depending on which grammar guide you use (textbooks, apps, random guides online such as this one), the "model" that your brain will receive will also differ. There is no such thing as a perfect grammar guide (including this one) because of reasons that I just explained above. A true understanding of the language only happens through acquisition, NOT learning.
 
 **Choosing a grammar guide**
 
@@ -170,7 +172,7 @@ Matt vs Japan also has a video explaining why it's OK to output early [here](htt
 !!! quote
     "The quality and quantity of your output is a function of the quality and quantity of your input" - Matt vs Japan. [More about it on this video](https://youtu.be/Df24NIPkvVQ).
 
-Your output can only be as good as your input. If you haven't heard (input) how an idea is expressed in Japanese, you won't know how to express (output) it in Japanese. You could technically, by learning grammar and vocabulary, know how to say something in Japanese without hearing it first; BUT the way you say it, the words you choose, they will (99% of the time) all sound unnatural (even if it's grammatically correct). This is especially true for beginners because you haven't had enough exposure to Japanese.
+Your output can only be as good as your input. If you haven't heard (input) how an idea is expressed in Japanese, you won't know how to express (output) it in Japanese. You can technically, by learning grammar and vocabulary, know how to say something in Japanese without hearing it first; BUT the way you say it, the words you choose, they will (99% of the time) all sound unnatural (even if it's grammatically correct). This is especially true for beginners because of the lack of exposure to Japanese.
 
 Here's an excerpt from [Refold](https://refold.la/roadmap/stage-3/b/output-troubleshooting#NL-Conflicts):
 

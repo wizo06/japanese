@@ -122,7 +122,7 @@ All these sentences are complete Japanese sentences, with two parts: 1. the main
 
 This might sound like unecessary emphasis on the fact that the main wagon is still there even though it's invisible. However, the importance of this emphasis will become more apparent as sentences become more complex. Without a good understanding of this concept, complex sentences are going to start sounding extremely vague and hard to understand.
 
-## Definition of three basic linguistic words
+## Linguistic words
 
 Before we learn about the engine "B", it'd be a lot easier for us to understand the engines if we first learn three basic linguistic words:
 
@@ -219,14 +219,14 @@ Engine name | Used when "B" is:
 だ-engine | Noun or Adjective (na-adjective)
 い-engine | Adjective (i-adjective)
 
-Notice these two points from the table:
+Notice that:
 
 - Adjectives in Japanese are divided into two groups: *na-adjective* and *i-adjective*. 
 - na-adjectives and nouns use the same engine.
 
 We will learn the reason behind this when we learn about the だ-engine.
 
-!!! note "Author's note"
+!!! info "Author's note"
     According to how grammar is taught in Japan, dividing the engine into these three types isn't exactly correct. But, for the sake of simplicity and to make things easier to understand for us, we will stick to this model.
 
 ### う-engine
@@ -247,7 +247,7 @@ This engine is used for expressing sentences like "A does B", where "B" is a **v
 ???+ question "Why is it called "one-row" and "five-rows"?"
     First, we need to bring up the hiragana chart.
 
-    ![](hiragana.jpg){: width=400 }
+    ![](../../img/fundamentals/hiragana.jpg){: width=400 }
 
     Next, we need to understand the concept of "inflection". We will learn more about inflections in a later section, but for now, you just need to know that we can change part of the verb (and the other two engines as well) to express additional information. Let's look at two verbs as examples:
 
@@ -265,9 +265,9 @@ This engine is used for expressing sentences like "A does B", where "B" is a **v
     - 書 ==か== {++ない++}  
     *Not write*
 
-    Notice that in 「書 ==く== 」→「書 ==か== {++ない++}」, we changed 「く」 to 「か」, and then attached 「ない」. If we were to attach a different helper verb, then the 「く」 might have to change to 「き」、「け」、or 「こ」. If we look at the hiragana chart above, that's all 5 variants for the /k/ consonant: 「か」、「き」、「く」、「け」、「こ」. Each variant corresponds to one row, therefore this type of verbs is called **"five-rows" 「五段」**. Some textbooks call this "u-verb".
+    Notice that in 「書 ==く== 」→「書 ==か== {++ない++}」, we changed 「く」 to 「か」, and then attached 「ない」. If we were to attach a different helper verb, then the 「く」 might have to change to 「き」、「け」、or 「こ」. If we look at the hiragana chart above, that's all 5 rows for the /k/ column: 「か」、「き」、「く」、「け」、「こ」. These type of verbs will have its last kana changed to any of the 5 variants depending on the inflection, hence they are called **"five-rows" 「五段」**. Some textbooks call this "u-verb".
 
-    Now, notice that in 「食べ{--る--}」→「食べ{++ない++}」, we simply dropped 「る」 and attached 「ない」. If we were to attach a different helper verb, the 「食べ」 part will still stay the same -it will always be fixed-. The 「食べ」 part ends with the kana 「べ」, and this kana never changes no matter what inflection we do to the verb. If we look at the hiragana chart above, the 「べ」 "stays" on the same row regardless of inflection, therefore this type of verbs is called **"one-row" 「一段」**. Some textbooks call this "ru-verb".
+    Now, notice that in 「食べ{--る--}」→「食べ{++ない++}」, we simply dropped 「る」 and attached 「ない」. If we were to attach a different helper verb, the 「食べ」 part will still not change. In the case of 「食べる」, the 「食べ」 part ends with the kana 「べ」, and this kana never changes no matter what inflection we do to the verb. If we look at the hiragana chart above, the 「べ」 "stays" on the same row regardless of inflection, hence they are called **"one-row" 「一段」**. Some textbooks call this "ru-verb".
 
 Examples:
 
@@ -282,8 +282,6 @@ Example of one-row verbs | Example of five-rows verbs | Irregular verbs
 出る | 買う
 いる | ある
 着る | 死ぬ
-
-As we saw earlier, it is important to make the distinction of *one-row* vs *five-rows* because they inflect differently.
 
 !!! warning "There are two irregular verbs"
     The verb: 「する」 and 「来る」 are considered as irregular. The reason is that these two verbs do not inflect in quite the same way as the other two categories do. We will learn about inflections in a later section.
@@ -313,10 +311,10 @@ Main wagon "A" | Engine "B" | English
 
 #### Copula
 
-Before we continue, we need to first learn about the **copula**. A copula is a word that is used to declare that "A" belongs to the set of "B". 
+Before we continue with the だ-engine, we need to learn about another linguistic word: the **copula**. A copula is a word that is used to declare that "A" belongs to the set of "B". 
 
 !!! example "Example 1"
-    Back when we learned the three type of sentences, the second sentence answers the question *What is "A"?* We used this sentence as example:
+    Back when we learned the three type of sentences, the second sentence answers the question *What is "A"?* The sentence that we used as example was:
 
     - Flowers are plants.
 
@@ -346,13 +344,13 @@ Main wagon "A" | Engine "B" | English
 
 It is helpful to think of 「だ」 as a person placing "A" into the set "B", like so:
 
-![](copula.png){: width=300 }
+![](../../img/fundamentals/copula.png){: width=300 }
 
 So, if we use "Sakura is a Japanese person" as an example again, then the copula 「だ」 is placing "Sakura" into the set of "Japanese people".
 
 #### When "B" is a noun
 
-As we saw earlier when we learned about the copula, the だ-engine is used in the sentences of type "A is B", which implicitly answer the question "What is A?". When we answer that question by saying "A is B", the "B" is a **noun**.
+As we saw earlier when we learned about the copula, the だ-engine is used in the sentences of type "A is B", which implicitly answer the question "What is A?". In this case, when we answer that question by saying "A is B", the "B" is a **noun**.
 
 Example sentences using the だ-engine, where "B" is a noun:
 
@@ -369,11 +367,11 @@ Main wagon "A" | Engine "B" | English
 
 #### When "B" is an adjective (na-adjective)
 
-Back when we learned the three type of sentences, the third sentence answers the question *What is "A" like?* We answer this question by saying "A is B". Example:
+Going back again to when we learned the three type of sentences, the third sentence that we saw answers the question *What is "A" like?* We answer this question by saying "A is B". Example:
 
 - What are flowers like? Flowers are pretty.
 
-This type of "A is B" sentence is fundamentally different from the "A is B" sentence we [just learned](#when-b-is-a-noun). Here, the "B" is not a noun; it's an adjective: "pretty". Nevertheless, we can still use the だ-engine when "B" is an adjective. More specifically, we can use it when "B" is a **na-adjective**. 
+This type of "A is B" sentence is fundamentally different from the "A is B" that is used when "B" is a noun. Here, the "B" is not a noun; it's an adjective. When we say "flowers are pretty", the "B" is "pretty", which is an adjective. Nevertheless, we can still use the だ-engine when "B" is an adjective. More specifically, we can use it when "B" is a **na-adjective**. 
 
 Example sentences using the だ-engine, but "B" is a na-adjective:
 
@@ -381,13 +379,13 @@ Main wagon "A" | Engine "B" | English
 :---: | :---: | :---:
 さくらが | 有名だ。 | Sakura is famous.
 街が | 静かだ。 | Street is quiet.
-辞書 | 便利だ。 | Dictionary is convenient.
+辞書が | 便利だ。 | Dictionary is convenient.
 友達が | 大切だ。 | Friends are precious.
 書類が | 必要だ。 | Document is necessary.
 アリスが | 親切だ。 | Alice is friendly.
 私が | 真面目だ。 | I am honest.
 
-!!! tip
+!!! tip "Did you know"
     na-adjectives are actually derived from nouns[^1], which is why they both behave so similarly. We will learn the history behind this in a later section when we learn about the so called "no-adjective".
 
 [^1]: [形容動詞 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%AE%B9%E5%8B%95%E8%A9%9E#%E6%A6%82%E8%A6%81)
@@ -514,4 +512,4 @@ Here, ==「船」== means "ship", and it's being used with {++「いる」++} wh
 
 [^1]: [NHKニュース　「不審な船がいる」の「いる」について](https://lang-8.com/293700/journals/1257964)
 
-Generally speaking, it is OK to simply use 「いる」 for humans and animals, and 「ある」 for the rest. If an exception comes up, like the ones you see above, then you just have to memorize and get used to those few exceptions.
+Generally speaking, it is OK to simply use 「いる」 for humans and animals, and 「ある」 for the rest. If an exception comes up when you're reading or listening to something, like the ones you see above, then you just have to memorize and get used to those few exceptions.
