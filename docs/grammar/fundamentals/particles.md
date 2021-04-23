@@ -1,4 +1,4 @@
-# Particles
+# Particles (basic)
 
 !!! tip "Author's note"
     Particles can be very confusing especially for a beginner. If there's anything that I don't expect you to fully understand it by reading it once only, it will the particles. You should expect to come back and revisit this page (or any other resource) often if you encounter a particle in your input (reading and listening) that you don't understand. That being said, this page does not teach all the particles, nor does it teach all the different functions of each particle. If you're at intermediate level, I suggest you to look up the particle on a monolingual dictionary. Monolingual dictionaries give the best explanations.
@@ -27,7 +27,7 @@ Means "Fish eats (something)"
 - 魚 ==を== 食べる。  
 Means "(Something) eats fish"
 
-We can finally put the knowledge from [Sentence Structures](sentence-structures.md) into use. As a reminder, this is how we visualize our train analogy:
+We can finally put the knowledge from Sentence Structures into use. As a reminder, this is how we visualize our train analogy:
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ Each case marking particle has **more than one function**. We will learn only th
     :---: | :---:
     ==雨が== | 降る
 
-    「が」 marks the subject of the sentence. In other words, it marks the main wagon "A". It marks the *doer*. It tells us *who* or *what* is doing the action of engine "B". Here, the engine "B" is the verb 「降る」(fall). What is falling? Rain is falling. This is an ["A does B" sentence](a-and-b.md#engine-b).
+    「が」 marks the subject of the sentence. In other words, it marks the main wagon "A". It marks the *doer*. It tells us *who* or *what* is doing the action of engine "B". Here, the engine "B" is the verb 「降る」(fall). What is falling? Rain is falling.
 
     **Example 2**
 
@@ -454,21 +454,11 @@ Each case marking particle has **more than one function**. We will learn only th
     :---: | :---:
     ==りんごが== | 美味しい  
 
-    Here, the engine is 「美味しい」(is delicious). What is delicious? Apple is delicious. This is an ["A is B" sentence](a-and-b.md#engine-b).
-
-???+ info "Function 2: Interchangeable with 「の」"
-    You'll most likely not see this function of 「が」 if you're using beginner-friendly content as your input.
-
-    Basically, this function of 「が」 is exactly the same as the 「の」 we learned in [Describing a noun using another noun](#using-a-noun). However, this is often only used in "archaic" phrases like:
-
-    - 我が国
-    - 我が祖国
-    - 藤が丘
-    - 霞が関
+    Here, the engine is 「美味しい」(is delicious). What is delicious? Apple is delicious.
 
 ### 「を」
 
-The particle 「を」 has many functions. We'll look at a few basic ones below. The kana 「を」 is normally pronounced as 「を」, but when it's used as a particle, it's pronounced as 「お」. You might ocassionally hear it actually being pronounced as 「を」 in some songs.
+The kana 「を」 is normally pronounced as 「を」, but when it's used as a particle, it's pronounced as 「お」. You might ocassionally hear it actually being pronounced as 「を」 in some songs.
 
 ???+ info "Function 1: Marks the direct object of an action"
     **Example 1**
@@ -549,7 +539,7 @@ The particle 「を」 has many functions. We'll look at a few basic ones below.
 
     The engine is 「散歩する」(stroll). The movement is "stroll". What's the physical space in which you are taking a stroll? The park.
 
-    **Example 4**
+    **Example 5**
 
     - ==山道を== 登る  
     Climb ==mountain path==
@@ -560,47 +550,26 @@ The particle 「を」 has many functions. We'll look at a few basic ones below.
 
     The movement is 「登る」(climb). What's the physical space in which you are climbing up? The mountain path.
 
-???+ info "Function 3: Marks the time of time-related verbs"
-    **Example 1**
+    !!! tip
+        One way to help remember this function of 「を」, is to treat it as if it was function #1. You can imagine the "physical space" as a literal direct object of your movement, where your footprints get left behind after you "move" across it.
 
-    - ==楽しい時間を== 過ごした  
-    Spent ==fun time==
+        - ==階段を== 上がる  
+        Go up ==the stairs==  
+        You leave your footprints on the stairs when you go up the stairs.
 
-    Main wagon "A" | 「を」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==楽しい時間を== | 過ごした
+        - ==空を== 飛ぶ  
+        Fly ==in the sky==  
+        You leave your footprints on the sky when you fly across it. (I'm streching this imagination very far. I know.)
 
-    In normal English, we might say "I had a good time". Here, the engine is the verb 「過ごす」which means "pass (time)" or "spend (time)" in past-tense. 「楽しい時間」 means "fun time". So, what time did you spend your time on? You spent it on "fun time".
+        - ==公園を== 散歩する  
+        Take a walk ==in the park==  
+        You leave your footprints on the park when you walk along it.
 
-    **Example 2**
+        - ==山道を== 登る  
+        Climb ==mountain path==  
+        You leave your footprints on the mountain path when you climb it.
 
-    - ==混沌の時代を== 生き抜く  
-    Live through ==era of chaos==
-
-    Main wagon "A" | 「を」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==混沌の時代を== | 生き抜く
-
-    In normal English, we might say "Survive the test of time". The engine is the verb 「生き抜く」 which means "live" with the nuance of "survived hardships". The word "live" in English has many meanings, but the meaning that I'm talking about here is:
-    
-    > spend one's life in a particular way or under particular circumstances
-    
-    such as in the sentence "*people are living in fear in the wake of the shootings*".
-
-    So, going back to our example, what kind of time did we live through? An era/age of chaos.
-
-    **Example 3**
-
-    - ==不惑の年を== 越える  
-    Go past (one's) ==prime time==
-
-    Main wagon "A" | 「を」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==不惑の年を== | 越える
-
-    The engine is the verb 「超える」("go over" or "pass over" or "go past"). So, what kind of time did we go past? We went past (our) prime time.
-
-???+ info "Function 4: Marks the place of departure"
+???+ info "Function 3: Marks the place of departure"
     **Example 1**
 
     - ==電車を== 降りる  
@@ -650,7 +619,7 @@ The particle 「を」 has many functions. We'll look at a few basic ones below.
 The particle 「に」 also has many functions. I personally like to think of the particle 「に」 as an **arrow**. Why? It will become apparent when we compare 「に」 to other particles in a later section.
 
 ???+ info "Function 1: Marks location of static verbs"
-    Static verbs are verbs that have no movement. For example, "live", "exist", "sit", "appear", etc.
+    Static verbs are verbs that have no movement. For example, "inhabit", "exist", "sit", "appear", etc.
 
     **Example 1**
 
@@ -719,7 +688,7 @@ The particle 「に」 also has many functions. I personally like to think of th
 
     The engine is 「座ってる」(sitting). Where are you sitting? Over there.
 
-???+ info "Funcion 2: Marks the time or order of an action"
+???+ info "Funcion 2: Marks the time or order in which an action will happen"
     **Example 1**
 
     - ==五時に== 起きる  
@@ -753,6 +722,17 @@ The particle 「に」 also has many functions. I personally like to think of th
 
     The engine is 「やる」(do). What are we doing? Homework (marked by 「を」). When will we do it? On Monday.
 
+    **Example 4**
+
+    - ==ゲームをセーブした後に== 寝る  
+    (I) sleep ==after (I) save the game==.
+
+    Main wagon "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==ゲームをセーブした後に== | 寝る
+
+    The engine is 「寝る」(sleep), and we want to express the order in which we will do things. We will go to sleep *after* we save the game.
+
     !!! warning
         「に」 can only be used with **specific time**, and NOT **relative time**.
 
@@ -762,14 +742,14 @@ The particle 「に」 also has many functions. I personally like to think of th
         - ３月 (March)
         - １５日 (15th day of month)
 
-        Examples of relative time:
+        Relative time means "relative to now". Examples of relative time:
 
         - 今日 (today)
         - 明日 (tomorrow)
         - 去年 (last year)
         - 来月 (next month)
 
-        But there are some words that can be used with 「に」 **optionally**:
+        There are also some words that can be used with 「に」 **optionally**:
 
         - morning (朝)
         - noon (昼)
@@ -823,7 +803,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     :---: | :---: | :---:
     Ø が | ==山に== | 登る
 
-    The engine is 「登る」(climb). Where is the destination of climbing up? The summit of the mountain.
+    The engine is 「登る」(climb). Where is the destination of climbing up? The (summit of the) mountain.
 
     **Example 5**
 
@@ -929,95 +909,7 @@ The particle 「に」 also has many functions. I personally like to think of th
 
     The action is 「賛成する」(agree). What is receiving our agreement? "Your opinion" is receiving it.
 
-    **Example 8**
-    
-    - ==人間関係に== 悩む  
-    Worry about human relations    
-
-    Main wagon "A" | 「に」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==人間関係に== | 悩む
-
-    The action is 「悩む」(worry). What are we worrying about? What is receiving our worry? Human relations.
-
-???+ info "Function 5: Marks the result or outcome of an change"
-    **Example 1**
-
-    - 子供が ==小学校の一年生に== なった  
-    The kid became ==first grader of elementary school==
-
-    Main wagon "A" | 「に」 | Engine "B"
-    :---: | :---: | :---:
-    子供が | ==小学校の一年生に== | なった
-
-    The action is 「なった」(became). What did the kid become? What is the "result" of "become"? First grader of elementary school. The kid went from "not a first grader" and turned into "a first grader". The kid changed from "not a first grader" to "a first grader".
-
-    **Example 2**
-
-    - ==お金持ちに== なりたい  
-    Want to become ==rich==
-
-    Main wagon "A" | 「に」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==お金持ちに== | なりたい
-
-    The action is 「なりたい」(want to become). What do we want to become? We want to become rich.
-
-    **Example 3**
-
-    - 信号が ==赤に== 変わる  
-    Signal changes to ==red==
-
-    Main wagon "A" | 「に」 | Engine "B"
-    :---: | :---: | :---:
-    信号が | ==赤に== | 変わる
-
-    The action is 「変わる」(change). What does the signal change to? What does the signal turn into? It turns red.
-
-???+ info "Function 6: Marks the purpose or intention of an action"
-    **Example 1**
-
-    - ==映画を見に== 行く  
-    Go ==see a movie==
-
-    Main wagon "A" | 「に」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==映画を見に== | 行く
-
-    The action is 「行く」(go). The intention is 「映画を見る」(see a movie).
-
-    **Example 2**
-
-    - ==魚を釣りに== 行く  
-    Go ==fish a fish==
-
-    Main wagon "A" | 「に」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==魚を釣りに== | 行く
-
-    The action is 「行く」(go). The intention is 「魚を釣る」(fish a fish).
-
-    **Example 3**
-
-    - ==ご飯を食べに== 行く  
-    Go ==eat food==
-
-    Main wagon "A" | 「に」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==ご飯を食べに== | 行く
-
-    The action is 「行く」(go). The intention is 「ご飯を食べる」(eat food).
-
-    !!! note
-        Notice that the action of the intention changes slightly when we attach 「に」 to it.
-
-        - 見る → 見に
-        - 釣る → 釣りに
-        - 食べる → 食べに
-
-        We will learn more about this grammar in a later section.
-
-???+ info "Function 7: Marks the object used as basis/standard for comparison"
+???+ info "Function 5: Marks the object used as basis/standard for comparison"
     **Example 1**
 
     - 私が ==母に== 似ている  
@@ -1027,7 +919,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     :---: | :---: | :---:
     私が | ==母に== | 似ている
 
-    The verb is 「似ている」(resemble). The subject is 「私」(I). Who do I resemble? Who do I look like? Mother.
+    The verb is 「似ている」(resemble). The subject is 「私」(I). Who do I resemble? Who do I look like? Mother. We are marking 「母」 with the particle 「に」 to say that "mother" is the basis/standard of comparison, and we're saying "I resembler her" or "I look like her".
 
     **Example 2**
 
@@ -1038,29 +930,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     :---: | :---: | :---:
     Ø が | ==海に== | 近い
 
-    The engine is 「近い」 which means "is close" or "is nearby". What are we close to? The sea.
-
-    **Example 3**
-
-    - ==1ヶ月に== ８日の休みがある  
-    There are 8 days of vacation ==in 1 month==
-
-    「に」 | Main wagon "A" | Engine "B"
-    :---: | :---: | :---:
-    ==1ヶ月に== | ８日の休みが | ある  
-
-    The verb is 「ある」(exist). What is there? There are 8 days of vacation. In what basis are there 8 days of vacation? In 1 month. If the basis was different, say, 2 months, then the number of vacation days would also differ. This is why "1 month" is considered as a basis/standard.
-
-    **Example 4**
-
-    - ==一日に== 三回食べる  
-    Eat three times ==in one day==
-
-    Main wagon "A" | 「に」 | Counter | Engine "B"
-    :---: | :---: | :---: | :---:
-    Ø が | ==一日に== | 三回 | 食べる
-
-    The action is 「食べる」(eat). How many times? 3 times. In what basis do we eat 3 times? We eat 3 times in "one day".
+    The engine is 「近い」 which means "is close" or "is nearby". What are we close to? The sea. We marked 「海」 with the particle 「に」 to say that we are close *to* it.
 
 ### 「へ」
 
@@ -1097,7 +967,7 @@ The particle 「へ」 also has many functions that resembles the particle 「�
     - ==母へ== の手紙  
     A letter ==to mother==
 
-    「手紙」 means "letter". If we ignore 「へ」 for now, and only look at the rest of the phrase: 「母の手紙」, then this phrase means "mother's letter". Remember what we learned from [Describing a noun using another noun](description.md#using-a-noun). We learned that 「母」 is telling us what kind of 「手紙」 it is, because those two words are connected with 「の」. So, the phrase "mother's letter" means that the letter is coming "from mother".
+    「手紙」 means "letter". If we ignore 「へ」 for now, and only look at the rest of the phrase: 「母の手紙」, then this phrase means "mother's letter". We already learned about describing a noun using another noun. In this case, 「母」 is telling us what kind of 「手紙」 it is, because those two words are connected with 「の」. So, the phrase "mother's letter" means that the letter is coming "from mother".
 
     Now, if we change the 「母」 part into 「母へ」, then that means "targeted at mother". So, if we take 「母へ」 and use it to describe 「手紙」」, then it will become 「==母へ==」+「の」+「{++手紙++}」 → 「==母へ== の{++手紙++}」: "==targeted at mother== {++letter++}". Or in normal English: "a letter to mother" or "a letter for mother". The letter is not *from mother*; the letter is *targeted at mother*.
 
@@ -1157,7 +1027,7 @@ The particle 「へ」 also has many functions that resembles the particle 「�
 
     Again, 「彼女へ」 means "targeted at girlfriend", and it is describing 「プレゼント」. So, 「彼女へのプレゼント」 means "gift for girlfriend". And the entire thing is marked by 「を」 to tell us *what* was bought.
 
-???+ info "Function 3: Marks the destination of a verb"
+???+ info "Function 3: Marks the destination of movement"
     This is exactly like the "marks the destination of a verb" function from 「に」.
 
     - ==学校へ== 行く  
@@ -1171,7 +1041,7 @@ The particle 「へ」 also has many functions that resembles the particle 「�
 
 ### 「で」
 
-The particle 「で」 also has many functions, and can be summarized as the **boundary** particle.
+The particle 「で」 also has many functions, which I like to summarize as the **boundary** particle.
 
 ???+ info "Function 1: Marks the place where an action takes place"
     **Example 1**
@@ -1206,7 +1076,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     :---: | :---: | :---:
     Ø | ==自転車で== | 行く
 
-    The action is 「行く」(go). Through which means are we going? We are going by bike.
+    The action is 「行く」(go). By which means are we going? We are going by bike.
 
     **Example 2**
 
@@ -1252,69 +1122,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
     Again, we are saying "make an airplane". What ingredient was used to make it? Paper.
 
-???+ info "Function 3: Marks the cause/reason of the action"
-    **Example 1**
-
-    - ==寒さで== 震える  
-    Shiver with ==cold==
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    Ø | ==寒さで== | 震える
-
-    The action is 「震える」(shiver). What's the reason for shivering? What's causing you to shiver? It's because you're cold.
-
-    **Example 2**
-
-    - ==熱で== 学校を休む  
-    Skip school due to ==fever==
-    
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
-    :---: | :---: | :---: | :---:
-    Ø | ==熱で== | 学校を | 休む
-
-    The action is 「休む」 which means "to be absent" or "to take a day off". In Japanese, if you're "taking a day off from school", then "school" is the direct object of 「休む」, which is why 「学校」 is marked with 「を」. Now, what's the reason for taking a day off from school? The reason is "fever".
-
-    **Example 3**
-
-    - ==受験準備で== 忙しい  
-    Busy due to ==preparations for entrance examination==
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    Ø | ==受験準備で== | 忙しい
-
-    The action is 「忙しい」(be busy). What's the reason for being busy? The reason is "preparations for entrance examination".
-
-    **Example 4**
-
-    - ==火事で== すべてを失う  
-    Lose everything because of ==conflagration==
-
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
-    :---: | :---: | :---: | :---:
-    Ø | ==火事で== | すべてを | 失う
-
-    The aciton is 「失う」 which means "lose". The word "lose" in English has many meanings, but the one I'm talking about here is
-
-    > be deprived of or cease to have or retain (something)
-
-    such as in the sentence "she lost her husband in the fire".
-
-    So, going back to our example, what did we lose? We lost 「すべて」(everything), which is marked by 「を」. Why did we lose everything? What's the reason for our loss? The reason is "conflagration" or "fire".
-
-    **Example 5**
-
-    - ==撃たれた傷で== 死ぬ  
-    Die from ==injury inflicted by gun shot==
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    Ø | ==撃たれた傷で== | 死ぬ
-
-    The action is 「死ぬ」(die). Why did we die? What's the reason for our death? The reason is "injury inflicted by gun shot".
-
-???+ info "Function 4: Marks the state/circumstance/condition in which an action happens"
+???+ info "Function 3: Marks the state/circumstance/condition in which an action happens"
     **Example 1**
 
     - ==大声で== 叫ぶ  
@@ -1358,175 +1166,6 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     Ø | ==千円で== | 釣りを | ください
 
     The action is 「くださる」(give me) and it's inflected to express a "request". So, 「ください」 means "please give me" (requesting the other person to "give me"). What is the object that is being given? It's the 「釣り」(change). But we don't want them in 5 yen coins. We wan't them in bills of 1000 yen. In other words, the "state" in which the 「釣り」 will be given, is in "bills of 1000 yen".  
-
-???+ info "Function 5: Marks the time frame in which an action is completed"
-    **Example 1**
-
-    - ==三日で== 仕上げる  
-    Finish in ==three days==  
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    Ø | ==三日で== | 仕上げる
-
-    The action is 「仕上げる」(finihs a job), and the time frame is 「３日」(three days).
-
-    **Example 2**
-
-    - ==十分間で== 答える  
-    Answer within ==10 minutes==
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    Ø | ==十分間で== | 答える
-
-    The action is 「答える」(reply), and the time frame is 「十分」(ten minutes).
-
-    **Example 3**
-
-    - ==1週間で== 治る  
-    Heal in ==a week==
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    Ø | ==1週間で== | 治る
-
-    The action is 「治る」(heal), and the time frame is 「１週間」(1 week).
-
-???+ info "Function 6: Marks the deadline of an action"
-    **Example 1**
-
-    - 申込みが ==明日で== 締め切る  
-    The applications will close by ==tomorrow==
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    申込みが | ==明日で== | 締め切る
-
-    The action is 「締め切る」 which means "to close off" or "to cut off (because a deadline has expired)", and the deadline is 「明日」(tomorrow).
-
-    **Example 2**
-
-    - 当店が ==五時で== 閉める  
-    This store closes at ==5 o'clock==
-
-    Main wagon "A" | 「で」 | Engine "B"
-    :---: | :---: | :---:
-    店が | ==五時で== | 閉める
-
-    The action is 「閉める」 which means "to close" or "to shut". What is closing up? The 「店」(store) is closing up (marked by 「が」). What is the deadline for today's operation? The store will remain open until "5 o'clock". In other words, it will close at 5 o'clock.
-
-???+ info "Function 7: Marks the boundary of a range"
-    The word "**range**" is used very loosely here.
-
-    ???+ info "The "range" refers to quantity"
-        **Example 1**
-
-        - ==1人で== 泣いた  
-        Cried ==alone==
-
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        Ø が | ==1人で== | 泣いた
-
-        The action is 「泣いた」(cried), and we want to express that it happened within the range of "1 person". An alternative translation could be "cried by myself/yourself/himself/herself". The boundary of this "range/quantity" is "1 person".
-       
-        **Example 2**
-
-        - ==みんなで== 行く  
-        Go ==everyone==
-        
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        Ø が | ==みんなで== | 行く
-
-        The action is 「行く」(go), and we want to express that the action "go (somewhere)" happens with a certain number of people. This "number of people" is a "quantity". If it's 1 person, then the quantity is "1", if it's 2 people, then the quantity is "2". If it's "everyone", then the quantity is "everyone". The boundary of this "range/quantity" is "everyone".
-
-        !!! warning
-            Do not confuse this with 「みんな ==と== 行く」 which is literally "go ==with== everyone". We'll see the particle 「と」 later.
-
-        **Example 3**
-
-        - ==全部で== 百円だ  
-        (It) is 100 yen ==for everything==
-
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        Ø が | ==全部で== | 百円だ
-
-        The engine is 「百円だ」(is 100 yen). So, 「Øが百円だ」 literally means "(it) is 100 yen", where "it" is presumably the cost of a purchase. Here, we want to express that "it is 100 yen *for all the items*". The boundary of this "range/quantity" is "everything".
-
-        **Example 4**
-
-        - ==3つで== 百円だ  
-        (It) is 100 yen == for 3 items==
-
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        Ø が | ==全部で== | 百円だ
-
-        Just like the previous example, it's saying "(it) is 100 yen", but this time the quantity is not "everything", it's just "3 items".
-
-        **Example 5**
-
-        - ==それだけで== いい  
-        (It) is good ==with only that==
-
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        Ø が | ==それだけで== | いい
-        
-        In normal English we might say, "That's all I need". The engine is 「いい」(is good). Depending on the context, it can be interpreted as the English word "enough". So we're basically saying "(it) is enough". On top of that, we want to express "(it) is enough *with that amount only*". The boundary of this "range/quantity" is "only that amount".
-
-    ???+ info "The "range" refers to physical place"
-        **Example 1**
-
-        - 富士山が ==世界で== 一番綺麗だ    
-        Mt. Fuji is the most beautiful mountain ==in the world==.
-
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        富士山が | ==世界で== | 一番綺麗だ  
-
-        「一番」 just means "first" and 「綺麗」 just means "beautiful". So 「一番綺麗」 means "most beautiful.
-
-        Since we have the だ-engine here, we know that it's an "A is B" sentence. In other words, it is 「AがBだ」. What is "A"? It's 「富士山」(Mt. Fuji). What is "B"? It's 「一番綺麗だ」(is the most beautiful). So, now we have 「富士山が一番綺麗だ」, which means "Mt. Fuji is the most beautiful".
-
-        Finally, we want to express that the statement "Mt. Fuji is the most beautiful" is true even when we consider all the mountains in the world. In other words, the boundary of this "range" is "worldwide". So we add 「世界で」. Putting everything together, we have 「富士山が世界で一番綺麗だ」.
-
-        **Example 2**
-
-        - このラーメンが ==全国で== 一番美味しい  
-        This ramen is the most delicious ==in the country==
-
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        このラーメンが | ==全国で== | 一番美味しい
-
-        Again, this is an "A is B" sentence, where the core is just 「このラーメンが一番美味しい」 which means "This ramen is the most delicious". We want to express that this statement is true nationwide. So we add 「全国で」. The boundary of this "range" is "nationwide".    
-
-    ???+ info "The "range" refers to something abstract"
-        **Example 1**
-
-        - ==私の実力で== 無理だ  
-        It's impossible with ==my competency==
-
-        Main wagon "A" | 「で」 | Engine "B"
-        :---: | :---: | :---:
-        Ø が | ==私の実力で== | 無理だ
-
-        The engine is 「無理だ」(is impossible), and we want to express than the "range of competency" has a boundary of "my competency".
-
-        **Example 2**
-
-        - ==若い人の間で== 人気がある  
-        Be popular ==among young people==
-
-        「で」 | Main wagon "A" | Engine "B"
-        :---: | :---: | :---:
-        ==若い人の間で== | 人気が | ある。
-
-        The engine is 「ある」(exist) and the main wagon is 「人気」(popularity). In Japanese, when we want to express that "(something) is popular", we say 「somethingは人気がある」(As for something, there is popularity). Anyways I digress. We're essentially saying "be popular", and the boundary of the "range" where you *are* popular is "among young people".
 
 ### 「と」
 
@@ -1572,7 +1211,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     :---: | :---: | :---:
     Ø が | ==本と== ==ペンと== を | 買う
 
-    !!! info "Last 「と」 is optional"
+    !!! tip "The last 「と」 is optional"
         When we list things using 「と」, the last 「と」 is optional .
 
         - ==君と僕== が選ばれた  
@@ -1585,8 +1224,8 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
         are also acceptable.
 
-???+ info "Function 2: Marks the counterpart (either a person or a thing) with whom the action is performed"
-    There are certain actions (verbs) that will always have two sides to it by definition. Examples of these actions are:
+???+ info "Function 2: Marks the counterpart of an action"
+    There are certain actions (verbs) that, by definition, will always have two sides to it. Examples of these actions are:
 
     - Marry
     - Fight
@@ -1596,7 +1235,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     **Example 1**
 
     - ==花子と== 結婚する  
-    Marry ==Hanako==
+    (I) marry ==Hanako==
 
     Main wagon "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
@@ -1615,12 +1254,12 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
     Here, the action is 「戦う」(fight). The action "fight" requires two sides. On one side is 「Ø」, which we can again assume to be 「私」(I) based on context. On the other side is 「太郎」, which is marked by 「と」. This is an "A does B" sentence, where "A" is "I", and "the action I'm doing" is "fight". The counterpart of this "fight" is "Tarou".
 
-???+ info "Function 3: Marks the person or thing that you do something together with"
+???+ info "Function 3: Marks the person or thing that an aciton is performed together with"
     This is different from the previous function, although not many dictionaries and textbooks make a distinction between this function and the previous one. They just lump these two functions into one function, thinking they are the same.
 
     **Example 1**
 
-    - ==花さんと== 勉強する
+    - ==花さんと== 勉強する  
     Study ==with Hanako==
 
     Main wagon "A" | 「と」 | Engine "B"
@@ -1662,7 +1301,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     - ==みんなと=={++一緒に++}行く  
     Go {++together++} ==with everyone==
 
-    !!! danger "How is this function (#3) different from the previous one (#2)?"
+    !!! danger "How is this function different from the previous one?"
         I'm glad you asked :)
 
         **Example 1**
@@ -1676,9 +1315,9 @@ The particle 「で」 also has many functions, and can be summarized as the **b
         1. I fight *against* you
         2. I fight *alongside* you
 
-        The first interpretation would be using 「と」 with "*Function 2: Marks the counterpart (either a person or a thing) with whom the action is performed*".
+        The first interpretation is using the 「と」 as "*Function #2: Marks the counterpart of an action*".
 
-        The second interpretation would be using the 「と」 with "*Function 3: Marks the person or thing that you do something together with*". **THIS** is the interpretation that can replace 「と」 with 「と一緒に」 and the meaning won't change. Like we saw earlier, the phrase "I fight with you" can have 2 interpretations. But if we explicitly said "I fight *together* with you", then we know for sure that we mean "I fight *alongside* you".
+        The second interpretation is using the 「と」 as "*Function #3: Marks the person or thing that an aciton is performed together with*". **THIS** is the interpretation that can replace 「と」 with 「と一緒に」 and the meaning won't change. Like we saw earlier, the phrase "I fight with you" can have 2 interpretations. But if we explicitly said "I fight *together* with you", then we know for sure that we mean "I fight *alongside* you".
 
         **Example 2**
 
@@ -1693,9 +1332,9 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
         Which of these sentence can we replace 「と」 with 「と一緒に」 and the overall meaning of the sentence remains unchanged? The answer is **1**.
 
-        In the first sentence, the 「と」 is actually being used as "together with". We're saying 「花子さんと（一緒に）勉強する」 or "(I) study (together) with Hanako". The 「と」 with "function #3" can be replaced with 「と一緒に」 and the meaning will not change.
+        In the first sentence, the 「と」 is actually being used as "together with". We're saying 「花子さんと（一緒に）勉強する」 or "(I) study (together) with Hanako". The 「と」 as "function #3" can be replaced with 「と一緒に」 and the meaning will not change.
 
-        However, sentences 2, 3, and 4 are different. The 「と」 from those sentences is the 「と」 from "function #2: marks the counterpart". Let's take sentence 4 as example. If we were to change this:
+        However, sentences 2, 3, and 4 are different. The 「と」 from those sentences is the 「と」 as "function #2: marks the counterpart". Let's take sentence 4 as example. If we were to change this:
 
         - 花子さんと結婚する
 
@@ -1703,7 +1342,7 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
         - 花子さんと{++一緒に++}結婚する
 
-        then we are no longer saying "(I) marry *to* Hanako". Instead we would be saying, "I marry to person X. Hanako marries to person Y. Hanako and I are simply marrying *at the same time*". Remember that once we use 「と一緒に」 then we are explicitly using the 「と」 with "function #3". This means that "Hanako" is no longer the "counterpart" of my marriage.
+        then we are no longer saying "(I) marry *to* Hanako". Instead we would be saying, "I marry to person X. Hanako marries to person Y. Hanako and I are simply marrying *at the same time together*". Remember that once we use 「と一緒に」 then we are explicitly using the 「と」 with "function #3". This means that "Hanako" is no longer the "counterpart" of my marriage.
 
         **Example 3**
 
@@ -1720,16 +1359,16 @@ The particle 「で」 also has many functions, and can be summarized as the **b
 
         Then we are no longer saying "play tennis with Hanako" in the sense that Hanako is our oponent. We are now saying that Hanako is in our team and we are playing *alongside* Hanako (presumably a 2vs2 match). In this case, the 「と」 is for sure being used as "function #3".
 
-        **Why do I bother making the difference between function #2 and #3?**
+        **Why do I bother with the distinction of these two functions?**
 
-        Because, you might encounter 「と一緒に」 in your input (listening and reading) in places where there "**shouldn't**" be a 「一緒に」. When you do encounter those scenarios, you can now pick up on the (not so) subtle difference between them.
+        Because, you might encounter 「と一緒に」 in your input (listening and reading) in places where there "**shouldn't**" be a 「一緒に」. When you do encounter those scenarios, you can now pick up on the (not so) subtle nuance.
 
         When I say "**shouldn't**", I mean cases like, for example, 「花子と戦う」 where it's *usually* interpreted as "against". But if you see 「花子と一緒に戦う」, then you can know for sure that it means "alongside".
 
 ???+ info "Function 4: Marks the object used for comparison"
     **Example 1**
 
-    - ==以前と== 同じだ
+    - ==以前と== 同じだ  
     (It) is the same as ==before==
 
     Main wagon "A" | 「と」 | Engine "B"
@@ -1748,131 +1387,14 @@ The particle 「で」 also has many functions, and can be summarized as the **b
     考え方が | ==君と== | 違う
 
     The engine is 「違う」(to differ), and we are saying that 「考え方」(way of thinking) differs. We then mark 「君」(you) with 「と」 to use it as comparison and say "way of thinking differs *from you*". In normal English we might say "My way of thinking is different from yours" or "I don't think the way you do".
-    
-???+ info "Function 5: Marks the result or outcome of an action"
-    **Example 1**
-
-    - 雪が =雨と== なった
-    Snow became ==rain==
-
-    Main wagon "A" | 「と」 | Engine "B"
-    :---: | :---: | :---:
-    雪が | ==雨と== | なった
-
-    The engine is 「なった」(became), so 「雪がなった」 is saying "Snow became". What did it became? What did it turn into? It became rain.
-
-    **Example 2**
-
-    - ==無罪と== 決定した  
-    Decided that it's ==innocent==
-
-    Main wagon "A" | 「と」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==無罪と== | 決定した
-
-    The action is 「決定する」 which means "to decide". The word "decide" in English has many meanings, but the one I'm talking about here is 
-
-    > give a judgment concerning a matter or legal case.
-
-    such as in the sentence "the courts decided in favor of the New York claimants".
-
-    So, the result of this "decision" or "judgement" is 「無罪」(innocent).
-
-???+ info "Funciton 6: Marks the content of speech or thoughts"
-    This function can also be thought of as "quotation". The term "quotation" is used very loosely here.
-
-    **Example 1**
-
-    - ==いいと== 思う  
-    (I) think ==is good==
-
-    Main wagon "A" | 「と」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==いいと== | 思う
-
-    The engine is 「思う」(think). When you want to express "I think that ..." in Japanese, you can basically treat whatever you are thinking as a phrase that you can quote, and mark that quote with 「と」.
-
-    **Example 2**
-
-    - ==日本語が一番簡単な言語だと== 思う  
-    (I) think that ==Japanese is the easiest language==
-
-    Main wagon "A" | 「と」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==日本語が一番簡単な言語だと== | 思う
-
-    The phrase that we are quoting here is 「日本語が一番簡単な言語だと」(Japanese is the easiest language). The quote can be as long as you want.
-
-    **Example 3**
-
-    - さくらが ==痛い！と== 言った  
-    Sakura said ==it hurts!==
-
-    Main wagon "A" | 「と」 | Engine "B"
-    :---: | :---: | :---:
-    さくらが | ==痛い！と== | 言った
-
-    Of course, we can also use 「と」 to quote what somebody has said. This is an "A does B" sentence, where "A" is 「さくら」(Sakura) and "B" is 「言った」(said). What did Sakura say? She said "it hurts!", so we can quote "it hurts!" with 「と」.
-
-    This example can actually be interpreted in another way.
-
-    - ==さくらが痛い！と== 言った  
-    (Someone) said ==Sakura hurts!==
-
-    Main wagon "A" | 「と」 | Engine "B"
-    :---: | :---: | :---:
-    Ø が | ==さくらが痛い！と== | 言った
-
-    In this case, the entire phrase 「さくらが痛い！」 is the quote, and we are saying *somebody* (marked by 「が」) said it. Who is this somebody? It could be anyone. It all depends on context. This is true even in English. If I randomly tell you that somebody said "Sakura hurts!" without specifying *who* is that somebody, would you know who it is? No. But if I said it in a context where you and I understand, then you can probably deduce who I'm referring to with the word "somebody".
-
-    !!! tip
-        When the quote is long, or when you're quoting something in the middle of a long sentence, it can get confusing where the quote beings and ends. In written English, we can use the quotation mark `'` or `"` to indicate where the quote begins and ends:
-
-        - Sakura went to the supermarket to buy some groceries, but when she arrived, she realized "Oh no! I forgot to bring my wallet!", so she went back home to get her wallet.
-
-        In written Japanese, the quotation mark is `「」` (as you've seen me use all over in this guide).
-
-        - 「いい」と思う
-        - 「日本語が一番簡単な言語だ」と思う
-        - さくらが「痛い！」と言った
-        - 「さくらが痛い！」と言った
-
-        Here's a snippet from a light novel, so you can see how `「」` is used in dialogues.
-
-        ```
-        私はポケットからハンカチを取り出しました。
-        「これ、あげます。頭に当ててください」
-        「えっ・・・でも」
-        「それと、私はこれから瓦の修理をしますから、その辺で少し休んでください」
-        「いえ、ぼくも手伝います！」
-        「その状態で手伝われても邪魔なだけです。休んでいてください」私はきっぱりと言いました。
-        「でもーーー」
-        「じゃ・ま・です」
-        「・・・はい」
-        そして捨て猫のようにしゅんとした彼女は屋根のてっぺんで座り、頭にハンカチを当てました。
-        元気に見えてもやはり無理していたらしく、座った途端に彼女は倒れこんでしまいました。
-        ```
-
-        Another way to avoid the ambiguity in these two sentences:
-
-        - さくらが「痛い！」と言った
-        - 「さくらが痛い！」と言った
-        
-        without having to use `「」` is to put the main wagon "A" *after* the quote, like this:
-
-        - 痛い！とさくらが言った
-
-        This is similar to how sometimes quoting is done in English:
-
-        - "It hurts!" Sakura said.
 
 ### 「の」
 
-The particle 「の」 has many functions, one of which we already learned in the section [Describing a noun using another noun](description.md#using-a-noun). Let's learn about some more usages in this section.
+The particle 「の」 has many functions, one of which we already learned in the section about describing a noun using another noun. Let's learn about a few more functions here.
 
 ???+ info "Function 1: Replacement or omission of noun"
 
-    The noun that is being described can be omitted or replaced by 「の」 if the context clearly indicates what is being omitted.
+    The noun that is being described/labeled can be omitted or replaced by 「の」 if the context clearly indicates what is being omitted.
 
     Let's briefly refresh our memory of how to describe a noun:
 
@@ -1894,9 +1416,9 @@ The particle 「の」 has many functions, one of which we already learned in th
     - ==大学== の{++学生++}  
     ==College== {++student++}
 
-    The words highlighted in {++green++} are the nouns that are being described by the words highlighted in ==yellow==. These words in green can be: 
+    The nouns highlighted in {++green++} are the nouns that are being described/labeled by the words highlighted in ==yellow==. These words highlighted in green are the ones that can be: 
 
-    1. replaced by 「の」
+    1. replaced by 「の」 or
     2. omitted altogether
 
     if the context clearly indicates what is being omitted.
@@ -1904,8 +1426,7 @@ The particle 「の」 has many functions, one of which we already learned in th
     Let's look at a few examples.
 
     ???+ example "Examples of REPLACEMENT"
-
-        If the noun is being described by a verb or an adjective, we replace the noun with 「の」
+        If the noun is being described by a **verb** or an **adjective**, we replace the noun with 「の」
 
         **Example 1: verb**
 
@@ -1953,7 +1474,7 @@ The particle 「の」 has many functions, one of which we already learned in th
             Notice that 「大事 ==な== こと」 changes to 「大事 ==な== の」. The 「な」 cannot be omitted. After all the thing we're omitting/replacing is only the noun itself. This applies for all na-adjectives.
 
     ???+ example "Examples of OMISSION"
-        If the noun is being described by another noun (which means there is already a 「の」 linking them), we simply omit the noun.
+        If the noun is being described by another **noun** (which means there is already a 「の」 linking them), we simply omit the noun.
 
         **Example 1:**
 
@@ -1987,121 +1508,15 @@ The particle 「の」 has many functions, one of which we already learned in th
         - Person B: うん。イチゴのは美味しかったけど、チョコのはあんまり。  
         Yeah. The strawberry {++one++} was delicious but the chocolate {++one++} not so much.
 
-???+ info "Function 2: Interchangeable with 「が」"
-
-    When 「の」 connects two nouns, and the second noun is being described by a verb, then 「の」 is interchangeable with 「が」.
-
-    Let's look at one example. I've highlighted {++the two nouns in green++}, and ==the verb in yellow==.
-
-    - {++妹++}の ==描いた== {++絵++}  
-    *{++Picture++} that my {++little sister++} ==drew==*
-
-    First noun | の | Second noun
-    :---: | :---: | :---: 
-    {++妹++} | の | ==描いた== {++絵++}
-
-    Here, 「妹」 is the first noun, 「絵」 is the second noun, and they are linked with the 「の」. The verb 「描いた」 is describing the second noun 「絵」. When we have this specific combination of 「noun + の + verb + noun」, this 「の」 is interchangeable with 「が」, like so:
-
-    - {++妹++}が ==描いた== {++絵++}  
-    *{++Picture++} that my {++little sister++} ==drew==*
-
-    First noun | が | Second noun 
-    :---: | :---: | :---: 
-    {++妹++} | が | ==描いた== {++絵++}
-
-    **More in-depth explanation**  
-    If we recall what we learned in [Engine "B"](a-and-b.md#engine-b), 「妹が描いた」 is just an "A does B" sentence.
-
-    Main wagon "A" | Engine "B"
-    :---: | :---:
-    妹が | 描いた
-
-    *Little sister drew*
-
-    And if we recall what we learned in [Describing a noun using a verb](description.md#using-a-verb), we simply place the description before the noun:
-
-    - ==妹が描いた== {++絵++}  
-    *{++Picture++} ==that little sister drew==*
-
-    The entire sentence (highlighted in ==yellow==) is describing the noun (highlighted in {++green++}). In this specific way of describing a noun, the 「の」 is interchangeable with 「が」.
-
-    Let's look at some more examples:
-
-    - 話の好きな{++人++}  
-    - 話が好きな{++人++}  
-    *{++People++} who like conversations*
-
-    - 音のない{++世界++}  
-    - 音がない{++世界++}  
-    *{++World++} where there is no sound*
-
-    - 夜のない{++世界++}  
-    - 夜がない{++世界++}  
-    *{++World++} where there is no night*
-
-    - 私の言ってる{++こと++}  
-    - 私が言ってる{++こと++}  
-    *{++Things++} that I am saying*
-
-    - 立場の違う{++二人++}
-    - 立場が違う{++二人++}  
-    *{++Two people++} who are in different situations*
-
-    Using 「の」 is often favored over using 「が」 when it's part of a bigger sentence. Let's look at the following sentence:
-
-    - 立場 ==の== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
-
-    Main wagon "A" | 「で」 | 「を」 |  Engine "B"
-    :--: | :---: | :---: | :---:
-    立場 ==の== 違う二人{++が++} | 残酷な世界の中で | すごく美しく友情を | 育む
-
-    The entire phrase 「立場の違う二人」 is the subject of the sentence. In other words, the entire phrase 「立場の違う二人」 is marked by 「が」 as the main wagon "A" of the bigger sentence. Although it is technically possible to say the sentence like this:
-
-    - 立場 ==が== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
-
-    it is NOT encouraged to do so. This is because, if you do this, there will be two 「が」 in the entire sentence, and it becomes harder to recognize *what* is the actual subject (main wagon "A") of the bigger sentence at hand.
-
-    If we look at the sentence where it uses 「の」:
-
-    - 立場 ==の== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
-
-    we can clearly spot the core of the sentence. Remember that the core of any sentence is just main wagon "A" + engine "B".
-
-    Main wagon "A" | Engine "B"
-    :---: | :---:
-    二人が | 育む
-
-    and 「立場の違う」 is simply a description of 「二人」.
-
-    However, if we look at the sentence where there are two 「が」:
-
-    - 立場 ==が== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
-
-    suddenly, there are two possible candidates as the main wagon "A".
-
-    Possibility 1
-
-    Main wagon "A" | Engine "B"
-    :---: | :---:
-    立場が | 育む
-
-    Possibility 2
-
-    Main wagon "A" | Engine "B"
-    :---: | :---:
-    二人が | 育む
-
-    Of course, if someone who is fluent in Japanese is reading that sentence, they can quickly figure out what's the actual subject of the entire sentence before they even finish reading the sentence. Nevertheless, it takes one extra step to do so.
-
 ### 「から」
 
-This particle is pretty much a 1 to 1 equivalent to the English word "from" (this doesn't mean that you should translate an English sentence that has the word "from", word for word into Japanese. More often than not, that's not the natural way to express that idea in Japanese)
+This particle is pretty much a 1 to 1 equivalent to the English word "from" (this doesn't mean that you should translate every English sentence, word for word into Japanese simply because it has the word "from" in it. More often than not, that's not the natural way to express that idea in Japanese)
 
 ???+ info "Function 1: Marks the starting time"
     **Example 1**
 
     - 学校は ==明日から== 始まる  
-    School starts ==from tomorrow=
+    School starts ==from tomorrow==
 
     **Example 2**
 
@@ -2158,8 +1573,8 @@ This particle means "until" (and more), and it is more flexible than the English
 ???+ info "Function 1: Marks the ending time or condition"
     **Example 1**
 
-    - ==明後日まで== 休む  
-    Take a break ==until the day after tomorrow==
+    - ==明日まで== 休む  
+    Take a break ==until tomorrow==
 
     **Example 2**
 
@@ -2174,9 +1589,9 @@ This particle means "until" (and more), and it is more flexible than the English
     **Example 4**
 
     - ==今まで== ありがとう  
-    Thanks ==until now==
+    ==Until now== thank you
 
-    In normal English, we might say "Thank you for everything so far".
+    In normal English, we might say "Thank you for everything *so far*".
 
     **Example 5**
 
@@ -2211,30 +1626,6 @@ This particle means "until" (and more), and it is more flexible than the English
 
     - ==福岡まで== 行く  
     Go ==all the way until Fukuoka==
-
-???+ info "Function 3: Marks the extent of something"
-    This is where it differs from the English word "until" (although there is still a slight connection if you think of it more abstractly).
-
-    This usage of 「まで」 often gets translated as "even..." with a tone of "unexpected".
-
-    **Example 1**
-
-    - ==明日の分まで== 食べた
-    Ate ==even tomorrow's portion==
-
-    Or in normal English "I even ate tomorrow's portion"
-
-    **Example 2**
-
-    - ==それを言うまで== 必要がない
-    There is no need to ==even say that==
-
-    **Example 3**
-
-    Suppose you have 2 friends. One (Sakura) always supports you, but the other one (Hanako) always makes fun of you. One day, you do something so ridiculous that even the Sakura makes fun of you. In this scenario, you can say out loud:
-
-    - さくらまで！？  
-    Even Sakura (is making fun of me)!?
 
 ### 「から」 with 「まで」
 

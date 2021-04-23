@@ -508,8 +508,8 @@ There was a news article by the NHK with the title:
 
 - 不審な ==船== が{++いる++}
 
-Here, ==「船」== means "ship", and it's being used with {++「いる」++} which is for animate objects according to our rule of thumb. However, by using 「いる」 here, it is implied that the title is referring to the people inside the ship.[^1]
+Here, ==「船」== means "ship", and it's being used with {++「いる」++} which is for animate objects according to our rule of thumb. However, by using 「いる」 here, it is implied that the title is referring to the people inside the ship.[^2]
 
-[^1]: [NHKニュース　「不審な船がいる」の「いる」について](https://lang-8.com/293700/journals/1257964)
+[^2]: [NHKニュース　「不審な船がいる」の「いる」について](https://lang-8.com/293700/journals/1257964)
 
 Generally speaking, it is OK to simply use 「いる」 for humans and animals, and 「ある」 for the rest. If an exception comes up when you're reading or listening to something, like the ones you see above, then you just have to memorize and get used to those few exceptions.
