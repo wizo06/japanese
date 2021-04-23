@@ -62,14 +62,14 @@ nav:
       - 'grammar/fundamentals/inflection.md'
       - 'grammar/fundamentals/particles.md'
       - 'grammar/fundamentals/word-order.md'
-    - Essential:
-      - 'grammar/essential/index.md'
-      - 'grammar/essential/transitive-intransitive.md'
-      - 'grammar/essential/more-particles.md'
-      - 'grammar/essential/desire.md'
-    - Advanced:
-      - 'grammar/advanced/5. Advanced Topics.md'
-    - Special Expressions:
-      - 'grammar/expressions/4. Special Expressions.md'
+    # - Essential:
+      # - 'grammar/essential/index.md'
+      # - 'grammar/essential/transitive-intransitive.md'
+      # - 'grammar/essential/more-particles.md'
+      # - 'grammar/essential/desire.md'
+    # - Advanced:
+      # - 'grammar/advanced/5. Advanced Topics.md'
+    # - Special Expressions:
+      # - 'grammar/expressions/4. Special Expressions.md'
   - 'reference.md'
   - 'contact.md'
