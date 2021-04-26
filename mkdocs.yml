@@ -62,9 +62,9 @@ nav:
       - 'grammar/fundamentals/inflection.md'
       - 'grammar/fundamentals/particles.md'
       - 'grammar/fundamentals/word-order.md'
-    # - Essential:
+    - Essential:
       # - 'grammar/essential/index.md'
-      # - 'grammar/essential/transitive-intransitive.md'
+      - 'grammar/essential/transitive-intransitive.md'
       # - 'grammar/essential/more-particles.md'
       # - 'grammar/essential/desire.md'
     # - Advanced:

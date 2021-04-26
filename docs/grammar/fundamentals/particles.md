@@ -1223,7 +1223,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==本と== ==ペンと== を買う  
     Buy ==a book== and ==a pen==
 
-    Again, 「本とペンと」 means "book and pen". The engine here is 「買う」(buy). What are the things that we are buying? Book and pen. Therefore "book and pen" has to be marked by 「を」(function #1 of 「を」):
+    Again, 「本とペンと」 means "book and pen". The engine here is 「買う」(buy). What are the things that we are buying? Book and pen. Therefore "book and pen" has to be marked by 「を」(the "marks the direct object of an action" function from 「を」):
 
     Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:

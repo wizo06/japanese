@@ -76,6 +76,10 @@ Normal English: *In Africa, there are lions but there are no tigers.*
 
 ### 「は」 vs 「が」
 
+ordinary usage of は and が (no emphasis)
+
+emphatic usage of は and が
+
 !!! warning
     **I have been using 「が」 in a lot of example sentences as the main car "A" so far. Although that is technically correct, that's NOT how Japanese people normally speak when they want to express sentences like "A is B" or "A does B".** We'll see the reason behind this in this section.
 
@@ -500,12 +504,12 @@ The difference in focus makes sense if we look at the function of each particle.
 
 If we revisit the functions that 「へ」 has, we will realize that two of 「へ」's functions can also be done by 「に」:
 
-- Function 2: Marks the destination of a verb
-- Function 3: Marks the Indirect Object (recipient of action)
+- Function 2 **REMOVE THE NUMBER**: Marks the destination of a verb
+- Function 3 **REMOVE THE NUMBER**: Marks the Indirect Object (recipient of action)
 
 However, there is one function that 「へ」 can do but 「に」 cannot:
 
-- Function 1: Marks the direction of a verb
+- Function 1 **REMOVE THE NUMBER**: Marks the direction of a verb
 
 For this reason, 「へ」 is usually only used for this "function #1": to mark the direction of a verb. Let's look at an example:
 

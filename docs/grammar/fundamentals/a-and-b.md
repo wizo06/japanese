@@ -122,6 +122,32 @@ All these sentences are complete Japanese sentences, with two parts: 1. the main
 
 This might sound like unecessary emphasis on the fact that the main car is still there even though it's invisible. However, the importance of this emphasis will become more apparent as sentences become more complex. Without a good understanding of this concept, complex sentences are going to start sounding extremely vague and hard to understand.
 
+## Shortest proper sentence
+
+Earlier, we learned that:
+
+> You can always see the engine "B", but sometimes you can't see the main car "A"
+
+Let's examine what this statement means.
+
+In English, the shortest proper sentence has to have at least the main car "A" AND the engine "B".
+
+- Sakura runs
+
+Main car "A" | Engine "B"
+:---: | :---:
+Sakura | runs
+
+If you are missing either one of them, it's not a proper sentence.
+
+In Japanese, the shortest proper sentence only requires the engine "B".
+
+- 走る  
+
+Main car "A" | Engine "B"
+:---: | :---:
+Ø が | 走る
+
 ## Linguistic words
 
 Before we learn about the engine "B", it'd be a lot easier for us to understand the engines if we first learn the definition of three basic linguistic words:

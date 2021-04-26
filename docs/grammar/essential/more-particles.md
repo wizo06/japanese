@@ -97,7 +97,7 @@
     Or in normal English we might say "I'm not good at anything except singing"
 
 ???+ info "Function 4: Marks a word (X) to express a decision of "instead of X""
-    This function can be seen as a more abstract version of function #1, because this is also used in a "comparison".
+    This function can be seen as a more abstract version of function #1 **WHICH ONE?**, because this is also used in a "comparison".
 
     **Example 1**
 
