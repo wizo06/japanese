@@ -4,7 +4,7 @@
     - ==恐ろしさに== 震える  
     Tremble with ==fear==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==恐ろしさに== | 震える
 
@@ -15,7 +15,7 @@
     - ==蚊に== 苦しむ  
     Suffer from ==mosquitoes==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==蚊に== | 苦しむ
 
@@ -26,7 +26,7 @@
     - ==勉強に== 疲れた  
     Tired from ==studying==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==勉強に== | 疲れた
 
@@ -41,6 +41,8 @@
     - 私には大きい
     - 子供には無理だ
     - 私にはできない
+    - ヲタクに恋は難しい  
+    **Anime**
 
 ???+ info "Function 11: 〔自発・可能・感情述語の表現で〕感情・知覚・思考の主体を表わす。 (新明解国語辞典　第七版)"
     - 私にはよく分かる
@@ -61,7 +63,7 @@
         <th colspan="4" style="text-align: center">私は 🏳️</th>
       </tr>
       <tr>
-        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">Main car "A"</th>
         <th style="text-align: center">「に」</th>
         <th style="text-align: center">Engine "B"</th>
       </tr>
@@ -72,7 +74,7 @@
       </tr>
     </table>
 
-    The engine is 「詳しい」(detailed). 「詳しい」 is an i-adjective, so we know that it is an "A is B" type of sentence. What is the main wagon "A"? It is "it". What is "it" referring to? It refers to knowledge. So, the full sentence actually reads:
+    The engine is 「詳しい」(detailed). 「詳しい」 is an i-adjective, so we know that it is an "A is B" type of sentence. What is the main car "A"? It is "it". What is "it" referring to? It refers to knowledge. So, the full sentence actually reads:
 
     - As for me, knowledge is detailed about astronomy.
 
@@ -81,19 +83,21 @@
 ???+ info "Function 7: Marks the time of an action"
     This is different from the "marks the time of an action" function from 「に」. We will look at the difference later in the "Contrast" section.
 
+    This usage of 「で」 is often combined with a topic particle, to form 「では」 or 「でも」.
+
     **Example 1**
 
-    - ==今日で== は、月旅行はもはや夢ではなくなった  
+    - ==今日では==、月旅行はもはや夢ではなくなった  
     ==Today==, a trip to the moon is no longer a dream
 
     **Example 2**
 
-    - ==現在で== は、なんらの疑惑もいだいていない  
+    - ==現在では==、なんらの疑惑もいだいていない  
     ==Now==, there are no suspicions whatsoever
 
     **Example 3**
 
-    - ==現在で== は、簡単に解決する問題だ  
+    - ==現在では==、簡単に解決する問題だ  
     ==Now==, it's an easy problem to solve
 
     **Example 4 **
@@ -103,8 +107,14 @@
 
     **Example 5**
     
-    - ==今で== は真面目に暮らしている  
+    - ==今では== 真面目に暮らしている  
     ==Now== I'm living an honest life
+
+    **Example 6**
+
+    https://twitter.com/yu__kari625/status/1385432646113660928?s=19
+
+    - ==午後からでも== 、洗濯物できそう。金曜日！もう一踏ん張りがんばりましょう
 
 ???+ tip "How do native speakers actually use だ-engine?"
 
@@ -123,13 +133,13 @@
 
     **Person A**
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     Ø が | 元気?
 
     **Person B**
 
-    A simple "yes" | Main wagon "A" | Engine "B"
+    A simple "yes" | Main car "A" | Engine "B"
     :---: | :---: | :---:
     うん、 | Ø が | 元気
 
@@ -293,7 +303,7 @@
     - ==楽しい時間を== 過ごした  
     Spent ==fun time==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==楽しい時間を== | 過ごした
 
@@ -304,7 +314,7 @@
     - ==混沌の時代を== 生き抜く  
     Live through ==era of chaos==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==混沌の時代を== | 生き抜く
 
@@ -321,7 +331,7 @@
     - ==不惑の年を== 越える  
     Go past (one's) ==prime time==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==不惑の年を== | 越える
 
@@ -334,7 +344,7 @@
     - 子供が ==小学校の一年生に== なった  
     The kid became ==first grader of elementary school==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     子供が | ==小学校の一年生に== | なった
 
@@ -345,7 +355,7 @@
     - ==お金持ちに== なりたい  
     Want to become ==rich==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==お金持ちに== | なりたい
 
@@ -356,7 +366,7 @@
     - 信号が ==赤に== 変わる  
     Signal changes to ==red==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     信号が | ==赤に== | 変わる
 
@@ -368,7 +378,7 @@
     - ==映画を見に== 行く  
     Go ==see a movie==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==映画を見に== | 行く
 
@@ -379,7 +389,7 @@
     - ==魚を釣りに== 行く  
     Go ==fish a fish==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==魚を釣りに== | 行く
 
@@ -390,7 +400,7 @@
     - ==ご飯を食べに== 行く  
     Go ==eat food==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==ご飯を食べに== | 行く
 
@@ -411,7 +421,7 @@
     - ==1ヶ月に== ８日の休みがある  
     There are 8 days of vacation ==in 1 month==
 
-    「に」 | Main wagon "A" | Engine "B"
+    「に」 | Main car "A" | Engine "B"
     :---: | :---: | :---:
     ==1ヶ月に== | ８日の休みが | ある  
 
@@ -422,7 +432,7 @@
     - ==一日に== 三回食べる  
     Eat three times ==in one day==
 
-    Main wagon "A" | 「に」 | Counter | Engine "B"
+    Main car "A" | 「に」 | Counter | Engine "B"
     :---: | :---: | :---: | :---:
     Ø が | ==一日に== | 三回 | 食べる
 
@@ -435,7 +445,7 @@
     - ==寒さで== 震える  
     Shiver with ==cold==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==寒さで== | 震える
 
@@ -446,7 +456,7 @@
     - ==熱で== 学校を休む  
     Skip school due to ==fever==
     
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
+    Main car "A" | 「で」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø | ==熱で== | 学校を | 休む
 
@@ -457,7 +467,7 @@
     - ==受験準備で== 忙しい  
     Busy due to ==preparations for entrance examination==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==受験準備で== | 忙しい
 
@@ -468,7 +478,7 @@
     - ==火事で== すべてを失う  
     Lose everything because of ==conflagration==
 
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
+    Main car "A" | 「で」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø | ==火事で== | すべてを | 失う
 
@@ -485,7 +495,7 @@
     - ==撃たれた傷で== 死ぬ  
     Die from ==injury inflicted by gun shot==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==撃たれた傷で== | 死ぬ
 
@@ -498,7 +508,7 @@
     - ==三日で== 仕上げる  
     Finish in ==three days==  
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==三日で== | 仕上げる
 
@@ -509,7 +519,7 @@
     - ==十分間で== 答える  
     Answer within ==10 minutes==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==十分間で== | 答える
 
@@ -520,7 +530,7 @@
     - ==1週間で== 治る  
     Heal in ==a week==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==1週間で== | 治る
 
@@ -533,7 +543,7 @@
     - 申込みが ==明日で== 締め切る  
     The applications will close by ==tomorrow==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     申込みが | ==明日で== | 締め切る
 
@@ -544,7 +554,7 @@
     - 当店が ==五時で== 閉める  
     This store closes at ==5 o'clock==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     店が | ==五時で== | 閉める
 
@@ -559,7 +569,7 @@
         - ==1人で== 泣いた  
         Cried ==alone==
 
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         Ø が | ==1人で== | 泣いた
 
@@ -570,7 +580,7 @@
         - ==みんなで== 行く  
         Go ==everyone==
         
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         Ø が | ==みんなで== | 行く
 
@@ -584,7 +594,7 @@
         - ==全部で== 百円だ  
         (It) is 100 yen ==for everything==
 
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         Ø が | ==全部で== | 百円だ
 
@@ -595,7 +605,7 @@
         - ==3つで== 百円だ  
         (It) is 100 yen == for 3 items==
 
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         Ø が | ==全部で== | 百円だ
 
@@ -606,7 +616,7 @@
         - ==それだけで== いい  
         (It) is good ==with only that==
 
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         Ø が | ==それだけで== | いい
         
@@ -618,7 +628,7 @@
         - 富士山が ==世界で== 一番綺麗だ    
         Mt. Fuji is the most beautiful mountain ==in the world==.
 
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         富士山が | ==世界で== | 一番綺麗だ  
 
@@ -633,7 +643,7 @@
         - このラーメンが ==全国で== 一番美味しい  
         This ramen is the most delicious ==in the country==
 
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         このラーメンが | ==全国で== | 一番美味しい
 
@@ -645,7 +655,7 @@
         - ==私の実力で== 無理だ  
         It's impossible with ==my competency==
 
-        Main wagon "A" | 「で」 | Engine "B"
+        Main car "A" | 「で」 | Engine "B"
         :---: | :---: | :---:
         Ø が | ==私の実力で== | 無理だ
 
@@ -656,11 +666,11 @@
         - ==若い人の間で== 人気がある  
         Be popular ==among young people==
 
-        「で」 | Main wagon "A" | Engine "B"
+        「で」 | Main car "A" | Engine "B"
         :---: | :---: | :---:
         ==若い人の間で== | 人気が | ある。
 
-        The engine is 「ある」(exist) and the main wagon is 「人気」(popularity). In Japanese, when we want to express that "(something) is popular", we say 「somethingは人気がある」(As for something, there is popularity). Anyways I digress. We're essentially saying "be popular", and the boundary of the "range" where you *are* popular is "among young people".
+        The engine is 「ある」(exist) and the main car is 「人気」(popularity). In Japanese, when we want to express that "(something) is popular", we say 「somethingは人気がある」(As for something, there is popularity). Anyways I digress. We're essentially saying "be popular", and the boundary of the "range" where you *are* popular is "among young people".
 
     
 ???+ info "Function 5: Marks the result or outcome of an action"
@@ -669,7 +679,7 @@
     - 雪が =雨と== なった
     Snow became ==rain==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     雪が | ==雨と== | なった
 
@@ -680,7 +690,7 @@
     - ==無罪と== 決定した  
     Decided that it's ==innocent==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==無罪と== | 決定した
 
@@ -700,7 +710,7 @@
     - ==いいと== 思う  
     (I) think ==is good==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==いいと== | 思う
 
@@ -711,7 +721,7 @@
     - ==日本語が一番簡単な言語だと== 思う  
     (I) think that ==Japanese is the easiest language==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==日本語が一番簡単な言語だと== | 思う
 
@@ -722,7 +732,7 @@
     - さくらが ==痛い！と== 言った  
     Sakura said ==it hurts!==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     さくらが | ==痛い！と== | 言った
 
@@ -733,7 +743,7 @@
     - ==さくらが痛い！と== 言った  
     (Someone) said ==Sakura hurts!==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==さくらが痛い！と== | 言った
 
@@ -772,7 +782,7 @@
         - さくらが「痛い！」と言った
         - 「さくらが痛い！」と言った
         
-        without having to use `「」` is to put the main wagon "A" *after* the quote, like this:
+        without having to use `「」` is to put the main car "A" *after* the quote, like this:
 
         - 痛い！とさくらが言った
 
@@ -806,7 +816,7 @@
     **More in-depth explanation**  
     If we recall what we learned about the Engine "B", 「妹が描いた」 is just an "A does B" sentence.
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     妹が | 描いた
 
@@ -845,23 +855,23 @@
 
     - 立場 ==の== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
 
-    Main wagon "A" | 「で」 | 「を」 |  Engine "B"
+    Main car "A" | 「で」 | 「を」 |  Engine "B"
     :--: | :---: | :---: | :---:
     立場 ==の== 違う二人{++が++} | 残酷な世界の中で | すごく美しく友情を | 育む
 
-    The entire phrase 「立場の違う二人」 is the subject of the sentence. In other words, the entire phrase 「立場の違う二人」 is marked by 「が」 as the main wagon "A" of the bigger sentence. Although it is technically possible to say the sentence like this:
+    The entire phrase 「立場の違う二人」 is the subject of the sentence. In other words, the entire phrase 「立場の違う二人」 is marked by 「が」 as the main car "A" of the bigger sentence. Although it is technically possible to say the sentence like this:
 
     - 立場 ==が== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
 
-    it is NOT encouraged to do so. This is because, if you do this, there will be two 「が」 in the entire sentence, and it becomes harder to recognize *what* is the actual subject (main wagon "A") of the bigger sentence at hand.
+    it is NOT encouraged to do so. This is because, if you do this, there will be two 「が」 in the entire sentence, and it becomes harder to recognize *what* is the actual subject (main car "A") of the bigger sentence at hand.
 
     If we look at the sentence where it uses 「の」:
 
     - 立場 ==の== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
 
-    we can clearly spot the core of the sentence. Remember that the core of any sentence is just main wagon "A" + engine "B".
+    we can clearly spot the core of the sentence. Remember that the core of any sentence is just main car "A" + engine "B".
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     二人が | 育む
 
@@ -871,17 +881,17 @@
 
     - 立場 ==が== 違う二人{++が++}残酷な世界の中ですごく美しく友情を育む。
 
-    suddenly, there are two possible candidates as the main wagon "A".
+    suddenly, there are two possible candidates as the main car "A".
 
     Possibility 1
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     立場が | 育む
 
     Possibility 2
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     二人が | 育む
 
@@ -919,7 +929,7 @@ We learned how to modify/describe a noun by using the engine.
 
 What is a *clause*? To put it in simple terms, a clause is basically a sentence that is inside another sentence. Let's recall our train analogy here.
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 - | -
 
@@ -955,7 +965,7 @@ Let's look at another example where the "description" is long:
 
 The entire description is still said *before* 「本」 in Japanese. This is how Japanese works. Now let's go back to our question "*what is a clause?*" If we look at the "description" part, that sentence in itself is already a complete sentence.
 
-main wagon "A" | に | で | engine "B"
+main car "A" | に | で | engine "B"
 :---: | :---: | :---: | :---:
 友達が | 先週 | 本屋さんで | 買った
 
@@ -964,11 +974,11 @@ That entire sentence -or more precisely, *clause*- is describing the word that f
 <table>
   <tr>
     <th colspan="4" style="text-align: center; vertical-align: middle; border: 1px solid black">Clause</th>
-    <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid black">main wagon "A"</th>
+    <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid black">main car "A"</th>
     <th rowspan="2" style="text-align: center; vertical-align: middle; border: 1px solid black">engine "B"</th>
   </tr>
   <tr>
-    <th style="text-align: center; vertical-align: middle; border: 1px solid black">main wagon "A"</th>
+    <th style="text-align: center; vertical-align: middle; border: 1px solid black">main car "A"</th>
     <th style="text-align: center; vertical-align: middle; border: 1px solid black">に</th>
     <th style="text-align: center; vertical-align: middle; border: 1px solid black">で</th>
     <th style="text-align: center; vertical-align: middle; border: 1px solid black">engine "B"</th>
@@ -988,17 +998,17 @@ Right now, the *clause* that describes 「本」 is a complete sentence in itsel
 - 友達が先週本屋さんで買った本が面白い！  
 *The book that my friend bought at a book store last week is interesting!*
 
-Clause | main wagon "A" | engine "B"
+Clause | main car "A" | engine "B"
 :---: | :---: | :---:
 友達が先週本屋さんで買った | 本が | 面白い！
 
 or, it can also be visualized as such:
 
-main wagon "A" | engine "B"
+main car "A" | engine "B"
 :---: | :---:
 友達が先週本屋さんで買った本が | 面白い！
 
-because in reality, the "clause" is just describing "A". The clause doesn't have a wagon of its own. Putting this train analogy aside, what's important is that this sentence is just an "A is B" sentence at the core, and we've simply added more details *about* "A". Let's highlight the "description" part, so we can more easily see that this sentence is really just "A is B" at its core.
+because in reality, the "clause" is just describing "A". The clause doesn't have a car of its own. Putting this train analogy aside, what's important is that this sentence is just an "A is B" sentence at the core, and we've simply added more details *about* "A". Let's highlight the "description" part, so we can more easily see that this sentence is really just "A is B" at its core.
 
 - **友達が先週本屋さんで買った**本が面白い！  
 *The book __that my friend bought at a book store last week__ is interesting!*
@@ -1080,11 +1090,11 @@ Let's see some more examples of **だ-engines** clauses:
 
 ???+ warning
 
-    **The order of the wagons doesn't really matter as long as the engine "B" is at the end. What matters is that the particles are attached to the correct word**. It is perfectly valid to say:
+    **The order of the cars doesn't really matter as long as the engine "B" is at the end. What matters is that the particles are attached to the correct word**. It is perfectly valid to say:
 
     - **「私がさくらにボールを投げる」**
 
-    main wagon "A" + 「が」 | 「に」 wagon | 「を」 wagon | engine "B"
+    main car "A" + 「が」 | 「に」 car | 「を」 car | engine "B"
     :---: | :---: | :---: | :---:
     私が | さくらに | ボールを | 投げる
 
@@ -1092,7 +1102,7 @@ Let's see some more examples of **だ-engines** clauses:
 
     - **「私にボールをさくらが投げる」**
 
-    「に」 wagon | 「を」 wagon | main wagon "A" + 「が」 | engine "B"
+    「に」 car | 「を」 car | main car "A" + 「が」 | engine "B"
     :---: | :---: | :---: | :---:
     私に | ボールを | さくらが | 投げる
 
@@ -1100,14 +1110,14 @@ Let's see some more examples of **だ-engines** clauses:
 
     - **「ボールが私にさくらを投げる」**
 
-    main wagon "A" + 「が」 | 「に」 wagon | 「を」 wagon | engine "B"
+    main car "A" + 「が」 | 「に」 car | 「を」 car | engine "B"
     :---: | :---: | :---: | :---:
     ボールが | 私に | さくらを | 投げる
 
     This sentence means "The ball throws Sakura at me". 
 
 In a previous section, when we learned about the particle 「は」, we aslo learned that:
-> The order of the wagons doesn't really matter as long as the engine "B" is at the end. What matters is that the particles are attached to the correct word.
+> The order of the cars doesn't really matter as long as the engine "B" is at the end. What matters is that the particles are attached to the correct word.
 
 And this is mostly correct. I can say:
 
@@ -1116,7 +1126,7 @@ And this is mostly correct. I can say:
 
 and they both mean exactly the same thing: "(I) give flowers to friend".
 
-However, the order of the wagons doesn't matter **only if** the wagons stay inside their own clause. Let's look at the following example:
+However, the order of the cars doesn't matter **only if** the cars stay inside their own clause. Let's look at the following example:
 
 - 昨日泣いてた私が今日泣いている君を慰めている。  
 *I, who was crying yesterday, is comforting you, who is crying today.*

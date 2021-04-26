@@ -4,7 +4,7 @@
 
 **The only words that have inflection in Japanese are the ENGINES**.
 
-So far, we learned how to make simple sentences using the main wagon "A" and the engine "B", and we also learned how to describe a noun by using the engine "B". We're now ready to learn how to express those sentences in negative, past-tense, and negative past-tense. 
+So far, we learned how to make simple sentences using the main car "A" and the engine "B", and we also learned how to describe a noun by using the engine "B". We're now ready to learn how to express those sentences in negative, past-tense, and negative past-tense. 
 
 First, Let's remind ourselves of the three types of engines:
 
@@ -17,6 +17,9 @@ Engine name | Used for:
 In Japanese, if we want to express negative, past-tense, negative past-tense, conditional, causative, receptive, etc, **we simply have to inflect the engine**. Inflection means changing part of a word (usually the ending) to express a grammatical function or attribute. For example, in English, the verb "see" can inflect into "saw", "sees", "seen" to express present/past and singular/plural, etc. In Japanese, verbs (and words in general) don't express singular/plural, but they can express a lot more than English verbs can.
 
 For now, we will only learn four basic inflections: negative, past-tense, negative past-tense, and the so-called "te-form".
+
+!!! tip
+    These conjugations might seem very daunting at first, but once you get used to them, it's really not that hard to memorize. Just practice a lot with whichever method you prefer (flashcard, listening a lot, reading a lot, etc).
 
 ### Negative
 
@@ -63,7 +66,7 @@ How do we attach 「ない」 to the engine? We first inflect the engine and the
         - ==勉強しない== 人が合格できない  
         *People ==who don't study== can't pass the exam*
 
-        Main wagon "A" | Engine "B"
+        Main car "A" | Engine "B"
         :---: | :---:
         ==勉強しない== 人が | 合格できない
         
@@ -301,3 +304,18 @@ Technically speaking, there is no such thing as "te-form". It's simply an inflec
     **Exceptions**:
 
     - 良 ==い== → 良 ==く== {++て++} (pronounced as いい → よくて)
+
+???+ info "Negative"
+    The negative inflection of the engines can also be inflected into て-form, by treating the helper verb 「ない」 like an い-engine.
+
+    **う-engine**
+
+    食べ ==ない== → 食べ ==なくて==
+
+    **だ-engine**
+
+    じゃ ==ない== → じゃ ==なくて==
+
+    **い-engine**
+
+    楽しく ==ない== → 楽しく ==なくて==

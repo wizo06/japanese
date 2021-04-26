@@ -19,6 +19,23 @@
   --md-code-bg-color:                rgba(000, 000, 000, 0.38);
 }
   
-[data-md-color-scheme="slate"] strong, [data-md-color-scheme="slate"] .md-nav__title, [data-md-color-scheme="slate"] h2, [data-md-color-scheme="slate"] h3, [data-md-color-scheme="slate"] h4 {
+[data-md-color-scheme="slate"] strong, 
+[data-md-color-scheme="slate"] .md-nav__title, 
+[data-md-color-scheme="slate"] h2, 
+[data-md-color-scheme="slate"] h3, 
+[data-md-color-scheme="slate"] h4 {
   color: rgba(255, 255, 255, 0.87);
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-fg-color:             rgba(000, 000, 000, 0.60);
+  --md-default-fg-color--light:      rgba(000, 000, 000, 0.38);
+}
+
+[data-md-color-scheme="default"] strong, 
+[data-md-color-scheme="default"] .md-nav__title, 
+[data-md-color-scheme="default"] h2, 
+[data-md-color-scheme="default"] h3, 
+[data-md-color-scheme="default"] h4 {
+  color: rgba(000, 000, 000, 0.87);
 }

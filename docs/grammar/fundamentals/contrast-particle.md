@@ -77,9 +77,9 @@ Normal English: *In Africa, there are lions but there are no tigers.*
 ### 「は」 vs 「が」
 
 !!! warning
-    **I have been using 「が」 in a lot of example sentences as the main wagon "A" so far. Although that is technically correct, that's NOT how Japanese people normally speak when they want to express sentences like "A is B" or "A does B".** We'll see the reason behind this in this section.
+    **I have been using 「が」 in a lot of example sentences as the main car "A" so far. Although that is technically correct, that's NOT how Japanese people normally speak when they want to express sentences like "A is B" or "A does B".** We'll see the reason behind this in this section.
 
-We learned about the grammatical usage of 「は」 and 「が」: one is a flag, the other is the main wagon. However, it might still be confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B" or "A does B".
+We learned about the grammatical usage of 「は」 and 「が」: one is a flag, the other is the main car. However, it might still be confusing for some people. Unlike English, which is a very Subject-Object oriented language, **Japanese is a very Topic-Comment oriented language**. This is why you see 「は」 more often than 「が」 in a normal sentence like "A is B" or "A does B".
 
 Let's see the difference between 「は」 and 「が」 again, but not from the perspective of grammar. *How do native speakers use those particles?* Or more precisely, what kind of impression do native speakers get when they see/hear 「は」 or 「が」?
 
@@ -92,29 +92,29 @@ Let's see the difference between 「は」 and 「が」 again, but not from the
 
     *"As for who, is (it) a student?"*
 
-    and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the section about main wagon "A" that 「が」 attaches to a word to mark it as the main wagon "A". 
+    and that doesn't make any sense because "who" is not an actual person. This is where 「が」 comes into play. We already learned from the section about main car "A" that 「が」 attaches to a word to mark it as the main car "A". 
 
     Suppose the student is "Alice". Then, we can say "Alice is student" like so:
 
     - アリスが学生だ
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     アリスが | 学生だ
 
-    But if we are asking the question "Who is the student?", that means we don't know what is inside the main wagon "A". It means that the main wagon "A" is unknown. To illustrate:
+    But if we are asking the question "Who is the student?", that means we don't know what is inside the main car "A". It means that the main car "A" is unknown. To illustrate:
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     ❓ が | 学生
 
-    So, all we need to do is put 「誰」 in the main wagon. The question now becomes:
+    So, all we need to do is put 「誰」 in the main car. The question now becomes:
 
     - 誰が学生？
 
     *Who is student?*
 
-    Makes sense right? The 「が」 particle marks the main wagon "A". It marks the subject. It marks the doer. It tells us *who*/*what* is doing/being "B". But didn't we say earlier that the particle 「が」 is the **identifier particle**?. That's right. The particle 「が」 marks the main wagon "A", therefore it tells us *who*/*what* is doing/being "B". It **identifies** "A" for us.
+    Makes sense right? The 「が」 particle marks the main car "A". It marks the subject. It marks the doer. It tells us *who*/*what* is doing/being "B". But didn't we say earlier that the particle 「が」 is the **identifier particle**?. That's right. The particle 「が」 marks the main car "A", therefore it tells us *who*/*what* is doing/being "B". It **identifies** "A" for us.
 
     Let's look at an example:
 
@@ -154,7 +154,7 @@ Let's see the difference between 「は」 and 「が」 again, but not from the
         <th colspan="2" style="text-align: center">私は 🏳️</th>
       </tr>
       <tr>
-        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">Main car "A"</th>
         <th style="text-align: center">Engine "B"</th>
       </tr>
       <tr>
@@ -164,6 +164,11 @@ Let's see the difference between 「は」 and 「が」 again, but not from the
     </table>
 
     The 「が」 particle identifies a specific entity as *the* thing while the 「は」 particle is used only to bring up a new topic of conversation. This is why, in longer sentences, it is common to separate the topic with commas to remove ambiguity about which part of the sentence the topic applies to.
+
+    https://twitter.com/uni_Kayafu_/status/1135718991261970432?s=19
+
+    まふくんが！？午前中に！？今日はなにか良いことがあるかもしれませんね！おはようございます！！
+    
 #### Mark the same thing
 
 First, let's look at the scenario when the topic (marked by は) and the subject (marked by が) are the same thing.
@@ -360,7 +365,7 @@ Note: 「本」（ほん）＝ book
 2. 私は本を買った。
 3. 私が本を買った。
 
-In the **first sentence**, it doesn't put any particular emphasis on anything; it's just saying, neutrally, "I bought a book". (Remember that in Japanese, omitting the main wagon "A" is allowed)
+In the **first sentence**, it doesn't put any particular emphasis on anything; it's just saying, neutrally, "I bought a book". (Remember that in Japanese, omitting the main car "A" is allowed)
 
 If we choose to stress "I" as the topic and say the **second sentence**, we're changing the topic to "I" and saying that "I bought a book". The particle 「は」, aside from marking something as the topic, it also implies that the "*comment*" on said topic is different from the comment on "old topics" or on "other topics" (we learned this in the section about 「は」 vs 「も」). In other words, we are implying:
 
@@ -385,7 +390,7 @@ While the second sentence is implicitly answering the question "What did I do?",
     2. 私はØが本を買った。
     3. Øは私が本を買った。
 
-    Japanese grammar allows you to omit the topic or the subject (main wagon "A") or both. In fact the only component needed to make a complete and proper sentence is the engine "B". This means that, when we choose to explicitly say the topic or the subject out loud, we do so because we want to say it with a certain nuance, or with a certain emphasis.
+    Japanese grammar allows you to omit the topic or the subject (main car "A") or both. In fact the only component needed to make a complete and proper sentence is the engine "B". This means that, when we choose to explicitly say the topic or the subject out loud, we do so because we want to say it with a certain nuance, or with a certain emphasis.
 
 #### Mark different things
 
@@ -706,6 +711,11 @@ http://www.ritsumei.ac.jp/acd/cg/lt/rb/633/633PDF/sano.pdf
 
 ② 次に来る述語が表す動作・作用の状態や内容・名称を示すのに使う。
 ＃ 動作・作用が加わって転化した結果を示す。「戦禍をこうむって流民—なる」「日取りを来月３日—決定した」「これ—限った話ではない」「石—化す」「人間—生まれた以上は」「だらしない人間—は見えないが」＃(２)(ア)は一般に「に」でも表せるが、「に」がその帰結を全く自然だととらえた表現なのに対して、「と」は多少とも意外またはあえて言うという気持を伴う。
+
+に似てる
+と似てる
+
+Saying "merge fix into master" is not the same as "merge master into fix"
 
 ### 「を」 vs 「から」
 

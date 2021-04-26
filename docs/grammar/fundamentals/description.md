@@ -27,7 +27,7 @@ We can make these descriptions as long as we want to. Example:
 
 Notice that the core of the sentence is just:
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 アリスが | 笑ってる
 Alice | is smiling
@@ -67,7 +67,7 @@ Let's look at some examples in sentences:
 
 - ==泣いてる== さくらが悲しい。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==泣いてる== さくらが | 悲しい
 
@@ -81,7 +81,7 @@ Notice how we are using the verb "cry" to describe the noun "Sakura".
 
 - ==運動した== 女の子が休んでる。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==運動した== 女の子が | 休んでる
 
@@ -95,7 +95,7 @@ Notice how we are using the verb "exercise" to describe the noun "Sakura".
 
 - ==教科書を食べた== 犬がやんちゃだ。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==教科書を食べた== 犬が | やんちゃだ
 
@@ -142,7 +142,7 @@ Let's look at some examples in sentences:
 
 - ==激しい== 運動が危ない。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==激しい== 運動が | 危ない
 
@@ -152,7 +152,7 @@ Main wagon "A" | Engine "B"
 
 - ==優しい== アリスが ==可愛い== 女の子だ。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==優しい== アリスが | ==可愛い== 女の子だ
 
@@ -162,7 +162,7 @@ Main wagon "A" | Engine "B"
 
 - ==白い== 馬が走る。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==白い== 馬が | 走る
 
@@ -205,7 +205,7 @@ Let's look at some examples in sentences:
 
 - ==有名== な女優が来る。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==有名== な女優が | 来る
 
@@ -217,7 +217,7 @@ In this sentence, 「有名」 means "famous", 「女優」 means "actress", 「
 
 - ==静か== な町が素晴らしい。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==静か== な町が | 素晴らしい
 
@@ -229,7 +229,7 @@ In this sentence, 「静か」 means "quiet / peaceful", 「町」 means "town",
 
 - ==真面目== なトムが医者だ。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 ==真面目== なトムが | 医者だ
 

@@ -9,24 +9,24 @@
 
 ## Subject-Object Structure
 
-Every Japanese sentence at its core is composed of two elements: "A" and "B". Let's imagine these elements as part of a train, where "A" is the **main wagon** and "B" is the **engine**:
+Every Japanese sentence at its core is composed of two elements: "A" and "B". Let's imagine these elements as part of a train, where "A" is the **main car** and "B" is the **engine**:
 
 ![](../../img/fundamentals/train.png)
 
 We will visualize the train as the following table moving forward:
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 - | -
 
-The engine "B" tells us **what the main wagon "A" is doing**. The main wagon "A" tells us **WHO or WHAT is doing engine "B"**. For example:
+The engine "B" tells us **what the main car "A" is doing**. The main car "A" tells us **WHO or WHAT is doing engine "B"**. For example:
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 You | are a student
 You | eat breakfast
 
-We can add more wagons to the train to convey more information, such as:
+We can add more cars to the train to convey more information, such as:
 
 - Where did you eat breakfast?
 - What time did you eat breakfast?
@@ -37,9 +37,9 @@ but the **core** of the train will always be "A" and "B". This train is what we 
 
 ## Topic-Comment Structure
 
-We learned in the previous section about Subject-Object Structure, which consists of two core elements: the main wagon "A" and the engine "B".
+We learned in the previous section about Subject-Object Structure, which consists of two core elements: the main car "A" and the engine "B".
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 - | -
 
@@ -57,7 +57,7 @@ The important point here is that the "Comment" part is actually the *Subject-Obj
     <th colspan="2" style="text-align: center; border: 1px solid black">Comment</td>
   </tr>
   <tr>
-    <th style="text-align: center; border: 1px solid black">Main wagon "A"</th>
+    <th style="text-align: center; border: 1px solid black">Main car "A"</th>
     <th style="text-align: center; border: 1px solid black">Engine "B"</th>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ The important point here is that the "Comment" part is actually the *Subject-Obj
   </tr>
 </table>
 
-Notice that I've depicted the topic as a flag 🏳️. If the "Comment" is the "train" (main wagon "A" + engine "B"), then the "Topic" is like a flag in this analogy. The flag is not part of the train. The flag simply tells us the topic of the sentence/train.
+Notice that I've depicted the topic as a flag 🏳️. If the "Comment" is the "train" (main car "A" + engine "B"), then the "Topic" is like a flag in this analogy. The flag is not part of the train. The flag simply tells us the topic of the sentence/train.
 
 A simpler visualization can be represented as following table:
 
@@ -76,7 +76,7 @@ A simpler visualization can be represented as following table:
     <th colspan="2" style="text-align: center; border: 1px solid black">Topic 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center; border: 1px solid black">Main wagon "A"</th>
+    <th style="text-align: center; border: 1px solid black">Main car "A"</th>
     <th style="text-align: center; border: 1px solid black">Engine "B"</th>
   </tr>
   <tr>
@@ -84,6 +84,10 @@ A simpler visualization can be represented as following table:
     <td style="text-align: center; border: 1px solid black"> - </td>
   </tr>
 </table>
+
+This is what our train looks like now:
+
+![](../../img/fundamentals/train_with_flag.png)
 
 !!! question "Why is it important to make the distinction between the two structures?"
     English is a subject-prominent language, but Japanese is a topic-prominent language. This difference in prominence is one of the reasons why a lot of people who learn Japanese whose native language is English, struggle to understand the difference between the particle 「は」 and the particle 「が」. We will learn more about particles in a later section.

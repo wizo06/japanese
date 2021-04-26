@@ -14,9 +14,12 @@ If you have any question about the content itself ("I don't understand your expl
 
 ## New grammar
 
-If there's a grammar that you want me to include in the guide:
+!!! warning "Work in Progress"
+    This guide is still a work in progress. I will be adding more grammar whenever I get around to it.
 
-- Open a new "**discussion**" in [GitHub](https://github.com/wizo06/japanese/discussions) under the category "**Ideas**"
+~~If there's a grammar that you want me to include in the guide:~~
+
+- ~~Open a new "**discussion**" in [GitHub](https://github.com/wizo06/japanese/discussions) under the category "**Ideas**"~~
 
 ## Other
 

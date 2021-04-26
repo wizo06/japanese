@@ -34,7 +34,7 @@ We can finally put the knowledge from Sentence Structures into use. As a reminde
     <th colspan="2" style="text-align: center; border: 1px solid black">Topic 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center; border: 1px solid black">Main wagon "A"</th>
+    <th style="text-align: center; border: 1px solid black">Main car "A"</th>
     <th style="text-align: center; border: 1px solid black">Engine "B"</th>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ To visualize this, here's how it looks by using our train analogy:
     <th colspan="2" style="text-align: center">私は 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
+    <th style="text-align: center">Main car "A"</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -79,14 +79,14 @@ To visualize this, here's how it looks by using our train analogy:
   </tr>
 </table>
 
-The full sentence in Japanese is 「私はØが日本人だ」. The zero pronoun (Ø) means "I" in this context (we learned this in the "Invisible main wagon "A" section). We marked 「私」 as the topic of our sentence by attaching the 「は」 particle to it. That same sentence in English would be:
+The full sentence in Japanese is 「私はØが日本人だ」. The zero pronoun (Ø) means "I" in this context (we learned this in the "Invisible main car "A" section). We marked 「私」 as the topic of our sentence by attaching the 「は」 particle to it. That same sentence in English would be:
 
 <table>
   <tr>
     <th colspan="2" style="text-align: center">As for me 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
+    <th style="text-align: center">Main car "A"</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -95,22 +95,22 @@ The full sentence in Japanese is 「私はØが日本人だ」. The zero pronoun
   </tr>
 </table>
 
-Now, you might ask yourself, "Isn't this overcomplicated? Can't we just pretend that 「私は」 is the main wagon "A" and translate the sentence as simply "I am Japanese?". The answer is **NO**. Although it works in this example sentence, it doesn't work in every case and that's why you shouldn't do it. When you run into sentences where "pretending that 「は」 is the main wagon" doesn't work, now you suddenly can't understand the sentence and you get lost.
+Now, you might ask yourself, "Isn't this overcomplicated? Can't we just pretend that 「私は」 is the main car "A" and translate the sentence as simply "I am Japanese?". The answer is **NO**. Although it works in this example sentence, it doesn't work in every case and that's why you shouldn't do it. When you run into sentences where "pretending that 「は」 is the main car" doesn't work, now you suddenly can't understand the sentence and you get lost.
 
-To illustrate why you shouldn't pretend that the topic is the main wagon, let's take a look at the following sentence:  
+To illustrate why you shouldn't pretend that the topic is the main car, let's take a look at the following sentence:  
 
 *A group of friends are dining at a restaurant, and one person tells the waiter:*
 
 - 私は魚だ
 
-The joke is that the person has literally said "I am a fish". After all, if 「私は日本人だ」 means "I am Japanese", then 「私は魚だ」 must mean "I am a fish", right? That makes perfect sense, except that 「私は日本人だ」 doesn't actually mean "I am Japanese"; it means "As for me, (I) am Japanese". This is why it is important to not pretend that the "topic" is the main wagon "A". If we look at the train for 「私は日本人だ」:
+The joke is that the person has literally said "I am a fish". After all, if 「私は日本人だ」 means "I am Japanese", then 「私は魚だ」 must mean "I am a fish", right? That makes perfect sense, except that 「私は日本人だ」 doesn't actually mean "I am Japanese"; it means "As for me, (I) am Japanese". This is why it is important to not pretend that the "topic" is the main car "A". If we look at the train for 「私は日本人だ」:
 
 <table>
   <tr>
     <th colspan="2" style="text-align: center">私は 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
+    <th style="text-align: center">Main car "A"</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ The joke is that the person has literally said "I am a fish". After all, if 「�
     <th colspan="2" style="text-align: center">私は 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
+    <th style="text-align: center">Main car "A"</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -141,6 +141,13 @@ where Ø means "it". What is "it"? "It" is the thing we are talking about: *what
 
 Or in normal English, we would say "I'll have the fish" or "I'll go with the fish".
 
+Another similar example:
+
+おはようみんな。我、めずらしく午前中の目覚め。
+
+まふくんおはようございます～
+我は学校です。
+
 To better understand what the topic particle **does** and what it **doesn't do**, let's look at another example sentence without 「は」.
 
 Note: 「投げる」(なげる) means "throw"  
@@ -148,7 +155,7 @@ Note: 「投げる」(なげる) means "throw"
 
 - 私がボールをさくらに投げる
 
-Main wagon "A" | Wagon 「を」 | Wagon 「に」 | Engine "B"
+Main car "A" | car 「を」 | car 「に」 | Engine "B"
 :---: | :---: | :---: | :---:
 私が | ボールを | さくらに | 投げる
 
@@ -166,9 +173,9 @@ Now that we've seen how those particles can affect the "role" of a word, let's i
     <th colspan="4" style="text-align: center">私は 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
-    <th style="text-align: center">Wagon 「に」</th>
-    <th style="text-align: center">Wagon 「を」</th>
+    <th style="text-align: center">Main car "A"</th>
+    <th style="text-align: center">car 「に」</th>
+    <th style="text-align: center">car 「を」</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -190,9 +197,9 @@ We can give the flag to the "ball" instead:
     <th colspan="4" style="text-align: center">ボールは 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
-    <th style="text-align: center">Wagon 「に」</th>
-    <th style="text-align: center">Wagon 「を」</th>
+    <th style="text-align: center">Main car "A"</th>
+    <th style="text-align: center">car 「に」</th>
+    <th style="text-align: center">car 「を」</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -213,7 +220,7 @@ Notice how the logical meaning of the sentence doesn't change at all. Let us rem
     <th colspan="4" style="text-align: center; border: 1px solid black">Comment</td>
   </tr>
   <tr>
-    <th style="text-align: center; border: 1px solid black">Main wagon</th>
+    <th style="text-align: center; border: 1px solid black">Main car</th>
     <th style="text-align: center; border: 1px solid black">「に」</th>
     <th style="text-align: center; border: 1px solid black">「を」</th>
     <th style="text-align: center; border: 1px solid black">Engine "B"</th>
@@ -255,7 +262,7 @@ Example:
         <th colspan="2" style="text-align: center">私も 🏳️</th>
       </tr>
       <tr>
-        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">Main car "A"</th>
         <th style="text-align: center">Engine "B"</th>
       </tr>
       <tr>
@@ -349,7 +356,7 @@ Just like 「は」, 「も」 doesn't change the logical meaning of the sentenc
 
 - 私がさくらにボールを投げる
 
-Main wagon "A" | Wagon 「を」 | Wagon 「に」 | Engine "B"
+Main car "A" | car 「を」 | car 「に」 | Engine "B"
 :---: | :---: | :---: | :---:
 私が | ボールを | さくらに | 投げる
 
@@ -364,9 +371,9 @@ Now, let's add the 「も」 flag.
     <th colspan="4" style="text-align: center">私も 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
-    <th style="text-align: center">Wagon 「に」</th>
-    <th style="text-align: center">Wagon 「を」</th>
+    <th style="text-align: center">Main car "A"</th>
+    <th style="text-align: center">car 「に」</th>
+    <th style="text-align: center">car 「を」</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -398,9 +405,9 @@ We can even give the flag to the "ball".
     <th colspan="4" style="text-align: center">ボールも 🏳️</th>
   </tr>
   <tr>
-    <th style="text-align: center">Main wagon "A"</th>
-    <th style="text-align: center">Wagon 「に」</th>
-    <th style="text-align: center">Wagon 「を」</th>
+    <th style="text-align: center">Main car "A"</th>
+    <th style="text-align: center">car 「に」</th>
+    <th style="text-align: center">car 「を」</th>
     <th style="text-align: center">Engine "B"</th>
   </tr>
   <tr>
@@ -418,7 +425,7 @@ This means "As for the ball too, I throw (it) at Sakura". Again, the logical mea
 Case marking particles (格助詞) are particles that mark the role of a word in a sentence. This "role" defines the relationship between the word itself and the engine. 
 
 !!! danger "REPEAT AFTER ME"
-    **Case marking particles define the relationship between the word that they are marking and the Engine.** 
+    Case marking particles define the relationship between the word that they are marking and **the Engine**.
     
     If the engine is 「食べる」(eat), then we can answer the following questions by simply looking at the case marking particles:
 
@@ -433,24 +440,24 @@ Each case marking particle has **more than one function**. We will learn only th
 
 ### 「が」
 
-???+ info "Function 1: Marks the subject (main wagon "A") of the sentence"
+???+ info "Function 1: Marks the subject (main car "A") of the sentence"
     **Example 1**
 
     - ==雨が== 降る  
     ==Rain== falls
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     ==雨が== | 降る
 
-    「が」 marks the subject of the sentence. In other words, it marks the main wagon "A". It marks the *doer*. It tells us *who* or *what* is doing the action of engine "B". Here, the engine "B" is the verb 「降る」(fall). What is falling? Rain is falling.
+    「が」 marks the subject of the sentence. In other words, it marks the main car "A". It marks the *doer*. It tells us *who* or *what* is doing the action of engine "B". Here, the engine "B" is the verb 「降る」(fall). What is falling? Rain is falling.
 
     **Example 2**
 
     - ==りんごが== 美味しい  
     ==Apple== is delicious
 
-    Main wagon "A" | Engine "B"
+    Main car "A" | Engine "B"
     :---: | :---:
     ==りんごが== | 美味しい  
 
@@ -466,7 +473,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==水を== 飲む  
     Drink ==water==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==水を== | 飲む
     
@@ -477,7 +484,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==映画を== 見る  
     Watch ==movie==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==映画を== | 見る  
     
@@ -488,7 +495,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==ケーキを== 作る  
     Make ==cake==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==ケーキを== | 作る  
 
@@ -500,7 +507,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==階段を== 上がる  
     Go up ==the stairs==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==階段を== | 上がる  
 
@@ -511,7 +518,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==階段を== 降りる  
     Go down ==the stairs==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==階段を== | 降りる
 
@@ -522,7 +529,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==空を== 飛ぶ  
     Fly ==in the sky==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==空を== | 飛ぶ
 
@@ -533,7 +540,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==公園を== 散歩する  
     Take a walk ==in the park==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==公園を== | 散歩する
 
@@ -544,7 +551,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==山道を== 登る  
     Climb ==mountain path==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==山道を== | 登る
 
@@ -575,7 +582,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==電車を== 降りる  
     Get off ==train==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==電車を== | 降りる
 
@@ -586,7 +593,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==家を== 出る  
     Leave ==house==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==家を== | 出る
 
@@ -597,7 +604,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==席を== 離れる  
     Leave ==seat==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==席を== | 離れる
 
@@ -608,7 +615,7 @@ The kana 「を」 is normally pronounced as 「を」, but when it's used as a 
     - ==脇道を== 入る  
     Enter ==side road==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==脇道を== | 入る
 
@@ -626,7 +633,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==日本に== 住む  
     Live ==in Japan==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==日本に== | 住む
 
@@ -637,7 +644,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==机の上に== ノートがある  
     There is a notebook ==on the desk==
     
-    「に」 | Main wagon "A" | Engine "B"
+    「に」 | Main car "A" | Engine "B"
     :---: | :---: | :---:
     ==机の上に== | ノートが | ある
 
@@ -648,7 +655,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==冷蔵庫の中に== 牛乳がある  
     There is milk ==inside the fridge==
 
-    「に」 | Main wagon "A" | Engine "B"
+    「に」 | Main car "A" | Engine "B"
     :---: | :---: | :---:
     ==冷蔵庫の中に== | 牛乳が | ある
 
@@ -664,7 +671,7 @@ The particle 「に」 also has many functions. I personally like to think of th
         <th colspan="4" style="text-align: center">先生は 🏳️</th>
       </tr>
       <tr>
-        <th style="text-align: center">Main wagon "A"</th>
+        <th style="text-align: center">Main car "A"</th>
         <th style="text-align: center">「に」</th>
         <th style="text-align: center">Engine "B"</th>
       </tr>
@@ -682,7 +689,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==あそこに== 座ってる  
     Sitting ==over there==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==あそこに== | 座ってる
 
@@ -694,7 +701,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==五時に== 起きる  
     Wake up ==at five o'clock==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==五時に== | 起きる
 
@@ -705,7 +712,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - 鈴木さんが ==最後に== 食べた  
     Suzuki ate ==last==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     鈴木さんが | ==最後に== | 食べた
 
@@ -716,7 +723,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==月曜に== 宿題をやる  
     Do homework ==on Monday==
 
-    Main wagon "A" | 「に」 | 「を」 | Engine "B"
+    Main car "A" | 「に」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø が | ==月曜に== | 宿題を | やる
 
@@ -725,13 +732,24 @@ The particle 「に」 also has many functions. I personally like to think of th
     **Example 4**
 
     - ==ゲームをセーブした後に== 寝る  
-    (I) sleep ==after (I) save the game==.
+    (I) sleep ==after (I) save the game==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==ゲームをセーブした後に== | 寝る
 
-    The engine is 「寝る」(sleep), and we want to express the order in which we will do things. We will go to sleep *after* we save the game.
+    The engine is 「寝る」(sleep), and we want to express the order in which we will do things. We will go to sleep *after*(後) we save the game.
+
+    **Example 5**
+
+    - ==寝る前に== 歯磨きする  
+    (I) brush teeth ==before (I) sleep==
+
+    Main car "A" | 「に」 | Engine "B"
+    :---: | :---: | :---:
+    Ø が | ==寝る前に== | 歯磨きする
+
+    The engine is 「歯磨きする」(brush teeth), and we want to express the order in which we will do things. We will brush our teeth *before*(前) we go to sleep.
 
     !!! warning
         「に」 can only be used with **specific time**, and NOT **relative time**.
@@ -766,7 +784,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==学校に== 行く    
     Go ==to school==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==学校に== | 行く
 
@@ -777,7 +795,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==家に== 帰る  
     Go back ==home==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==家に== | 帰る
 
@@ -788,7 +806,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==日本に== 帰る  
     Go back ==home==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==日本に== | 帰る
 
@@ -799,7 +817,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==山に== 登る  
     Climb ==mountain==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==山に== | 登る
 
@@ -810,7 +828,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==電車に== 乗る  
     Get on ==train==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==電車に== | 乗る
 
@@ -821,7 +839,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==駅に== 着いた  
     Arrived at ==station==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==駅に== | 着いた
 
@@ -835,7 +853,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==友達に== 花をあげる  
     Give flowers ==to friend==
 
-    Main wagon "A" | 「に」 |  「を」 | Engine "B"
+    Main car "A" | 「に」 |  「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø が | ==友達に== | 花を | あげる
 
@@ -846,7 +864,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==神に== 誓う  
     Pray to ==God==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==神に== | 誓う
 
@@ -857,7 +875,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==友達に== 話す  
     Talk ==to friend==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==友達に== | 話す
 
@@ -868,7 +886,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==弟に== 数学を教える  
     Teach math ==to little brother==
 
-    Main wagon "A" | 「に」 | 「を」 | Engine "B"
+    Main car "A" | 「に」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø が | ==弟に== | 数学を | 教える 
 
@@ -879,7 +897,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==読書に== 熱中する  
     Passionate about ==reading==
     
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==読書に== | 熱中する
 
@@ -892,7 +910,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==友達に== 会う  
     Meet ==friend==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==友達に== | 会う
 
@@ -903,7 +921,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==君の意見に== 賛成する  
     Agree with ==your opinion==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==君の意見に== | 賛成する
 
@@ -915,7 +933,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - 私が ==母に== 似ている  
     I resemble ==mother==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     私が | ==母に== | 似ている
 
@@ -926,7 +944,7 @@ The particle 「に」 also has many functions. I personally like to think of th
     - ==海に== 近い  
     Close to ==sea==
 
-    Main wagon "A" | 「に」 | Engine "B"
+    Main car "A" | 「に」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==海に== | 近い
 
@@ -942,7 +960,7 @@ The particle 「へ」 also has many functions that resembles the particle 「�
     - ==南へ== 向かう  
     Head towards ==south==
 
-    Main wagon "A" | 「へ」 | Engine "B"
+    Main car "A" | 「へ」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==南へ== | 向かう
 
@@ -953,7 +971,7 @@ The particle 「へ」 also has many functions that resembles the particle 「�
     - ==東へ== 進む  
     Advance towards ==east==
 
-    Main wagon "A" | 「へ」 | Engine "B"
+    Main car "A" | 「へ」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==東へ== | 進む
 
@@ -971,12 +989,12 @@ The particle 「へ」 also has many functions that resembles the particle 「�
 
     Now, if we change the 「母」 part into 「母へ」, then that means "targeted at mother". So, if we take 「母へ」 and use it to describe 「手紙」」, then it will become 「==母へ==」+「の」+「{++手紙++}」 → 「==母へ== の{++手紙++}」: "==targeted at mother== {++letter++}". Or in normal English: "a letter to mother" or "a letter for mother". The letter is not *from mother*; the letter is *targeted at mother*.
 
-    We can change this into a sentence (main wagon "A" + engine "B") to better understand what's going on:
+    We can change this into a sentence (main car "A" + engine "B") to better understand what's going on:
 
     - 私が ==母へ== 手紙を書いた
     - 私が ==母に== 手紙を書いた
 
-    Main wagon "A" | 「へ」 or 「に」 | 「を」 | Engine "B"
+    Main car "A" | 「へ」 or 「に」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     私が | ==母へ== | 手紙を | 書いた
     私が | ==母に== | 手紙を | 書いた
@@ -1021,7 +1039,7 @@ The particle 「へ」 also has many functions that resembles the particle 「�
     - ==彼女へ== のプレゼントを買った  
     Bought a gift ==for girlfriend==
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==彼女へ== のプレゼントを | 買った
 
@@ -1049,7 +1067,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==教室で== 勉強する  
     Study in ==classroom==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==教室で== | 勉強する
 
@@ -1060,7 +1078,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==映画館で== 映画を⾒た。  
     *Saw a movie at the ==movie theater==* 
 
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
+    Main car "A" | 「で」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø | ==映画館で== | 映画を | 見た
 
@@ -1072,7 +1090,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==自転車で== 行く  
     Go by ==bike==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==自転車で== | 行く
 
@@ -1083,7 +1101,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
      - ==鉛筆で== 書く  
     Write with ==pencil==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==鉛筆で== | 書く
 
@@ -1094,7 +1112,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==ラジオで== 話を聞いた  
     Heard the story on the ==radio==
 
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
+    Main car "A" | 「で」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø | ==ラジオで== | 話を | 聞いた
 
@@ -1105,7 +1123,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==米で== 酒を作る  
     Make Sake out of ==rice==
 
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
+    Main car "A" | 「で」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø | ==米で== | 酒を | 作る
 
@@ -1116,7 +1134,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==紙で== 飛行機を作る  
     Make airplane out of ==paper==
 
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
+    Main car "A" | 「で」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø | ==紙で== | 飛行機を | 作る
 
@@ -1128,7 +1146,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==大声で== 叫ぶ  
     Shout with ==loud voice==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==大声で== | 叫ぶ
 
@@ -1139,7 +1157,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==急ぎ足で== 歩く  
     Walk with ==fast pace==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==急ぎ足で== | 歩く
 
@@ -1150,7 +1168,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==裸足で== 出かける  
     Go out ==barefoot==
 
-    Main wagon "A" | 「で」 | Engine "B"
+    Main car "A" | 「で」 | Engine "B"
     :---: | :---: | :---:
     Ø | ==裸足で== | 出かける
 
@@ -1161,7 +1179,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==千円で== 釣りをください  
     Please give me my change in ==bills of 1000 yen==
 
-    Main wagon "A" | 「で」 | 「を」 | Engine "B"
+    Main car "A" | 「で」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø | ==千円で== | 釣りを | ください
 
@@ -1177,7 +1195,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - 机の上に本がある  
     There is a book on the desk
 
-    「に」 | Main wagon "A" | Engine "B"
+    「に」 | Main car "A" | Engine "B"
     :---: | :---: | :---:
     机の上に | 本が | ある
 
@@ -1194,9 +1212,9 @@ The particle 「で」 also has many functions, which I like to summarize as the
     :---: | :---:
     本と | ペンと
 
-    Next, 「本とペンと」(book and pen) are the things that are on the desk. In other words "book and pen" is the main wagon "A".
+    Next, 「本とペンと」(book and pen) are the things that are on the desk. In other words "book and pen" is the main car "A".
 
-    「に」 | Main wagon "A" | Engine "B"
+    「に」 | Main car "A" | Engine "B"
     :---: | :---: | :---:
     机の上に | ==本と== ==ペンと== が | ある
 
@@ -1207,7 +1225,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
 
     Again, 「本とペンと」 means "book and pen". The engine here is 「買う」(buy). What are the things that we are buying? Book and pen. Therefore "book and pen" has to be marked by 「を」(function #1 of 「を」):
 
-    Main wagon "A" | 「を」 | Engine "B"
+    Main car "A" | 「を」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==本と== ==ペンと== を | 買う
 
@@ -1237,7 +1255,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==花子と== 結婚する  
     (I) marry ==Hanako==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==花子と== | 結婚する
 
@@ -1248,7 +1266,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==太郎と== 戦う  
     Fight against ==Tarou==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==太郎と== | 戦う
 
@@ -1262,7 +1280,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==花さんと== 勉強する  
     Study ==with Hanako==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==花さんと== | 勉強する
 
@@ -1273,7 +1291,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==友達と== 買い物をする  
     Shop ==with friend==
 
-    Main wagon "A" | 「と」 | 「を」 | Engine "B"
+    Main car "A" | 「と」 | 「を」 | Engine "B"
     :---: | :---: | :---: | :---:
     Ø が | ==友達と== | 買い物を | する
 
@@ -1284,7 +1302,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==みんなと== 行く  
     Go ==with everyone==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==みんなと== | 行く
 
@@ -1371,7 +1389,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - ==以前と== 同じだ  
     (It) is the same as ==before==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     Ø が | ==以前と== | 同じだ
 
@@ -1382,7 +1400,7 @@ The particle 「で」 also has many functions, which I like to summarize as the
     - 考え方が ==君と== 違う  
     Way of thinking differs ==from you==
 
-    Main wagon "A" | 「と」 | Engine "B"
+    Main car "A" | 「と」 | Engine "B"
     :---: | :---: | :---:
     考え方が | ==君と== | 違う
 

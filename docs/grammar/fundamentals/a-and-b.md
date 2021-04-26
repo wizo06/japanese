@@ -1,34 +1,34 @@
 # "A" and "B"
 
-## Main wagon "A"
+## Main car "A"
 
 We learned in the "Sentence Structure" section about the core of a Japanese sentence:
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 - | -
 
 We also learned that:
 
-> The engine "B" tells us what the main wagon "A" is doing. The main wagon "A" tells us WHO or WHAT is doing engine "B".
+> The engine "B" tells us what the main car "A" is doing. The main car "A" tells us WHO or WHAT is doing engine "B".
 
-Now, let's learn a little bit more about the main wagon "A". Suppose we have these two sentences as examples:
+Now, let's learn a little bit more about the main car "A". Suppose we have these two sentences as examples:
 
 1. Sakura walks.
 2. Sakura is Japanese.
 
 If we put those sentences into the train analogy, they will look like this:
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 Sakura | walks
 Sakura | is Japanese
 
-In these two sentences, the engine is telling us that the main wagon "A" is doing: "walks" and "is Japanese", respectively. The main wagon "A" is telling us that the engine "B" is being done by: "Sakura".
+In these two sentences, the engine is telling us that the main car "A" is doing: "walks" and "is Japanese", respectively. The main car "A" is telling us that the engine "B" is being done by: "Sakura".
 
-However, in Japanese we need to mark "Sakura" as the main wagon "A". To do that, **we use the particle 「が」**. We attach 「が」 at the end of "Sakura" to mark "Sakura" as the main wagon "A", like so:
+However, in Japanese we need to mark "Sakura" as the main car "A". To do that, **we use the particle 「が」**. We attach 「が」 at the end of "Sakura" to mark "Sakura" as the main car "A", like so:
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 Sakura が | walks
 Sakura が | is Japanese
@@ -36,15 +36,15 @@ Sakura が | is Japanese
 !!! note
     We will learn more about particles in a later section.
 
-### Invisible main wagon "A"
+### Invisible main car "A"
 
 We already know that the core of a Japanese sentence is composed of:
 
-Main wagon "A"  | Engine "B"
+Main car "A"  | Engine "B"
 :---: | :---:
 - | -
 
-However, you can't always see both of them. **You can always see the engine "B", but sometimes you can't see the main wagon "A"**. Why not? Because the main wagon became an invisible wagon. Even though you can't see it, it's still there. What is the invisible wagon? In English, the closest equivalent is the word "*it*". Let's begin by examining what "*it*" does in English. Let's look at the following sentence:
+However, you can't always see both of them. **You can always see the engine "B", but sometimes you can't see the main car "A"**. Why not? Because the main car became an invisible car. Even though you can't see it, it's still there. What is the invisible car? In English, the closest equivalent is the word "*it*". Let's begin by examining what "*it*" does in English. Let's look at the following sentence:
 
 - The ball rolled down the hill. When the ball go to the bottom, the ball hit a sharp stone. The ball was punctured and all the air came out of the ball.
 
@@ -66,13 +66,13 @@ there's nothing confusing or difficult about this. The child meant
 
 - **I** got really hungry. **I** came down to eat something.
 
-In English, skipping the "I" is not a proper sentence, but in Japanese it is. All those English pronouns like "it", "she", "he", "I", "they", can be replaced by the invisible wagon "**the zero-pronoun (Ø)**" in Japanese. The important thing to remember is that the main wagon "A" is still there, but it's just invisible. 
+In English, skipping the "I" is not a proper sentence, but in Japanese it is. All those English pronouns like "it", "she", "he", "I", "they", can be replaced by the invisible car "**the zero-pronoun (Ø)**" in Japanese. The important thing to remember is that the main car "A" is still there, but it's just invisible. 
 
 Alright, let's look at how this is done in Japanese. Suppose we want to say:
 
 - I am Japanese.
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 I | am Japanese
 
@@ -80,7 +80,7 @@ To say that sentence in Japanese, it would be:
 
 - 私が日本人だ。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 私が | 日本人だ
 
@@ -88,7 +88,7 @@ However, it is a perfectly valid and proper sentence if we just say:
 
 - 日本人だ。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 Øが | 日本人だ
 
@@ -100,7 +100,7 @@ and the zero-pronoun can be assumed to be "I" in this context. The zero-pronoun,
 
 - うさぎだ!
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 Øが | うさぎだ!
 
@@ -110,7 +110,7 @@ In normal English, we would say "it is a rabbit!". What is "*it*"? Well, "*it*" 
 
 - 土曜日だ。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 Ø が | 土曜日だ
 
@@ -118,13 +118,13 @@ Main wagon "A" | Engine "B"
 
 Or in normal English, we would say "it is Saturday". What is "*it*"? "*It*" could mean "today". Or it could mean "tomorrow", or any other word, depending on the context.
 
-All these sentences are complete Japanese sentences, with two parts: 1. the main wagon "A", and 2. the engine "B". In each of these cases, the main wagon is invisible - but it's still there.
+All these sentences are complete Japanese sentences, with two parts: 1. the main car "A", and 2. the engine "B". In each of these cases, the main car is invisible - but it's still there.
 
-This might sound like unecessary emphasis on the fact that the main wagon is still there even though it's invisible. However, the importance of this emphasis will become more apparent as sentences become more complex. Without a good understanding of this concept, complex sentences are going to start sounding extremely vague and hard to understand.
+This might sound like unecessary emphasis on the fact that the main car is still there even though it's invisible. However, the importance of this emphasis will become more apparent as sentences become more complex. Without a good understanding of this concept, complex sentences are going to start sounding extremely vague and hard to understand.
 
 ## Linguistic words
 
-Before we learn about the engine "B", it'd be a lot easier for us to understand the engines if we first learn three basic linguistic words:
+Before we learn about the engine "B", it'd be a lot easier for us to understand the engines if we first learn the definition of three basic linguistic words:
 
 - Verb
 - Noun
@@ -175,7 +175,7 @@ Examples of nouns are:
 
 ### Adjective
 
-An adjective is a word that modifies a noun or noun phrase or describes its referent.
+An adjective is a word that expresses quality, property, or attribute of a noun.
 
 Examples of adjectives are:
 
@@ -193,15 +193,15 @@ Examples of adjectives are:
 
 First, we need to learn that there are three types of sentences. Each sentence type is an answer to an implicit question.
 
-1. What does "A" do?  
+1. Implicit question: What does "A" do?  
 Answer: "A" does "==B==".  
 Example: Flowers ==bloom==.
 
-2. What is "A"?  
+2. Implicit question: What is "A"?  
 Answer: "A" is "==B==".  
 Example: Flowers are ==plants==.
 
-3. What is "A" like?  
+3. Implicit question: What is "A" like?  
 Answer: "A" is "==B==".  
 Example: Flowers are ==pretty==.
 
@@ -290,17 +290,17 @@ An example sentence using the う-engine is:
 
 - Sakura walks.
 
-In this sentence, "A" is "Sakura" (the main wagon) and "B" is "walks" (the thing Sakura does; the engine of the sentence). In Japanese, "Sakura" is 「さくら」, and "walk" is「歩く」(あるく). To say **"Sakura walks"** in Japanese is:
+In this sentence, "A" is "Sakura" (the main car) and "B" is "walks" (the thing Sakura does; the engine of the sentence). In Japanese, "Sakura" is 「さくら」, and "walk" is「歩く」(あるく). To say **"Sakura walks"** in Japanese is:
 
 - さくらが歩く。
 
-Main wagon "A" | Engine "B"
+Main car "A" | Engine "B"
 :---: | :---:
 さくらが | 歩く
 
 Some more example sentences using the う-engine:
 
-Main wagon "A" | Engine "B" | English
+Main car "A" | Engine "B" | English
 :---: | :---: | :---:
 さくらが | 勉強する | Sakura studies
 アリスが | 泳ぐ | Alice swims
@@ -337,7 +337,7 @@ In Japanese, we use the hiragana 「だ」 as the copula (hence the name of this
 
 So, to say the previous two examples in Japanese, it would be:
 
-Main wagon "A" | Engine "B" | English
+Main car "A" | Engine "B" | English
 :---: | :---: | :---:
 花が | 植物 ==だ== | Flowers ==are== plants
 さくらが | 日本人 ==だ== | Sakura ==is== a Japanese person
@@ -354,7 +354,7 @@ As we saw earlier when we learned about the copula, the だ-engine is used in th
 
 Example sentences using the だ-engine, where "B" is a noun:
 
-Main wagon "A" | Engine "B" | English
+Main car "A" | Engine "B" | English
 :---: | :---: | :---:
 さくらが | 日本人だ。 | Sakura is a Japanese person.
 ボブが | 声優だ。 | Bob is a voice actor.
@@ -375,7 +375,7 @@ This type of "A is B" sentence is fundamentally different from the "A is B" that
 
 Example sentences using the だ-engine, but "B" is a na-adjective:
 
-Main wagon "A" | Engine "B" | English
+Main car "A" | Engine "B" | English
 :---: | :---: | :---:
 さくらが | 有名だ。 | Sakura is famous.
 街が | 静かだ。 | Street is quiet.
@@ -414,7 +414,7 @@ This engine is also used for "A is B" sentences where "B" is an adjective. More 
 
 Example sentences using the い-engine:
 
-Main wagon "A" | Engine "B" | English
+Main car "A" | Engine "B" | English
 :---: | :---: | :---:
 ペンが | 赤い。 | Pen is red.
 ビルが | 高い。 | Building is tall.
