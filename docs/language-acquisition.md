@@ -140,7 +140,7 @@ There are tons of Japanese grammar guides out there. You should find the easiest
 1. Avoid using linguistic terms. (However, it will help you a lot if you at least know some basic ones like nouns, adjectives, verbs, etc.) 
 2. Teach Japanese grammar in a more structured way that makes sense. When I say "structured way", I mean "building blocks". We start from zero, and every new grammar that we learn is built upon previous grammars.
 
-Unlike traditional textbooks, this grammar guide is not meant to teach you how to output. This guide is meant to be used IN TANDEM WITH INPUT. The goal of this guide is to help you UNDERSTAND what you are listening to and reading from.
+**Unlike traditional textbooks, this grammar guide is not meant to teach you how to output. This guide is meant to be used IN TANDEM WITH INPUT. The goal of this guide is to help you UNDERSTAND what you are listening to and reading from.**
 
 **How to use this guide**
 

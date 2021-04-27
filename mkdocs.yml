@@ -53,6 +53,7 @@ plugins:
   - search
 nav:
   - 'index.md'
+  # - 'temp.md'
   - Language Acquisition: 'language-acquisition.md'
   - Grammar Guide:
     - Fundamentals:
@@ -62,11 +63,12 @@ nav:
       - 'grammar/fundamentals/inflection.md'
       - 'grammar/fundamentals/particles.md'
       - 'grammar/fundamentals/word-order.md'
-    - Essential:
-      # - 'grammar/essential/index.md'
-      - 'grammar/essential/transitive-intransitive.md'
-      # - 'grammar/essential/more-particles.md'
-      # - 'grammar/essential/desire.md'
+    - Basic:
+      # - 'grammar/basic/index.md'
+      - 'grammar/basic/relative-clause.md'
+      - 'grammar/basic/transitive-intransitive.md'
+      # - 'grammar/basic/more-particles.md'
+      # - 'grammar/basic/desire.md'
     # - Advanced:
       # - 'grammar/advanced/5. Advanced Topics.md'
     # - Special Expressions:

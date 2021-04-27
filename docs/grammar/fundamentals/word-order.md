@@ -51,3 +51,5 @@ Now that we've learned about "description", "particle", and "word order", we can
 ![](../../img/fundamentals/word_order.jpg)
 
 Generally speaking, the interpretation #2 is the most likely one, where a word is modified directly by the word before it. Obviously, this isn't always going to be the case, but we can use context (and ruling out the absurd ones, like #3) to determine which interpretation it is.
+
+(*It's OK if you find it difficult to see and understand all interpretaions of the joke. After all, the joke itself is making fun of the word order of Japanese*)
